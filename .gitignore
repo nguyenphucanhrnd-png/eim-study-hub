@@ -1,0 +1,19 @@
+node_modules
+dist
+.fixtures
+*.local
+.DS_Store
+
+# Environment files (keep the template)
+.env
+.env.*
+!.env.example
+
+# Deployment / editor
+.vercel
+
+# Course slides are the lecturer's material — not published
+source-pdfs/
+
+# Local scratch file
+draft.py

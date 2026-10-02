@@ -1,0 +1,2858 @@
+[
+  {
+    "id": "C4-cargo-insurance-concept-001",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, cargo insurance provides:",
+    "options": [
+      {
+        "id": "a",
+        "text": "a guarantee that the buyer will pay for the goods"
+      },
+      {
+        "id": "b",
+        "text": "financial protection against loss of or damage to goods in transit caused by insured risks"
+      },
+      {
+        "id": "c",
+        "text": "protection against exchange-rate movements before payment"
+      },
+      {
+        "id": "d",
+        "text": "compensation for any loss of profit from late delivery"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Bảo hiểm hàng hóa: bảo vệ tài chính trước mất mát/hư hỏng hàng trong vận chuyển do rủi ro được bảo hiểm.",
+      "whyCorrect": "Slide định nghĩa bảo hiểm hàng hóa (cargo insurance) cung cấp sự bảo vệ tài chính trước việc mất mát hoặc hư hỏng hàng hóa trong quá trình vận chuyển do các rủi ro được bảo hiểm (insured risks) gây ra; đổi lại, người được bảo hiểm trả phí bảo hiểm (premium).",
+      "whyWrong": {
+        "a": "Bảo đảm người mua trả tiền gắn với phương thức thanh toán (như L/C), không phải bảo hiểm hàng hóa.",
+        "c": "Biến động tỷ giá là rủi ro tỷ giá, không thuộc phạm vi bảo vệ của bảo hiểm hàng hóa.",
+        "d": "Slide nói về mất mát, hư hỏng hàng do rủi ro được bảo hiểm, không phải lợi nhuận mất đi do giao chậm."
+      },
+      "source": "KB §4.2 – Marine (cargo) insurance"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-cargo-insurance-concept-002",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In return for the protection given by cargo insurance, the insured pays:",
+    "options": [
+      {
+        "id": "a",
+        "text": "an insurance premium"
+      },
+      {
+        "id": "b",
+        "text": "a general average contribution"
+      },
+      {
+        "id": "c",
+        "text": "a freight surcharge"
+      },
+      {
+        "id": "d",
+        "text": "a performance penalty"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Người được bảo hiểm trả phí bảo hiểm (premium) để được bảo vệ.",
+      "whyCorrect": "Theo slide, đổi lại sự bảo vệ của bảo hiểm hàng hóa, người được bảo hiểm (the insured) trả phí bảo hiểm (insurance premium); để có được bảo hiểm, người được bảo hiểm phải trả phí này. Theo bảng thuật ngữ, premium nghĩa là phí bảo hiểm.",
+      "whyWrong": {
+        "b": "Tổn thất chung (general average) là một loại tổn thất/chi phí trong bảng rủi ro, không phải khoản trả để mua bảo hiểm.",
+        "c": "Phụ phí cước là chi phí vận tải trả cho người chuyên chở, không phải khoản trả cho công ty bảo hiểm.",
+        "d": "Tiền phạt là nội dung của điều khoản Penalty trong hợp đồng mua bán, không liên quan đến bảo hiểm."
+      },
+      "source": "KB §4.2; §10 – Glossary (Premium)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-cargo-insurance-concept-003",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Cargo insurance is described on the slides as a contract of:",
+    "options": [
+      {
+        "id": "a",
+        "text": "carriage"
+      },
+      {
+        "id": "b",
+        "text": "guarantee"
+      },
+      {
+        "id": "c",
+        "text": "indemnity"
+      },
+      {
+        "id": "d",
+        "text": "agency"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bảo hiểm hàng hóa là hợp đồng bồi thường (contract of indemnity).",
+      "whyCorrect": "Slide nêu bảo hiểm hàng hóa là một hợp đồng bồi thường (contract of indemnity): người bảo hiểm đồng ý bồi thường cho người được bảo hiểm những mất mát hoặc hư hỏng hàng hóa trong vận chuyển do các rủi ro được bảo hiểm gây ra, như quy định trong đơn bảo hiểm.",
+      "whyWrong": {
+        "a": "Hợp đồng vận tải (contract of carriage) là quan hệ với người chuyên chở, được vận đơn làm bằng chứng.",
+        "b": "Slide không mô tả bảo hiểm hàng hóa là hợp đồng bảo lãnh; bảo lãnh gần với khái niệm standby L/C.",
+        "d": "Hợp đồng đại lý không phải cách slide mô tả bản chất của bảo hiểm hàng hóa."
+      },
+      "source": "KB §4.2 – Contract of indemnity"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-cargo-insurance-concept-004",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Under a contract of indemnity for cargo, the insurer agrees to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pay the buyer if the seller fails to deliver on time"
+      },
+      {
+        "id": "b",
+        "text": "guarantee the market price of the goods at destination"
+      },
+      {
+        "id": "c",
+        "text": "pay the freight if the carrier is not paid"
+      },
+      {
+        "id": "d",
+        "text": "compensate the insured for loss of or damage to goods in transit caused by insured risks, as specified in the policy"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Người bảo hiểm bồi thường cho người được bảo hiểm tổn thất/hư hỏng hàng trong vận chuyển do rủi ro được bảo hiểm.",
+      "whyCorrect": "Theo slide, trong hợp đồng bồi thường (contract of indemnity), người bảo hiểm (insurer) đồng ý bồi thường cho người được bảo hiểm (insured) những mất mát hoặc hư hỏng hàng hóa trong quá trình vận chuyển do các rủi ro được bảo hiểm gây ra, theo đúng quy định trong đơn bảo hiểm.",
+      "whyWrong": {
+        "a": "Giao hàng chậm là vấn đề hợp đồng mua bán, xử lý bằng điều khoản phạt, không phải bảo hiểm hàng hóa.",
+        "b": "Bảo hiểm hàng hóa không bảo đảm giá thị trường; nó bồi thường tổn thất do rủi ro được bảo hiểm.",
+        "c": "Trả cước cho người chuyên chở không phải nghĩa vụ của người bảo hiểm hàng hóa."
+      },
+      "source": "KB §4.2 – Contract of indemnity"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-cargo-insurance-concept-005",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A shipment is insured on ICC (C). During the voyage the cargo is damaged by fresh water, a peril not covered by the policy. Will the insurer compensate the insured?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because cargo insurance covers any loss during transit"
+      },
+      {
+        "id": "b",
+        "text": "No, because cargo insurance compensates only loss or damage caused by insured risks"
+      },
+      {
+        "id": "c",
+        "text": "Yes, because the insured has paid the premium"
+      },
+      {
+        "id": "d",
+        "text": "No, because indemnity is paid only for total losses"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Bảo hiểm chỉ bồi thường tổn thất do rủi ro được bảo hiểm; nước ngọt không thuộc ICC (C) → không bồi thường.",
+      "whyCorrect": "Định nghĩa trên slide giới hạn phạm vi bồi thường: người bảo hiểm bồi thường tổn thất hoặc hư hỏng do các rủi ro được bảo hiểm gây ra, như quy định trong đơn. Theo Bảng 6.2, nước ngọt (fresh water) chỉ được ICC (A) bảo hiểm; với ICC (C), đây không phải rủi ro được bảo hiểm nên không được bồi thường.",
+      "whyWrong": {
+        "a": "Bảo hiểm hàng hóa không bảo hiểm mọi tổn thất; chỉ các rủi ro được bảo hiểm theo đơn.",
+        "c": "Đã đóng phí là điều kiện để có bảo hiểm, nhưng không mở rộng phạm vi ra ngoài rủi ro được bảo hiểm.",
+        "d": "Slide nói bồi thường cả mất mát lẫn hư hỏng do rủi ro được bảo hiểm, không chỉ tổn thất toàn bộ."
+      },
+      "source": "KB §4.2; §4.5 – Table 6.2 (Fresh water)"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-cargo-insurance-concept-006",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which statement correctly uses the terms “premium” and “indemnity”?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The insurer pays the premium; the insured pays the indemnity after a loss"
+      },
+      {
+        "id": "b",
+        "text": "The premium and the indemnity are both paid by the carrier"
+      },
+      {
+        "id": "c",
+        "text": "The insured pays the premium; the insurer indemnifies the insured for losses caused by insured risks"
+      },
+      {
+        "id": "d",
+        "text": "The premium is paid only after a loss; the indemnity is paid in advance"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Người được bảo hiểm trả phí (premium); người bảo hiểm bồi thường (indemnity) tổn thất do rủi ro được bảo hiểm.",
+      "whyCorrect": "Slide mô tả hai chiều của hợp đồng bảo hiểm hàng hóa: người được bảo hiểm trả phí bảo hiểm (premium) để có được sự bảo vệ; đổi lại, theo hợp đồng bồi thường (contract of indemnity), người bảo hiểm bồi thường cho người được bảo hiểm những tổn thất do rủi ro được bảo hiểm gây ra.",
+      "whyWrong": {
+        "a": "Đảo ngược vai trò: người được bảo hiểm trả phí, còn người bảo hiểm mới là bên bồi thường.",
+        "b": "Người chuyên chở không phải bên trong hợp đồng bảo hiểm hàng hóa giữa người bảo hiểm và người được bảo hiểm.",
+        "d": "Phí bảo hiểm phải trả để có bảo hiểm, không phải sau tổn thất; bồi thường chỉ trả khi có tổn thất được bảo hiểm."
+      },
+      "source": "KB §4.2 – Marine insurance"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-cargo-insurance-concept-007",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "What does the indemnity principle imply about the amount the insurer pays when an insured loss occurs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The insurer compensates the insured for the loss or damage caused by the insured risks, as specified in the policy"
+      },
+      {
+        "id": "b",
+        "text": "The insurer pays the full insured amount whatever the size of the loss"
+      },
+      {
+        "id": "c",
+        "text": "The insurer pays the premium back to the insured"
+      },
+      {
+        "id": "d",
+        "text": "The insurer pays only if the carrier refuses to pay"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Bồi thường (indemnity) là bù đắp mất mát/hư hỏng do rủi ro được bảo hiểm theo quy định của đơn.",
+      "whyCorrect": "Slide định nghĩa bảo hiểm hàng hóa là hợp đồng bồi thường: người bảo hiểm bồi thường cho người được bảo hiểm mất mát hoặc hư hỏng do các rủi ro được bảo hiểm, như quy định trong đơn bảo hiểm. Nghĩa là khoản bồi thường gắn với tổn thất thực tế được bảo hiểm và các điều khoản của đơn.",
+      "whyWrong": {
+        "b": "Bồi thường gắn với mất mát/hư hỏng thực tế theo đơn, không phải luôn trả toàn bộ số tiền bảo hiểm.",
+        "c": "Hoàn phí bảo hiểm không phải bồi thường; bồi thường bù đắp tổn thất hàng hóa.",
+        "d": "Bảo hiểm không phụ thuộc người chuyên chở có trả hay không; người bảo hiểm bồi thường rồi mới thế quyền đòi bên có lỗi."
+      },
+      "source": "KB §4.2 – Contract of indemnity; §4.3 – Subrogation"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-cargo-insurance-concept-008",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Goods are sold “CIF Kobe, Japan – Incoterms® 2020”. Which party arranges the cargo insurance and pays the premium?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The buyer, because it bears the risk during the voyage"
+      },
+      {
+        "id": "b",
+        "text": "The carrier, because it is responsible for the goods in transit"
+      },
+      {
+        "id": "c",
+        "text": "The seller and the buyer, each paying half"
+      },
+      {
+        "id": "d",
+        "text": "The seller, because CIF obliges it to insure"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Theo CIF, người bán thu xếp và trả phí bảo hiểm (tối thiểu ICC (C)).",
+      "whyCorrect": "Theo bảng Incoterms và Điều 9 hợp đồng, dưới CIF và CIP người bán thu xếp và trả phí cho bảo hiểm hàng hóa. Theo CIF, mức tối thiểu là ICC (C). Dù người mua chịu rủi ro trong hành trình, nghĩa vụ mua bảo hiểm và trả phí vẫn thuộc người bán.",
+      "whyWrong": {
+        "a": "Người mua chịu rủi ro chặng chính theo CIF, nhưng nghĩa vụ mua bảo hiểm thuộc người bán.",
+        "b": "Người chuyên chở không có nghĩa vụ mua bảo hiểm hàng hóa theo Incoterms; nghĩa vụ đó thuộc người bán theo CIF.",
+        "c": "Incoterms không chia đôi phí bảo hiểm; theo CIF người bán chịu toàn bộ nghĩa vụ này."
+      },
+      "source": "KB §3.8 – CIF; §6.11 – Art. 9 Insurance"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-cargo-insurance-concept-009",
+    "chapter": "C4",
+    "topic": "cargo-insurance-concept",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A Vietnamese importer buys “FOB Shanghai – Incoterms® 2020” and wants financial protection for the goods during the sea voyage. Which statement is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No action is needed, because the seller must insure under FOB"
+      },
+      {
+        "id": "b",
+        "text": "The importer bears the risk from loading, so it may buy cargo insurance, pay the premium, and be indemnified for losses caused by insured risks"
+      },
+      {
+        "id": "c",
+        "text": "The carrier's freight includes cargo insurance, so the importer is already covered"
+      },
+      {
+        "id": "d",
+        "text": "The importer cannot insure, because it has no legal right in goods it has not yet received"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "FOB: người mua chịu rủi ro từ khi hàng lên tàu, không ai có nghĩa vụ bảo hiểm → người mua tự mua bảo hiểm (trả phí, được bồi thường).",
+      "whyCorrect": "Câu hỏi kết hợp C3, C4 và C6. Theo FOB, rủi ro chuyển cho người mua khi hàng ở trên tàu tại cảng bốc hàng và không bên nào có nghĩa vụ bảo hiểm; Điều 9 nêu bên chịu rủi ro có thể tự mua bảo hiểm. Khi mua bảo hiểm, người nhập khẩu trả phí (premium) và được bồi thường (indemnity) cho tổn thất do rủi ro được bảo hiểm.",
+      "whyWrong": {
+        "a": "FOB không đặt nghĩa vụ bảo hiểm cho người bán; chỉ CIF và CIP có nghĩa vụ này.",
+        "c": "Slide không nói cước vận tải bao gồm bảo hiểm hàng hóa; bảo hiểm là hợp đồng riêng với người bảo hiểm.",
+        "d": "Người mua chịu rủi ro từ khi hàng lên tàu nên có lợi ích tài chính đối với hàng; nó có thể mua bảo hiểm."
+      },
+      "source": "KB §3.8 – FOB; §4.2; §6.11 – Art. 9"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-icc-abc-001",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which Institute Cargo Clause provides the widest coverage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A)"
+      },
+      {
+        "id": "d",
+        "text": "All three give the same coverage"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "ICC (A) có phạm vi bảo hiểm rộng nhất; ICC (C) hẹp nhất.",
+      "whyCorrect": "Bảng so sánh ICC trên slide xếp phạm vi bảo hiểm: ICC (A) rộng nhất (widest), ICC (B) trung bình (medium), ICC (C) cơ bản/hẹp (basic/narrow). Về mức tương đối, A cao nhất, B trung bình, C thấp nhất. ICC (A) tiếp cận theo hướng bảo hiểm rộng, trừ các điểm loại trừ.",
+      "whyWrong": {
+        "a": "ICC (C) có phạm vi cơ bản, hẹp nhất – mức thấp nhất trong ba điều kiện.",
+        "b": "ICC (B) có phạm vi trung bình (medium): rộng hơn ICC (C) nhưng vẫn hẹp hơn ICC (A).",
+        "d": "Ba điều kiện có phạm vi khác nhau rõ rệt, như Bảng 6.2 thể hiện qua số rủi ro được bảo hiểm."
+      },
+      "source": "KB §4.4 – ICC (A), (B), (C)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-icc-abc-002",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How does the slide describe the approach of ICC (A)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Broad coverage, subject to exclusions (“all risks”)"
+      },
+      {
+        "id": "b",
+        "text": "Named perils, broader than C"
+      },
+      {
+        "id": "c",
+        "text": "Named perils, basic cover"
+      },
+      {
+        "id": "d",
+        "text": "Cover for total loss only"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "ICC (A): bảo hiểm rộng, trừ các điểm loại trừ (“all risks”).",
+      "whyCorrect": "Theo bảng ICC trên slide, cách tiếp cận của ICC (A) là bảo hiểm rộng, chỉ trừ các điểm loại trừ (broad coverage, subject to exclusions) – thường gọi là “all risks”. Ngược lại, ICC (B) và ICC (C) tiếp cận theo danh sách rủi ro được nêu tên (named perils).",
+      "whyWrong": {
+        "b": "“Named perils, broader than C” là cách tiếp cận của ICC (B), không phải ICC (A) với phạm vi rộng nhất.",
+        "c": "“Named perils” ở mức cơ bản, hẹp nhất là cách tiếp cận của ICC (C), không phải ICC (A).",
+        "d": "Slide không mô tả điều kiện nào chỉ bảo hiểm tổn thất toàn bộ; ICC (A) là điều kiện rộng nhất."
+      },
+      "source": "KB §4.4 – ICC approach"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-icc-abc-003",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "ICC (B) is described on the slides as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "all risks subject to exclusions, with the widest coverage"
+      },
+      {
+        "id": "b",
+        "text": "named perils, with medium coverage broader than ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "named perils, with the narrowest coverage"
+      },
+      {
+        "id": "d",
+        "text": "a traditional policy identical to All Risks"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "ICC (B): rủi ro được nêu tên, phạm vi trung bình, rộng hơn C.",
+      "whyCorrect": "Bảng ICC trên slide mô tả ICC (B) có phạm vi trung bình (medium coverage), tiếp cận theo rủi ro được nêu tên (named perils) nhưng rộng hơn ICC (C), và có mức tương đối trung bình giữa A và C.",
+      "whyWrong": {
+        "a": "“All risks” trừ loại trừ với phạm vi rộng nhất là đặc điểm của ICC (A).",
+        "c": "Rủi ro được nêu tên với phạm vi hẹp nhất là đặc điểm của ICC (C), không phải ICC (B).",
+        "d": "All Risks (AR) là điều kiện truyền thống tương ứng gần đúng với ICC (A), không phải ICC (B)."
+      },
+      "source": "KB §4.4 – ICC (A), (B), (C)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-icc-abc-004",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which Institute Cargo Clause has the lowest relative level of cover?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (A)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B)"
+      },
+      {
+        "id": "c",
+        "text": "All Risks"
+      },
+      {
+        "id": "d",
+        "text": "ICC (C)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "ICC (C) có mức bảo hiểm thấp nhất (basic/narrow, named perils).",
+      "whyCorrect": "Theo bảng so sánh, mức tương đối của ba điều kiện là: A – cao nhất, B – trung bình, C – thấp nhất. ICC (C) chỉ bảo hiểm các rủi ro được nêu tên ở mức cơ bản; theo Bảng 6.2, chủ yếu là 6 rủi ro “tai nạn lớn”.",
+      "whyWrong": {
+        "a": "ICC (A) có mức tương đối cao nhất và phạm vi rộng nhất trong ba điều kiện ICC.",
+        "b": "ICC (B) ở mức trung bình, rộng hơn ICC (C) nhờ bảo hiểm thêm bốn nhóm rủi ro.",
+        "c": "All Risks là điều kiện truyền thống rộng nhất, tương ứng gần đúng với ICC (A)."
+      },
+      "source": "KB §4.4 – Relative level"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-icc-abc-005",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "What is the practical difference between the “named perils” approach of ICC (B)/(C) and the “all risks” approach of ICC (A)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Under named perils, any loss is covered unless it is excluded"
+      },
+      {
+        "id": "b",
+        "text": "Under all risks, only the perils listed in the policy are covered"
+      },
+      {
+        "id": "c",
+        "text": "Under named perils, a loss is covered only if caused by a listed peril; under all risks, cover is broad subject to exclusions"
+      },
+      {
+        "id": "d",
+        "text": "There is no difference; the terms are interchangeable"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Named perils: chỉ bảo hiểm rủi ro được liệt kê; all risks: bảo hiểm rộng, trừ các điểm loại trừ.",
+      "whyCorrect": "Slide mô tả ICC (B) và (C) theo cách tiếp cận “named perils” – tức rủi ro được nêu tên – nên tổn thất chỉ được bảo hiểm khi do một rủi ro có trong danh sách gây ra. ICC (A) tiếp cận theo hướng bảo hiểm rộng, trừ các điểm loại trừ (“all risks”). Bảng 6.2 cho thấy hệ quả: nhiều rủi ro chỉ ICC (A) mới bảo hiểm.",
+      "whyWrong": {
+        "a": "“Bảo hiểm mọi tổn thất trừ loại trừ” là cách tiếp cận all risks của ICC (A), không phải named perils.",
+        "b": "Chỉ bảo hiểm rủi ro được liệt kê là cách tiếp cận named perils, không phải all risks.",
+        "d": "Hai cách tiếp cận khác nhau và dẫn đến phạm vi bảo hiểm khác nhau như Bảng 6.2 thể hiện."
+      },
+      "source": "KB §4.4; §4.5 – Table 6.2"
+    },
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "id": "C4-icc-abc-006",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which ranking of the Institute Cargo Clauses from widest to narrowest coverage is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C) → ICC (B) → ICC (A)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B) → ICC (A) → ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A) → ICC (C) → ICC (B)"
+      },
+      {
+        "id": "d",
+        "text": "ICC (A) → ICC (B) → ICC (C)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Từ rộng đến hẹp: ICC (A) → ICC (B) → ICC (C).",
+      "whyCorrect": "Bảng ICC trên slide xếp phạm vi: A rộng nhất (widest), B trung bình (medium), C cơ bản/hẹp (basic/narrow). Bảng 6.2 khẳng định: ICC (C) chủ yếu bảo hiểm 6 rủi ro tai nạn lớn; ICC (B) thêm động đất/núi lửa/sét, nước tràn vào, tổn thất toàn bộ khi rơi/xếp dỡ, sóng cuốn; ICC (A) thêm nhiều rủi ro khác.",
+      "whyWrong": {
+        "a": "Đây là thứ tự từ hẹp đến rộng, ngược với yêu cầu của câu hỏi.",
+        "b": "ICC (A) rộng hơn ICC (B), nên trong thứ tự từ rộng đến hẹp, A không thể đứng sau B.",
+        "c": "ICC (B) rộng hơn ICC (C), nên trong thứ tự từ rộng đến hẹp, C không thể đứng trước B."
+      },
+      "source": "KB §4.4; §4.5 – Common exam patterns"
+    },
+    "tags": [
+      "sequencing"
+    ]
+  },
+  {
+    "id": "C4-icc-abc-007",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A seller under a CIF – Incoterms® 2020 contract, with no further insurance terms agreed, wants to provide only the minimum cover it is obliged to give. Which clause will it choose?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A)"
+      },
+      {
+        "id": "d",
+        "text": "All Risks"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "CIF chỉ yêu cầu tối thiểu ICC (C) – mức bảo hiểm cơ bản/hẹp nhất.",
+      "whyCorrect": "Theo Incoterms® 2020, CIF yêu cầu người bán mua bảo hiểm tối thiểu ICC (C). ICC (C) là điều kiện có mức tương đối thấp nhất trong ba điều kiện. Khi hợp đồng không thỏa thuận thêm, người bán chỉ cần cung cấp ICC (C) là đáp ứng nghĩa vụ của CIF.",
+      "whyWrong": {
+        "b": "ICC (B) rộng hơn mức tối thiểu; Incoterms® 2020 không yêu cầu CIF phải có đến ICC (B).",
+        "c": "ICC (A) là mức yêu cầu của CIP, cao hơn mức tối thiểu của CIF.",
+        "d": "All Risks tương ứng gần đúng với ICC (A), vượt mức tối thiểu của CIF."
+      },
+      "source": "KB §4.4; §4.7 – CIF at least ICC (C)"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-icc-abc-008",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which statement about ICC (B) is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It covers any external cause of damage unless excluded"
+      },
+      {
+        "id": "b",
+        "text": "It covers exactly the same perils as ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "It covers named perils, adding several perils to ICC (C) but fewer than ICC (A)"
+      },
+      {
+        "id": "d",
+        "text": "It is the minimum cover required under CIF"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "ICC (B): named perils, thêm một số rủi ro so với C nhưng ít hơn A.",
+      "whyCorrect": "ICC (B) theo cách tiếp cận rủi ro được nêu tên, rộng hơn ICC (C) nhưng hẹp hơn ICC (A). Theo Bảng 6.2, so với C, B thêm: động đất/núi lửa/sét; nước biển/hồ/sông tràn vào; tổn thất toàn bộ khi rơi khỏi tàu hoặc khi xếp/dỡ; sóng cuốn. Các rủi ro như mọi nguyên nhân bên ngoài, nước ngọt… chỉ ICC (A) bảo hiểm.",
+      "whyWrong": {
+        "a": "Bảo hiểm mọi nguyên nhân bên ngoài trừ loại trừ là đặc điểm của ICC (A).",
+        "b": "ICC (B) bảo hiểm thêm 4 nhóm rủi ro mà ICC (C) không bảo hiểm theo Bảng 6.2.",
+        "d": "Mức bảo hiểm tối thiểu theo CIF (Incoterms® 2020) là ICC (C), không phải ICC (B)."
+      },
+      "source": "KB §4.4; §4.5 – Common exam patterns"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-icc-abc-009",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A buyer of ceramics wants a policy that responds to breakage from any external cause, unless specifically excluded. Which clause, and which approach to cover, meet this need?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C), because it covers the major casualties"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B), because it is broader than ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (C) with a higher insured amount of 110%"
+      },
+      {
+        "id": "d",
+        "text": "ICC (A), because its broad “all risks” approach covers any external cause subject to exclusions"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "“Breakage… from any external cause” chỉ ICC (A) bảo hiểm – phù hợp cách tiếp cận all risks.",
+      "whyCorrect": "Câu hỏi kết hợp cách tiếp cận của ICC với Bảng 6.2. Theo bảng, “breakage, loss, or damage from any external cause” chỉ được ICC (A) (và AR) bảo hiểm; ICC (B) và (C) đều ghi N. Điều này nhất quán với cách tiếp cận của ICC (A): bảo hiểm rộng, trừ các điểm loại trừ (“all risks”), trong khi B và C chỉ bảo hiểm rủi ro được nêu tên.",
+      "whyWrong": {
+        "a": "ICC (C) chỉ bảo hiểm các rủi ro tai nạn lớn được nêu tên, không bảo hiểm mọi nguyên nhân bên ngoài.",
+        "b": "ICC (B) rộng hơn C nhưng Bảng 6.2 vẫn ghi N cho “breakage… from any external cause”.",
+        "c": "Số tiền bảo hiểm cao hơn không mở rộng danh sách rủi ro được bảo hiểm của ICC (C)."
+      },
+      "source": "KB §4.4; §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-icc-abc-010",
+    "chapter": "C4",
+    "topic": "icc-abc",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "For a cargo of mixed consumer goods, the buyer's main concerns are contact with other cargo and hook damage during handling. It wants the narrowest clause that still covers both perils. Which clause should it choose?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (A), because only it covers these perils"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B), because it covers handling damage"
+      },
+      {
+        "id": "c",
+        "text": "ICC (C), because these are major casualties"
+      },
+      {
+        "id": "d",
+        "text": "Any of the three clauses, because both perils occur during loading"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Va chạm hàng khác và móc cẩu/bùn/dầu mỡ chỉ ICC (A) bảo hiểm → điều kiện hẹp nhất đáp ứng là ICC (A).",
+      "whyCorrect": "Theo Bảng 6.2, “contact with other cargo” và “hook damage, mud grease” đều ghi Y ở ICC (A) và N ở ICC (B), ICC (C). Vì vậy dù muốn điều kiện hẹp nhất, người mua vẫn phải chọn ICC (A) – điều kiện duy nhất trong ba ICC bảo hiểm cả hai rủi ro này.",
+      "whyWrong": {
+        "b": "Bảng 6.2 ghi N cho cả hai rủi ro dưới ICC (B); B chỉ thêm 4 nhóm rủi ro so với C.",
+        "c": "Hai rủi ro này không thuộc 6 rủi ro tai nạn lớn mà ICC (C) bảo hiểm.",
+        "d": "Xảy ra khi xếp dỡ không làm chúng được bảo hiểm; chỉ “total loss… during loading/unloading” được ICC (B) bảo hiểm."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-incoterms-insurance-001",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In the insurance chapter's list of 7 key changes in Incoterms® 2020, which change concerns insurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Costs are now clarified and consolidated"
+      },
+      {
+        "id": "b",
+        "text": "Insurance points are clarified in the CIF and CIP rules"
+      },
+      {
+        "id": "c",
+        "text": "Security in relation to transport is now detailed"
+      },
+      {
+        "id": "d",
+        "text": "Provisions allow own transport instead of third-party transport"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Thay đổi về bảo hiểm: làm rõ vấn đề bảo hiểm trong CIF và CIP (CIF tối thiểu ICC (C), CIP tối thiểu ICC (A)).",
+      "whyCorrect": "Chương 4 nhắc lại 7 thay đổi chính của Incoterms® 2020; thay đổi số 2 là “Insurance points are clarified in CIF and CIP incoterms rules”. Cụ thể, CIF yêu cầu tối thiểu ICC (C), còn CIP yêu cầu tối thiểu ICC (A).",
+      "whyWrong": {
+        "a": "Làm rõ, tập trung chi phí (A9/B9) là một thay đổi khác, không liên quan đến bảo hiểm.",
+        "c": "An ninh trong vận tải là thay đổi số 4, không phải về bảo hiểm.",
+        "d": "Cho phép dùng phương tiện vận tải riêng là thay đổi số 5, không phải về bảo hiểm."
+      },
+      "source": "KB §4.7 – 7 key changes"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-incoterms-insurance-002",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is listed in the insurance chapter as one of the 7 key changes in Incoterms® 2020?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FCA, on-board bills of lading"
+      },
+      {
+        "id": "b",
+        "text": "Transfer of title is now covered"
+      },
+      {
+        "id": "c",
+        "text": "CFR now requires ICC (B) cover"
+      },
+      {
+        "id": "d",
+        "text": "DDP has been renamed DPU"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "“FCA, on board Bills of Lading” là một trong 7 thay đổi chính được liệt kê ở Chương 4.",
+      "whyCorrect": "Danh sách 7 thay đổi chính ở Chương 4 gồm: DAT đổi thành DPU; làm rõ bảo hiểm trong CIF và CIP; làm rõ chi phí; an ninh trong vận tải; cho phép phương tiện vận tải riêng; FCA – vận đơn on-board; trình bày thân thiện hơn. “FCA, on board Bills of Lading” là thay đổi số 6.",
+      "whyWrong": {
+        "b": "Incoterms 2020 vẫn không điều chỉnh việc chuyển quyền sở hữu; đây không phải một thay đổi.",
+        "c": "CFR không có nghĩa vụ bảo hiểm; chỉ CIF và CIP có yêu cầu về bảo hiểm.",
+        "d": "DPU thay cho DAT của bản 2010, không phải DDP; DDP vẫn giữ nguyên tên trong Incoterms® 2020."
+      },
+      "source": "KB §4.7 – 7 key changes"
+    },
+    "tags": [
+      "errata-E02"
+    ]
+  },
+  {
+    "id": "C4-incoterms-insurance-003",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which statement reflects the slide's overall remark on the 2020 revision of Incoterms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Incoterms 2020 completely changed the substance of the rules"
+      },
+      {
+        "id": "b",
+        "text": "Incoterms 2020 only corrected spelling mistakes"
+      },
+      {
+        "id": "c",
+        "text": "The substance has not changed considerably, but the small, subtle changes are crucial for trade specialists"
+      },
+      {
+        "id": "d",
+        "text": "Incoterms 2020 abolished the CIF and CIP rules"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Nội dung Incoterms 2020 không thay đổi nhiều, nhưng những thay đổi nhỏ lại cực kỳ quan trọng.",
+      "whyCorrect": "Sau danh sách 7 thay đổi chính, slide nhận xét: “The substance of Incoterms 2020 has not changed considerably, but the small subtle changes are absolutely crucial for trade specialists”. Ví dụ điển hình là mức bảo hiểm phân biệt rõ giữa CIF (ICC (C)) và CIP (ICC (A)).",
+      "whyWrong": {
+        "a": "Slide nói nội dung không thay đổi nhiều, trái với nhận định “thay đổi hoàn toàn”.",
+        "b": "Bản 2020 có những thay đổi thực chất như DAT→DPU, bảo hiểm CIF/CIP, không chỉ sửa chính tả.",
+        "d": "CIF và CIP vẫn tồn tại; bản 2020 chỉ làm rõ vấn đề bảo hiểm của hai điều kiện này."
+      },
+      "source": "KB §4.7"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-incoterms-insurance-004",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the insurance chapter, what minimum level of cover does Incoterms® 2020 require under CIP?",
+    "options": [
+      {
+        "id": "a",
+        "text": "At least ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "At least ICC (B)"
+      },
+      {
+        "id": "c",
+        "text": "No insurance is required under CIP"
+      },
+      {
+        "id": "d",
+        "text": "At least ICC (A)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "CIP: tối thiểu ICC (A); CIF: tối thiểu ICC (C).",
+      "whyCorrect": "Slide Chương 4 về khác biệt Incoterms 2010 – 2020 ghi: CIF yêu cầu bảo hiểm ít nhất với phạm vi tối thiểu của ICC (C); CIP yêu cầu bảo hiểm ít nhất với phạm vi của ICC (A). Như vậy CIP có mức bảo hiểm mặc định cao hơn CIF.",
+      "whyWrong": {
+        "a": "Tối thiểu ICC (C) là yêu cầu đối với CIF, mức thấp hơn so với yêu cầu đối với CIP.",
+        "b": "ICC (B) không phải mức được quy định cho CIP hay CIF trong Incoterms® 2020.",
+        "c": "CIP (Carriage and Insurance Paid To) có nghĩa vụ bảo hiểm của người bán ngay trong tên điều kiện."
+      },
+      "source": "KB §4.7 – CIF/CIP"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-incoterms-insurance-005",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A CIF contract has a CIF value of USD 200,000, and the insurance clause requires cover for 110% of the CIF value. What insured amount must the seller arrange?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 200,000"
+      },
+      {
+        "id": "b",
+        "text": "USD 210,000"
+      },
+      {
+        "id": "c",
+        "text": "USD 220,000"
+      },
+      {
+        "id": "d",
+        "text": "USD 222,000"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Số tiền bảo hiểm = 110% × USD 200,000 = USD 220,000.",
+      "whyCorrect": "Điều 9 (Insurance) trên slide nêu hợp đồng cần ghi số tiền bảo hiểm, ví dụ 110% giá trị hợp đồng/giá CIF. Với giá CIF USD 200,000, số tiền bảo hiểm là 200,000 × 110% = USD 220,000. Theo CIF, người bán là bên thu xếp và trả phí cho bảo hiểm này.",
+      "whyWrong": {
+        "a": "USD 200,000 chỉ là 100% giá CIF, thấp hơn mức 110% mà điều khoản yêu cầu.",
+        "b": "USD 210,000 tương ứng 105% giá CIF, thấp hơn mức 110% mà điều khoản bảo hiểm yêu cầu.",
+        "d": "USD 222,000 tương ứng 111% giá CIF, vượt mức 110% đã thỏa thuận trong hợp đồng."
+      },
+      "source": "KB §6.11 – Art. 9 Insurance (110% of contract/CIF value); §4.7",
+      "extNote": "[EXT] Incoterms® 2020 CIF/CIP A5: mức bảo hiểm tối thiểu 110% giá hợp đồng; UCP 600 Art. 28(f)(ii): nếu L/C không quy định, tối thiểu 110% giá trị CIF/CIP."
+    },
+    "tags": [
+      "calculation",
+      "integrated"
+    ],
+    "calc": {
+      "kind": "insured-amount",
+      "inputs": {
+        "value": 200000,
+        "percent": 110
+      },
+      "expected": 220000
+    }
+  },
+  {
+    "id": "C4-incoterms-insurance-006",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Under a CIP contract worth USD 84,000, the parties agree on an insured amount of 110% of the contract value. What is the insured amount?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 92,400"
+      },
+      {
+        "id": "b",
+        "text": "USD 84,000"
+      },
+      {
+        "id": "c",
+        "text": "USD 88,200"
+      },
+      {
+        "id": "d",
+        "text": "USD 93,240"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Số tiền bảo hiểm = 84,000 × 110% = USD 92,400.",
+      "whyCorrect": "Theo Điều 9 trên slide, số tiền bảo hiểm có thể được ghi là 110% giá trị hợp đồng. Với giá trị USD 84,000, số tiền bảo hiểm là 84,000 × 1.10 = USD 92,400. Theo CIP, người bán thu xếp bảo hiểm với mức ICC (A) cho số tiền này.",
+      "whyWrong": {
+        "b": "USD 84,000 là 100% giá trị hợp đồng, chưa cộng thêm 10% theo thỏa thuận.",
+        "c": "USD 88,200 tương ứng 105% giá trị hợp đồng, thấp hơn mức 110% các bên đã thỏa thuận.",
+        "d": "USD 93,240 tương ứng 111% giá trị hợp đồng, sai so với mức 110% đã thỏa thuận."
+      },
+      "source": "KB §6.11 – Art. 9 Insurance; §4.7 – CIP",
+      "extNote": "[EXT] Incoterms® 2020 CIF/CIP A5: mức bảo hiểm tối thiểu 110% giá hợp đồng, bằng đồng tiền của hợp đồng."
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "insured-amount",
+      "inputs": {
+        "value": 84000,
+        "percent": 110
+      },
+      "expected": 92400
+    }
+  },
+  {
+    "id": "C4-incoterms-insurance-007",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Goods are sold “FOB Da Nang – Incoterms® 2020”. Who may arrange cargo insurance for the main carriage, and on what basis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The seller must insure, on ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "The buyer, which bears the risk during main carriage, may insure at its own discretion"
+      },
+      {
+        "id": "c",
+        "text": "The carrier must insure, because it performs the carriage"
+      },
+      {
+        "id": "d",
+        "text": "Neither party may insure under FOB"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "FOB: không ai có nghĩa vụ bảo hiểm; người mua chịu rủi ro chặng chính nên có thể tự mua bảo hiểm.",
+      "whyCorrect": "Theo Điều 9 trên slide, dưới CIF và CIP người bán thu xếp và trả phí bảo hiểm; dưới các điều kiện khác, bên chịu rủi ro có thể tự mua bảo hiểm theo ý mình, trừ khi có thỏa thuận khác. Theo FOB, rủi ro chuyển cho người mua khi hàng lên tàu, nên người mua là bên có thể mua bảo hiểm cho chặng chính.",
+      "whyWrong": {
+        "a": "FOB không có nghĩa vụ bảo hiểm của người bán; nghĩa vụ tối thiểu ICC (C) thuộc CIF.",
+        "c": "Người chuyên chở không có nghĩa vụ mua bảo hiểm hàng hóa theo Incoterms; Điều 9 nói về bên chịu rủi ro.",
+        "d": "Không có nghĩa vụ không có nghĩa là bị cấm; bên chịu rủi ro có thể tự mua bảo hiểm."
+      },
+      "source": "KB §6.11 – Art. 9; §3.8 – FOB"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-incoterms-insurance-008",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Goods are sold “DAP buyer's warehouse, Vientiane – Incoterms® 2020”. Which party has the stronger reason to insure the goods during the journey, and is it obliged to?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The buyer, and it is obliged to insure on ICC (A)"
+      },
+      {
+        "id": "b",
+        "text": "The seller, and it is obliged to insure on ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "The buyer, because it pays the import duties"
+      },
+      {
+        "id": "d",
+        "text": "The seller, because it bears the risk until delivery at destination – but it is not obliged to insure"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "DAP: người bán chịu rủi ro đến khi giao tại nơi đến → có lý do để bảo hiểm, nhưng không có nghĩa vụ.",
+      "whyCorrect": "Theo DAP, giao hàng và chuyển rủi ro xảy ra tại nơi đến chỉ định, nên người bán chịu rủi ro trong suốt hành trình. Bảng nghĩa vụ ghi DAP không có nghĩa vụ bảo hiểm (“None”). Theo Điều 9, bên chịu rủi ro – ở đây là người bán – có thể tự mua bảo hiểm theo ý mình.",
+      "whyWrong": {
+        "a": "Người mua không chịu rủi ro trong hành trình theo DAP và không có nghĩa vụ bảo hiểm ICC (A).",
+        "b": "Người bán chịu rủi ro, nhưng DAP không có nghĩa vụ bảo hiểm; ICC (C) là yêu cầu của CIF.",
+        "c": "Nộp thuế nhập khẩu không liên quan đến rủi ro hàng hóa trong vận chuyển."
+      },
+      "source": "KB §3.8 – DAP; §6.11 – Art. 9"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-incoterms-insurance-009",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to Article 9 (Insurance) of the sales contract on the slides, which set of items should the insurance clause specify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Conditions (ICC A/B/C), insured amount, currency, insured risks, place where claims are payable"
+      },
+      {
+        "id": "b",
+        "text": "Vessel name, B/L number, ETD and ETA"
+      },
+      {
+        "id": "c",
+        "text": "Issuing bank, L/C number, expiry date and amount"
+      },
+      {
+        "id": "d",
+        "text": "Penalty rate, cap and limitation of liability"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Điều khoản bảo hiểm cần ghi: điều kiện ICC, số tiền bảo hiểm, đồng tiền, rủi ro được bảo hiểm, nơi trả bồi thường.",
+      "whyCorrect": "Điều 9 trên slide nêu phạm vi bảo hiểm cần quy định: điều kiện bảo hiểm (ICC (A), (B), (C)…), số tiền bảo hiểm (ví dụ 110% giá trị hợp đồng/CIF), đồng tiền bảo hiểm, các rủi ro được bảo hiểm, và nơi trả tiền bồi thường (claims payable at). Trách nhiệm mua bảo hiểm phụ thuộc vào điều kiện Incoterms.",
+      "whyWrong": {
+        "b": "Tên tàu, số B/L, ETD, ETA là nội dung thông báo giao hàng (Điều 6), không phải điều khoản bảo hiểm.",
+        "c": "Ngân hàng phát hành, số L/C, ngày hết hạn, số tiền là nội dung của L/C (Điều 7).",
+        "d": "Mức phạt, mức trần và giới hạn là nội dung điều khoản phạt (Điều 11)."
+      },
+      "source": "KB §6.11 – Art. 9 Insurance"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-incoterms-insurance-010",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Under a CIF contract with a CIF value of USD 100,000, the seller insures for 110% on ICC (C). During the voyage, part of the cargo is washed overboard. Which statement is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The insurer pays up to USD 110,000, because the insured amount is 110%"
+      },
+      {
+        "id": "b",
+        "text": "The seller must compensate the buyer, because it chose ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "The insurer pays up to USD 100,000, because indemnity ignores the extra 10%"
+      },
+      {
+        "id": "d",
+        "text": "The loss is not covered, because washing overboard is not covered under ICC (C), whatever the insured amount"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Sóng cuốn không thuộc ICC (C) → không được bồi thường; số tiền bảo hiểm 110% không mở rộng phạm vi rủi ro.",
+      "whyCorrect": "Câu hỏi kết hợp số tiền bảo hiểm với phạm vi rủi ro. Bảo hiểm chỉ bồi thường tổn thất do rủi ro được bảo hiểm gây ra. Theo Bảng 6.2, “washing overboard” ghi N ở ICC (C) (chỉ A và B bảo hiểm). Vì vậy dù số tiền bảo hiểm là 110% giá CIF (USD 110,000), tổn thất do sóng cuốn không được bồi thường.",
+      "whyWrong": {
+        "a": "Số tiền bảo hiểm chỉ là giới hạn bồi thường; tổn thất phải do rủi ro được bảo hiểm gây ra mới được trả.",
+        "b": "Người bán đã đáp ứng nghĩa vụ CIF với ICC (C); rủi ro sau khi hàng lên tàu thuộc người mua.",
+        "c": "Vấn đề không nằm ở số tiền mà ở chỗ rủi ro sóng cuốn không thuộc ICC (C)."
+      },
+      "source": "KB §4.2; §4.5 – Table 6.2; §6.11 – Art. 9"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-incoterms-insurance-011",
+    "chapter": "C4",
+    "topic": "incoterms-insurance",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "For each rule – EXW, CFR and DAP – which party bears the risk during the main carriage and may therefore choose to insure it (no party being obliged to)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "EXW: seller; CFR: seller; DAP: buyer"
+      },
+      {
+        "id": "b",
+        "text": "EXW: buyer; CFR: buyer; DAP: seller"
+      },
+      {
+        "id": "c",
+        "text": "EXW: buyer; CFR: seller; DAP: seller"
+      },
+      {
+        "id": "d",
+        "text": "EXW: seller; CFR: buyer; DAP: buyer"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Chặng chính: EXW – người mua; CFR – người mua (rủi ro chuyển khi lên tàu); DAP – người bán.",
+      "whyCorrect": "Đối chiếu điểm chuyển rủi ro của từng điều kiện. EXW: rủi ro chuyển ngay tại nơi giao hàng ở nguồn nên người mua chịu chặng chính. CFR: rủi ro chuyển khi hàng lên tàu tại cảng đi, dù người bán trả cước – người mua chịu chặng chính. DAP: rủi ro chỉ chuyển tại nơi đến – người bán chịu. Cả ba đều không có nghĩa vụ bảo hiểm; bên chịu rủi ro có thể tự mua.",
+      "whyWrong": {
+        "a": "Theo EXW và CFR, người mua chịu rủi ro chặng chính; theo DAP, người bán chịu.",
+        "c": "Theo CFR người bán trả cước nhưng rủi ro đã chuyển cho người mua khi hàng lên tàu.",
+        "d": "Theo EXW người mua chịu rủi ro từ nơi giao hàng; theo DAP người bán chịu đến nơi đến."
+      },
+      "source": "KB §3.8 – EXW, CFR, DAP; §6.11 – Art. 9; §8.3 – step 4"
+    },
+    "tags": [
+      "integrated",
+      "comparison"
+    ]
+  },
+  {
+    "id": "C4-insurance-principles-001",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "The principle of insurable interest is defined as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the insurer's right to claim from the party that caused the loss"
+      },
+      {
+        "id": "b",
+        "text": "the premium rate charged for a given level of cover"
+      },
+      {
+        "id": "c",
+        "text": "a financial interest based on some legal right in the preservation of the insured property"
+      },
+      {
+        "id": "d",
+        "text": "the obligation of the seller to insure under CIF and CIP"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Insurable interest (quyền lợi được bảo hiểm): lợi ích tài chính dựa trên một quyền hợp pháp đối với việc bảo toàn tài sản được bảo hiểm.",
+      "whyCorrect": "Slide định nghĩa nguyên tắc quyền lợi được bảo hiểm (insurable interest) là một lợi ích tài chính (financial interest) dựa trên một quyền hợp pháp (legal right) đối với việc bảo toàn tài sản được bảo hiểm. Người mua bảo hiểm phải có lợi ích như vậy đối với hàng hóa.",
+      "whyWrong": {
+        "a": "Quyền của người bảo hiểm đòi bên gây ra tổn thất là nguyên tắc thế quyền (subrogation).",
+        "b": "Tỷ lệ phí bảo hiểm là giá của sự bảo vệ, không phải định nghĩa của nguyên tắc quyền lợi được bảo hiểm.",
+        "d": "Nghĩa vụ bảo hiểm của người bán theo CIF/CIP là quy định Incoterms, không phải nguyên tắc insurable interest."
+      },
+      "source": "KB §4.3 – Insurable interest"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-insurance-principles-002",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Under the principle of subrogation, on paying the insured's claim, the insurer:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stands in the position of the insured to claim from other parties responsible for the loss"
+      },
+      {
+        "id": "b",
+        "text": "returns the premium to the insured"
+      },
+      {
+        "id": "c",
+        "text": "acquires the right to cancel the policy retroactively"
+      },
+      {
+        "id": "d",
+        "text": "transfers the claim to the buyer's bank"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Subrogation (thế quyền): sau khi bồi thường, người bảo hiểm thay thế người được bảo hiểm để đòi các bên có trách nhiệm.",
+      "whyCorrect": "Slide định nghĩa nguyên tắc thế quyền (subrogation): khi đã thanh toán khiếu nại cho người được bảo hiểm, người bảo hiểm đứng vào vị trí của người được bảo hiểm để đòi các bên khác chịu trách nhiệm về mất mát hoặc hư hỏng, ví dụ người chuyên chở.",
+      "whyWrong": {
+        "b": "Hoàn trả phí bảo hiểm cho người được bảo hiểm không phải là nội dung của nguyên tắc thế quyền.",
+        "c": "Thế quyền không cho người bảo hiểm quyền hủy đơn hồi tố; nó cho quyền đòi bên có trách nhiệm.",
+        "d": "Thế quyền không liên quan đến ngân hàng của người mua; người bảo hiểm tự đứng ra đòi bên gây tổn thất."
+      },
+      "source": "KB §4.3 – Subrogation"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-insurance-principles-003",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "“Nguyên tắc thế quyền” in Vietnamese corresponds to which insurance principle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insurable interest"
+      },
+      {
+        "id": "b",
+        "text": "Indemnity"
+      },
+      {
+        "id": "c",
+        "text": "General average"
+      },
+      {
+        "id": "d",
+        "text": "Subrogation"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Thế quyền = subrogation; quyền lợi được bảo hiểm = insurable interest.",
+      "whyCorrect": "Slide ghi rõ tên tiếng Việt của hai nguyên tắc cơ bản: insurable interest là “nguyên tắc quyền lợi được bảo hiểm”, còn subrogation là “nguyên tắc thế quyền”. Bảng thuật ngữ của môn học cũng dịch subrogation là thế quyền – quyền của người bảo hiểm, sau khi bồi thường, thay thế người được bảo hiểm để đòi bên có trách nhiệm.",
+      "whyWrong": {
+        "a": "Insurable interest là “nguyên tắc quyền lợi được bảo hiểm”, một nguyên tắc khác với thế quyền.",
+        "b": "Indemnity là bồi thường – bản chất của hợp đồng bảo hiểm, không phải tên nguyên tắc thế quyền.",
+        "c": "General average là “tổn thất chung”, một loại tổn thất/chi phí trong bảng rủi ro."
+      },
+      "source": "KB §4.3; §10 – Glossary"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-insurance-principles-004",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which two principles does the slide present as the essential principles of insurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insurable interest and subrogation"
+      },
+      {
+        "id": "b",
+        "text": "Indemnity and general average"
+      },
+      {
+        "id": "c",
+        "text": "Subrogation and named perils"
+      },
+      {
+        "id": "d",
+        "text": "Insurable interest and all risks"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Hai nguyên tắc cơ bản: quyền lợi được bảo hiểm (insurable interest) và thế quyền (subrogation).",
+      "whyCorrect": "Slide “Principles of Insurance” nêu hai nguyên tắc thiết yếu: (1) nguyên tắc quyền lợi được bảo hiểm (insurable interest) và (2) nguyên tắc thế quyền (subrogation). Các khái niệm còn lại thuộc định nghĩa bảo hiểm hoặc cách tiếp cận của ICC.",
+      "whyWrong": {
+        "b": "Indemnity mô tả bản chất hợp đồng bảo hiểm; general average là một loại tổn thất – không phải hai nguyên tắc trên slide.",
+        "c": "Subrogation đúng, nhưng “named perils” là cách tiếp cận của ICC (B)/(C), không phải một nguyên tắc.",
+        "d": "Insurable interest đúng, nhưng “all risks” là cách tiếp cận của ICC (A), không phải nguyên tắc."
+      },
+      "source": "KB §4.3 – Two essential principles"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-insurance-principles-005",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An insurer pays a buyer for cargo damaged because the carrier stowed it improperly. The insurer then sues the carrier to recover the amount it paid. Which principle allows the insurer to do this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insurable interest"
+      },
+      {
+        "id": "b",
+        "text": "Subrogation"
+      },
+      {
+        "id": "c",
+        "text": "Contract of carriage"
+      },
+      {
+        "id": "d",
+        "text": "Named perils"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Sau khi bồi thường, người bảo hiểm đòi người chuyên chở có lỗi → nguyên tắc thế quyền (subrogation).",
+      "whyCorrect": "Theo nguyên tắc thế quyền (subrogation), khi đã thanh toán khiếu nại cho người được bảo hiểm, người bảo hiểm đứng vào vị trí của người được bảo hiểm để đòi các bên chịu trách nhiệm về tổn thất – slide lấy chính người chuyên chở làm ví dụ. Việc người bảo hiểm kiện người chuyên chở sau khi đã bồi thường cho người mua là áp dụng nguyên tắc này.",
+      "whyWrong": {
+        "a": "Insurable interest là lợi ích tài chính đối với hàng của người mua bảo hiểm, không phải quyền đòi bên gây tổn thất.",
+        "c": "Hợp đồng vận tải là quan hệ giữa chủ hàng và người chuyên chở; người bảo hiểm đòi được là nhờ thế quyền.",
+        "d": "Named perils là cách tiếp cận của ICC (B)/(C), không phải nguyên tắc cho phép đòi bên có lỗi."
+      },
+      "source": "KB §4.3 – Subrogation"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-insurance-principles-006",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A person who has no ownership, no contract and no financial stake in a shipment of coffee wants to insure it, hoping to profit if the vessel sinks. Which principle prevents this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Subrogation"
+      },
+      {
+        "id": "b",
+        "text": "Indemnity"
+      },
+      {
+        "id": "c",
+        "text": "Insurable interest"
+      },
+      {
+        "id": "d",
+        "text": "All risks"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Không có lợi ích tài chính dựa trên quyền hợp pháp đối với hàng → không có insurable interest.",
+      "whyCorrect": "Nguyên tắc quyền lợi được bảo hiểm yêu cầu người mua bảo hiểm có một lợi ích tài chính dựa trên quyền hợp pháp đối với việc bảo toàn tài sản được bảo hiểm. Người không sở hữu, không có hợp đồng và không có quyền lợi tài chính gì đối với lô cà phê không có quyền lợi được bảo hiểm, nên không thể mua bảo hiểm cho lô hàng.",
+      "whyWrong": {
+        "a": "Thế quyền áp dụng sau khi người bảo hiểm đã bồi thường, không liên quan đến việc ai được mua bảo hiểm.",
+        "b": "Nguyên tắc bồi thường mô tả việc bù đắp tổn thất, nhưng slide nêu insurable interest là nguyên tắc xác định ai có quyền lợi để bảo hiểm.",
+        "d": "“All risks” là cách tiếp cận của ICC (A), không phải nguyên tắc về quyền mua bảo hiểm."
+      },
+      "source": "KB §4.3 – Insurable interest"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-insurance-principles-007",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "After an insured buyer has been fully compensated by its insurer for cargo damaged by a carrier's fault, who is entitled to pursue the claim against the carrier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The insurer, which stands in the buyer's position"
+      },
+      {
+        "id": "b",
+        "text": "The buyer, which may claim again for its own benefit"
+      },
+      {
+        "id": "c",
+        "text": "The seller, because it shipped the goods"
+      },
+      {
+        "id": "d",
+        "text": "No one, because the loss has already been compensated"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Sau khi bồi thường, người bảo hiểm thế quyền người được bảo hiểm để đòi người chuyên chở.",
+      "whyCorrect": "Theo nguyên tắc thế quyền, khi đã thanh toán khiếu nại cho người được bảo hiểm, người bảo hiểm đứng vào vị trí của người được bảo hiểm (stands in the position of the insured) để đòi các bên có trách nhiệm như người chuyên chở. Vì vậy quyền đòi người chuyên chở chuyển sang người bảo hiểm.",
+      "whyWrong": {
+        "b": "Người mua đã được bồi thường; theo thế quyền, quyền đòi người chuyên chở thuộc người bảo hiểm.",
+        "c": "Người bán không phải người được bảo hiểm trong tình huống, và không có quyền đòi thay cho người mua.",
+        "d": "Việc đã bồi thường không xóa trách nhiệm của bên có lỗi; người bảo hiểm vẫn đòi được nhờ thế quyền."
+      },
+      "source": "KB §4.3 – Subrogation"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-insurance-principles-008",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which statement correctly distinguishes insurable interest from subrogation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Both principles describe the insurer's right to recover from the carrier"
+      },
+      {
+        "id": "b",
+        "text": "Insurable interest concerns the insurer's recovery; subrogation concerns who may buy insurance"
+      },
+      {
+        "id": "c",
+        "text": "Insurable interest concerns the insured's financial interest in the goods; subrogation is the insurer's right, after paying, to claim from those responsible"
+      },
+      {
+        "id": "d",
+        "text": "Both principles apply only to policies on ICC (A)"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Insurable interest: lợi ích tài chính hợp pháp của người được bảo hiểm. Subrogation: quyền của người bảo hiểm sau khi bồi thường.",
+      "whyCorrect": "Hai nguyên tắc nằm ở hai phía của hợp đồng. Insurable interest thuộc phía người được bảo hiểm: phải có lợi ích tài chính dựa trên quyền hợp pháp đối với việc bảo toàn hàng hóa. Subrogation thuộc phía người bảo hiểm: sau khi đã thanh toán khiếu nại, người bảo hiểm thay thế người được bảo hiểm để đòi các bên có trách nhiệm.",
+      "whyWrong": {
+        "a": "Chỉ thế quyền liên quan đến việc đòi người chuyên chở; insurable interest nói về lợi ích của người được bảo hiểm.",
+        "b": "Đảo ngược hai nguyên tắc: insurable interest xác định ai được mua bảo hiểm, thế quyền là quyền đòi sau khi bồi thường.",
+        "d": "Hai nguyên tắc là nguyên tắc chung của bảo hiểm, không giới hạn ở điều kiện ICC (A)."
+      },
+      "source": "KB §4.3 – Two essential principles",
+      "trap": "Nhầm insurable interest với subrogation."
+    },
+    "tags": [
+      "comparison"
+    ]
+  },
+  {
+    "id": "C4-insurance-principles-009",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Goods are sold “FOB Haiphong – Incoterms® 2020”. During the sea voyage, which party has an insurable interest in the goods, and why?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the seller, because it produced the goods"
+      },
+      {
+        "id": "b",
+        "text": "The buyer, because risk of loss passed to it when the goods were on board, giving it a financial interest in their preservation"
+      },
+      {
+        "id": "c",
+        "text": "Only the carrier, because it is in possession of the goods"
+      },
+      {
+        "id": "d",
+        "text": "No one, because under FOB there is no insurance obligation"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "FOB: người mua chịu rủi ro từ khi hàng lên tàu → có lợi ích tài chính trong việc bảo toàn hàng → có insurable interest.",
+      "whyCorrect": "Câu hỏi kết hợp nguyên tắc insurable interest với Incoterms. Theo FOB, rủi ro mất mát/hư hỏng chuyển cho người mua khi hàng ở trên tàu tại cảng bốc hàng. Từ đó, mọi tổn thất trên biển là thiệt hại tài chính của người mua theo hợp đồng mua bán – tức người mua có lợi ích tài chính dựa trên quyền hợp pháp đối với việc bảo toàn hàng hóa, nên có quyền lợi được bảo hiểm.",
+      "whyWrong": {
+        "a": "Sau khi hàng lên tàu, rủi ro đã chuyển cho người mua; việc sản xuất hàng không tạo ra lợi ích của người bán trong chặng này.",
+        "c": "Câu hỏi về quyền lợi của các bên mua bán; theo FOB người mua là bên chịu thiệt hại tài chính khi hàng tổn thất.",
+        "d": "Không có nghĩa vụ bảo hiểm không có nghĩa là không ai có insurable interest; người mua vẫn có thể tự mua bảo hiểm."
+      },
+      "source": "KB §4.3 – Insurable interest; §3.8 – FOB; §6.11 – Art. 9"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-insurance-principles-010",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Goods are sold CIP – Incoterms® 2020 and insured on ICC (A). After handover to the first carrier, the cargo is damaged because the shipowner stowed it improperly. Which statement is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The seller bears the risk, and improper stowage is excluded under ICC (A)"
+      },
+      {
+        "id": "b",
+        "text": "The buyer bears the risk, but improper stowage is covered only under ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "The buyer bears the risk, and after being paid it keeps the right to sue the shipowner for itself"
+      },
+      {
+        "id": "d",
+        "text": "The buyer bears the risk; the loss is covered by ICC (A); having paid, the insurer may claim against the shipowner by subrogation"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "CIP: người mua chịu rủi ro; xếp hàng sai cách được ICC (A) bảo hiểm; người bảo hiểm thế quyền đòi chủ tàu.",
+      "whyCorrect": "Câu hỏi kết hợp ba nội dung. Theo CIP, rủi ro chuyển cho người mua khi giao cho người chuyên chở đầu tiên. Theo Bảng 6.2, “improper stowage by shipowner” chỉ được ICC (A) bảo hiểm – và CIP yêu cầu ICC (A). Sau khi bồi thường, theo nguyên tắc thế quyền, người bảo hiểm đứng vào vị trí người được bảo hiểm để đòi chủ tàu – bên gây ra tổn thất.",
+      "whyWrong": {
+        "a": "Theo CIP rủi ro đã chuyển cho người mua; và Bảng 6.2 ghi Y cho xếp hàng sai cách dưới ICC (A).",
+        "b": "Theo Bảng 6.2, xếp hàng sai cách chỉ được ICC (A) bảo hiểm; ICC (C) ghi N.",
+        "c": "Theo thế quyền, sau khi người mua được bồi thường, quyền đòi chủ tàu thuộc về người bảo hiểm."
+      },
+      "source": "KB §3.8 – CIP; §4.3 – Subrogation; §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-insurance-principles-011",
+    "chapter": "C4",
+    "topic": "insurance-principles",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Case 1: an insurer refuses to insure a speculator who has no legal right in a cargo. Case 2: after paying an exporter's claim, the same insurer sues the shipping line that caused the loss. Which principles are applied in each case?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Case 1: subrogation; Case 2: insurable interest"
+      },
+      {
+        "id": "b",
+        "text": "Case 1: indemnity; Case 2: named perils"
+      },
+      {
+        "id": "c",
+        "text": "Case 1: insurable interest; Case 2: subrogation"
+      },
+      {
+        "id": "d",
+        "text": "Case 1: all risks; Case 2: indemnity"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Từ chối người không có quyền lợi hợp pháp → insurable interest; đòi hãng tàu sau khi bồi thường → subrogation.",
+      "whyCorrect": "Đối chiếu từng trường hợp với hai nguyên tắc trên slide. Trường hợp 1: người đầu cơ không có quyền hợp pháp đối với lô hàng, nên không có lợi ích tài chính dựa trên quyền hợp pháp – thiếu insurable interest. Trường hợp 2: sau khi đã thanh toán khiếu nại, người bảo hiểm đứng vào vị trí người được bảo hiểm để đòi hãng tàu – đó là subrogation.",
+      "whyWrong": {
+        "a": "Đảo ngược hai nguyên tắc: thế quyền áp dụng sau khi bồi thường, không phải khi từ chối bảo hiểm.",
+        "b": "Indemnity mô tả bản chất bồi thường; named perils là cách tiếp cận của ICC (B)/(C) – không giải thích hai trường hợp.",
+        "d": "“All risks” là cách tiếp cận của ICC (A); không giải thích việc từ chối người không có quyền lợi."
+      },
+      "source": "KB §4.3 – Two essential principles"
+    },
+    "tags": [
+      "classification"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-001",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Table 6.2, which of the following perils is covered under ICC (C)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fresh water"
+      },
+      {
+        "id": "b",
+        "text": "Jettison"
+      },
+      {
+        "id": "c",
+        "text": "Washing overboard"
+      },
+      {
+        "id": "d",
+        "text": "Hook damage, mud grease"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Ném hàng xuống biển (jettison) thuộc 6 rủi ro chính được cả ICC (C) bảo hiểm.",
+      "whyCorrect": "Theo Bảng 6.2, ICC (C) bảo hiểm 6 rủi ro “tai nạn lớn”: đâm va, dỡ hàng tại cảng, chi phí tổn thất chung và cứu hộ, ném hàng xuống biển (jettison), lật/trật bánh phương tiện bộ/sắt, và tàu mắc cạn/chìm/mắc kẹt. Jettison nằm trong nhóm này nên được bảo hiểm ở mọi điều kiện.",
+      "whyWrong": {
+        "a": "Nước ngọt (fresh water) chỉ được ICC (A) bảo hiểm; cột ICC-C của Bảng 6.2 ghi N.",
+        "c": "Sóng cuốn được ICC (A) và ICC (B) bảo hiểm, nhưng cột ICC-C của Bảng 6.2 ghi N.",
+        "d": "Móc cẩu, bùn, dầu mỡ chỉ được ICC (A) bảo hiểm; cột ICC-B và ICC-C đều ghi N."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-peril-coverage-002",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Table 6.2, which peril is covered under ICC (A) but NOT under ICC (B)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Earthquake, volcano, lightning"
+      },
+      {
+        "id": "b",
+        "text": "Collision"
+      },
+      {
+        "id": "c",
+        "text": "Washing overboard"
+      },
+      {
+        "id": "d",
+        "text": "Contact with other cargo"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Va chạm với hàng khác chỉ ICC (A) bảo hiểm; ICC (B) ghi N.",
+      "whyCorrect": "Theo Bảng 6.2, nhóm rủi ro ICC (A) thêm so với ICC (B) gồm: mọi nguyên nhân bên ngoài, va chạm với hàng khác (contact with other cargo), cố ý phá hoại, nước ngọt, móc cẩu/bùn/dầu mỡ, xếp hàng sai cách, mất cắp một phần, mồ hôi tàu. Va chạm với hàng khác ghi Y ở A, N ở B.",
+      "whyWrong": {
+        "a": "Động đất, núi lửa, sét được cả ICC (A) và ICC (B) bảo hiểm, nên không đáp ứng câu hỏi.",
+        "b": "Đâm va thuộc 6 rủi ro tai nạn lớn, được cả ba điều kiện A, B, C bảo hiểm.",
+        "c": "Sóng cuốn được cả ICC (A) và ICC (B) bảo hiểm, nên không phải rủi ro chỉ A mới có."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "negative-stem"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-003",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Table 6.2, “washing overboard” is covered under which Institute Cargo Clauses?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (A) only"
+      },
+      {
+        "id": "b",
+        "text": "ICC (A), (B) and (C)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A) and (B), but not (C)"
+      },
+      {
+        "id": "d",
+        "text": "ICC (C) only"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Sóng cuốn: ICC (A) và (B) bảo hiểm, ICC (C) không.",
+      "whyCorrect": "Sóng cuốn (washing overboard) thuộc nhóm bốn rủi ro mà ICC (B) bổ sung so với ICC (C), cùng với động đất/núi lửa/sét, nước tràn vào tàu/kho, và tổn thất toàn bộ khi rơi khỏi tàu hoặc khi xếp/dỡ. Bảng 6.2 ghi Y ở A và B, N ở C.",
+      "whyWrong": {
+        "a": "ICC (B) cũng bảo hiểm sóng cuốn, nên phát biểu “chỉ ICC (A)” là không đúng theo Bảng 6.2.",
+        "b": "ICC (C) ghi N cho sóng cuốn; C chỉ bảo hiểm 6 rủi ro tai nạn lớn.",
+        "d": "ICC (C) là điều kiện hẹp nhất và cột ICC-C của Bảng 6.2 ghi N cho sóng cuốn."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-peril-coverage-004",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Table 6.2, “collision” is covered under:",
+    "options": [
+      {
+        "id": "a",
+        "text": "AR, WA, FPA, ICC (A), ICC (B) and ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "AR and ICC (A) only"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A) and ICC (B) only"
+      },
+      {
+        "id": "d",
+        "text": "WA and ICC (B) only"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Đâm va thuộc 6 rủi ro tai nạn lớn – được bảo hiểm ở mọi điều kiện, kể cả FPA và ICC (C).",
+      "whyCorrect": "Trong Bảng 6.2, đâm va (collision) là một trong 6 rủi ro đầu bảng được ghi Y ở cả sáu cột: AR, WA, FPA, ICC-A, ICC-B và ICC-C. Đây là nhóm rủi ro tai nạn lớn mà ngay cả điều kiện hẹp nhất cũng bảo hiểm.",
+      "whyWrong": {
+        "b": "Đâm va không chỉ do AR/ICC (A) bảo hiểm; mọi điều kiện đều ghi Y.",
+        "c": "ICC (C) và các điều kiện truyền thống cũng bảo hiểm đâm va, không chỉ ICC (A) và (B).",
+        "d": "Đâm va được mọi điều kiện bảo hiểm trong Bảng 6.2, không chỉ WA và ICC (B)."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-peril-coverage-005",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Table 6.2, damage by fresh water is covered under which Institute Cargo Clause?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (B) and ICC (C)"
+      },
+      {
+        "id": "d",
+        "text": "ICC (A) only"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Nước ngọt (fresh water) chỉ được ICC (A) (và AR) bảo hiểm.",
+      "whyCorrect": "Bảng 6.2 ghi Y cho “fresh water” ở cột AR và ICC-A, và N ở WA, FPA, ICC-B, ICC-C. Nước ngọt thuộc nhóm rủi ro mà ICC (A) bổ sung so với ICC (B). Cần phân biệt với “entry of sea, lake, or river water into vessel or storage”, vốn được cả ICC (B) bảo hiểm.",
+      "whyWrong": {
+        "a": "ICC (C) ghi N cho nước ngọt; C chỉ bảo hiểm 6 rủi ro tai nạn lớn.",
+        "b": "ICC (B) bảo hiểm nước biển/hồ/sông tràn vào, nhưng cột ICC-B ghi N cho nước ngọt.",
+        "c": "Theo Bảng 6.2, cả ICC (B) và ICC (C) đều ghi N cho rủi ro nước ngọt."
+      },
+      "source": "KB §4.5 – Table 6.2",
+      "trap": "Nhầm “fresh water” với “entry of sea, lake, or river water”."
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-peril-coverage-006",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Rice stored in a riverside warehouse during transit is damaged when river water floods into the storage. The cargo is insured on ICC (C). Is the loss covered, and which is the narrowest clause that would have covered it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Covered under ICC (C); no other clause needed"
+      },
+      {
+        "id": "b",
+        "text": "Not covered under ICC (C); ICC (B) would have covered it"
+      },
+      {
+        "id": "c",
+        "text": "Not covered under ICC (C); only ICC (A) would have covered it"
+      },
+      {
+        "id": "d",
+        "text": "Not covered under any Institute Cargo Clause"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Nước sông tràn vào nơi chứa hàng: ICC (C) không bảo hiểm; ICC (B) có bảo hiểm.",
+      "whyCorrect": "Theo Bảng 6.2, “entry of sea, lake, or river water into vessel or place of storage” ghi Y ở ICC (A) và ICC (B), N ở ICC (C). Vì vậy với đơn ICC (C), tổn thất không được bảo hiểm; điều kiện hẹp nhất có bảo hiểm rủi ro này là ICC (B).",
+      "whyWrong": {
+        "a": "ICC (C) ghi N cho nước biển/hồ/sông tràn vào; C chỉ bảo hiểm 6 rủi ro tai nạn lớn.",
+        "c": "ICC (B) cũng bảo hiểm rủi ro này, nên A không phải điều kiện hẹp nhất đáp ứng.",
+        "d": "Rủi ro này được cả ICC (A) và ICC (B) bảo hiểm theo Bảng 6.2."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-007",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Part of a shipment of electronics is pilfered (partly stolen) from a container during the voyage. The goods are insured on ICC (B). According to Table 6.2, is pilferage covered?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because ICC (B) covers all handling losses"
+      },
+      {
+        "id": "b",
+        "text": "Yes, because pilferage is a major casualty"
+      },
+      {
+        "id": "c",
+        "text": "No; pilferage is covered under ICC (A) (and AR) only"
+      },
+      {
+        "id": "d",
+        "text": "No; pilferage is not covered under any clause"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Mất cắp một phần (pilferage) chỉ ICC (A) và AR bảo hiểm; ICC (B) ghi N.",
+      "whyCorrect": "Theo Bảng 6.2, “pilferage” ghi Y ở cột AR và ICC-A, N ở WA, FPA, ICC-B và ICC-C. Pilferage thuộc nhóm rủi ro mà ICC (A) bổ sung so với ICC (B). Do đó với đơn ICC (B), tổn thất do mất cắp một phần không được bảo hiểm.",
+      "whyWrong": {
+        "a": "ICC (B) không bảo hiểm mọi tổn thất khi xếp dỡ; chỉ tổn thất toàn bộ khi rơi/xếp dỡ mới được bảo hiểm.",
+        "b": "Pilferage không thuộc 6 rủi ro tai nạn lớn (đâm va, mắc cạn, ném hàng…).",
+        "d": "Bảng 6.2 ghi Y cho pilferage ở cột AR và ICC-A, nên vẫn có điều kiện bảo hiểm rủi ro này."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-008",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "During a voyage, the vessel incurs general average and salvage costs, and the cargo owner is asked to contribute. The cargo is insured on ICC (C). According to Table 6.2, is this cost covered?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes; cost of general average and salvage is covered under all clauses, including ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "No; general average is covered under ICC (A) only"
+      },
+      {
+        "id": "c",
+        "text": "No; general average is covered under ICC (A) and (B) only"
+      },
+      {
+        "id": "d",
+        "text": "Yes, but only under traditional AR policies"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Chi phí tổn thất chung & cứu hộ thuộc 6 rủi ro chính – được cả ICC (C) bảo hiểm.",
+      "whyCorrect": "Bảng 6.2 ghi Y cho “cost of general average and salvage” ở cả sáu cột: AR, WA, FPA, ICC-A, ICC-B, ICC-C. Đây là một trong 6 rủi ro tai nạn lớn mà ngay cả điều kiện hẹp nhất ICC (C) cũng bảo hiểm.",
+      "whyWrong": {
+        "b": "Tổn thất chung không chỉ ICC (A) bảo hiểm; mọi điều kiện đều ghi Y.",
+        "c": "ICC (C) cũng ghi Y cho chi phí tổn thất chung và cứu hộ, không chỉ ICC (A) và (B).",
+        "d": "Cả các điều kiện ICC lẫn WA, FPA đều bảo hiểm chi phí này, không chỉ điều kiện AR."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-009",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A crate slips from the sling during loading and is totally lost overboard. Which is the narrowest Institute Cargo Clause that covers this loss?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A)"
+      },
+      {
+        "id": "d",
+        "text": "None of the Institute Cargo Clauses"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Tổn thất toàn bộ khi rơi xuống biển/khi xếp dỡ: ICC (A) và (B) bảo hiểm → hẹp nhất là ICC (B).",
+      "whyCorrect": "Bảng 6.2 ghi “total loss of cargo overboard or during loading or unloading” là Y ở ICC (A) và ICC (B), N ở ICC (C). Đây là một trong bốn rủi ro ICC (B) bổ sung so với ICC (C). Vì vậy điều kiện hẹp nhất bảo hiểm tổn thất này là ICC (B).",
+      "whyWrong": {
+        "a": "ICC (C) ghi N cho tổn thất toàn bộ khi rơi xuống biển hoặc khi xếp dỡ.",
+        "c": "ICC (A) cũng bảo hiểm, nhưng không phải điều kiện hẹp nhất đáp ứng yêu cầu.",
+        "d": "Theo Bảng 6.2, ICC (A) và ICC (B) đều bảo hiểm tổn thất toàn bộ khi rơi khỏi tàu hoặc khi xếp dỡ."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-010",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "During one voyage insured on ICC (B), three incidents occur: (1) part of the cargo is jettisoned to save the vessel; (2) cargo is damaged by ship sweat in the hold; (3) cargo in port storage is damaged by an earthquake. According to Table 6.2, which losses are covered?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(1) only"
+      },
+      {
+        "id": "b",
+        "text": "(1) and (2)"
+      },
+      {
+        "id": "c",
+        "text": "(1), (2) and (3)"
+      },
+      {
+        "id": "d",
+        "text": "(1) and (3)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "ICC (B): ném hàng (Y), động đất (Y), mồ hôi tàu (N) → bảo hiểm (1) và (3).",
+      "whyCorrect": "Đối chiếu từng sự kiện với cột ICC-B của Bảng 6.2. Ném hàng xuống biển (jettison) thuộc 6 rủi ro tai nạn lớn – Y. Động đất, núi lửa, sét là một trong bốn rủi ro ICC (B) bổ sung so với C – Y. Mồ hôi tàu, hơi nước hầm tàu (ship sweat) chỉ ICC (A) bảo hiểm – N. Vậy chỉ (1) và (3) được bảo hiểm.",
+      "whyWrong": {
+        "a": "Động đất ở nơi lưu kho cũng được ICC (B) bảo hiểm, nên không chỉ có sự kiện (1).",
+        "b": "Mồ hôi tàu, hơi nước hầm tàu (2) chỉ ICC (A) bảo hiểm; cột ICC-B ghi N.",
+        "c": "ICC (B) không bảo hiểm mồ hôi tàu, nên không thể bảo hiểm cả ba."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario",
+      "classification"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-011",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A buyer wants the narrowest Institute Cargo Clause that covers both lightning damage and the vessel being stranded. Which clause should it choose?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C), because stranding is a major casualty"
+      },
+      {
+        "id": "b",
+        "text": "ICC (A), because lightning is an external cause"
+      },
+      {
+        "id": "c",
+        "text": "ICC (B), because it covers both lightning and stranding"
+      },
+      {
+        "id": "d",
+        "text": "ICC (C) plus WA"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Mắc cạn: A, B, C đều bảo hiểm; sét: A và B bảo hiểm → điều kiện hẹp nhất cho cả hai là ICC (B).",
+      "whyCorrect": "Cần thỏa cả hai rủi ro. Theo Bảng 6.2, “vessel grounded, sunk, or stranded” được cả ba điều kiện bảo hiểm, còn “earthquake, volcano, lightning” chỉ được ICC (A) và ICC (B) bảo hiểm (C ghi N). Điều kiện hẹp nhất bảo hiểm cả hai vì vậy là ICC (B).",
+      "whyWrong": {
+        "a": "ICC (C) bảo hiểm mắc cạn nhưng ghi N cho sét, nên không thỏa cả hai.",
+        "b": "ICC (A) bảo hiểm cả hai, nhưng không phải điều kiện hẹp nhất đáp ứng.",
+        "d": "Không ghép được điều kiện truyền thống với ICC theo cách này; điều kiện ICC cần chọn là ICC (B)."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-peril-coverage-012",
+    "chapter": "C4",
+    "topic": "peril-coverage",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Goods are sold CIF – Incoterms® 2020 and the seller provides only the minimum required cover. After loading on board, cargo is damaged by hook damage and mud grease during the voyage. Which statement is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The seller bears the loss because it chose the minimum cover"
+      },
+      {
+        "id": "b",
+        "text": "The buyer bears the risk, and the loss is covered because CIF insurance covers all transit damage"
+      },
+      {
+        "id": "c",
+        "text": "The buyer bears the risk, and the loss is not covered because hook damage is covered only by ICC (A)"
+      },
+      {
+        "id": "d",
+        "text": "The buyer bears the risk, and the loss is covered under ICC (C) as handling damage"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "CIF: rủi ro thuộc người mua; mức tối thiểu ICC (C) không bảo hiểm móc cẩu/bùn/dầu mỡ (chỉ ICC (A)).",
+      "whyCorrect": "Câu hỏi kết hợp C3 và C4. Theo CIF, rủi ro chuyển cho người mua khi hàng lên tàu ở cảng đi, và mức bảo hiểm tối thiểu là ICC (C). Theo Bảng 6.2, “hook damage, mud grease” chỉ ICC (A) bảo hiểm. Vì vậy tổn thất thuộc rủi ro của người mua và không được bảo hiểm theo đơn ICC (C).",
+      "whyWrong": {
+        "a": "Người bán đã đáp ứng nghĩa vụ CIF bằng ICC (C); rủi ro sau khi hàng lên tàu thuộc người mua.",
+        "b": "Bảo hiểm theo CIF chỉ ở mức tối thiểu ICC (C), không bảo hiểm mọi hư hỏng trong vận chuyển.",
+        "d": "ICC (C) chỉ bảo hiểm 6 rủi ro tai nạn lớn; móc cẩu/bùn/dầu mỡ không nằm trong đó."
+      },
+      "source": "KB §3.8 – CIF; §4.7; §4.5 – Table 6.2"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-trade-risks-001",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which list gives the four major types of risk in foreign trade presented in the cargo insurance chapter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Political, foreign credit, transportation, foreign exchange/transfer"
+      },
+      {
+        "id": "b",
+        "text": "Market, regulatory, documentary, legal"
+      },
+      {
+        "id": "c",
+        "text": "Political, market, documentary, transportation"
+      },
+      {
+        "id": "d",
+        "text": "Foreign credit, market, regulatory, foreign exchange"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "4 loại rủi ro chính: chính trị, tín dụng, vận tải, tỷ giá/chuyển tiền.",
+      "whyCorrect": "Chương bảo hiểm mở đầu bằng bốn loại rủi ro chính trong ngoại thương: rủi ro chính trị (political risk), rủi ro tín dụng (foreign credit risk), rủi ro vận tải (transportation risk) và rủi ro tỷ giá/chuyển tiền (foreign exchange/transfer risk). Bảo hiểm hàng hóa nhắm trực tiếp vào rủi ro vận tải.",
+      "whyWrong": {
+        "b": "Rủi ro thị trường, pháp lý, chứng từ thuộc các danh sách ở C1/C2, không phải bốn rủi ro chính của chương bảo hiểm.",
+        "c": "Rủi ro thị trường và rủi ro chứng từ không nằm trong bốn rủi ro chính; danh sách này thiếu tín dụng và tỷ giá.",
+        "d": "Rủi ro thị trường và pháp lý thuộc 6 nhóm rủi ro của kế hoạch xuất khẩu ở C2, không thuộc bốn rủi ro ở C4."
+      },
+      "source": "KB §4.1 – Four major types of risks"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-trade-risks-002",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Government actions, war, revolution, terrorism and strikes that disrupt international business and may result in cargo confiscation are examples of:",
+    "options": [
+      {
+        "id": "a",
+        "text": "foreign credit risk"
+      },
+      {
+        "id": "b",
+        "text": "transportation risk"
+      },
+      {
+        "id": "c",
+        "text": "political risk"
+      },
+      {
+        "id": "d",
+        "text": "foreign exchange risk"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Hành động của chính phủ, chiến tranh, cách mạng, khủng bố, đình công → rủi ro chính trị.",
+      "whyCorrect": "Slide định nghĩa rủi ro chính trị (political risk) là hành động của chính phủ, chiến tranh, cách mạng, khủng bố và đình công làm gián đoạn kinh doanh quốc tế và có thể dẫn đến việc tịch thu hàng hóa. Mô tả trong đề trùng khớp với định nghĩa này.",
+      "whyWrong": {
+        "a": "Rủi ro tín dụng là người mua nước ngoài không thanh toán hoặc chậm thanh toán, không phải chiến tranh hay tịch thu.",
+        "b": "Rủi ro vận tải là mất mát, hư hỏng hàng trong quá trình vận chuyển, không phải hành động của chính phủ.",
+        "d": "Rủi ro tỷ giá là đồng tiền người mua mất giá hoặc không chuyển được ngoại tệ, không phải tịch thu hàng."
+      },
+      "source": "KB §4.1 – Political risk"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-trade-risks-003",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Foreign credit risk refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "loss of or damage to goods during transit"
+      },
+      {
+        "id": "b",
+        "text": "non-payment or delayed payment by foreign buyers"
+      },
+      {
+        "id": "c",
+        "text": "confiscation of cargo by a foreign government"
+      },
+      {
+        "id": "d",
+        "text": "depreciation of the buyer's currency before payment"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Rủi ro tín dụng (foreign credit risk): người mua nước ngoài không thanh toán hoặc chậm thanh toán.",
+      "whyCorrect": "Slide định nghĩa rủi ro tín dụng nước ngoài (foreign credit risk) là việc người mua nước ngoài không thanh toán (nonpayment) hoặc chậm thanh toán (delayed payment). Đây là rủi ro mà các phương thức thanh toán ở C5 (trả trước, L/C…) giúp quản lý.",
+      "whyWrong": {
+        "a": "Mất mát hoặc hư hỏng hàng trong vận chuyển là rủi ro vận tải (transportation risk).",
+        "c": "Tịch thu hàng hóa bởi chính phủ là một hệ quả của rủi ro chính trị (political risk).",
+        "d": "Đồng tiền người mua mất giá trước khi thanh toán là rủi ro tỷ giá/chuyển tiền."
+      },
+      "source": "KB §4.1 – Foreign credit risk"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-trade-risks-004",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Transportation risk in foreign trade is defined as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the risk that a carrier refuses to accept the goods"
+      },
+      {
+        "id": "b",
+        "text": "the risk that freight rates rise after the contract is signed"
+      },
+      {
+        "id": "c",
+        "text": "the risk that the buyer delays payment after delivery"
+      },
+      {
+        "id": "d",
+        "text": "partial or total loss of, or damage to, goods during transit"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Rủi ro vận tải: mất mát toàn bộ hoặc một phần, hay hư hỏng hàng hóa trong quá trình vận chuyển.",
+      "whyCorrect": "Theo slide, rủi ro vận tải (transportation risk) là tổn thất một phần hoặc toàn bộ, hoặc hư hỏng hàng hóa trong quá trình vận chuyển (during transit). Bảo hiểm hàng hóa (marine/cargo insurance) được thiết kế để bảo vệ tài chính trước chính loại rủi ro này.",
+      "whyWrong": {
+        "a": "Việc người chuyên chở từ chối nhận hàng không phải định nghĩa rủi ro vận tải trên slide.",
+        "b": "Biến động cước vận tải không được slide định nghĩa là rủi ro vận tải; rủi ro vận tải là mất mát/hư hỏng hàng.",
+        "c": "Người mua chậm thanh toán sau khi nhận hàng là rủi ro tín dụng (foreign credit risk), không phải rủi ro vận tải."
+      },
+      "source": "KB §4.1 – Transportation risk"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-trade-risks-005",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter invoices in the buyer's currency with payment in four months. Before payment, the buyer's currency falls sharply against the Vietnamese dong. Which of the four major risks has materialised?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Foreign exchange / transfer risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign credit risk"
+      },
+      {
+        "id": "c",
+        "text": "Political risk"
+      },
+      {
+        "id": "d",
+        "text": "Transportation risk"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Đồng tiền người mua mất giá so với đồng tiền nhà XK trước khi thanh toán → rủi ro tỷ giá/chuyển tiền.",
+      "whyCorrect": "Slide định nghĩa rủi ro tỷ giá/chuyển tiền (foreign exchange/transfer risk) là việc đồng tiền của người mua mất giá so với đồng tiền của nhà xuất khẩu trước khi thanh toán, hoặc không thể mua/chuyển ngoại tệ để thanh toán. Tình huống mô tả đúng vế thứ nhất: đồng tiền người mua giảm giá trước ngày thanh toán.",
+      "whyWrong": {
+        "b": "Người mua vẫn trả đúng số tiền thỏa thuận; vấn đề là giá trị quy đổi giảm, không phải không trả tiền.",
+        "c": "Tình huống không có hành động chính phủ, chiến tranh hay tịch thu hàng hóa.",
+        "d": "Không có mất mát hay hư hỏng hàng trong vận chuyển; tổn thất đến từ biến động tỷ giá."
+      },
+      "source": "KB §4.1 – Foreign exchange / transfer risk; §2.9"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-trade-risks-006",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An importer is willing to pay, but its central bank suddenly prevents it from obtaining and transferring US dollars abroad, so payment cannot be made. Which risk does this illustrate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transportation risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign exchange / transfer risk"
+      },
+      {
+        "id": "c",
+        "text": "Foreign credit risk caused by the buyer's insolvency"
+      },
+      {
+        "id": "d",
+        "text": "Political risk leading to cargo confiscation"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Không thể mua/chuyển ngoại tệ để thanh toán ở nước người mua → rủi ro tỷ giá/chuyển tiền.",
+      "whyCorrect": "Định nghĩa rủi ro tỷ giá/chuyển tiền trên slide gồm cả vế “không thể mua hoặc chuyển ngoại tệ để thanh toán ở nước người mua” (inability to obtain or transfer foreign currency). Người mua sẵn sàng trả nhưng không chuyển được USD ra nước ngoài – đúng vế thứ hai của rủi ro này.",
+      "whyWrong": {
+        "a": "Không có tổn thất hay hư hỏng hàng hóa trong vận chuyển trong tình huống này.",
+        "c": "Người mua có khả năng và sẵn sàng trả tiền; vấn đề không nằm ở việc người mua mất khả năng thanh toán.",
+        "d": "Tình huống không mô tả việc tịch thu hàng hóa; trở ngại nằm ở việc chuyển ngoại tệ."
+      },
+      "source": "KB §4.1 – Foreign exchange / transfer risk"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-trade-risks-007",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Following a revolution in the importing country, the new authorities seize a cargo of Vietnamese rice at the port. Which of the four major risks has materialised?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Foreign credit risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign exchange risk"
+      },
+      {
+        "id": "c",
+        "text": "Transportation risk"
+      },
+      {
+        "id": "d",
+        "text": "Political risk"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Cách mạng và việc chính quyền tịch thu hàng → rủi ro chính trị.",
+      "whyCorrect": "Rủi ro chính trị (political risk) trên slide bao gồm hành động của chính phủ, chiến tranh, cách mạng, khủng bố, đình công làm gián đoạn kinh doanh quốc tế và có thể dẫn đến việc tịch thu hàng hóa (cargo confiscation). Một cuộc cách mạng dẫn đến chính quyền mới tịch thu lô gạo khớp đúng định nghĩa này.",
+      "whyWrong": {
+        "a": "Vấn đề không phải người mua không trả tiền mà là chính quyền tịch thu hàng hóa.",
+        "b": "Không có biến động tỷ giá hay trở ngại chuyển ngoại tệ trong tình huống.",
+        "c": "Hàng không bị tổn thất do sự cố vận chuyển mà bị chính quyền thu giữ vì lý do chính trị."
+      },
+      "source": "KB §4.1 – Political risk"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C4-trade-risks-008",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Of the four major types of risk in foreign trade, which one is directly addressed by marine (cargo) insurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transportation risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign credit risk"
+      },
+      {
+        "id": "c",
+        "text": "Foreign exchange / transfer risk"
+      },
+      {
+        "id": "d",
+        "text": "Market risk"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Bảo hiểm hàng hóa bảo vệ trước mất mát/hư hỏng hàng trong vận chuyển → rủi ro vận tải.",
+      "whyCorrect": "Slide định nghĩa bảo hiểm hàng hóa là sự bảo vệ tài chính trước mất mát hoặc hư hỏng hàng hóa trong quá trình vận chuyển do các rủi ro được bảo hiểm gây ra. Điều này tương ứng trực tiếp với rủi ro vận tải – tổn thất một phần, toàn bộ hoặc hư hỏng hàng trong vận chuyển.",
+      "whyWrong": {
+        "b": "Rủi ro tín dụng (người mua không trả tiền) được quản lý bằng phương thức thanh toán, không phải bảo hiểm hàng hóa.",
+        "c": "Rủi ro tỷ giá liên quan đến giá trị đồng tiền và chuyển ngoại tệ, nằm ngoài phạm vi bảo hiểm hàng hóa.",
+        "d": "Rủi ro thị trường không thuộc bốn rủi ro chính ở C4 và không được bảo hiểm hàng hóa bảo vệ."
+      },
+      "source": "KB §4.1; §4.2 – Marine insurance"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-trade-risks-009",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Classify these three events: (1) the buyer pays 60 days late; (2) containers are washed overboard in a storm; (3) the buyer's currency depreciates before payment. Which classification is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(1) political, (2) transportation, (3) foreign credit"
+      },
+      {
+        "id": "b",
+        "text": "(1) foreign credit, (2) transportation, (3) foreign exchange/transfer"
+      },
+      {
+        "id": "c",
+        "text": "(1) foreign exchange/transfer, (2) political, (3) foreign credit"
+      },
+      {
+        "id": "d",
+        "text": "(1) foreign credit, (2) political, (3) transportation"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Chậm trả → tín dụng; sóng cuốn container → vận tải; đồng tiền người mua mất giá → tỷ giá/chuyển tiền.",
+      "whyCorrect": "Đối chiếu từng sự kiện với định nghĩa trên slide. Người mua trả chậm 60 ngày là chậm thanh toán – rủi ro tín dụng. Container bị sóng cuốn là tổn thất hàng trong vận chuyển – rủi ro vận tải. Đồng tiền người mua mất giá trước khi thanh toán là rủi ro tỷ giá/chuyển tiền. Chỉ phương án B phân loại đúng cả ba.",
+      "whyWrong": {
+        "a": "Chậm thanh toán không phải rủi ro chính trị, và mất giá đồng tiền không phải rủi ro tín dụng.",
+        "c": "Chậm thanh toán là rủi ro tín dụng, còn sóng cuốn hàng là rủi ro vận tải, không phải chính trị.",
+        "d": "Sóng cuốn hàng là rủi ro vận tải chứ không phải chính trị; mất giá đồng tiền là rủi ro tỷ giá."
+      },
+      "source": "KB §4.1 – Four major types of risks"
+    },
+    "tags": [
+      "classification"
+    ]
+  },
+  {
+    "id": "C4-trade-risks-010",
+    "chapter": "C4",
+    "topic": "trade-risks",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An exporter shipping to a new buyer wants to manage two risks of the same transaction: damage to the goods at sea, and the buyer not paying. Which combination of tools from the course addresses each risk?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cargo insurance for both risks, because it covers all losses of the transaction"
+      },
+      {
+        "id": "b",
+        "text": "A letter of credit for damage at sea, and cargo insurance for non-payment"
+      },
+      {
+        "id": "c",
+        "text": "Cargo insurance for transportation risk, and a letter of credit (a bank's promise to pay) for foreign credit risk"
+      },
+      {
+        "id": "d",
+        "text": "An open account for transportation risk, and D/A for foreign credit risk"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bảo hiểm hàng hóa → rủi ro vận tải; L/C (cam kết trả tiền của ngân hàng) → rủi ro tín dụng.",
+      "whyCorrect": "Câu hỏi kết hợp C4 và C5. Bảo hiểm hàng hóa bảo vệ tài chính trước mất mát/hư hỏng hàng trong vận chuyển do rủi ro được bảo hiểm – tức rủi ro vận tải. Rủi ro người mua không trả tiền là rủi ro tín dụng; L/C đưa vào cam kết trả tiền của ngân hàng khi người bán đáp ứng điều kiện, giúp giảm rủi ro này với người mua mới.",
+      "whyWrong": {
+        "a": "Bảo hiểm hàng hóa chỉ bảo vệ hàng trong vận chuyển, không bảo vệ việc người mua không trả tiền.",
+        "b": "Ghép ngược: L/C không bảo vệ hàng trên biển, còn bảo hiểm hàng hóa không bảo vệ rủi ro không thanh toán.",
+        "d": "Ghi sổ không quản lý rủi ro vận tải, và D/A không có ngân hàng bảo đảm thanh toán nên không giảm rủi ro tín dụng."
+      },
+      "source": "KB §4.1; §4.2; §5.5 – L/C definition"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-001",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "The traditional FPA policy corresponds approximately to which Institute Cargo Clause?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (A)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "ICC (B)"
+      },
+      {
+        "id": "d",
+        "text": "No ICC clause"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "FPA (Free of Particular Average) ≈ ICC (C) – mức cơ bản/hẹp.",
+      "whyCorrect": "Bảng so sánh điều kiện truyền thống với Institute Cargo Clauses trên slide ghi: FPA (Free of Particular Average – miễn tổn thất bộ phận) tương ứng ICC (C), mức bảo hiểm cơ bản/hẹp; WA tương ứng ICC (B); AR tương ứng ICC (A). Sự tương ứng này là gần đúng về mức độ bảo hiểm.",
+      "whyWrong": {
+        "a": "ICC (A) tương ứng gần đúng với AR (All Risks) – mức rộng nhất, không phải FPA.",
+        "c": "ICC (B) tương ứng gần đúng với WA (With Average) – mức trung bình, không phải FPA.",
+        "d": "Slide có bảng tương ứng rõ ràng giữa điều kiện truyền thống và ICC: FPA ≈ ICC (C)."
+      },
+      "source": "KB §4.6 – Traditional vs ICC (ERRATA E-05)"
+    },
+    "tags": [
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-002",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "“WA” in traditional cargo policies stands for, and roughly corresponds to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "With (Particular) Average – ICC (B)"
+      },
+      {
+        "id": "b",
+        "text": "Without Average – ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "War Assurance – ICC (A)"
+      },
+      {
+        "id": "d",
+        "text": "With Average – ICC (A)"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "WA = With (Particular) Average – “có tổn thất bộ phận” ≈ ICC (B), mức trung bình.",
+      "whyCorrect": "Theo bảng trên slide, WA là With (Particular) Average – điều kiện bảo hiểm có tổn thất bộ phận, tương ứng gần đúng với ICC (B) ở mức bảo hiểm trung bình (intermediate). FPA ≈ ICC (C) và AR ≈ ICC (A).",
+      "whyWrong": {
+        "b": "WA không phải “Without Average”; điều kiện tương ứng ICC (C) là FPA (miễn tổn thất bộ phận).",
+        "c": "WA không có nghĩa là bảo hiểm chiến tranh; điều kiện tương ứng ICC (A) là AR.",
+        "d": "Tên đúng là With Average, nhưng WA tương ứng ICC (B), không phải ICC (A)."
+      },
+      "source": "KB §4.6; §10 – Glossary (Particular average)"
+    },
+    "tags": [
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-003",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "AR (All Risks) corresponds approximately to which Institute Cargo Clause and coverage level?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (C) – basic/narrow"
+      },
+      {
+        "id": "b",
+        "text": "ICC (B) – intermediate"
+      },
+      {
+        "id": "c",
+        "text": "ICC (A) – broad/widest"
+      },
+      {
+        "id": "d",
+        "text": "ICC (B) – broad/widest"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "AR (All Risks – mọi rủi ro) ≈ ICC (A), mức rộng/rộng nhất.",
+      "whyCorrect": "Bảng điều kiện truyền thống vs ICC trên slide ghi: AR (All Risks – điều kiện bảo hiểm mọi rủi ro) tương ứng ICC (A) với mức bảo hiểm rộng/rộng nhất (broad/widest). Điều này phù hợp với cách tiếp cận “all risks” của ICC (A).",
+      "whyWrong": {
+        "a": "ICC (C) – mức cơ bản/hẹp – tương ứng với FPA, không phải AR (All Risks).",
+        "b": "ICC (B) – mức trung bình – tương ứng với WA, không phải AR (All Risks).",
+        "d": "ICC (B) chỉ ở mức trung bình, không phải mức rộng nhất; mức rộng nhất là ICC (A)."
+      },
+      "source": "KB §4.6 – Traditional vs ICC"
+    },
+    "tags": [
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-004",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which Vietnamese term correctly translates “Free of Particular Average (FPA)” as given on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Điều kiện bảo hiểm mọi rủi ro"
+      },
+      {
+        "id": "b",
+        "text": "Điều kiện bảo hiểm có tổn thất bộ phận"
+      },
+      {
+        "id": "c",
+        "text": "Điều kiện bảo hiểm tổn thất chung"
+      },
+      {
+        "id": "d",
+        "text": "Điều kiện bảo hiểm miễn tổn thất bộ phận"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "FPA = miễn tổn thất bộ phận; WA = có tổn thất bộ phận; AR = mọi rủi ro.",
+      "whyCorrect": "Slide ghi tên tiếng Việt của ba điều kiện truyền thống: FPA – điều kiện bảo hiểm miễn tổn thất bộ phận; WA – điều kiện bảo hiểm có tổn thất bộ phận; AR – điều kiện bảo hiểm mọi rủi ro. “Free of” trong FPA nghĩa là “miễn”.",
+      "whyWrong": {
+        "a": "“Điều kiện bảo hiểm mọi rủi ro” là tên tiếng Việt của AR (All Risks), không phải FPA.",
+        "b": "“Có tổn thất bộ phận” là tên tiếng Việt của WA (With Particular Average), ngược nghĩa với FPA.",
+        "c": "“Tổn thất chung” là general average – một loại tổn thất, không phải tên điều kiện FPA."
+      },
+      "source": "KB §4.6; §10 – Glossary"
+    },
+    "tags": []
+  },
+  {
+    "id": "C4-traditional-vs-icc-005",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which ranking of the traditional cargo policies from widest to narrowest coverage is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AR → WA → FPA"
+      },
+      {
+        "id": "b",
+        "text": "FPA → WA → AR"
+      },
+      {
+        "id": "c",
+        "text": "WA → AR → FPA"
+      },
+      {
+        "id": "d",
+        "text": "AR → FPA → WA"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Từ rộng đến hẹp: AR (≈A) → WA (≈B) → FPA (≈C).",
+      "whyCorrect": "Bảng trên slide gắn mức bảo hiểm với từng điều kiện truyền thống: AR – rộng/rộng nhất (≈ ICC (A)), WA – trung bình (≈ ICC (B)), FPA – cơ bản/hẹp (≈ ICC (C)). Bảng 6.2 cũng cho thấy AR có nhiều Y nhất, sau đó đến WA, rồi FPA.",
+      "whyWrong": {
+        "b": "Đây là thứ tự từ hẹp đến rộng (FPA → WA → AR), ngược với yêu cầu của câu hỏi.",
+        "c": "AR rộng hơn WA, nên trong thứ tự từ rộng đến hẹp, WA không thể đứng đầu.",
+        "d": "WA rộng hơn FPA, nên trong thứ tự từ rộng đến hẹp, FPA không thể đứng trước WA."
+      },
+      "source": "KB §4.6; §4.5 – Table 6.2"
+    },
+    "tags": [
+      "sequencing",
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-006",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "How exact is the correspondence FPA ≈ ICC (C), WA ≈ ICC (B), AR ≈ ICC (A) according to the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Exact: each pair covers identical perils"
+      },
+      {
+        "id": "b",
+        "text": "Approximate: it matches the level of coverage, but Table 6.2 shows differences between the pairs"
+      },
+      {
+        "id": "c",
+        "text": "It applies only to sea transport after 2020"
+      },
+      {
+        "id": "d",
+        "text": "It is reversed: FPA ≈ ICC (A) and AR ≈ ICC (C)"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Tương ứng FPA≈C, WA≈B, AR≈A chỉ là gần đúng về mức bảo hiểm; Bảng 6.2 cho thấy có khác biệt.",
+      "whyCorrect": "KB nhấn mạnh sự tương ứng giữa điều kiện truyền thống và ICC chỉ là gần đúng (approximate), xét về mức độ bảo hiểm. Bảng 6.2 cho thấy các cặp không hoàn toàn trùng nhau – có những dòng WA/FPA khác với ICC-B/C. Vì vậy chỉ nên dùng mối tương ứng để so sánh mức bảo hiểm (ERRATA E-05).",
+      "whyWrong": {
+        "a": "Bảng 6.2 cho thấy các cặp không bảo hiểm hoàn toàn giống nhau, nên tương ứng không phải tuyệt đối.",
+        "c": "Slide không giới hạn mối tương ứng theo phương thức vận tải hay năm Incoterms.",
+        "d": "Mối tương ứng không đảo ngược: FPA hẹp nhất ≈ ICC (C), AR rộng nhất ≈ ICC (A)."
+      },
+      "source": "KB §4.6 – Note (ERRATA E-05)"
+    },
+    "tags": [
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-007",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to Table 6.2, which perils are covered by WA in addition to those covered by FPA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Collision, jettison, discharge at port, general average"
+      },
+      {
+        "id": "b",
+        "text": "Fresh water, hook damage, pilferage, ship sweat"
+      },
+      {
+        "id": "c",
+        "text": "Earthquake/volcano/lightning, entry of water, total loss overboard or during loading/unloading, washing overboard"
+      },
+      {
+        "id": "d",
+        "text": "Contact with other cargo, deliberate damage, improper stowage"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "WA thêm so với FPA: động đất/núi lửa/sét, nước tràn vào, tổn thất toàn bộ khi rơi/xếp dỡ, sóng cuốn.",
+      "whyCorrect": "Trong Bảng 6.2, bốn rủi ro “earthquake, volcano, lightning”, “entry of sea, lake, or river water…”, “total loss of cargo overboard or during loading or unloading” và “washing overboard” ghi Y ở WA và N ở FPA. Đây cũng chính là bốn rủi ro ICC (B) thêm so với ICC (C), phù hợp tương ứng WA≈B, FPA≈C.",
+      "whyWrong": {
+        "a": "Đây là các rủi ro tai nạn lớn mà cả FPA lẫn WA đều bảo hiểm.",
+        "b": "Nước ngọt, móc cẩu, mất cắp một phần, mồ hôi tàu ghi N ở cả WA và FPA.",
+        "d": "Va chạm hàng khác, cố ý phá hoại, xếp hàng sai cách ghi N ở cả WA và FPA; chỉ AR bảo hiểm."
+      },
+      "source": "KB §4.5 – Table 6.2"
+    },
+    "tags": [
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-008",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An old contract template says “Insurance: WA”. The parties want to update it to the closest Institute Cargo Clause in terms of coverage level. Which clause should they use?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ICC (A)"
+      },
+      {
+        "id": "b",
+        "text": "ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "All Risks"
+      },
+      {
+        "id": "d",
+        "text": "ICC (B)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "WA ≈ ICC (B) về mức bảo hiểm (trung bình).",
+      "whyCorrect": "Theo bảng trên slide, WA (With Particular Average – có tổn thất bộ phận) tương ứng gần đúng với ICC (B), mức bảo hiểm trung bình (intermediate). Khi cập nhật hợp đồng sang Institute Cargo Clauses, điều kiện gần nhất về mức bảo hiểm là ICC (B), dù sự tương ứng chỉ là gần đúng.",
+      "whyWrong": {
+        "a": "ICC (A) tương ứng với AR – mức rộng nhất, cao hơn mức trung bình của WA.",
+        "b": "ICC (C) tương ứng với FPA – mức cơ bản/hẹp, thấp hơn mức trung bình của WA.",
+        "c": "All Risks là điều kiện truyền thống, không phải Institute Cargo Clause; nó rộng hơn WA."
+      },
+      "source": "KB §4.6 (ERRATA E-05)"
+    },
+    "tags": [
+      "scenario",
+      "errata-E05"
+    ]
+  },
+  {
+    "id": "C4-traditional-vs-icc-009",
+    "chapter": "C4",
+    "topic": "traditional-vs-icc",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A buyer's existing policy is on FPA terms. It wants to upgrade so that damage by fresh water and by hook damage/mud grease is covered. Which upgrade achieves this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Change to WA, or ICC (B)"
+      },
+      {
+        "id": "b",
+        "text": "Change to AR, or ICC (A)"
+      },
+      {
+        "id": "c",
+        "text": "Keep FPA but increase the insured amount to 110%"
+      },
+      {
+        "id": "d",
+        "text": "Change to ICC (C)"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Nước ngọt và móc cẩu/bùn/dầu mỡ chỉ AR và ICC (A) bảo hiểm → nâng lên AR hoặc ICC (A).",
+      "whyCorrect": "Câu hỏi kết hợp mối tương ứng truyền thống – ICC với Bảng 6.2. Hai rủi ro “fresh water” và “hook damage, mud grease” ghi Y chỉ ở cột AR và ICC-A; WA, FPA, ICC-B, ICC-C đều ghi N. Vì vậy chỉ việc nâng lên AR (hoặc điều kiện tương đương ICC (A)) mới bảo hiểm được cả hai rủi ro.",
+      "whyWrong": {
+        "a": "Theo Bảng 6.2, WA và ICC (B) đều ghi N cho nước ngọt và cho móc cẩu/bùn/dầu mỡ.",
+        "c": "Tăng số tiền bảo hiểm không mở rộng danh sách rủi ro được bảo hiểm của FPA.",
+        "d": "ICC (C) tương ứng gần đúng với FPA – mức hẹp nhất – nên không bảo hiểm hai rủi ro này."
+      },
+      "source": "KB §4.5 – Table 6.2; §4.6"
+    },
+    "tags": [
+      "scenario",
+      "integrated",
+      "errata-E05"
+    ]
+  }
+]

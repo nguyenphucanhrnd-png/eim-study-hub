@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "C6-art-arbitration-cisg-001",
+    "chapter": "C6",
+    "topic": "art-arbitration-cisg",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "When and where was the CISG adopted?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 January 1988, in Geneva"
+      },
+      {
+        "id": "b",
+        "text": "18 December 2015, in Hanoi"
+      },
+      {
+        "id": "c",
+        "text": "1 January 2017, in Vienna"
+      },
+      {
+        "id": "d",
+        "text": "11 April 1980, in Vienna"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "CISG được thông qua ngày 11/4/1980 tại Vienna; có hiệu lực 1/1/1988.",
+      "whyCorrect": "Slide nêu các mốc của CISG (Công ước Liên Hợp Quốc về Hợp đồng mua bán hàng hóa quốc tế): thông qua ngày 11/4/1980 tại Vienna, Áo; có hiệu lực từ 1/1/1988; Việt Nam gia nhập ngày 18/12/2015; có hiệu lực với Việt Nam từ 1/1/2017.",
+      "whyWrong": {
+        "a": "1/1/1988 là ngày CISG có hiệu lực, không phải ngày thông qua; và nơi thông qua là Vienna.",
+        "b": "18/12/2015 là ngày Việt Nam gia nhập CISG, không phải ngày và nơi thông qua công ước.",
+        "c": "1/1/2017 là ngày CISG có hiệu lực với Việt Nam, không phải ngày thông qua."
+      },
+      "source": "KB §6.14 – CISG"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-arbitration-cisg-002",
+    "chapter": "C6",
+    "topic": "art-arbitration-cisg",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, which options may the parties choose as the applicable law of the contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the law of the seller's country"
+      },
+      {
+        "id": "b",
+        "text": "Incoterms® 2020 or UCP 600"
+      },
+      {
+        "id": "c",
+        "text": "CISG; the law of the seller's country; the law of the buyer's country; or CISG plus the seller's or buyer's law for matters not governed by CISG"
+      },
+      {
+        "id": "d",
+        "text": "Only the law of the country where the arbitration takes place"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Luật áp dụng: CISG; luật nước người bán; luật nước người mua; hoặc CISG + luật nước một bên cho vấn đề CISG không điều chỉnh.",
+      "whyCorrect": "Slide về Điều 12 nêu luật áp dụng có thể là CISG, luật của nước người bán hoặc luật của nước người mua; các biến thể là CISG kết hợp luật nước người bán (cho các vấn đề CISG không điều chỉnh) hoặc CISG kết hợp luật nước người mua.",
+      "whyWrong": {
+        "a": "Luật nước người bán chỉ là một trong nhiều lựa chọn, không phải lựa chọn duy nhất.",
+        "b": "Incoterms và UCP 600 là quy tắc của ICC cho giao hàng và L/C, không phải luật áp dụng cho hợp đồng.",
+        "d": "Slide không giới hạn luật áp dụng vào luật của nơi xét xử trọng tài."
+      },
+      "source": "KB §6.14 – Applicable law"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-arbitration-cisg-003",
+    "chapter": "C6",
+    "topic": "art-arbitration-cisg",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the model arbitration article, how may the arbitration costs be allocated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Always equally between the parties"
+      },
+      {
+        "id": "b",
+        "text": "Borne by the Seller, the Buyer, or both parties in accordance with the arbitral award, as agreed"
+      },
+      {
+        "id": "c",
+        "text": "Always by the losing party's bank"
+      },
+      {
+        "id": "d",
+        "text": "By the insurer under subrogation"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Chi phí trọng tài: do người bán / người mua / hoặc theo phán quyết trọng tài, tùy thỏa thuận.",
+      "whyCorrect": "Mẫu Điều 12 trên slide gồm bốn nội dung: luật áp dụng, giải quyết tranh chấp bằng trọng tài, nơi xét xử trọng tài và chi phí trọng tài. Về chi phí, mẫu điều khoản để các bên chọn: do người bán, do người mua, hoặc do cả hai bên theo phán quyết của trọng tài.",
+      "whyWrong": {
+        "a": "Mẫu điều khoản không bắt buộc chia đôi; các bên có thể chọn một trong các phương án đã nêu.",
+        "c": "Ngân hàng không phải bên chịu chi phí trọng tài; chi phí do các bên mua bán chịu theo thỏa thuận.",
+        "d": "Thế quyền là nguyên tắc bảo hiểm, không liên quan đến chi phí trọng tài trong tranh chấp hợp đồng."
+      },
+      "source": "KB §6.14 – Arbitration costs"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-arbitration-cisg-004",
+    "chapter": "C6",
+    "topic": "art-arbitration-cisg",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A draft contract's Article 12 reads only: “All disputes shall be settled by arbitration.” Which elements recommended by the slides are missing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The insured amount and the insurance conditions"
+      },
+      {
+        "id": "b",
+        "text": "The penalty rate and its cap"
+      },
+      {
+        "id": "c",
+        "text": "The vessel name and the ETA"
+      },
+      {
+        "id": "d",
+        "text": "The applicable law (e.g. CISG), the place of arbitration and the allocation of arbitration costs"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Điều khoản trọng tài cần: luật áp dụng, nơi xét xử trọng tài, chi phí trọng tài (bên cạnh việc chọn trọng tài).",
+      "whyCorrect": "Câu hỏi kết hợp mẫu Điều 12 với danh sách lỗi thường gặp. Mẫu điều khoản trên slide gồm: (1) luật áp dụng (CISG hoặc luật nước một bên…); (2) giải quyết tranh chấp bằng trọng tài; (3) nơi xét xử trọng tài; (4) chi phí trọng tài. Điều khoản trong đề chỉ có ý (2). Danh sách lỗi cũng nêu: trọng tài mà không có luật áp dụng/nơi xét xử là một lỗi.",
+      "whyWrong": {
+        "a": "Số tiền và điều kiện bảo hiểm thuộc Điều 9, không phải các yếu tố còn thiếu của điều khoản trọng tài.",
+        "b": "Mức phạt và mức trần thuộc Điều 11, không phải nội dung của điều khoản trọng tài.",
+        "c": "Tên tàu và ETA thuộc thông báo giao hàng ở Điều 6, không liên quan đến giải quyết tranh chấp."
+      },
+      "source": "KB §6.14 – Art. 12 Arbitration; §6.17 – Common mistakes"
+    },
+    "tags": [
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C6-art-claim-001",
+    "chapter": "C6",
+    "topic": "art-claim",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Article 10 (Claim), what are the grounds for a claim?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A rise in the market price after signing"
+      },
+      {
+        "id": "b",
+        "text": "A discrepancy in quantity (damage/shortfall) or quality, or other non-conformities with the contract"
+      },
+      {
+        "id": "c",
+        "text": "The buyer's inability to resell the goods"
+      },
+      {
+        "id": "d",
+        "text": "A change in the exchange rate before payment"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Căn cứ khiếu nại: sai lệch về số lượng (hư hỏng/thiếu hụt) hoặc chất lượng, và các điểm không phù hợp khác.",
+      "whyCorrect": "Slide về Điều 10 – Claim nêu căn cứ khiếu nại (grounds for claim): sai lệch về số lượng (hư hỏng, thiếu hụt) hoặc chất lượng, và các vấn đề khác không phù hợp với hợp đồng. Điều khoản khiếu nại cũng cần quy định thời hạn khiếu nại và hồ sơ khiếu nại.",
+      "whyWrong": {
+        "a": "Biến động giá thị trường là rủi ro thị trường, không phải hàng giao không phù hợp hợp đồng.",
+        "c": "Người mua không bán lại được hàng là rủi ro kinh doanh của người mua, không phải căn cứ khiếu nại người bán.",
+        "d": "Biến động tỷ giá là rủi ro tỷ giá, không phải căn cứ khiếu nại về hàng hóa."
+      },
+      "source": "KB §6.12 – Art. 10 Claim"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-claim-002",
+    "chapter": "C6",
+    "topic": "art-claim",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is listed among the required documents for a claim under Article 10?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The L/C application form"
+      },
+      {
+        "id": "b",
+        "text": "The pro forma invoice"
+      },
+      {
+        "id": "c",
+        "text": "The force majeure certificate"
+      },
+      {
+        "id": "d",
+        "text": "The Survey Report and the Cargo Outturn Report"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Hồ sơ khiếu nại gồm: Letter of Claim, Survey Report, Invoice, B/L, chứng nhận số lượng, chất lượng, Packing List, Report on Receipt of Cargo, Cargo Outturn Report.",
+      "whyCorrect": "Slide liệt kê hồ sơ khiếu nại (required documents for claim): thư khiếu nại (Letter of Claim), biên bản giám định (Survey Report), hóa đơn, vận đơn, giấy chứng nhận số lượng, chất lượng, phiếu đóng gói, biên bản nhận hàng (Report on Receipt of Cargo) và biên bản kết toán hàng với tàu (Cargo Outturn Report).",
+      "whyWrong": {
+        "a": "Đơn mở L/C là chứng từ thanh toán của người mua, không thuộc hồ sơ khiếu nại trên slide.",
+        "b": "Hóa đơn chiếu lệ là chứng từ sơ bộ trước giao dịch; hồ sơ khiếu nại dùng hóa đơn (thương mại).",
+        "c": "Slide không liệt kê giấy chứng nhận bất khả kháng trong hồ sơ khiếu nại về hàng hóa."
+      },
+      "source": "KB §6.12 – Claim documents"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-claim-003",
+    "chapter": "C6",
+    "topic": "art-claim",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A buyer discovers a hidden manufacturing defect in machinery five months after receipt; the contract's defects liability period is twelve months. According to the claim clause model, from when is the claim period for this latent defect counted?",
+    "options": [
+      {
+        "id": "a",
+        "text": "From the date of discovery, within the agreed defects liability period"
+      },
+      {
+        "id": "b",
+        "text": "From the date of the sales contract"
+      },
+      {
+        "id": "c",
+        "text": "From the B/L date, with no limit"
+      },
+      {
+        "id": "d",
+        "text": "Latent defects cannot be claimed at all"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Khuyết tật ẩn: khiếu nại trong [X] kể từ ngày phát hiện, trong thời hạn trách nhiệm đã thỏa thuận.",
+      "whyCorrect": "Slide về thời hạn khiếu nại nêu: khiếu nại về khuyết tật ẩn (latent defects) phải được nộp trong vòng [X] ngày/tháng kể từ ngày phát hiện, với điều kiện còn trong thời hạn trách nhiệm đối với khuyết tật đã thỏa thuận. Khuyết tật phát hiện ở tháng thứ năm vẫn nằm trong thời hạn 12 tháng, nên thời hạn khiếu nại tính từ ngày phát hiện.",
+      "whyWrong": {
+        "b": "Ngày ký hợp đồng không phải mốc tính thời hạn khiếu nại cho khuyết tật ẩn theo mẫu điều khoản trên slide.",
+        "c": "Thời hạn khiếu nại luôn có giới hạn; sau thời hạn trách nhiệm, người bán không còn chịu trách nhiệm.",
+        "d": "Slide có quy định riêng cho khuyết tật ẩn, nên chúng vẫn được khiếu nại trong thời hạn trách nhiệm."
+      },
+      "source": "KB §6.12 – Claim period (latent defects)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C6-art-claim-004",
+    "chapter": "C6",
+    "topic": "art-claim",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A contract's defects liability period ended on 30 June. On 15 July the buyer finds a quality defect and wants to claim, and it has no survey report. Which assessment follows the claim article on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The claim is valid because quality defects can be claimed at any time"
+      },
+      {
+        "id": "b",
+        "text": "The claim is valid as long as the buyer sends a Letter of Claim only"
+      },
+      {
+        "id": "c",
+        "text": "The claim should be made under the force majeure clause instead"
+      },
+      {
+        "id": "d",
+        "text": "After the defects liability period the seller is no longer liable; in any case a claim needs supporting documents such as a Survey Report"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Hết thời hạn trách nhiệm thì người bán không còn chịu trách nhiệm; khiếu nại cũng cần hồ sơ như Survey Report.",
+      "whyCorrect": "Câu hỏi kết hợp thời hạn khiếu nại và hồ sơ khiếu nại. Slide nêu sau khi kết thúc thời hạn trách nhiệm đối với khuyết tật, người bán không còn chịu trách nhiệm. Khuyết tật được phát hiện ngày 15/7, sau khi thời hạn kết thúc ngày 30/6, nên khiếu nại không còn căn cứ. Ngoài ra, hồ sơ khiếu nại cần nhiều chứng từ như Letter of Claim, Survey Report, hóa đơn, B/L…",
+      "whyWrong": {
+        "a": "Slide quy định thời hạn khiếu nại rõ ràng; không thể khiếu nại chất lượng vào bất kỳ lúc nào.",
+        "b": "Thư khiếu nại chỉ là một chứng từ trong hồ sơ, và khiếu nại đã quá thời hạn trách nhiệm.",
+        "c": "Khuyết tật chất lượng không phải sự kiện bất khả kháng; điều khoản bất khả kháng không áp dụng."
+      },
+      "source": "KB §6.12 – Claim period & documents"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-commodity-001",
+    "chapter": "C6",
+    "topic": "art-commodity",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Article 1 (Commodity), how should the goods be described in the contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only by the buyer's internal product code"
+      },
+      {
+        "id": "b",
+        "text": "Generally, so that the seller can substitute similar goods"
+      },
+      {
+        "id": "c",
+        "text": "Simply and exactly"
+      },
+      {
+        "id": "d",
+        "text": "Only in the commercial invoice, not in the contract"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Điều 1: hàng hóa phải được mô tả đơn giản và chính xác.",
+      "whyCorrect": "Slide về Điều 1 – Tên hàng (Commodity) yêu cầu hàng hóa phải được mô tả đơn giản và chính xác (simply and exactly described), gồm tên kỹ thuật và thương mại, tên nhà sản xuất, nước xuất xứ… Mô tả rõ ràng giúp tránh tranh chấp về việc hàng giao có đúng hợp đồng hay không.",
+      "whyWrong": {
+        "a": "Mã sản phẩm nội bộ của người mua không đủ để mô tả hàng; slide yêu cầu tên kỹ thuật, thương mại, nhà sản xuất, xuất xứ.",
+        "b": "Mô tả chung chung để có thể thay thế hàng trái với yêu cầu mô tả đơn giản và chính xác.",
+        "d": "Tên hàng phải được mô tả ngay trong hợp đồng (hoặc phụ lục), không để riêng cho hóa đơn thương mại."
+      },
+      "source": "KB §6.3 – Art. 1 Commodity"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-commodity-002",
+    "chapter": "C6",
+    "topic": "art-commodity",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "When the goods are complex (for example, a list of machine components), where should their description usually be placed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In an appendix to the contract"
+      },
+      {
+        "id": "b",
+        "text": "In the force majeure clause"
+      },
+      {
+        "id": "c",
+        "text": "Only in the L/C application"
+      },
+      {
+        "id": "d",
+        "text": "In the arbitration clause"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Trường hợp đơn giản: liệt kê trong thân hợp đồng; trường hợp phức tạp: mô tả trong phụ lục.",
+      "whyCorrect": "Theo slide về Điều 1, trong trường hợp đơn giản hàng hóa được liệt kê ngay trong thân hợp đồng; trong trường hợp phức tạp, phần mô tả thường được đưa vào phụ lục (appendix) của hợp đồng. Phụ lục giúp mô tả đầy đủ mà không làm thân hợp đồng quá dài.",
+      "whyWrong": {
+        "b": "Điều khoản bất khả kháng xử lý sự kiện không lường trước được, không phải nơi mô tả hàng hóa.",
+        "c": "Đơn xin mở L/C là chứng từ thanh toán của người mua; mô tả hàng phải nằm trong chính hợp đồng.",
+        "d": "Điều khoản trọng tài quy định giải quyết tranh chấp, không dùng để mô tả hàng hóa phức tạp."
+      },
+      "source": "KB §6.3 – Art. 1 Commodity"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-commodity-003",
+    "chapter": "C6",
+    "topic": "art-commodity",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A draft contract states only: “Commodity: Coffee.” Which improvement best follows the guidance for Article 1?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Add the price per tonne next to the word “Coffee”"
+      },
+      {
+        "id": "b",
+        "text": "Add the technical and commercial name, the manufacturer and the country of origin, e.g. “Vietnam Robusta coffee beans, grade …, produced by …”"
+      },
+      {
+        "id": "c",
+        "text": "Add “or similar goods at the seller's choice”"
+      },
+      {
+        "id": "d",
+        "text": "Leave it unchanged, because quality is covered in Article 2"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Tên hàng phải mô tả chính xác: tên kỹ thuật & thương mại, nhà sản xuất, nước xuất xứ…",
+      "whyCorrect": "Slide yêu cầu tên hàng được mô tả đơn giản và chính xác, ghi tên kỹ thuật và tên thương mại, tên nhà sản xuất, nước xuất xứ… Chỉ ghi “Coffee” là quá chung chung: không rõ loại, xuất xứ, nhà sản xuất. Bổ sung các thông tin này giúp xác định đúng hàng hóa được mua bán.",
+      "whyWrong": {
+        "a": "Giá thuộc Điều 5 (Price); thêm giá không làm tên hàng được mô tả chính xác hơn.",
+        "c": "Cho phép người bán giao “hàng tương tự” làm mô tả mơ hồ hơn, trái với yêu cầu mô tả chính xác.",
+        "d": "Điều 2 quy định chất lượng, nhưng Điều 1 vẫn phải mô tả chính xác tên hàng; hai điều khoản bổ sung cho nhau."
+      },
+      "source": "KB §6.3 – Art. 1 Commodity"
+    },
+    "tags": [
+      "scenario",
+      "contract-errors"
+    ]
+  },
+  {
+    "id": "C6-art-delivery-001",
+    "chapter": "C6",
+    "topic": "art-delivery",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which time-of-delivery clause is drafted in line with the recommendations for an international sale contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The goods shall be shipped as soon as possible after signing."
+      },
+      {
+        "id": "b",
+        "text": "The goods shall be shipped subject to the opening of the L/C."
+      },
+      {
+        "id": "c",
+        "text": "The goods shall be shipped between August 1, 2026 and September 30, 2026."
+      },
+      {
+        "id": "d",
+        "text": "The goods shall be shipped promptly, subject to shipping space available."
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Thời gian giao hàng phải là một ngày cố định hoặc một khoảng thời gian cụ thể, không dùng cách diễn đạt chung chung.",
+      "whyCorrect": "Theo Điều 6 (Delivery), thời gian giao hàng phải được quy định rõ dưới dạng một ngày cố định (fixed date) hoặc một khoảng thời gian (period of time). Câu “between August 1, 2026 and September 30, 2026” chính là ví dụ về khoảng thời gian trên slide, giúp hai bên xác định chính xác thời hạn giao hàng mà không phụ thuộc vào sự kiện không chắc chắn.",
+      "whyWrong": {
+        "a": "“As soon as possible” là cách diễn đạt chung chung mà slide khuyến nghị không dùng vì không xác định được thời hạn cụ thể.",
+        "b": "“Subject to the opening of L/C” làm thời gian giao hàng phụ thuộc một sự kiện chưa chắc chắn; slide liệt kê đây là cách ghi không nên dùng.",
+        "d": "Cả “promptly” lẫn “subject to shipping space available” đều nằm trong danh sách cách diễn đạt không nên dùng cho thời gian giao hàng."
+      },
+      "source": "KB §6.8 – Art. 6.2 Time of delivery",
+      "trap": "Tưởng “prompt” hay “ASAP” là đủ rõ ràng."
+    },
+    "tags": [
+      "contract-errors"
+    ]
+  },
+  {
+    "id": "C6-art-delivery-002",
+    "chapter": "C6",
+    "topic": "art-delivery",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Article 6.4 (Notice of delivery), which information may the notice include?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The buyer's credit rating and bank account"
+      },
+      {
+        "id": "b",
+        "text": "The arbitration place and applicable law"
+      },
+      {
+        "id": "c",
+        "text": "The vessel name, mode of transport, ports of loading and destination, date of shipment, ETD and ETA"
+      },
+      {
+        "id": "d",
+        "text": "The insurance premium and the insurer's name"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Thông báo giao hàng có thể gồm: tên tàu, phương thức vận tải, cảng bốc, cảng đến, ngày giao hàng, ETD, ETA.",
+      "whyCorrect": "Slide về Điều 6.4 nêu hợp đồng cần quy định bên thông báo, thời điểm, phương thức và nội dung thông báo. Nội dung có thể gồm tên tàu, phương thức vận tải, cảng bốc hàng, cảng đến, ngày giao hàng, ETD (Estimated Time of Departure) và ETA (Estimated Time of Arrival); thông báo có thể trước và/hoặc sau khi giao hàng.",
+      "whyWrong": {
+        "a": "Xếp hạng tín dụng và tài khoản ngân hàng của người mua không thuộc nội dung thông báo giao hàng.",
+        "b": "Nơi trọng tài và luật áp dụng thuộc Điều 12 – Arbitration, không phải thông báo giao hàng.",
+        "d": "Phí bảo hiểm và tên công ty bảo hiểm thuộc Điều 9; slide không liệt kê chúng trong nội dung thông báo."
+      },
+      "source": "KB §6.8 – 6.4 Notice of delivery"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-delivery-003",
+    "chapter": "C6",
+    "topic": "art-delivery",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "In the slide's delivery example (“FOB Saigon Port, Vietnam – Incoterms® 2020”), which party sends the pre-shipment advice, and when?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The buyer, advising the vessel's name no later than 3 days before the scheduled shipment date"
+      },
+      {
+        "id": "b",
+        "text": "The seller, advising the vessel's name within 24 hours after loading"
+      },
+      {
+        "id": "c",
+        "text": "The carrier, advising the ETA one week before arrival"
+      },
+      {
+        "id": "d",
+        "text": "The seller, advising the B/L number 3 days before shipment"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Ví dụ FOB: người mua báo tên tàu cho người bán ít nhất 3 ngày trước ngày giao hàng dự kiến (qua email).",
+      "whyCorrect": "Trong ví dụ Điều 6 trên slide, thông báo trước khi giao hàng (pre-shipment advice) do người mua gửi: người mua báo cho người bán tên tàu chở hàng không muộn hơn 3 ngày trước ngày giao hàng dự kiến, qua email. Điều này hợp lý vì theo FOB người mua ký hợp đồng vận tải chính và chỉ định tàu.",
+      "whyWrong": {
+        "b": "Thông báo trong vòng 24 giờ sau khi bốc hàng là final shipment advice do người bán gửi, không phải pre-shipment advice.",
+        "c": "Ví dụ trên slide không giao việc thông báo cho người chuyên chở; các thông báo là giữa người mua và người bán.",
+        "d": "Số B/L chỉ có sau khi bốc hàng và nằm trong final shipment advice, không thể báo trước 3 ngày."
+      },
+      "source": "KB §6.8 – Slide example (FOB Saigon)"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-delivery-004",
+    "chapter": "C6",
+    "topic": "art-delivery",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "In the slide's delivery example, what must the seller do after the goods have been loaded on board?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Advise the buyer of the vessel's name at least 3 days before loading"
+      },
+      {
+        "id": "b",
+        "text": "Within 24 hours after loading, advise the buyer by email of the contract no., quantity, weights, measurement, number of packages, invoice value, vessel name and B/L number"
+      },
+      {
+        "id": "c",
+        "text": "Send the buyer an amendment request for the L/C"
+      },
+      {
+        "id": "d",
+        "text": "Wait for the buyer to request the shipping details"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Final shipment advice: người bán thông báo cho người mua qua email trong vòng 24 giờ sau khi bốc hàng.",
+      "whyCorrect": "Ví dụ Điều 6 trên slide quy định thông báo sau khi giao hàng (final shipment advice): trong vòng 24 giờ sau khi hàng đã được bốc lên tàu, người bán báo cho người mua qua email số hợp đồng, số lượng, trọng lượng cả bì, trọng lượng tịnh, thể tích, số kiện, giá trị hóa đơn, tên tàu và số B/L; bên gửi yêu cầu xác nhận đã nhận.",
+      "whyWrong": {
+        "a": "Báo tên tàu 3 ngày trước khi bốc hàng là pre-shipment advice do người mua gửi theo FOB.",
+        "c": "Tu chỉnh L/C không phải nghĩa vụ thông báo giao hàng; nó chỉ cần khi điều kiện L/C phải thay đổi.",
+        "d": "Ví dụ yêu cầu người bán chủ động thông báo trong 24 giờ, không chờ người mua hỏi."
+      },
+      "source": "KB §6.8 – Slide example (final shipment advice)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-delivery-005",
+    "chapter": "C6",
+    "topic": "art-delivery",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Goods are shipped by sea from Haiphong to Busan under “CIF Busan, Korea – Incoterms® 2020”. In Article 6.3 (Place of delivery), which specification is consistent with the Incoterms rule?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Place of delivery: Busan port; port of destination: Haiphong"
+      },
+      {
+        "id": "b",
+        "text": "Place of delivery: the buyer's warehouse in Seoul; port of loading: Busan"
+      },
+      {
+        "id": "c",
+        "text": "Place of delivery: Busan port, because the named place is Busan"
+      },
+      {
+        "id": "d",
+        "text": "Port of shipment/loading (place of delivery): Haiphong; port of destination/discharge: Busan"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Theo CIF, người bán giao hàng lên tàu tại cảng bốc (Hải Phòng); Busan là cảng đích/cảng dỡ.",
+      "whyCorrect": "Câu hỏi kết hợp Điều 6.3 với Incoterms. Slide nêu địa điểm giao hàng phải được ghi theo điều kiện Incoterms đã thỏa thuận (cảng bốc, cảng đến, cảng chuyển tải…). Theo CIF, người bán giao hàng khi hàng đã ở trên tàu tại cảng bốc hàng – Hải Phòng; Busan là cảng đích được ghi trong điều kiện, nơi người bán trả cước đến.",
+      "whyWrong": {
+        "a": "Đảo ngược hai cảng: Hải Phòng là cảng bốc hàng, còn Busan là cảng đích/cảng dỡ.",
+        "b": "Kho ở Seoul không phải điểm giao hàng của CIF, và Busan là cảng đến chứ không phải cảng bốc hàng.",
+        "c": "Nhầm nơi chỉ định của CIF (cảng đích) với nơi giao hàng; theo CIF hàng được giao trên tàu tại cảng đi."
+      },
+      "source": "KB §6.8 – 6.3 Place of delivery; §3.8 – CIF",
+      "trap": "Nghĩ rằng nơi ghi sau CIF là nơi giao hàng."
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-documents-001",
+    "chapter": "C6",
+    "topic": "art-documents",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is listed among the documents the seller may have to provide under Article 8 (Documents)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Certificate of Origin"
+      },
+      {
+        "id": "b",
+        "text": "The buyer's import licence application"
+      },
+      {
+        "id": "c",
+        "text": "The L/C application form"
+      },
+      {
+        "id": "d",
+        "text": "The buyer's tax return"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Điều 8 liệt kê: hóa đơn, B/L, chứng nhận số lượng, chất lượng, phiếu đóng gói, bảo hiểm, C/O, và các giấy chứng nhận khác.",
+      "whyCorrect": "Slide về Điều 8 – Chứng từ nêu người bán cung cấp các chứng từ theo hợp đồng, quy định và điều kiện thanh toán, gồm: hóa đơn thương mại, vận đơn, giấy chứng nhận số lượng, chất lượng, phiếu đóng gói, giấy chứng nhận/đơn bảo hiểm, giấy chứng nhận xuất xứ (C/O), và chứng từ khác như giám định, kiểm dịch thực vật, sức khỏe, hun trùng, khai báo hàng nguy hiểm.",
+      "whyWrong": {
+        "b": "Đơn xin giấy phép nhập khẩu là việc của người mua ở nước nhập khẩu, không phải chứng từ người bán cung cấp.",
+        "c": "Đơn mở L/C do người mua nộp cho ngân hàng phát hành, không thuộc bộ chứng từ của người bán.",
+        "d": "Tờ khai thuế của người mua không phải chứng từ thương mại trong danh sách Điều 8."
+      },
+      "source": "KB §6.10 – Art. 8 Documents"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-documents-002",
+    "chapter": "C6",
+    "topic": "art-documents",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In the slide's “Payment & Documents” example, which bill of lading is required?",
+    "options": [
+      {
+        "id": "a",
+        "text": "One original received-for-shipment B/L, consigned to the Buyer"
+      },
+      {
+        "id": "b",
+        "text": "A full set of 3/3 original clean on-board B/Ls, made out to order of the L/C opening bank, marked Freight Prepaid, notify the Buyer"
+      },
+      {
+        "id": "c",
+        "text": "A copy of a straight B/L, freight collect"
+      },
+      {
+        "id": "d",
+        "text": "A bearer B/L issued by the freight forwarder"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Ví dụ: full set 3/3 original clean on-board B/L, to order of L/C opening bank, Freight Prepaid, notify the Buyer.",
+      "whyCorrect": "Ví dụ “Payment & Documents” trên slide yêu cầu: trọn bộ 3/3 bản gốc vận đơn sạch đã xếp hàng (clean on-board B/L), lập theo lệnh của ngân hàng mở L/C (to order of L/C opening bank), ghi “Freight Prepaid” và bên được thông báo là người mua. Lập theo lệnh ngân hàng mở L/C giúp ngân hàng kiểm soát hàng qua chứng từ.",
+      "whyWrong": {
+        "a": "Ví dụ yêu cầu vận đơn đã xếp hàng (on-board), trọn bộ bản gốc và theo lệnh ngân hàng, không phải received-for-shipment.",
+        "c": "Ví dụ yêu cầu bản gốc vận đơn theo lệnh và ghi Freight Prepaid, không phải bản sao vận đơn đích danh.",
+        "d": "Ví dụ yêu cầu vận đơn theo lệnh ngân hàng mở L/C, không phải vận đơn vô danh (bearer)."
+      },
+      "source": "KB §6.10 – Example (Payment & Documents)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-documents-003",
+    "chapter": "C6",
+    "topic": "art-documents",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "The slide's contract example requires documents to be presented within 20 days after shipment, while the L/C chapter refers to presentation no later than 21 days after shipment. How should this be understood?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It is a contradiction; the contract term is invalid"
+      },
+      {
+        "id": "b",
+        "text": "The 21-day limit always overrides the contract, so 21 days apply"
+      },
+      {
+        "id": "c",
+        "text": "21 days is the general limit; a contract or L/C may set a shorter period, such as 20 days, which then applies"
+      },
+      {
+        "id": "d",
+        "text": "The seller may choose whichever period it prefers"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "21 ngày là giới hạn chung; hợp đồng/L/C có thể quy định ngắn hơn (20 ngày) – không mâu thuẫn.",
+      "whyCorrect": "Theo ERRATA E-12, ví dụ hợp đồng (20 ngày) và lưu ý về L/C (21 ngày) không mâu thuẫn. 21 ngày là quy tắc chung/giới hạn tối đa; hợp đồng hoặc L/C có thể đặt thời hạn xuất trình ngắn hơn. Khi đã thỏa thuận 20 ngày, người bán phải xuất trình trong 20 ngày sau giao hàng và trong thời hạn hiệu lực.",
+      "whyWrong": {
+        "a": "Thời hạn ngắn hơn giới hạn chung là hợp lệ; KB nêu rõ hai con số không mâu thuẫn.",
+        "b": "Giới hạn 21 ngày là mức tối đa chung; khi hợp đồng/L/C quy định ngắn hơn thì thời hạn ngắn hơn được áp dụng.",
+        "d": "Thời hạn đã thỏa thuận ràng buộc người bán; người bán không được tự chọn thời hạn dài hơn."
+      },
+      "source": "KB §6.10 – Example; §5.5 – Remarks on dates (ERRATA E-12)"
+    },
+    "tags": [
+      "errata-E12",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-documents-004",
+    "chapter": "C6",
+    "topic": "art-documents",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "The slide's contract example requires a “certificate of quantity and quality issued by the manufacturer” and a “C/O issued by VCCI”. Combining this with the chapter on documents, which statement is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Both certificates must always be issued by an independent inspection company"
+      },
+      {
+        "id": "b",
+        "text": "Certificates of quantity/quality may be issued by the producer/seller or an independent organisation, as the contract requires; here the contract names the manufacturer and VCCI"
+      },
+      {
+        "id": "c",
+        "text": "A C/O can never be issued by VCCI because it is a chamber of commerce"
+      },
+      {
+        "id": "d",
+        "text": "The buyer issues the certificate of quality after arrival"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Chứng nhận số lượng/chất lượng do nhà SX/người bán hoặc tổ chức độc lập cấp theo yêu cầu hợp đồng; ví dụ chỉ định nhà SX và VCCI.",
+      "whyCorrect": "Câu hỏi kết hợp C6 và C7. Chương chứng từ nêu giấy chứng nhận số lượng/trọng lượng và chất lượng được cấp bởi nhà sản xuất/người bán hoặc một tổ chức giám định độc lập, theo yêu cầu của hợp đồng. Ví dụ hợp đồng chọn nhà sản xuất làm bên cấp, nên chứng nhận do nhà sản xuất cấp là đúng yêu cầu; C/O được yêu cầu do VCCI cấp.",
+      "whyWrong": {
+        "a": "Slide cho phép nhà sản xuất/người bán cấp chứng nhận khi hợp đồng yêu cầu; không bắt buộc luôn là tổ chức độc lập.",
+        "c": "Ví dụ hợp đồng trên slide yêu cầu chính xác “C/O issued by VCCI”, nên phát biểu này trái với slide.",
+        "d": "Người mua không cấp giấy chứng nhận chất lượng; đây là chứng từ người bán cung cấp theo Điều 8."
+      },
+      "source": "KB §6.10 – Example; §7.7 – Certificates of quantity/quality"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-force-majeure-001",
+    "chapter": "C6",
+    "topic": "art-force-majeure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, force majeure refers to events that are:",
+    "options": [
+      {
+        "id": "a",
+        "text": "unforeseeable, unavoidable and impossible to overcome"
+      },
+      {
+        "id": "b",
+        "text": "foreseeable but expensive to overcome"
+      },
+      {
+        "id": "c",
+        "text": "caused by one party's negligence"
+      },
+      {
+        "id": "d",
+        "text": "any event that reduces a party's profit"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Bất khả kháng: sự kiện không lường trước được, không tránh được và không thể khắc phục.",
+      "whyCorrect": "Slide về Điều 13 nêu bất khả kháng (force majeure) được hiểu là những sự kiện không lường trước được (unforeseeable), không thể tránh được (unavoidable) và không thể khắc phục (impossible to overcome), ví dụ chiến tranh, bạo loạn, đình công, quy định của chính phủ, hỏa hoạn, lũ lụt, bão, động đất…",
+      "whyWrong": {
+        "b": "Sự kiện lường trước được hoặc chỉ tốn kém để khắc phục không thỏa ba đặc điểm của bất khả kháng.",
+        "c": "Sự kiện do lỗi của một bên không phải bất khả kháng; bất khả kháng nằm ngoài khả năng kiểm soát.",
+        "d": "Làm giảm lợi nhuận không đủ để là bất khả kháng; cần đủ ba đặc điểm trên slide."
+      },
+      "source": "KB §6.15 – Art. 13 Force majeure"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-force-majeure-002",
+    "chapter": "C6",
+    "topic": "art-force-majeure",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A typhoon destroys the port where the goods are to be loaded, and shipment becomes impossible for several weeks. According to the force majeure article, what should the seller do, and how may the situation be resolved?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ship from another country without telling the buyer"
+      },
+      {
+        "id": "b",
+        "text": "Pay the late-delivery penalty and keep the contract unchanged"
+      },
+      {
+        "id": "c",
+        "text": "Notify the buyer of the force majeure; the contract may then be terminated or the performance period prolonged"
+      },
+      {
+        "id": "d",
+        "text": "Claim against the buyer under Article 10"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bất khả kháng: thông báo cho bên kia; giải quyết bằng chấm dứt hợp đồng hoặc kéo dài thời hạn thực hiện.",
+      "whyCorrect": "Slide về Điều 13 nêu: các bên phải thông báo sự kiện bất khả kháng (notification), và cách giải quyết là chấm dứt (terminate) hợp đồng hoặc kéo dài (prolong) thời hạn thực hiện. Bão thuộc danh sách sự kiện bất khả kháng điển hình, nên người bán cần thông báo cho người mua và hai bên chọn một trong hai cách giải quyết.",
+      "whyWrong": {
+        "a": "Thông báo là nghĩa vụ trong điều khoản bất khả kháng; tự ý giao hàng từ nước khác không phải cách slide nêu.",
+        "b": "Phạt giao chậm áp dụng trừ trường hợp bất khả kháng; người bán không phải chịu phạt cho sự kiện này.",
+        "d": "Điều 10 dành cho khiếu nại về số lượng/chất lượng hàng, không phải xử lý bất khả kháng."
+      },
+      "source": "KB §6.15 – Art. 13 Force majeure"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C6-art-force-majeure-003",
+    "chapter": "C6",
+    "topic": "art-force-majeure",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which of the following events appears in the typical force majeure list on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A rise in the seller's raw-material prices"
+      },
+      {
+        "id": "b",
+        "text": "A lockout"
+      },
+      {
+        "id": "c",
+        "text": "The buyer's lack of funds"
+      },
+      {
+        "id": "d",
+        "text": "A delay caused by the seller's own staff shortage"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Danh sách bất khả kháng: chiến tranh, bạo loạn, nổi dậy, đình công, đóng cửa nhà máy (lockout), quy định chính phủ, hỏa hoạn, cháy nổ, lũ lụt, bão, động đất…",
+      "whyCorrect": "Slide liệt kê các sự kiện thường được coi là bất khả kháng: chiến tranh, bạo loạn, nổi dậy, đình công, đóng cửa nhà máy (lockout), quy định của chính phủ, hỏa hoạn, cháy nổ, lũ lụt, bão, động đất và các hiện tượng tự nhiên bất thường khác. Lockout có trong danh sách.",
+      "whyWrong": {
+        "a": "Giá nguyên liệu tăng là rủi ro kinh doanh, có thể lường trước và khắc phục, không thuộc danh sách bất khả kháng.",
+        "c": "Người mua thiếu tiền là rủi ro tín dụng của người mua, không phải sự kiện bất khả kháng trên slide.",
+        "d": "Thiếu nhân sự do lỗi tổ chức của người bán không phải sự kiện không lường trước, không tránh được."
+      },
+      "source": "KB §6.15 – Typical list"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-force-majeure-004",
+    "chapter": "C6",
+    "topic": "art-force-majeure",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An earthquake damages the seller's factory, delaying shipment by 20 days. The seller notifies the buyer promptly. The contract has a late-delivery penalty of 0.1% per day, capped at 5%. Combining the force majeure and penalty articles, which outcome is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The seller pays 2% (20 days × 0.1%) because the penalty applies to every delay"
+      },
+      {
+        "id": "b",
+        "text": "The seller pays the 5% cap because the delay was long"
+      },
+      {
+        "id": "c",
+        "text": "The buyer must accept the goods whenever they are shipped, with no other remedy"
+      },
+      {
+        "id": "d",
+        "text": "No penalty is due, because late delivery caused by force majeure is excepted; the parties may prolong the performance period or terminate"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Động đất là bất khả kháng (đã thông báo) → không phạt giao chậm; hai bên kéo dài thời hạn hoặc chấm dứt hợp đồng.",
+      "whyCorrect": "Câu hỏi kết hợp Điều 11 và Điều 13. Điều khoản phạt giao chậm áp dụng trừ trường hợp bất khả kháng. Động đất thuộc danh sách sự kiện bất khả kháng, và người bán đã thông báo kịp thời. Điều 13 nêu không bên nào chịu trách nhiệm cho sự chậm trễ do bất khả kháng gây ra, và cách giải quyết là kéo dài thời hạn thực hiện hoặc chấm dứt hợp đồng.",
+      "whyWrong": {
+        "a": "Phép tính 2% chỉ áp dụng nếu không có bất khả kháng; ở đây ngoại lệ bất khả kháng loại trừ tiền phạt.",
+        "b": "Mức trần chỉ giới hạn tiền phạt khi phạt được áp dụng; sự chậm trễ do bất khả kháng không bị phạt.",
+        "c": "Slide nêu hai hướng giải quyết rõ ràng – chấm dứt hoặc kéo dài thời hạn – không phải chấp nhận vô thời hạn."
+      },
+      "source": "KB §6.13 – Penalty; §6.15 – Force majeure"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-insurance-001",
+    "chapter": "C6",
+    "topic": "art-insurance",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Article 9 (Insurance), under which Incoterms® rules does the seller arrange and pay for cargo insurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "FOB and CFR"
+      },
+      {
+        "id": "b",
+        "text": "CIF and CIP"
+      },
+      {
+        "id": "c",
+        "text": "DAP and DDP"
+      },
+      {
+        "id": "d",
+        "text": "EXW and FCA"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Điều 9: theo CIF & CIP, người bán thu xếp và trả phí bảo hiểm; điều kiện khác, bên chịu rủi ro tự quyết định.",
+      "whyCorrect": "Slide về Điều 9 nêu trách nhiệm bảo hiểm phụ thuộc Incoterms: theo CIF và CIP, người bán chịu trách nhiệm thu xếp và trả phí bảo hiểm hàng hóa; theo các điều kiện khác, bên chịu rủi ro có thể tự mua bảo hiểm theo ý mình, trừ khi hợp đồng có thỏa thuận khác.",
+      "whyWrong": {
+        "a": "FOB và CFR không đặt nghĩa vụ bảo hiểm cho người bán; người mua chịu rủi ro chặng chính và có thể tự mua.",
+        "c": "Theo DAP và DDP người bán chịu rủi ro đến nơi đến nhưng không có nghĩa vụ bảo hiểm.",
+        "d": "Theo EXW và FCA rủi ro chuyển sớm cho người mua và không có nghĩa vụ bảo hiểm của người bán."
+      },
+      "source": "KB §6.11 – Art. 9 Insurance"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-insurance-002",
+    "chapter": "C6",
+    "topic": "art-insurance",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A CIF contract has a total contract value of USD 250,000. The insurance clause requires cover for 110% of the contract value. What insured amount must be stated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 250,000"
+      },
+      {
+        "id": "b",
+        "text": "USD 262,500"
+      },
+      {
+        "id": "c",
+        "text": "USD 300,000"
+      },
+      {
+        "id": "d",
+        "text": "USD 275,000"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Số tiền bảo hiểm = 110% × USD 250,000 = USD 275,000.",
+      "whyCorrect": "Điều 9 nêu hợp đồng cần ghi số tiền bảo hiểm, ví dụ 110% giá trị hợp đồng/giá CIF. Với tổng giá trị USD 250,000, số tiền bảo hiểm là 250,000 × 110% = USD 275,000. Theo CIF, người bán là bên thu xếp và trả phí cho bảo hiểm này.",
+      "whyWrong": {
+        "a": "USD 250,000 chỉ là 100% giá trị hợp đồng, thấp hơn mức 110% đã thỏa thuận.",
+        "b": "USD 262,500 tương ứng 105% giá trị hợp đồng, chưa đạt mức 110% của điều khoản bảo hiểm.",
+        "c": "USD 300,000 tương ứng 120% giá trị hợp đồng, vượt mức 110% đã thỏa thuận."
+      },
+      "source": "KB §6.11 – Art. 9 Insurance (110% of contract/CIF value)",
+      "extNote": "[EXT] Incoterms® 2020 CIF/CIP A5: mức bảo hiểm tối thiểu 110% giá hợp đồng, bằng đồng tiền của hợp đồng."
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "insured-amount",
+      "inputs": {
+        "value": 250000,
+        "percent": 110
+      },
+      "expected": 275000
+    }
+  },
+  {
+    "id": "C6-art-insurance-003",
+    "chapter": "C6",
+    "topic": "art-insurance",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A CIF contract's insurance article reads only: “Insurance: to be covered by the Seller.” Which information recommended by the slides is missing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nothing, because CIF already fixes every insurance detail"
+      },
+      {
+        "id": "b",
+        "text": "The B/L number and the vessel name"
+      },
+      {
+        "id": "c",
+        "text": "The insurance conditions (ICC A/B/C), the insured amount (e.g. 110%), the currency, the insured risks and where claims are payable"
+      },
+      {
+        "id": "d",
+        "text": "The buyer's obligation to pay half of the premium"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Điều 9 cần ghi: điều kiện ICC, số tiền bảo hiểm, đồng tiền, rủi ro được bảo hiểm, nơi trả bồi thường.",
+      "whyCorrect": "Câu hỏi kết hợp Điều 9 với cách soạn hợp đồng. Slide nêu ngoài việc xác định bên mua bảo hiểm (theo CIF là người bán), hợp đồng cần quy định phạm vi bảo hiểm: điều kiện bảo hiểm (ICC (A), (B), (C)…), số tiền bảo hiểm (ví dụ 110% giá trị hợp đồng/CIF), đồng tiền bảo hiểm, rủi ro được bảo hiểm và nơi trả tiền bồi thường. Điều khoản trong đề thiếu toàn bộ phần này.",
+      "whyWrong": {
+        "a": "CIF chỉ quy định người bán mua bảo hiểm tối thiểu ICC (C); số tiền, đồng tiền, nơi bồi thường vẫn cần thỏa thuận.",
+        "b": "Tên tàu và số B/L thuộc nội dung thông báo giao hàng, không phải điều khoản bảo hiểm.",
+        "d": "Theo CIF người bán trả phí bảo hiểm; chia đôi phí không phải khuyến nghị của slide."
+      },
+      "source": "KB §6.11 – Art. 9 Insurance; §3.8 – CIF"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-other-001",
+    "chapter": "C6",
+    "topic": "art-other",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "A contract is made in English and Vietnamese. According to the model “Other terms” article, which version prevails in case of discrepancy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Vietnamese version"
+      },
+      {
+        "id": "b",
+        "text": "Whichever version was signed first"
+      },
+      {
+        "id": "c",
+        "text": "The English version"
+      },
+      {
+        "id": "d",
+        "text": "The version chosen by the arbitrator"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Ngôn ngữ: tiếng Anh [và tiếng Việt]; nếu có khác biệt, bản tiếng Anh được ưu tiên.",
+      "whyCorrect": "Mẫu Điều 14 – Điều khoản khác trên slide quy định về ngôn ngữ: hợp đồng được lập bằng tiếng Anh [và tiếng Việt]; trong trường hợp có khác biệt giữa hai bản, bản tiếng Anh được ưu tiên áp dụng (the English version shall prevail).",
+      "whyWrong": {
+        "a": "Mẫu điều khoản trên slide ưu tiên bản tiếng Anh, không phải bản tiếng Việt.",
+        "b": "Thứ tự ký không quyết định bản ưu tiên; mẫu điều khoản chỉ định trực tiếp bản tiếng Anh.",
+        "d": "Mẫu điều khoản không để trọng tài viên chọn bản ngôn ngữ; nó đã quy định bản tiếng Anh."
+      },
+      "source": "KB §6.16 – Art. 14 Language"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-other-002",
+    "chapter": "C6",
+    "topic": "art-other",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "During a phone call, the seller and buyer agree to change the quantity from 1,000 MT to 1,200 MT, but nothing is put in writing. Under the model “Amendments” clause, is the change valid?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because both parties agreed orally"
+      },
+      {
+        "id": "b",
+        "text": "No, because amendments are valid only if made in writing and signed by both parties"
+      },
+      {
+        "id": "c",
+        "text": "Yes, if the buyer confirms by email alone"
+      },
+      {
+        "id": "d",
+        "text": "No, because quantity can never be amended"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Sửa đổi hợp đồng chỉ có giá trị khi bằng văn bản và có chữ ký của cả hai bên.",
+      "whyCorrect": "Mẫu Điều 14 trên slide nêu: mọi sửa đổi, bổ sung hợp đồng chỉ có giá trị khi được lập bằng văn bản và có chữ ký của cả hai bên (in writing and signed by both Parties). Thỏa thuận miệng qua điện thoại không đáp ứng yêu cầu này nên việc thay đổi số lượng chưa có hiệu lực.",
+      "whyWrong": {
+        "a": "Thỏa thuận miệng không đáp ứng yêu cầu văn bản có chữ ký của cả hai bên trong điều khoản.",
+        "c": "Email xác nhận của riêng một bên chưa phải văn bản có chữ ký của cả hai bên theo mẫu điều khoản.",
+        "d": "Số lượng có thể được sửa đổi, miễn là việc sửa đổi được lập bằng văn bản và có chữ ký của hai bên."
+      },
+      "source": "KB §6.16 – Amendments"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C6-art-packing-001",
+    "chapter": "C6",
+    "topic": "art-packing",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to Article 4 (Packing & Marking), what should the contract specify about the required packaging?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The materials, sizes and shapes (cases, bales, drums, rolls, bags), package interiors, and the volume and weight of packages"
+      },
+      {
+        "id": "b",
+        "text": "Only the colour and logo of the packaging"
+      },
+      {
+        "id": "c",
+        "text": "The insurance conditions for each package"
+      },
+      {
+        "id": "d",
+        "text": "The penalty for late delivery per package"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Điều 4 ghi rõ: vật liệu, kích cỡ & hình dạng kiện, phần bên trong kiện, thể tích và trọng lượng kiện.",
+      "whyCorrect": "Slide về Điều 4 – Bao bì & Ký mã hiệu yêu cầu quy định bao bì cần thiết như: vật liệu bao bì; kích cỡ và hình dạng (cases, bales, drums, rolls, bags); phần bên trong kiện hàng; và thể tích, trọng lượng kiện hàng nhằm tiết kiệm chi phí vận chuyển.",
+      "whyWrong": {
+        "b": "Màu sắc và logo không phải là nội dung slide liệt kê; điều khoản bao bì cần vật liệu, kích cỡ, hình dạng, thể tích.",
+        "c": "Điều kiện bảo hiểm thuộc Điều 9 (Insurance), không phải điều khoản bao bì và ký mã hiệu.",
+        "d": "Phạt giao hàng chậm được quy định ở Điều 11 (Penalty), không thuộc điều khoản bao bì và ký mã hiệu."
+      },
+      "source": "KB §6.6 – Art. 4 Packing & Marking"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-packing-002",
+    "chapter": "C6",
+    "topic": "art-packing",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Why does the slide recommend that the packing clause specify the volume and weight of packages?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To determine the insured amount"
+      },
+      {
+        "id": "b",
+        "text": "To fix the unit price of the goods"
+      },
+      {
+        "id": "c",
+        "text": "To decide the place of arbitration"
+      },
+      {
+        "id": "d",
+        "text": "To save transportation costs"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Ghi thể tích và trọng lượng kiện hàng để tiết kiệm chi phí vận chuyển.",
+      "whyCorrect": "Slide về Điều 4 nêu rõ mục đích của việc quy định thể tích và trọng lượng kiện hàng là để tiết kiệm chi phí vận chuyển (to save transportation costs). Kích thước và trọng lượng kiện ảnh hưởng đến cách xếp hàng và cước phí vận tải.",
+      "whyWrong": {
+        "a": "Số tiền bảo hiểm được tính theo giá trị hợp đồng/giá CIF (ví dụ 110%), không theo thể tích kiện hàng.",
+        "b": "Đơn giá được quy định ở Điều 5 (Price), không phải mục đích của việc ghi thể tích và trọng lượng kiện.",
+        "c": "Nơi trọng tài thuộc Điều 12, hoàn toàn không liên quan đến kích thước bao bì."
+      },
+      "source": "KB §6.6 – Art. 4 Packing & Marking"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-payment-001",
+    "chapter": "C6",
+    "topic": "art-payment",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Article 7 (Payment) of the sales contract is divided into which three items?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Term, time and place of payment"
+      },
+      {
+        "id": "b",
+        "text": "Currency of payment, method of payment, time of payment"
+      },
+      {
+        "id": "c",
+        "text": "Issuing bank, advising bank, confirming bank"
+      },
+      {
+        "id": "d",
+        "text": "Price, discount, penalty"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Điều 7 – Thanh toán: 7.1 đồng tiền thanh toán; 7.2 phương thức thanh toán; 7.3 thời hạn thanh toán.",
+      "whyCorrect": "Slide chia Điều 7 – Payment thành ba mục: 7.1 đồng tiền thanh toán (currency of payment); 7.2 phương thức thanh toán (method of payment) – T/T, D/A, D/P, L/C…; và 7.3 thời hạn thanh toán (time of payment) – trả trước, trả ngay, trả chậm.",
+      "whyWrong": {
+        "a": "“Term, time, place” là cách chia của Điều 6 – Delivery, không phải Điều 7 – Payment.",
+        "c": "Các ngân hàng chỉ là chi tiết của phương thức thanh toán, không phải ba mục cấu thành Điều 7.",
+        "d": "Giá thuộc Điều 5 và phạt thuộc Điều 11; đây không phải cấu trúc của điều khoản thanh toán."
+      },
+      "source": "KB §6.9 – Art. 7 Payment"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-payment-002",
+    "chapter": "C6",
+    "topic": "art-payment",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, which rules should a contract name as applicable when payment is by documentary credit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Incoterms® 2020"
+      },
+      {
+        "id": "b",
+        "text": "CISG"
+      },
+      {
+        "id": "c",
+        "text": "The Institute Cargo Clauses"
+      },
+      {
+        "id": "d",
+        "text": "UCP 600"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Tín dụng chứng từ: ghi rõ quy tắc áp dụng là UCP 600, vd “irrevocable documentary L/C at sight, subject to UCP 600”.",
+      "whyCorrect": "Slide về Điều 7.2 nêu khi áp dụng, hợp đồng cần ghi rõ các ngân hàng, chứng từ yêu cầu, quy tắc áp dụng – như UCP 600 cho tín dụng chứng từ – và phí ngân hàng cùng bên chịu phí. Ví dụ trên slide: “Payment shall be made by an irrevocable documentary L/C at sight, subject to UCP 600”.",
+      "whyWrong": {
+        "a": "Incoterms® 2020 điều chỉnh việc giao hàng (chi phí, rủi ro), không điều chỉnh thanh toán bằng L/C.",
+        "b": "CISG là luật áp dụng cho hợp đồng mua bán (Điều 12), không phải quy tắc riêng cho tín dụng chứng từ.",
+        "c": "Institute Cargo Clauses là điều kiện bảo hiểm hàng hóa, không liên quan đến L/C."
+      },
+      "source": "KB §6.9 – 7.2 Method of payment"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-payment-003",
+    "chapter": "C6",
+    "topic": "art-payment",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract states: “Payment shall be made 60 days from the date of the Bill of Lading.” Which type of payment timing does this represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Payment in advance"
+      },
+      {
+        "id": "b",
+        "text": "Payment at sight"
+      },
+      {
+        "id": "c",
+        "text": "Deferred payment"
+      },
+      {
+        "id": "d",
+        "text": "Consignment"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Trả tiền vào một ngày tương lai tính từ một sự kiện đã thỏa thuận (ngày B/L) → trả chậm (deferred payment).",
+      "whyCorrect": "Slide về Điều 7.3 phân biệt ba thời hạn thanh toán: trả trước (trước khi giao hàng), trả ngay (khi xuất trình chứng từ phù hợp) và trả chậm (vào một ngày tương lai hoặc trong một thời hạn sau một sự kiện/ngày đã thỏa thuận). “60 days from the date of the B/L” chính là ví dụ trả chậm trên slide.",
+      "whyWrong": {
+        "a": "Trả trước là thanh toán trước khi giao hàng; ở đây tiền được trả 60 ngày sau ngày vận đơn.",
+        "b": "Trả ngay là thanh toán khi xuất trình chứng từ phù hợp, không phải 60 ngày sau ngày B/L.",
+        "d": "Ký gửi là một phương thức bán hàng (trả sau khi bán lại hàng), không phải một thời hạn thanh toán ở Điều 7.3."
+      },
+      "source": "KB §6.9 – 7.3 Time of payment"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-payment-004",
+    "chapter": "C6",
+    "topic": "art-payment",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract provides: “The Buyer and the Seller will bear bank charges in their respective country, but charges for amendment or extension of the L/C will be borne by the party that requires them.” The Japanese buyer asks for the L/C to be amended. Who pays the amendment charges?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Vietnamese seller, because amendments benefit the beneficiary"
+      },
+      {
+        "id": "b",
+        "text": "Each party pays half"
+      },
+      {
+        "id": "c",
+        "text": "The issuing bank, because it amends the L/C"
+      },
+      {
+        "id": "d",
+        "text": "The Japanese buyer, because it requested the amendment"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Phí tu chỉnh/gia hạn L/C do bên yêu cầu chịu → người mua yêu cầu nên người mua trả.",
+      "whyCorrect": "Theo ví dụ Điều 7 trên slide, mỗi bên chịu phí ngân hàng ở nước mình, nhưng phí tu chỉnh (amendment) hoặc gia hạn (extension) L/C do bên yêu cầu chịu. Người mua Nhật Bản là bên yêu cầu tu chỉnh, nên người mua phải trả phí tu chỉnh.",
+      "whyWrong": {
+        "a": "Điều khoản gắn phí với bên yêu cầu, không với bên được lợi; người bán không yêu cầu tu chỉnh.",
+        "b": "Điều khoản không chia đôi phí tu chỉnh; nó giao toàn bộ phí cho bên yêu cầu.",
+        "c": "Ngân hàng phát hành thực hiện tu chỉnh và thu phí; điều khoản quy định bên phải trả phí đó."
+      },
+      "source": "KB §6.9 – Payment example (bank charges)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C6-art-payment-005",
+    "chapter": "C6",
+    "topic": "art-payment",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A draft Payment article reads only: “Payment by L/C.” According to the slides on Article 7 and the common contract mistakes, which additions are needed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The CISG reference and the arbitration place"
+      },
+      {
+        "id": "b",
+        "text": "The type and timing of the L/C (e.g. irrevocable, at sight, % of invoice value), the banks, the required documents, the applicable rules (UCP 600) and who bears bank charges"
+      },
+      {
+        "id": "c",
+        "text": "The insured amount and the insurance conditions"
+      },
+      {
+        "id": "d",
+        "text": "The penalty rate for late payment only"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Điều khoản L/C cần: loại & thời hạn L/C, ngân hàng, chứng từ, quy tắc UCP 600, phí ngân hàng.",
+      "whyCorrect": "Câu hỏi kết hợp Điều 7 với danh sách lỗi thường gặp. Slide nêu khi áp dụng, hợp đồng cần ghi ngân hàng, chứng từ yêu cầu, quy tắc áp dụng (UCP 600) và phí ngân hàng cùng bên chịu; đồng thời ghi thời hạn thanh toán. Danh sách lỗi nêu rõ: phương thức thanh toán thiếu ngân hàng, quy tắc áp dụng hoặc phí ngân hàng là một lỗi. Ví dụ đúng: “irrevocable L/C at sight for 100% of invoice value, subject to UCP 600”.",
+      "whyWrong": {
+        "a": "CISG và nơi trọng tài thuộc Điều 12; chúng không bổ sung được các chi tiết còn thiếu của điều khoản L/C.",
+        "c": "Số tiền và điều kiện bảo hiểm thuộc Điều 9, không phải các chi tiết của phương thức thanh toán L/C.",
+        "d": "Phạt chậm thanh toán thuộc Điều 11; nó không thay thế các chi tiết bắt buộc của L/C."
+      },
+      "source": "KB §6.9 – Art. 7 Payment; §6.17 – Common contract mistakes"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-penalty-001",
+    "chapter": "C6",
+    "topic": "art-penalty",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Under the model penalty article for late delivery, the seller pays:",
+    "options": [
+      {
+        "id": "a",
+        "text": "a fixed amount regardless of the length of the delay"
+      },
+      {
+        "id": "b",
+        "text": "a percentage of the total contract value per month, without limit"
+      },
+      {
+        "id": "c",
+        "text": "[X]% of the value of the undelivered goods for each day of delay, up to a maximum of [Y]%, except in force majeure"
+      },
+      {
+        "id": "d",
+        "text": "nothing, because Incoterms already cover late delivery"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Phạt giao chậm: [X]% giá trị hàng chậm giao mỗi ngày, tối đa [Y]%, trừ bất khả kháng.",
+      "whyCorrect": "Slide về Điều 11 – Penalty nêu: khi giao hàng chậm, trừ trường hợp bất khả kháng, người bán trả tiền phạt [X]% giá trị hàng chưa giao cho mỗi ngày chậm, tối đa [Y]%. Tổng tiền phạt không vượt mức tối đa các bên đã thỏa thuận.",
+      "whyWrong": {
+        "a": "Mẫu điều khoản tính phạt theo số ngày chậm, không phải một khoản cố định bất kể thời gian chậm.",
+        "b": "Mẫu tính trên giá trị hàng chậm giao và có mức trần; phạt không giới hạn là lỗi hợp đồng thường gặp.",
+        "d": "Incoterms không điều chỉnh vi phạm hợp đồng; phạt giao chậm phải do điều khoản Penalty quy định."
+      },
+      "source": "KB §6.13 – Art. 11 Penalty"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-penalty-002",
+    "chapter": "C6",
+    "topic": "art-penalty",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Under the model penalty article for late payment, the buyer's penalty is calculated on:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the overdue unpaid amount, at [X]% per day, up to a maximum of [Y]%"
+      },
+      {
+        "id": "b",
+        "text": "the value of the undelivered goods"
+      },
+      {
+        "id": "c",
+        "text": "the insured amount of the goods"
+      },
+      {
+        "id": "d",
+        "text": "the freight paid by the seller"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Phạt chậm thanh toán: [X]% số tiền quá hạn chưa trả mỗi ngày, tối đa [Y]%.",
+      "whyCorrect": "Slide nêu: khi thanh toán chậm, trừ trường hợp bất khả kháng hoặc các trường hợp đã thỏa thuận, người mua trả tiền phạt [X]% số tiền quá hạn chưa thanh toán (overdue unpaid amount) cho mỗi ngày chậm, tối đa [Y]% số tiền đó. Căn cứ tính là số tiền người mua còn nợ quá hạn.",
+      "whyWrong": {
+        "b": "Giá trị hàng chưa giao là căn cứ tính phạt giao hàng chậm của người bán, không phải của người mua.",
+        "c": "Số tiền bảo hiểm thuộc Điều 9, không liên quan đến cách tính phạt chậm thanh toán.",
+        "d": "Cước vận tải không phải căn cứ tính phạt; căn cứ là số tiền quá hạn chưa trả."
+      },
+      "source": "KB §6.13 – Late payment"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-penalty-003",
+    "chapter": "C6",
+    "topic": "art-penalty",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A seller delivers 10 days late because a flood – listed in the contract's force majeure clause – closed the port, and it duly notified the buyer. Under the model penalty article, must the seller pay the late-delivery penalty?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because the penalty applies to every day of delay"
+      },
+      {
+        "id": "b",
+        "text": "No, because the late-delivery penalty applies except in cases of force majeure"
+      },
+      {
+        "id": "c",
+        "text": "Yes, but only half the agreed rate"
+      },
+      {
+        "id": "d",
+        "text": "No, because penalties apply only to late payment"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Phạt giao chậm áp dụng “trừ trường hợp bất khả kháng” → giao chậm do lũ lụt (FM, đã thông báo) không bị phạt.",
+      "whyCorrect": "Mẫu điều khoản phạt giao chậm trên slide áp dụng “except in cases of force majeure”. Lũ lụt nằm trong danh sách sự kiện bất khả kháng, và điều khoản bất khả kháng nêu không bên nào chịu trách nhiệm cho việc chậm thực hiện trong phạm vi do bất khả kháng gây ra. Người bán đã thông báo đúng, nên không phải trả tiền phạt.",
+      "whyWrong": {
+        "a": "Điều khoản phạt có ngoại lệ bất khả kháng, nên không áp dụng cho mọi ngày chậm trong mọi trường hợp.",
+        "c": "Mẫu điều khoản không có cơ chế giảm một nửa mức phạt; bất khả kháng là ngoại lệ hoàn toàn.",
+        "d": "Điều khoản phạt có cả phạt giao chậm (người bán) và phạt chậm thanh toán (người mua)."
+      },
+      "source": "KB §6.13 – Art. 11 Penalty; §6.15 – Force majeure"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-price-001",
+    "chapter": "C6",
+    "topic": "art-price",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which list gives the five elements of the Price article (Article 5)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Currency of price; trade term (Incoterms®); unit price; total contract value; price adjustment"
+      },
+      {
+        "id": "b",
+        "text": "Currency of payment; method of payment; time of payment; banks; charges"
+      },
+      {
+        "id": "c",
+        "text": "Term, time, place and notice of delivery; partial shipment"
+      },
+      {
+        "id": "d",
+        "text": "Quantity; tolerance; unit; method of determination; packing"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Điều 5 – Giá: đồng tiền tính giá, Incoterms, đơn giá, tổng giá trị, điều chỉnh giá.",
+      "whyCorrect": "Slide liệt kê 5 yếu tố của Điều 5 – Giá: (1) đồng tiền tính giá; (2) điều kiện thương mại – Incoterms® (rule + version + nơi chỉ định); (3) đơn giá; (4) tổng giá trị hợp đồng bằng số và bằng chữ; (5) điều chỉnh giá nếu có (giá cố định hoặc giá điều chỉnh).",
+      "whyWrong": {
+        "b": "Đồng tiền, phương thức, thời hạn thanh toán, ngân hàng, phí là nội dung Điều 7 – Payment.",
+        "c": "Điều kiện, thời gian, địa điểm, thông báo giao hàng là nội dung Điều 6 – Delivery.",
+        "d": "Số lượng, dung sai, đơn vị, cách xác định là Điều 3; bao bì là Điều 4 – không phải Điều 5."
+      },
+      "source": "KB §6.7 – Art. 5 Price (5 elements)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-price-002",
+    "chapter": "C6",
+    "topic": "art-price",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, how should the total contract value be stated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In figures only"
+      },
+      {
+        "id": "b",
+        "text": "In words only"
+      },
+      {
+        "id": "c",
+        "text": "In figures and in words"
+      },
+      {
+        "id": "d",
+        "text": "Only in the commercial invoice"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Tổng giá trị hợp đồng ghi bằng số và bằng chữ, vd “USD 250,000 – Say: US Dollars Two Hundred and Fifty Thousand Only”.",
+      "whyCorrect": "Slide về yếu tố thứ 4 của Điều 5 nêu tổng giá trị hợp đồng nên được ghi bằng số và, khi phù hợp, bằng chữ, với ví dụ “Total Contract Value: USD 250,000 – Say: US Dollars Two Hundred and Fifty Thousand Only”. Ghi bằng chữ giúp tránh sai sót và sửa chữa con số.",
+      "whyWrong": {
+        "a": "Chỉ ghi bằng số dễ bị nhầm hoặc sửa; danh sách lỗi hợp đồng nêu việc không ghi tổng giá trị bằng chữ là một lỗi.",
+        "b": "Slide yêu cầu ghi tổng giá trị cả bằng số và bằng chữ, không chỉ ghi riêng bằng chữ.",
+        "d": "Tổng giá trị phải được ghi ngay trong hợp đồng (Điều 5), không chỉ trên hóa đơn thương mại."
+      },
+      "source": "KB §6.7 – Total contract value; §6.17"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-price-003",
+    "chapter": "C6",
+    "topic": "art-price",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract sets a unit price of USD 500/MT, CIF Hamburg, Germany – Incoterms® 2020, for 500 MT of goods. What total contract value should be stated?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 25,000"
+      },
+      {
+        "id": "b",
+        "text": "USD 250,000"
+      },
+      {
+        "id": "c",
+        "text": "USD 2,500,000"
+      },
+      {
+        "id": "d",
+        "text": "USD 255,000"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Tổng giá trị = 500 MT × USD 500/MT = USD 250,000 – như ví dụ trên slide.",
+      "whyCorrect": "Tổng giá trị hợp đồng bằng số lượng nhân đơn giá: 500 MT × USD 500/MT = USD 250,000. Đây chính là ví dụ trên slide: đơn giá “USD 500/MT, CIF Hamburg, Germany – Incoterms® 2020” và tổng giá trị “USD 250,000 – Say: US Dollars Two Hundred and Fifty Thousand Only”. Danh sách lỗi hợp đồng nhắc tổng giá trị phải khớp với đơn giá × số lượng.",
+      "whyWrong": {
+        "a": "USD 25,000 sai một chữ số 0 – chỉ tương ứng 50 MT, không phải 500 MT.",
+        "c": "USD 2,500,000 thừa một chữ số 0 – tương ứng 5,000 MT, gấp mười lần số lượng hợp đồng.",
+        "d": "USD 255,000 không bằng đơn giá nhân số lượng; con số này không khớp phép tính 500 × 500."
+      },
+      "source": "KB §6.7 – Unit price & total value; §2.9 – Revenue = Quantity × Price; §6.17"
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "revenue",
+      "inputs": {
+        "quantity": 500,
+        "price": 500
+      },
+      "expected": 250000
+    }
+  },
+  {
+    "id": "C6-art-price-004",
+    "chapter": "C6",
+    "topic": "art-price",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "A contract quotes the price in EUR, but payment is to be made in USD. According to the guidance on the currency of price, what must the contract also specify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nothing, because banks will apply their own rate"
+      },
+      {
+        "id": "b",
+        "text": "The applicable exchange rate and the date for determining it"
+      },
+      {
+        "id": "c",
+        "text": "A higher insured amount to cover exchange risk"
+      },
+      {
+        "id": "d",
+        "text": "That the buyer bears all bank charges"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Đồng tiền tính giá khác đồng tiền thanh toán → phải ghi tỷ giá áp dụng và ngày xác định tỷ giá.",
+      "whyCorrect": "Slide về đồng tiền tính giá nêu: nếu đồng tiền tính giá và đồng tiền thanh toán khác nhau, hợp đồng cần quy định tỷ giá áp dụng và ngày xác định tỷ giá. Thiếu điều khoản này là một lỗi thường gặp, dễ dẫn đến tranh chấp vì giá trị quy đổi thay đổi theo thời gian.",
+      "whyWrong": {
+        "a": "Để ngân hàng tự áp tỷ giá tạo ra sự không chắc chắn; slide yêu cầu ghi rõ tỷ giá và ngày xác định.",
+        "c": "Số tiền bảo hiểm bảo vệ hàng hóa trong vận chuyển, không xử lý được sự khác biệt giữa hai đồng tiền.",
+        "d": "Phân bổ phí ngân hàng là nội dung riêng của điều khoản thanh toán, không thay thế được điều khoản tỷ giá."
+      },
+      "source": "KB §6.7 – Currency of price; §6.9 – Currency of payment; §6.17"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-price-005",
+    "chapter": "C6",
+    "topic": "art-price",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A draft Price article reads: “Unit price: USD 500/MT CIF. Total contract value: USD 250,000.” Which two weaknesses should be corrected?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The unit price must be in VND, and the total must exclude freight"
+      },
+      {
+        "id": "b",
+        "text": "The total must be stated per tonne, and the unit price must be in words"
+      },
+      {
+        "id": "c",
+        "text": "CIF must be replaced by FOB, and a penalty must be added"
+      },
+      {
+        "id": "d",
+        "text": "The trade term lacks the named port and the Incoterms® version, and the total value is not stated in words"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Thiếu cảng chỉ định và version Incoterms®; tổng giá trị chưa ghi bằng chữ.",
+      "whyCorrect": "Đối chiếu với các yếu tố của Điều 5 và danh sách lỗi thường gặp. Điều kiện thương mại phải ghi rule + version + nơi/cảng chỉ định, ví dụ “CIF Hamburg, Germany – Incoterms® 2020”; chỉ ghi “CIF” là lỗi. Tổng giá trị nên ghi bằng số và bằng chữ (“Say: US Dollars Two Hundred and Fifty Thousand Only”). Hai điểm này cần sửa.",
+      "whyWrong": {
+        "a": "Slide khuyến nghị dùng đồng tiền phổ biến, tự do chuyển đổi như USD; tổng giá trị CIF đương nhiên đã gồm cước.",
+        "b": "Tổng giá trị là con số tổng, không tính theo tấn; đơn giá không bắt buộc ghi bằng chữ.",
+        "c": "Không có lý do phải đổi CIF sang FOB; phạt thuộc Điều 11 và không phải lỗi của điều khoản giá."
+      },
+      "source": "KB §6.7 – Art. 5 Price; §6.17 – Common contract mistakes"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-quality-001",
+    "chapter": "C6",
+    "topic": "art-quality",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which list gives the five methods of describing the quality of goods in Article 2?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By weight, by volume, by count, by length, by area"
+      },
+      {
+        "id": "b",
+        "text": "By price, by brand, by origin, by packing, by sample"
+      },
+      {
+        "id": "c",
+        "text": "By samples, by standard, by detailed description, by trademark/brand, by technical documents"
+      },
+      {
+        "id": "d",
+        "text": "By net weight, by gross weight, by surveyor's certificate, by tolerance, by sample"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "5 phương pháp: theo mẫu, theo tiêu chuẩn, theo mô tả chi tiết, theo nhãn hiệu, theo tài liệu kỹ thuật.",
+      "whyCorrect": "Slide về Điều 2 – Chất lượng nêu năm phương pháp mô tả chất lượng: theo mẫu (by samples), theo tiêu chuẩn (by standard), theo mô tả chi tiết (by detailed description), theo nhãn hiệu (by trademark/brand) và theo tài liệu kỹ thuật (by technical documents).",
+      "whyWrong": {
+        "a": "Trọng lượng, thể tích, số đếm… là cách đo số lượng (Điều 3), không phải phương pháp mô tả chất lượng.",
+        "b": "Giá, xuất xứ, bao bì thuộc các điều khoản khác; danh sách này không phải năm phương pháp về chất lượng.",
+        "d": "Trọng lượng tịnh, cả bì, giấy chứng nhận giám định và dung sai thuộc Điều 3 – Số lượng."
+      },
+      "source": "KB §6.4 – Art. 2 Quality (5 methods)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-quality-002",
+    "chapter": "C6",
+    "topic": "art-quality",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "The quality description “Samsung Galaxy S25, Model SM-S931B” is an example of which method of specifying quality?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By trademark/brand"
+      },
+      {
+        "id": "b",
+        "text": "By samples"
+      },
+      {
+        "id": "c",
+        "text": "By standard"
+      },
+      {
+        "id": "d",
+        "text": "By technical documents"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Ghi theo nhãn hiệu, model, mã sản phẩm, phiên bản → phương pháp theo nhãn hiệu (trademark/brand).",
+      "whyCorrect": "Theo slide, phương pháp xác định chất lượng theo nhãn hiệu (by trademark/brand) chỉ dẫn đến một nhãn hiệu đã thỏa thuận, kèm model, mã sản phẩm, phiên bản hoặc thông tin nhận diện khác. Slide dùng chính ví dụ “Samsung Galaxy S25, Model SM-S931B” để minh họa phương pháp này.",
+      "whyWrong": {
+        "b": "Theo mẫu là việc người bán hoặc người mua gửi mẫu hàng cho bên kia; ví dụ không đề cập mẫu hàng nào.",
+        "c": "Theo tiêu chuẩn cần tên tổ chức ban hành, số hiệu, năm/phiên bản tiêu chuẩn, không phải tên thương hiệu và model.",
+        "d": "Theo tài liệu kỹ thuật dựa vào catalogue, bản vẽ, data sheet…; ví dụ chỉ nêu nhãn hiệu và model."
+      },
+      "source": "KB §6.4 – By trademark/brand"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-quality-003",
+    "chapter": "C6",
+    "topic": "art-quality",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract states: “Quality: as per the national standard for cashew kernels.” According to the guidance for specifying quality by standard, what is missing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nothing; naming the standard is sufficient"
+      },
+      {
+        "id": "b",
+        "text": "The price per grade and the currency"
+      },
+      {
+        "id": "c",
+        "text": "The name of the sample keeper and the date of sampling"
+      },
+      {
+        "id": "d",
+        "text": "The issuing organisation, the standard number/code, the year or version, and the grade if applicable"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Theo tiêu chuẩn: ghi tổ chức ban hành, số/mã tiêu chuẩn, năm/phiên bản, cấp hạng (nếu có).",
+      "whyCorrect": "Slide nêu khi xác định chất lượng theo tiêu chuẩn (by standard), hợp đồng cần ghi tên tổ chức ban hành tiêu chuẩn, số hoặc mã tiêu chuẩn, ngày/năm/phiên bản, và cấp hạng/phân loại nếu có. Điều khoản trong đề chỉ nói “tiêu chuẩn quốc gia” chung chung nên chưa xác định được tiêu chuẩn và phiên bản cụ thể.",
+      "whyWrong": {
+        "a": "Một tiêu chuẩn có thể có nhiều phiên bản và cấp hạng; thiếu các thông tin này dễ dẫn đến tranh chấp chất lượng.",
+        "b": "Giá theo từng cấp hạng thuộc Điều 5 (Price), không phải thông tin cần có khi dẫn chiếu tiêu chuẩn chất lượng.",
+        "c": "Người giữ mẫu và ngày lấy mẫu liên quan đến phương pháp theo mẫu, không phải theo tiêu chuẩn."
+      },
+      "source": "KB §6.4 – By standard; §6.17 – Common mistakes"
+    },
+    "tags": [
+      "scenario",
+      "contract-errors"
+    ]
+  },
+  {
+    "id": "C6-art-quality-004",
+    "chapter": "C6",
+    "topic": "art-quality",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract for industrial pumps defines quality by reference to the manufacturer's product data sheet and manufacturing drawings. Which method is used, and what should the contract also specify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By samples; the party that keeps the sample"
+      },
+      {
+        "id": "b",
+        "text": "By technical documents; the relevant version, date and identification number of the documents"
+      },
+      {
+        "id": "c",
+        "text": "By trademark; the brand's country of registration"
+      },
+      {
+        "id": "d",
+        "text": "By detailed description; the colour of the pumps only"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Data sheet, bản vẽ chế tạo → theo tài liệu kỹ thuật; cần ghi phiên bản, ngày, số hiệu tài liệu.",
+      "whyCorrect": "Slide nêu phương pháp xác định chất lượng theo tài liệu kỹ thuật (by technical documents) dựa vào catalogue, thông số kỹ thuật, product data sheet, bản vẽ chế tạo, tiêu chuẩn kỹ thuật… và lưu ý cần ghi rõ phiên bản, ngày và số hiệu của tài liệu khi cần thiết, để tránh tranh cãi tài liệu nào được áp dụng.",
+      "whyWrong": {
+        "a": "Hợp đồng dẫn chiếu tài liệu kỹ thuật chứ không dựa trên mẫu hàng, nên người giữ mẫu không phải trọng tâm.",
+        "c": "Hợp đồng không xác định chất lượng theo nhãn hiệu; nước đăng ký nhãn hiệu không phải nội dung được slide nêu.",
+        "d": "Data sheet và bản vẽ là tài liệu kỹ thuật; chỉ ghi màu sắc là quá thiếu cho máy bơm công nghiệp."
+      },
+      "source": "KB §6.4 – By technical documents"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C6-art-quality-005",
+    "chapter": "C6",
+    "topic": "art-quality",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A draft contract says: “Quality: as per sample.” No further detail is given. Applying the slide's recommendations on quality and the common contract mistakes, what should be added?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A statement that the buyer may reject the goods without reason"
+      },
+      {
+        "id": "b",
+        "text": "The arbitration place, because quality disputes go to arbitration"
+      },
+      {
+        "id": "c",
+        "text": "Who sends the sample (seller or buyer) and who keeps the sample for later comparison"
+      },
+      {
+        "id": "d",
+        "text": "The insured amount, because samples must be insured"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Chất lượng theo mẫu phải nêu bên gửi mẫu và bên giữ mẫu – nếu không là lỗi hợp đồng thường gặp.",
+      "whyCorrect": "Câu hỏi kết hợp phương pháp xác định chất lượng với danh sách lỗi thường gặp. Theo slide, chất lượng theo mẫu có thể do người bán gửi mẫu cho người mua hoặc người mua gửi mẫu cho người bán. Danh sách lỗi hợp đồng nêu rõ: xác định chất lượng theo mẫu mà không ghi ai giữ mẫu là một lỗi. Cần bổ sung bên gửi mẫu và bên giữ mẫu để đối chiếu khi có tranh chấp.",
+      "whyWrong": {
+        "a": "Cho người mua từ chối hàng tùy ý không phải khuyến nghị của slide và không khắc phục được lỗi của điều khoản.",
+        "b": "Nơi trọng tài thuộc Điều 12; nó không bổ sung được thông tin còn thiếu về mẫu hàng.",
+        "d": "Số tiền bảo hiểm thuộc Điều 9 và không liên quan đến việc xác định chất lượng theo mẫu."
+      },
+      "source": "KB §6.4 – By samples; §6.17 – Common contract mistakes"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-art-quantity-001",
+    "chapter": "C6",
+    "topic": "art-quantity",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract states: \"Rice: 1,000 MT more or less 5% at the Buyer's option.\" The buyer exercises its option to take the largest quantity permitted by this clause. What quantity must the seller ship?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1,050 MT – the upper limit of the tolerance, chosen by the buyer"
+      },
+      {
+        "id": "b",
+        "text": "1,000 MT – only the seller may make use of the tolerance"
+      },
+      {
+        "id": "c",
+        "text": "950 MT – a tolerance clause always reduces the quantity"
+      },
+      {
+        "id": "d",
+        "text": "1,100 MT – more or less 5% gives a total range of 10%"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Dung sai ±5% theo lựa chọn của người mua: người mua chọn mức cao nhất là 1,000 × 105% = 1,050 MT.",
+      "whyCorrect": "Điều khoản dung sai (tolerance) cho phép số lượng giao dao động 5% quanh 1,000 MT, tức từ 950 MT đến 1,050 MT. Cụm “at the Buyer's option” xác định người mua là bên được chọn mức giao trong phạm vi này. Khi người mua chọn mức lớn nhất, người bán phải giao 1,000 × (1 + 5%) = 1,050 MT.",
+      "whyWrong": {
+        "b": "Điều khoản ghi rõ “at the Buyer's option”, nên người mua – không phải người bán – được quyền chọn số lượng trong phạm vi dung sai.",
+        "c": "Dung sai “more or less” cho phép cả tăng lẫn giảm; 950 MT là giới hạn dưới, không phải mức lớn nhất người mua đã chọn.",
+        "d": "“More or less 5%” nghĩa là tối đa thêm 5% so với 1,000 MT; 10% là độ rộng cả khoảng, không phải mức tăng cho phép."
+      },
+      "source": "KB §6.5 – Art. 3 Quantity (Tolerance)",
+      "trap": "Quên xác định bên được quyền chọn (seller's/buyer's option)."
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "tolerance-max",
+      "inputs": {
+        "quantity": 1000,
+        "percent": 5
+      },
+      "expected": 1050
+    }
+  },
+  {
+    "id": "C6-art-quantity-002",
+    "chapter": "C6",
+    "topic": "art-quantity",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the units of measurement on the slides, one long ton (LT) equals:",
+    "options": [
+      {
+        "id": "a",
+        "text": "1,000 kg"
+      },
+      {
+        "id": "b",
+        "text": "907.18 kg"
+      },
+      {
+        "id": "c",
+        "text": "1,016.05 kg"
+      },
+      {
+        "id": "d",
+        "text": "1,100 kg"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "LT (long ton) = 1,016.05 kg; MT = 1,000 kg; ST (short ton) = 907.18 kg.",
+      "whyCorrect": "Slide về Điều 3 – Số lượng liệt kê các đơn vị đo: MT (metric ton) = 1,000 kg; LT (long ton) = 1,016.05 kg; ST (short ton) = 907.18 kg; cùng lb, mét, yard. Vì vậy một long ton bằng 1,016.05 kg – nặng hơn tấn mét hệ một chút.",
+      "whyWrong": {
+        "a": "1,000 kg là một tấn mét hệ (metric ton – MT), không phải long ton.",
+        "b": "907.18 kg là một short ton (ST), đơn vị nhẹ hơn cả MT và LT.",
+        "d": "Slide không liệt kê đơn vị nào bằng 1,100 kg; theo slide, một long ton bằng 1,016.05 kg."
+      },
+      "source": "KB §6.5 – Art. 3 Quantity (units)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-art-quantity-003",
+    "chapter": "C6",
+    "topic": "art-quantity",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract states: “Rice: 2,000 MT more or less 5% at the Seller's option.” What is the minimum quantity the seller may deliver while still complying with the contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1,900 MT"
+      },
+      {
+        "id": "b",
+        "text": "1,950 MT"
+      },
+      {
+        "id": "c",
+        "text": "2,000 MT"
+      },
+      {
+        "id": "d",
+        "text": "1,800 MT"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Giới hạn dưới của dung sai: 2,000 × (1 − 5%) = 1,900 MT, do người bán lựa chọn.",
+      "whyCorrect": "Điều khoản dung sai (tolerance) “more or less 5% at the Seller's option” cho phép người bán giao trong khoảng 5% quanh 2,000 MT. Giới hạn dưới là 2,000 × (1 − 0.05) = 1,900 MT và giới hạn trên là 2,100 MT. Vì quyền chọn thuộc người bán, giao 1,900 MT vẫn phù hợp hợp đồng.",
+      "whyWrong": {
+        "b": "1,950 MT chỉ ứng với mức giảm 2.5%; giới hạn dưới của dung sai 5% thấp hơn, là 1,900 MT.",
+        "c": "2,000 MT là số lượng danh nghĩa; dung sai cho phép giao ít hơn số này đến 5%.",
+        "d": "1,800 MT tương ứng mức giảm 10%, vượt quá dung sai 5% mà hợp đồng cho phép."
+      },
+      "source": "KB §6.5 – Art. 3 Quantity (tolerance)"
+    },
+    "tags": [
+      "calculation",
+      "scenario"
+    ],
+    "calc": {
+      "kind": "tolerance-min",
+      "inputs": {
+        "quantity": 2000,
+        "percent": 5
+      },
+      "expected": 1900
+    }
+  },
+  {
+    "id": "C6-art-quantity-004",
+    "chapter": "C6",
+    "topic": "art-quantity",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Which quantity clause is the most complete according to the guidance for Article 3?",
+    "options": [
+      {
+        "id": "a",
+        "text": "“Quantity: about 1,000 tons of rice.”"
+      },
+      {
+        "id": "b",
+        "text": "“Quantity: 1,000 MT of rice, more or less 5%.”"
+      },
+      {
+        "id": "c",
+        "text": "“Quantity: 1,000 MT of rice, more or less 5% at the Buyer's option, based on net weight as per the weight certificate issued by an independent surveyor.”"
+      },
+      {
+        "id": "d",
+        "text": "“Quantity: rice as available, to be confirmed by the seller after harvest.”"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Điều khoản số lượng đầy đủ: số lượng + đơn vị, dung sai và bên được chọn, phương pháp xác định số lượng.",
+      "whyCorrect": "Câu hỏi đòi hỏi kết hợp ba yêu cầu trên slide. Điều 3 cần ghi số lượng chính xác với đơn vị đo rõ ràng (MT); dung sai phải nêu bên được quyền chọn (“at the Buyer's option”) – thiếu điều này là một lỗi thường gặp; và phương pháp xác định số lượng (trọng lượng tịnh, theo giấy chứng nhận của giám định viên độc lập). Chỉ phương án C có đủ cả ba.",
+      "whyWrong": {
+        "a": "“About” và “tons” không rõ ràng: không nêu dung sai cụ thể, bên được chọn, loại tấn hay cách xác định số lượng.",
+        "b": "Có dung sai nhưng không nêu bên được quyền chọn – lỗi được nêu trong danh sách lỗi hợp đồng thường gặp.",
+        "d": "Số lượng “tùy theo hàng có sẵn” không xác định được, trái yêu cầu ghi số lượng chính xác."
+      },
+      "source": "KB §6.5 – Art. 3 Quantity; §6.17 – Common mistakes"
+    },
+    "tags": [
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C6-contract-errors-001",
+    "chapter": "C6",
+    "topic": "contract-errors",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Which of these draft quantity clauses contains a common contract mistake?",
+    "options": [
+      {
+        "id": "a",
+        "text": "“1,000 MT of rice, more or less 5% at the Seller's option.”"
+      },
+      {
+        "id": "b",
+        "text": "“1,000 MT of rice, more or less 5%.”"
+      },
+      {
+        "id": "c",
+        "text": "“2,000 cartons of canned fruit.”"
+      },
+      {
+        "id": "d",
+        "text": "“500 MT of coffee, based on net weight.”"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Dung sai không ghi bên được quyền chọn là lỗi hợp đồng thường gặp.",
+      "whyCorrect": "Danh sách lỗi hợp đồng thường gặp nêu rõ: dung sai số lượng mà không ghi bên được quyền chọn (seller's/buyer's option). Điều khoản “1,000 MT of rice, more or less 5%” có dung sai nhưng không nói ai được quyết định giao ở mức cao hay thấp, dễ dẫn đến tranh chấp. Các điều khoản còn lại không mắc lỗi này.",
+      "whyWrong": {
+        "a": "Điều khoản ghi rõ dung sai thuộc quyền chọn của người bán, đúng khuyến nghị trên slide.",
+        "c": "Đây là cách ghi số lượng chính xác theo đơn vị đếm (cartons), như ví dụ trên slide.",
+        "d": "Điều khoản ghi số lượng và phương pháp xác định (trọng lượng tịnh), không mắc lỗi về dung sai."
+      },
+      "source": "KB §6.17 – Common contract mistakes; §6.5"
+    },
+    "tags": [
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C6-contract-errors-002",
+    "chapter": "C6",
+    "topic": "contract-errors",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A draft contract contains: (1) “Shipment: prompt”; (2) “Penalty for late delivery: 0.2% per day”; (3) “Disputes: by arbitration in Singapore under CISG”; (4) “Price: USD 500/MT, CIF Hamburg, Germany – Incoterms® 2020”. Which clauses contain common mistakes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(1) and (2): vague delivery time, and a penalty without a cap"
+      },
+      {
+        "id": "b",
+        "text": "(3) and (4): no arbitration costs, and CIF should be FOB"
+      },
+      {
+        "id": "c",
+        "text": "(1) only: all other clauses are complete"
+      },
+      {
+        "id": "d",
+        "text": "(2) and (4): no cap, and the version is missing"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "(1) “prompt” là cách ghi thời gian giao hàng mơ hồ; (2) phạt không có mức trần – hai lỗi thường gặp.",
+      "whyCorrect": "Đối chiếu từng điều khoản với danh sách lỗi thường gặp. (1) “Shipment: prompt” là cách ghi thời gian giao hàng chung chung mà slide khuyến nghị không dùng. (2) Điều khoản phạt 0.2%/ngày không có mức trần – lỗi “penalty without a cap”. (3) đã có luật áp dụng và nơi trọng tài. (4) ghi đủ rule, nơi chỉ định và phiên bản. Vì vậy chỉ (1) và (2) có lỗi.",
+      "whyWrong": {
+        "b": "(3) đã có luật áp dụng và nơi trọng tài như danh sách lỗi yêu cầu; (4) ghi đúng CIF, không có lý do đổi sang FOB.",
+        "c": "(2) cũng có lỗi: điều khoản phạt không có mức trần là một lỗi được nêu trên slide.",
+        "d": "(4) đã ghi phiên bản “Incoterms® 2020” và nơi chỉ định, nên không thiếu version."
+      },
+      "source": "KB §6.17 – Common contract mistakes; §6.8; §6.13"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-contract-errors-003",
+    "chapter": "C6",
+    "topic": "contract-errors",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A contract states: “Price: EUR 1,200/MT, FOB Haiphong, Vietnam – Incoterms® 2020” and “Payment: in USD by T/T within 30 days after the B/L date.” No other currency term is given. What is the problem, and how should it be fixed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "No problem; banks convert automatically at their own rate"
+      },
+      {
+        "id": "b",
+        "text": "The price currency differs from the payment currency without an exchange-rate clause; the contract should state the applicable rate and the date for determining it"
+      },
+      {
+        "id": "c",
+        "text": "FOB cannot be used with T/T; the trade term must be CIF"
+      },
+      {
+        "id": "d",
+        "text": "The payment period must be at least 120 days for T/T"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Đồng tiền tính giá (EUR) ≠ đồng tiền thanh toán (USD) mà không có điều khoản tỷ giá → cần ghi tỷ giá và ngày xác định.",
+      "whyCorrect": "Câu hỏi kết hợp Điều 5, Điều 7 và danh sách lỗi. Slide nêu: nếu đồng tiền tính giá khác đồng tiền thanh toán, hợp đồng phải ghi tỷ giá áp dụng và ngày (hoặc cách) xác định tỷ giá. Danh sách lỗi thường gặp có đúng trường hợp này: đồng tiền tính giá ≠ đồng tiền thanh toán mà không có điều khoản tỷ giá. Cần bổ sung điều khoản tỷ giá.",
+      "whyWrong": {
+        "a": "Để ngân hàng tự áp tỷ giá tạo ra rủi ro tranh chấp; slide yêu cầu hợp đồng ghi rõ tỷ giá và ngày xác định.",
+        "c": "Incoterms không quy định phương thức thanh toán, nên điều kiện FOB vẫn dùng được với T/T.",
+        "d": "Slide không đặt thời hạn tối thiểu 120 ngày cho T/T; 30 ngày sau ngày B/L là một thời hạn trả chậm hợp lệ."
+      },
+      "source": "KB §6.7 – Currency of price; §6.9 – Currency of payment; §6.17"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C6-contract-structure-001",
+    "chapter": "C6",
+    "topic": "contract-structure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, an international sale contract (ISC) is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "an agreement that regulates the rights and obligations of the parties regarding the sale and purchase of products"
+      },
+      {
+        "id": "b",
+        "text": "a set of ICC rules that allocates costs and risks between seller and buyer"
+      },
+      {
+        "id": "c",
+        "text": "a bank's promise to pay the seller against documents"
+      },
+      {
+        "id": "d",
+        "text": "a document issued by the carrier confirming receipt of the goods"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Hợp đồng mua bán quốc tế là thỏa thuận quy định quyền và nghĩa vụ của các bên trong việc mua bán sản phẩm.",
+      "whyCorrect": "Slide định nghĩa hợp đồng mua bán quốc tế (International Sale Contract – ISC) là một thỏa thuận quy định quyền và nghĩa vụ của các bên đối với việc mua bán sản phẩm. Các công cụ khác như Incoterms, L/C hay vận đơn đều được dẫn chiếu hoặc vận hành trong khuôn khổ hợp đồng này.",
+      "whyWrong": {
+        "b": "Bộ quy tắc ICC phân chia chi phí và rủi ro là Incoterms; Incoterms không phải là bản thân hợp đồng mua bán.",
+        "c": "Cam kết trả tiền của ngân hàng dựa trên chứng từ là thư tín dụng (L/C), một phương thức thanh toán của hợp đồng.",
+        "d": "Chứng từ người chuyên chở cấp để xác nhận đã nhận hàng là vận đơn (B/L), không phải hợp đồng mua bán."
+      },
+      "source": "KB §6.1 – Definition & parties"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-contract-structure-002",
+    "chapter": "C6",
+    "topic": "contract-structure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which list gives the three phases of the structure of an international sale contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quotation; order entry; shipment"
+      },
+      {
+        "id": "b",
+        "text": "Commodity; price; payment"
+      },
+      {
+        "id": "c",
+        "text": "Offer; acceptance; performance"
+      },
+      {
+        "id": "d",
+        "text": "Contracting parties; main articles; signatures"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Cấu trúc 3 phần: (1) các bên ký kết; (2) các điều khoản chính; (3) chữ ký.",
+      "whyCorrect": "Slide chia hợp đồng mua bán quốc tế thành ba phần: Phase 1 – các bên ký kết (tên, số hợp đồng, ngày và nơi ký, thông tin các bên, thuật ngữ); Phase 2 – 14 điều khoản chính; Phase 3 – chữ ký của các bên (For the Seller / For the Buyer).",
+      "whyWrong": {
+        "a": "Báo giá, nhận đơn, giao hàng là các giai đoạn của quy trình đơn hàng xuất khẩu ở C1, không phải cấu trúc hợp đồng.",
+        "b": "Tên hàng, giá, thanh toán là một số điều khoản cụ thể trong Phase 2, không phải ba phần của cấu trúc hợp đồng.",
+        "c": "Chào hàng, chấp nhận, thực hiện không phải cách slide mô tả cấu trúc ba phần của hợp đồng mua bán."
+      },
+      "source": "KB §6.2 – Structure (3 phases)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-contract-structure-003",
+    "chapter": "C6",
+    "topic": "contract-structure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which item belongs to Phase 1 (contracting parties) of an international sale contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The force majeure clause"
+      },
+      {
+        "id": "b",
+        "text": "The contract number and the date and place of signing"
+      },
+      {
+        "id": "c",
+        "text": "The quality specification of the goods"
+      },
+      {
+        "id": "d",
+        "text": "The signature “For the Seller / For the Buyer”"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Phase 1 gồm: tên HĐ, số HĐ, ngày & nơi ký, thông tin các bên, thuật ngữ (nếu cần).",
+      "whyCorrect": "Theo slide, phần 1 – các bên ký kết – gồm tên hợp đồng, số hợp đồng, ngày và nơi ký, các bên ký kết (tên, địa chỉ, điện thoại, fax, người đại diện, “hereinafter called the Seller/Buyer”) và định nghĩa thuật ngữ nếu cần. Số hợp đồng và ngày, nơi ký thuộc phần này.",
+      "whyWrong": {
+        "a": "Bất khả kháng là Điều 13 trong 14 điều khoản chính, thuộc Phase 2 chứ không phải phần các bên ký kết.",
+        "c": "Quy cách chất lượng thuộc Điều 2 (Quality) trong nhóm điều khoản chính của Phase 2.",
+        "d": "Phần chữ ký “For the Seller / For the Buyer” là Phase 3, ở cuối hợp đồng."
+      },
+      "source": "KB §6.2 – Phase 1"
+    },
+    "tags": []
+  },
+  {
+    "id": "C6-contract-structure-004",
+    "chapter": "C6",
+    "topic": "contract-structure",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the slides, which statement correctly describes the basic obligations of the parties to an international sale contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seller: provide the goods, transfer the documents of title, collect the money; Buyer: make payment and receive the goods"
+      },
+      {
+        "id": "b",
+        "text": "Seller: pay for the goods and receive them; Buyer: provide the goods and the documents"
+      },
+      {
+        "id": "c",
+        "text": "Seller: provide the goods only; Buyer: open an L/C and insure the goods"
+      },
+      {
+        "id": "d",
+        "text": "Seller: collect the money; Buyer: transfer the documents of title to the seller"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Người bán: giao hàng, chuyển giao chứng từ sở hữu, thu tiền. Người mua: thanh toán và nhận hàng.",
+      "whyCorrect": "Slide nêu nghĩa vụ cơ bản của hai bên: người bán (Seller) cung cấp hàng hóa, chuyển giao chứng từ sở hữu hàng hóa (documents of title) và thu tiền; người mua (Buyer) thanh toán và nhận hàng. Các điều khoản chính của hợp đồng cụ thể hóa những nghĩa vụ này.",
+      "whyWrong": {
+        "b": "Phương án đảo vai trò hai bên: người bán giao hàng và chứng từ, còn người mua trả tiền và nhận hàng.",
+        "c": "Người bán còn phải chuyển chứng từ và thu tiền; mở L/C hay mua bảo hiểm không phải nghĩa vụ cơ bản trên slide.",
+        "d": "Người mua không chuyển chứng từ sở hữu cho người bán; chính người bán chuyển chứng từ cho người mua."
+      },
+      "source": "KB §6.1 – Seller and Buyer"
+    },
+    "tags": []
+  }
+]

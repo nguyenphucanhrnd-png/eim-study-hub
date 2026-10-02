@@ -1,0 +1,1396 @@
+[
+  {
+    "id": "C1-export-definition-001",
+    "chapter": "C1",
+    "topic": "export-definition",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In international trade, “exports” refers to:",
+    "options": [
+      {
+        "id": "a",
+        "text": "selling goods produced in the home country to other markets"
+      },
+      {
+        "id": "b",
+        "text": "buying goods produced in other countries for the home market"
+      },
+      {
+        "id": "c",
+        "text": "moving goods between two warehouses in the same country"
+      },
+      {
+        "id": "d",
+        "text": "receiving foreign investment in a domestic factory"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Xuất khẩu: bán hàng hóa sản xuất trong nước ra các thị trường khác.",
+      "whyCorrect": "Slide định nghĩa trong thương mại quốc tế, “xuất khẩu” (exports) là việc bán hàng hóa được sản xuất ở nước sở tại (home country) sang các thị trường khác. Quản trị xuất khẩu là việc áp dụng quy trình quản trị vào chức năng xuất khẩu này.",
+      "whyWrong": {
+        "b": "Mua hàng sản xuất ở nước khác về thị trường trong nước là nhập khẩu, ngược với định nghĩa xuất khẩu.",
+        "c": "Di chuyển hàng giữa hai kho trong cùng một nước là vận chuyển nội địa, không vượt qua biên giới quốc gia.",
+        "d": "Nhận vốn đầu tư nước ngoài vào nhà máy là hoạt động đầu tư, không phải bán hàng hóa ra thị trường khác."
+      },
+      "source": "KB §1.1 – Definitions"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-definition-002",
+    "chapter": "C1",
+    "topic": "export-definition",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Export management manages which two flows?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inflow of goods and outflow of foreign exchange"
+      },
+      {
+        "id": "b",
+        "text": "Flow of information and flow of people"
+      },
+      {
+        "id": "c",
+        "text": "Outflow of goods and inflow of foreign exchange"
+      },
+      {
+        "id": "d",
+        "text": "Flow of raw materials and flow of finished goods"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Quản trị XK quản lý: dòng hàng hóa đi ra (dòng vật chất) và dòng ngoại tệ đi vào (dòng tài chính).",
+      "whyCorrect": "Slide định nghĩa quản trị xuất khẩu là việc áp dụng quy trình quản trị vào chức năng xuất khẩu, quản lý hai dòng: (1) dòng hàng hóa đi ra (outflow of goods – dòng vật chất) và (2) dòng ngoại tệ đi vào (inflow of foreign exchange – dòng tài chính).",
+      "whyWrong": {
+        "a": "Phương án đảo chiều hai dòng: với nhà xuất khẩu, hàng hóa đi ra và ngoại tệ đi vào.",
+        "b": "Slide không định nghĩa quản trị xuất khẩu theo dòng thông tin và dòng con người.",
+        "d": "Nguyên liệu và thành phẩm là các dòng trong sản xuất, không phải hai dòng mà quản trị xuất khẩu quản lý."
+      },
+      "source": "KB §1.1 – Export management"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-definition-003",
+    "chapter": "C1",
+    "topic": "export-definition",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the slides, what is the goal of export management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To minimise the number of documents in every transaction"
+      },
+      {
+        "id": "b",
+        "text": "To coordinate both flows so that the goods reach the buyer successfully and payment is received in full and on time"
+      },
+      {
+        "id": "c",
+        "text": "To maximise the volume shipped regardless of payment"
+      },
+      {
+        "id": "d",
+        "text": "To transfer all risks to the buyer"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Mục tiêu: phối hợp hiệu quả hai dòng để hàng đến người mua thành công và tiền được thanh toán đủ, đúng hạn.",
+      "whyCorrect": "Slide nêu mục tiêu của quản trị xuất khẩu là phối hợp hiệu quả cả hai dòng – dòng hàng hóa và dòng ngoại tệ – sao cho hàng hóa đến tay người mua thành công và tiền hàng được thanh toán đầy đủ, đúng hạn. Mục tiêu này đạt được thông qua hoạch định và phối hợp, chứng từ, quản trị rủi ro, kiểm soát và giám sát.",
+      "whyWrong": {
+        "a": "Chứng từ là công cụ để quản lý hai dòng; slide không đặt mục tiêu giảm số lượng chứng từ.",
+        "c": "Mục tiêu đòi hỏi tiền được thanh toán đủ và đúng hạn, nên không thể bỏ qua việc thanh toán.",
+        "d": "Quản trị rủi ro nhằm nhận diện và giảm thiểu rủi ro, không phải chuyển toàn bộ rủi ro cho người mua."
+      },
+      "source": "KB §1.1 – Goal of export management"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-definition-004",
+    "chapter": "C1",
+    "topic": "export-definition",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An exporter delivers the goods to its buyer on time and in perfect condition, but the payment arrives two months late and 10% short. How should this transaction be evaluated against the goal of export management?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fully successful, because the goods reached the buyer on time"
+      },
+      {
+        "id": "b",
+        "text": "Fully successful, because most of the money was eventually received"
+      },
+      {
+        "id": "c",
+        "text": "Unsuccessful only in the physical flow"
+      },
+      {
+        "id": "d",
+        "text": "Not fully successful: the goods flow succeeded, but the financial flow failed because payment was not received in full and on time"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Dòng hàng thành công nhưng dòng tiền thất bại (chậm, thiếu) → chưa đạt mục tiêu quản trị XK.",
+      "whyCorrect": "Mục tiêu trên slide đòi hỏi cả hai điều kiện: hàng hóa đến người mua thành công và tiền được thanh toán đầy đủ, đúng hạn. Dòng hàng hóa (vật chất) đã thành công, nhưng dòng ngoại tệ (tài chính) thất bại vì tiền về chậm hai tháng và thiếu 10%. Vì vậy giao dịch chưa đạt mục tiêu của quản trị xuất khẩu.",
+      "whyWrong": {
+        "a": "Giao hàng đúng hạn chỉ đáp ứng dòng hàng hóa; mục tiêu còn đòi hỏi thanh toán đủ và đúng hạn.",
+        "b": "Nhận phần lớn tiền và nhận muộn không đáp ứng yêu cầu thanh toán đầy đủ và đúng hạn trên slide.",
+        "c": "Dòng hàng hóa vật chất đã thành công; dòng thất bại ở đây là dòng tài chính."
+      },
+      "source": "KB §1.1 – Goal of export management"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-export-elements-001",
+    "chapter": "C1",
+    "topic": "export-elements",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is one of the six essential elements of the export process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Appoint an arbitrator before negotiating"
+      },
+      {
+        "id": "b",
+        "text": "Start finding foreign buyers"
+      },
+      {
+        "id": "c",
+        "text": "Open a confirmed L/C for every buyer"
+      },
+      {
+        "id": "d",
+        "text": "Buy ICC (A) insurance for every shipment"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "6 yếu tố: sẵn sàng XK; chiến lược thâm nhập; tìm người mua; điều kiện bán & thanh toán; các bước giao hàng; thuế, phí vận chuyển & bảo hiểm.",
+      "whyCorrect": "Slide liệt kê 6 yếu tố thiết yếu của quy trình xuất khẩu: (1) sẵn sàng xuất khẩu; (2) lập kế hoạch chiến lược thâm nhập thị trường; (3) bắt đầu tìm người mua nước ngoài; (4) xác định điều kiện bán hàng và điều kiện thanh toán; (5) xác định các bước để giao hàng và hoàn tất giao dịch; (6) nghiên cứu và xác nhận thuế, chi phí vận chuyển và bảo hiểm.",
+      "whyWrong": {
+        "a": "Chỉ định trọng tài viên trước khi đàm phán không phải một trong 6 yếu tố thiết yếu trên slide.",
+        "c": "Mở L/C xác nhận là việc của người mua và tùy thỏa thuận, không phải yếu tố thiết yếu của quy trình.",
+        "d": "Slide nêu nghiên cứu chi phí bảo hiểm, không yêu cầu mua ICC (A) cho mọi lô hàng."
+      },
+      "source": "KB §1.6 – Essential elements (6)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-elements-002",
+    "chapter": "C1",
+    "topic": "export-elements",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How many essential elements of the export process are listed on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4"
+      },
+      {
+        "id": "b",
+        "text": "9"
+      },
+      {
+        "id": "c",
+        "text": "12"
+      },
+      {
+        "id": "d",
+        "text": "6"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Quy trình xuất khẩu có 6 yếu tố thiết yếu.",
+      "whyCorrect": "Slide nêu 6 yếu tố thiết yếu (essential elements) của quy trình xuất khẩu, từ việc sẵn sàng xuất khẩu, lập chiến lược thâm nhập thị trường, tìm người mua, xác định điều kiện bán hàng và thanh toán, các bước giao hàng, đến nghiên cứu thuế, chi phí vận chuyển và bảo hiểm.",
+      "whyWrong": {
+        "a": "4 là số giai đoạn của quy trình đơn hàng xuất khẩu (báo giá, nhận đơn, giao hàng, thu tiền).",
+        "b": "9 là số bước của dòng hàng hóa từ nhà máy người bán đến cơ sở người mua.",
+        "c": "12 là số bên tham gia một giao dịch thương mại quốc tế được liệt kê trên slide."
+      },
+      "source": "KB §1.6 – Essential elements (6)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-elements-003",
+    "chapter": "C1",
+    "topic": "export-elements",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Before quoting, an exporter's team checks the import duties in the buyer's country, the ocean freight rate and the cost of cargo insurance. Which essential element of the export process is the team carrying out?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Research and confirm duties, taxes, shipping and insurance costs"
+      },
+      {
+        "id": "b",
+        "text": "Start finding foreign buyers"
+      },
+      {
+        "id": "c",
+        "text": "Get ready to export"
+      },
+      {
+        "id": "d",
+        "text": "Plan for market entry strategy"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Kiểm tra thuế NK, cước vận tải, phí bảo hiểm → yếu tố 6: nghiên cứu và xác nhận thuế, chi phí vận chuyển và bảo hiểm.",
+      "whyCorrect": "Yếu tố thứ 6 trong 6 yếu tố thiết yếu của quy trình xuất khẩu là nghiên cứu và xác nhận thuế (duties, taxes), chi phí vận chuyển (shipping) và chi phí bảo hiểm (insurance costs). Việc kiểm tra thuế nhập khẩu, cước đường biển và phí bảo hiểm trước khi báo giá đúng là yếu tố này.",
+      "whyWrong": {
+        "b": "Tìm người mua nước ngoài là hoạt động tìm kiếm khách hàng, không phải tính thuế và chi phí.",
+        "c": "Sẵn sàng xuất khẩu là yếu tố khởi đầu chung, không cụ thể là nghiên cứu thuế, cước và bảo hiểm.",
+        "d": "Chiến lược thâm nhập thị trường xác định cách tiếp cận thị trường, không phải tính chi phí lô hàng."
+      },
+      "source": "KB §1.6 – Element 6"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-export-elements-004",
+    "chapter": "C1",
+    "topic": "export-elements",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Element 4 of the export process is “Determine terms of sale and terms of payment.” Which pair of course topics mainly supports this element?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cargo Insurance and Export Procedures"
+      },
+      {
+        "id": "b",
+        "text": "Overview and Planning & Preparation"
+      },
+      {
+        "id": "c",
+        "text": "Pricing & Incoterms® (terms of sale) and International Payment (terms of payment)"
+      },
+      {
+        "id": "d",
+        "text": "Documents and Cargo Insurance"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Điều kiện bán hàng ↔ Giá & Incoterms®; điều kiện thanh toán ↔ Thanh toán quốc tế.",
+      "whyCorrect": "Câu hỏi kết nối yếu tố 4 với các chủ đề của môn học. Điều kiện bán hàng (terms of sale) được thể hiện bằng Incoterms® – chủ đề giá và Incoterms phân bổ chi phí và rủi ro trong dòng hàng. Điều kiện thanh toán (terms of payment) thuộc chủ đề thanh toán quốc tế – quản lý dòng tài chính. C8 cũng nhấn mạnh hai yếu tố này quyết định các bước mỗi bên phải làm.",
+      "whyWrong": {
+        "a": "Bảo hiểm hàng hóa bảo vệ dòng hàng và thủ tục thực hiện hợp đồng, không xác định điều kiện bán và thanh toán.",
+        "b": "Tổng quan và lập kế hoạch là bối cảnh chung, không trực tiếp quyết định điều kiện bán và thanh toán.",
+        "d": "Chứng từ hỗ trợ và kiểm soát các dòng, bảo hiểm bảo vệ dòng hàng; không phải điều kiện bán và thanh toán."
+      },
+      "source": "KB §1.6; §1.5; §8.1"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C1-export-process-steps-001",
+    "chapter": "C1",
+    "topic": "export-process-steps",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "At which step of the 9-step physical flow are import duties and taxes paid?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Export customs clearance"
+      },
+      {
+        "id": "b",
+        "text": "Port/airport of loading"
+      },
+      {
+        "id": "c",
+        "text": "Import customs clearance"
+      },
+      {
+        "id": "d",
+        "text": "Buyer's premises"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bước 7 – Thông quan nhập khẩu (nước người mua): khai báo, kiểm tra chứng từ, kiểm hóa, nộp thuế NK, giải phóng hàng.",
+      "whyCorrect": "Slide mô tả bước 7 – thông quan nhập khẩu tại nước người mua – gồm khai báo nhập khẩu, kiểm tra chứng từ, kiểm tra hải quan, nộp thuế nhập khẩu và các loại thuế (import duties & taxes payment) và giải phóng hàng. Đây là bước duy nhất trong 9 bước có nộp thuế nhập khẩu.",
+      "whyWrong": {
+        "a": "Thông quan xuất khẩu (bước 3) ở nước người bán gồm khai báo, kiểm tra và giải phóng hàng xuất, không nộp thuế NK.",
+        "b": "Tại cảng/sân bay xếp hàng (bước 4), hàng được giao và xếp lên phương tiện, không nộp thuế nhập khẩu.",
+        "d": "Bước 9 là người mua nhận hàng tại cơ sở của mình, sau khi thủ tục nhập khẩu đã hoàn tất."
+      },
+      "source": "KB §1.2 – Step 7"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-process-steps-002",
+    "chapter": "C1",
+    "topic": "export-process-steps",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which activities does step 3, export customs clearance in the seller's country, include?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Export declaration, document check, customs inspection and export release"
+      },
+      {
+        "id": "b",
+        "text": "Import declaration and payment of import duties"
+      },
+      {
+        "id": "c",
+        "text": "Inland transport to the buyer's warehouse"
+      },
+      {
+        "id": "d",
+        "text": "Production and preparation of the goods"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Bước 3 – Thông quan xuất khẩu: khai báo XK, kiểm tra chứng từ, kiểm tra hải quan, giải phóng hàng xuất.",
+      "whyCorrect": "Theo slide, bước 3 của dòng hàng hóa là thông quan xuất khẩu tại nước người bán, gồm: khai báo xuất khẩu (export declaration), kiểm tra chứng từ, kiểm tra hải quan và giải phóng hàng xuất khẩu (export release). Sau đó hàng được đưa đến cảng/sân bay xếp hàng.",
+      "whyWrong": {
+        "b": "Khai báo nhập khẩu và nộp thuế nhập khẩu thuộc bước 7 – thông quan nhập khẩu ở nước người mua.",
+        "c": "Vận chuyển nội địa đến kho người mua là bước 8, diễn ra ở nước người mua sau thông quan nhập khẩu.",
+        "d": "Sản xuất và chuẩn bị hàng diễn ra ở bước 1 tại nhà máy của người bán, trước thông quan."
+      },
+      "source": "KB §1.2 – Step 3"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-process-steps-003",
+    "chapter": "C1",
+    "topic": "export-process-steps",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In the 9-step physical flow, which step comes immediately after export customs clearance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Packing & loading at origin"
+      },
+      {
+        "id": "b",
+        "text": "International transport"
+      },
+      {
+        "id": "c",
+        "text": "Port/airport of discharge"
+      },
+      {
+        "id": "d",
+        "text": "Port/airport of loading"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Thứ tự: 1 Nhà máy → 2 Đóng gói & bốc hàng → 3 Thông quan XK → 4 Cảng/sân bay xếp hàng → 5 Vận tải quốc tế → …",
+      "whyCorrect": "Slide sắp xếp 9 bước: (1) nhà máy người bán; (2) đóng gói và bốc hàng tại nơi đi; (3) thông quan xuất khẩu; (4) cảng/sân bay xếp hàng – hàng được giao đến và xếp lên tàu/máy bay; (5) vận tải quốc tế; (6) cảng/sân bay dỡ hàng; (7) thông quan nhập khẩu; (8) vận chuyển nội địa; (9) cơ sở người mua.",
+      "whyWrong": {
+        "a": "Đóng gói và bốc hàng tại nơi đi là bước 2, diễn ra trước thông quan xuất khẩu.",
+        "b": "Vận tải quốc tế là bước 5, chỉ diễn ra sau khi hàng đã được xếp tại cảng/sân bay đi.",
+        "c": "Cảng/sân bay dỡ hàng là bước 6, diễn ra khi hàng đã được vận tải quốc tế đến nước người mua."
+      },
+      "source": "KB §1.2 – 9 steps"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-process-steps-004",
+    "chapter": "C1",
+    "topic": "export-process-steps",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which sequence correctly lists the last four steps (6–9) of the physical flow?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Import customs clearance → Port of discharge → Buyer's premises → Inland transport"
+      },
+      {
+        "id": "b",
+        "text": "Port/airport of discharge → Import customs clearance → Inland transport to buyer → Buyer's premises"
+      },
+      {
+        "id": "c",
+        "text": "Port of discharge → Inland transport → Import customs clearance → Buyer's premises"
+      },
+      {
+        "id": "d",
+        "text": "Inland transport → Port of discharge → Import customs clearance → Buyer's premises"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "6 Cảng/sân bay dỡ → 7 Thông quan NK → 8 Vận chuyển nội địa → 9 Cơ sở người mua.",
+      "whyCorrect": "Theo slide, sau vận tải quốc tế, hàng đến cảng/sân bay dỡ hàng ở nước người mua (bước 6), được thông quan nhập khẩu (bước 7), vận chuyển nội địa đến kho hoặc địa điểm cuối của người mua (bước 8) và cuối cùng được người mua nhận tại cơ sở của mình (bước 9).",
+      "whyWrong": {
+        "a": "Hàng phải đến cảng dỡ trước khi thông quan nhập khẩu, và vận chuyển nội địa diễn ra trước khi đến cơ sở người mua.",
+        "c": "Thông quan nhập khẩu phải hoàn tất trước khi hàng được vận chuyển nội địa đến người mua.",
+        "d": "Vận chuyển nội địa đến người mua diễn ra sau khi hàng đã dỡ tại cảng và được thông quan."
+      },
+      "source": "KB §1.2 – Steps 6–9"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-export-process-steps-005",
+    "chapter": "C1",
+    "topic": "export-process-steps",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A container of Vietnamese furniture has been discharged at Los Angeles but cannot leave the port because the import declaration has not been completed and the import duties have not been paid. At which step of the physical flow is the shipment stuck, and in which country?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Step 3 – export customs clearance, in Vietnam"
+      },
+      {
+        "id": "b",
+        "text": "Step 6 – port of discharge, because the vessel has not yet arrived"
+      },
+      {
+        "id": "c",
+        "text": "Step 7 – import customs clearance, in the buyer's country (USA)"
+      },
+      {
+        "id": "d",
+        "text": "Step 8 – inland transport, in Vietnam"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Hàng đã dỡ nhưng chưa khai báo NK, chưa nộp thuế → kẹt ở bước 7 – thông quan nhập khẩu tại Mỹ.",
+      "whyCorrect": "Hàng đã được dỡ tại Los Angeles, nghĩa là bước 6 (cảng dỡ hàng) đã xong. Bước tiếp theo là bước 7 – thông quan nhập khẩu tại nước người mua – gồm khai báo nhập khẩu, kiểm tra chứng từ, kiểm hóa, nộp thuế nhập khẩu và giải phóng hàng. Chưa khai báo và chưa nộp thuế nên lô hàng bị kẹt ở bước 7 tại Mỹ.",
+      "whyWrong": {
+        "a": "Thông quan xuất khẩu ở Việt Nam đã hoàn tất vì hàng đã được vận chuyển quốc tế và dỡ tại Mỹ.",
+        "b": "Đề bài nói hàng đã được dỡ tại Los Angeles, nên tàu đã đến và bước 6 đã hoàn thành.",
+        "d": "Vận chuyển nội địa đến người mua diễn ra ở Mỹ và chỉ bắt đầu sau khi thông quan nhập khẩu."
+      },
+      "source": "KB §1.2 – Steps 6–8"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-export-process-steps-006",
+    "chapter": "C1",
+    "topic": "export-process-steps",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Combining the 9-step physical flow with the slide's key documents, which pairing is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Step 3 (export customs clearance): Import Declaration prepared by the buyer"
+      },
+      {
+        "id": "b",
+        "text": "Step 7 (import customs clearance): Export Declaration prepared by the seller"
+      },
+      {
+        "id": "c",
+        "text": "Step 3: no documents are needed until the goods arrive"
+      },
+      {
+        "id": "d",
+        "text": "Step 3: Export Declaration among the seller's key export documents; Step 7: Import Declaration among the buyer's key import documents"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Thông quan XK (bước 3) ↔ tờ khai XK của người bán; thông quan NK (bước 7) ↔ tờ khai NK của người mua.",
+      "whyCorrect": "Slide liệt kê chứng từ xuất khẩu chính (từ người bán): hóa đơn thương mại, phiếu đóng gói, tờ khai xuất khẩu, B/L/AWB, C/O và giấy chứng nhận khác nếu cần; chứng từ nhập khẩu chính (người mua): tờ khai nhập khẩu, B/L/AWB, hóa đơn, phiếu đóng gói, C/O… Bước 3 gồm khai báo xuất khẩu; bước 7 gồm khai báo nhập khẩu. Vì vậy cặp D là đúng.",
+      "whyWrong": {
+        "a": "Tờ khai nhập khẩu do phía người mua lập ở bước 7, không dùng cho thông quan xuất khẩu ở bước 3.",
+        "b": "Tờ khai xuất khẩu do người bán lập cho bước 3, không phải chứng từ của thông quan nhập khẩu.",
+        "c": "Bước 3 đòi hỏi khai báo xuất khẩu và kiểm tra chứng từ, nên không thể không có chứng từ."
+      },
+      "source": "KB §1.2; §1.4 – Key documents"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C1-order-process-001",
+    "chapter": "C1",
+    "topic": "order-process",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which sequence correctly lists the four stages of the export order process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quotation → Order entry → Shipment → Collection"
+      },
+      {
+        "id": "b",
+        "text": "Order entry → Quotation → Collection → Shipment"
+      },
+      {
+        "id": "c",
+        "text": "Shipment → Quotation → Order entry → Collection"
+      },
+      {
+        "id": "d",
+        "text": "Collection → Shipment → Order entry → Quotation"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Quy trình đơn hàng XK: Báo giá → Nhận đơn hàng → Giao hàng → Thu tiền.",
+      "whyCorrect": "Slide nêu quy trình đơn hàng xuất khẩu gồm 4 giai đoạn theo thứ tự: báo giá (quotation – price quotation) → nhận/nhập đơn hàng (order entry) → giao hàng (shipment) → thu tiền (collection). Trình tự này phản ánh việc hàng đi trước, sau đó thu tiền để hoàn tất giao dịch.",
+      "whyWrong": {
+        "b": "Đơn hàng chỉ được nhận sau khi báo giá, và thu tiền không thể diễn ra trước giao hàng trong quy trình này.",
+        "c": "Giao hàng không thể diễn ra trước báo giá và nhận đơn; nó là giai đoạn thứ ba.",
+        "d": "Đây là thứ tự đảo ngược hoàn toàn; thu tiền là giai đoạn cuối, không phải đầu tiên."
+      },
+      "source": "KB §1.7 – Export order process"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-order-process-002",
+    "chapter": "C1",
+    "topic": "order-process",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "What is the final stage of the export order process?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quotation"
+      },
+      {
+        "id": "b",
+        "text": "Order entry"
+      },
+      {
+        "id": "c",
+        "text": "Collection"
+      },
+      {
+        "id": "d",
+        "text": "Shipment"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Giai đoạn cuối của quy trình đơn hàng XK là thu tiền (Collection).",
+      "whyCorrect": "Theo slide, quy trình đơn hàng xuất khẩu đi qua 4 giai đoạn: báo giá → nhận đơn hàng → giao hàng → thu tiền (collection). Thu tiền là giai đoạn cuối, gắn với dòng ngoại tệ đi vào – tương ứng mục tiêu tiền được thanh toán đủ và đúng hạn.",
+      "whyWrong": {
+        "a": "Báo giá là giai đoạn đầu tiên của quy trình đơn hàng, khi người bán đưa ra mức giá cho người mua.",
+        "b": "Nhận đơn hàng là giai đoạn thứ hai, ngay sau báo giá và trước giao hàng.",
+        "d": "Giao hàng là giai đoạn thứ ba; sau đó người bán còn phải thu tiền để hoàn tất."
+      },
+      "source": "KB §1.7 – Export order process"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-order-process-003",
+    "chapter": "C1",
+    "topic": "order-process",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An exporter has sent its price quotation, and the buyer's order has just been entered into the system. Which stage of the export order process comes next?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Quotation"
+      },
+      {
+        "id": "b",
+        "text": "Shipment"
+      },
+      {
+        "id": "c",
+        "text": "Collection"
+      },
+      {
+        "id": "d",
+        "text": "Order entry"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Sau báo giá và nhận đơn hàng, giai đoạn tiếp theo là giao hàng (Shipment), rồi mới đến thu tiền.",
+      "whyCorrect": "Quy trình đơn hàng xuất khẩu trên slide là: báo giá → nhận đơn hàng → giao hàng → thu tiền. Doanh nghiệp đã báo giá và vừa nhập đơn hàng, tức đã xong hai giai đoạn đầu. Giai đoạn tiếp theo là giao hàng (shipment); thu tiền là giai đoạn cuối cùng.",
+      "whyWrong": {
+        "a": "Báo giá đã được gửi đi, nên doanh nghiệp không quay lại giai đoạn đầu tiên này.",
+        "c": "Thu tiền là giai đoạn cuối, chỉ diễn ra sau khi hàng đã được giao.",
+        "d": "Đơn hàng vừa được nhập vào hệ thống, nên giai đoạn nhận đơn hàng đã hoàn tất."
+      },
+      "source": "KB §1.7 – Export order process"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-players-001",
+    "chapter": "C1",
+    "topic": "players",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is listed among the 12 players in an international trade transaction?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stock exchange"
+      },
+      {
+        "id": "b",
+        "text": "Advertising agency"
+      },
+      {
+        "id": "c",
+        "text": "Tax auditor"
+      },
+      {
+        "id": "d",
+        "text": "Arbitrator"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "12 bên: nhà XK, nhà NK, ngân hàng, cảng, người chuyên chở, người giao nhận, hải quan, đại lý thông quan, bảo hiểm, giám định, trọng tài, phòng thương mại.",
+      "whyCorrect": "Slide liệt kê 12 bên tham gia giao dịch thương mại quốc tế: nhà xuất khẩu; nhà nhập khẩu; ngân hàng; cảng vụ/công ty cảng; người chuyên chở; người giao nhận; hải quan; đại lý thông quan; công ty bảo hiểm; công ty giám định; trọng tài viên (arbitrator); phòng thương mại.",
+      "whyWrong": {
+        "a": "Sở giao dịch chứng khoán không có trong danh sách 12 bên tham gia giao dịch thương mại quốc tế.",
+        "b": "Công ty quảng cáo không được slide liệt kê trong 12 bên tham gia giao dịch.",
+        "c": "Kiểm toán viên thuế không có trong danh sách 12 bên tham gia trên slide."
+      },
+      "source": "KB §1.9 – Players (12)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-players-002",
+    "chapter": "C1",
+    "topic": "players",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How many players in an international trade transaction are listed on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "6"
+      },
+      {
+        "id": "b",
+        "text": "12"
+      },
+      {
+        "id": "c",
+        "text": "9"
+      },
+      {
+        "id": "d",
+        "text": "11"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Slide liệt kê 12 bên tham gia giao dịch thương mại quốc tế.",
+      "whyCorrect": "Slide liệt kê 12 bên tham gia (players) trong một giao dịch thương mại quốc tế, từ nhà xuất khẩu và nhà nhập khẩu, ngân hàng, cảng, người chuyên chở, người giao nhận, hải quan, đại lý thông quan, bảo hiểm, giám định, đến trọng tài viên và phòng thương mại.",
+      "whyWrong": {
+        "a": "6 là số yếu tố thiết yếu của quy trình xuất khẩu, hoặc số vai trò của quản trị XNK.",
+        "c": "9 là số bước của dòng hàng hóa vật chất, không phải số bên tham gia giao dịch.",
+        "d": "11 là số quy tắc Incoterms hoặc số câu hỏi chuẩn bị xuất khẩu, không phải số bên tham gia."
+      },
+      "source": "KB §1.9 – Players (12)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-players-003",
+    "chapter": "C1",
+    "topic": "players",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter obtains a Certificate of Origin from VCCI, as required in the slide's contract example. Which of the 12 players does VCCI represent?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Customs"
+      },
+      {
+        "id": "b",
+        "text": "Inspection company"
+      },
+      {
+        "id": "c",
+        "text": "Chamber of Commerce"
+      },
+      {
+        "id": "d",
+        "text": "Clearing agent"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "VCCI (Phòng Thương mại và Công nghiệp Việt Nam) là một phòng thương mại – một trong 12 bên.",
+      "whyCorrect": "Câu hỏi kết nối C1 với ví dụ hợp đồng ở C6 (“C/O issued by VCCI”). VCCI là Phòng Thương mại và Công nghiệp Việt Nam, tương ứng với “Chamber of Commerce” – một trong 12 bên tham gia giao dịch thương mại quốc tế được liệt kê trên slide.",
+      "whyWrong": {
+        "a": "Hải quan làm thủ tục thông quan và thu thuế; trong ví dụ hợp đồng, C/O do VCCI cấp chứ không phải hải quan.",
+        "b": "Công ty giám định kiểm tra số lượng, chất lượng hàng hóa; VCCI là phòng thương mại.",
+        "d": "Đại lý thông quan làm thủ tục hải quan thay chủ hàng, không phải bên cấp C/O trong ví dụ."
+      },
+      "source": "KB §1.9 – Players; §6.10 – Example (C/O issued by VCCI)"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C1-players-004",
+    "chapter": "C1",
+    "topic": "players",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Before shipment, an independent firm is hired to check that the quantity and quality of the goods comply with the contract. Which of the 12 players is this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inspection company"
+      },
+      {
+        "id": "b",
+        "text": "Freight forwarder"
+      },
+      {
+        "id": "c",
+        "text": "Port authority"
+      },
+      {
+        "id": "d",
+        "text": "Arbitrator"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Kiểm tra độc lập số lượng/chất lượng hàng trước khi giao → công ty giám định (inspection company).",
+      "whyCorrect": "Trong 12 bên tham gia, công ty giám định (inspection company) là bên độc lập kiểm tra hàng hóa. C7 cũng nêu giấy chứng nhận số lượng/chất lượng và giấy chứng nhận giám định có thể do tổ chức giám định độc lập cấp theo yêu cầu hợp đồng.",
+      "whyWrong": {
+        "b": "Người giao nhận tổ chức vận chuyển và chứng từ vận tải, không phải bên kiểm định chất lượng độc lập.",
+        "c": "Cảng vụ/công ty cảng quản lý hoạt động cảng, xếp dỡ hàng, không giám định chất lượng hàng.",
+        "d": "Trọng tài viên giải quyết tranh chấp giữa các bên, không kiểm tra hàng trước khi giao."
+      },
+      "source": "KB §1.9 – Players; §7.7; §7.9"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-roles-001",
+    "chapter": "C1",
+    "topic": "roles",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Under the role “Coordinating international trade operations”, who acts as the coordinator ensuring effective communication and collaboration among all parties?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The customs officer"
+      },
+      {
+        "id": "b",
+        "text": "The ship's master"
+      },
+      {
+        "id": "c",
+        "text": "The Export Manager"
+      },
+      {
+        "id": "d",
+        "text": "The insurance surveyor"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Vai trò điều phối: Nhà quản trị xuất khẩu (Export Manager) là người điều phối giữa tất cả các bên.",
+      "whyCorrect": "Slide về vai trò thứ 2 – điều phối hoạt động thương mại quốc tế – liệt kê các bên cần phối hợp: mua hàng, bán hàng và marketing, logistics, hải quan, ngân hàng, người chuyên chở, hãng tàu, người giao nhận, bảo hiểm, khách hàng quốc tế, cơ quan nhà nước. Nhà quản trị xuất khẩu (Export Manager) đóng vai trò người điều phối.",
+      "whyWrong": {
+        "a": "Nhân viên hải quan là một bên cần phối hợp, không phải người điều phối toàn bộ hoạt động.",
+        "b": "Thuyền trưởng phụ trách con tàu trong vận chuyển, không điều phối các bên của giao dịch.",
+        "d": "Giám định viên bảo hiểm đánh giá tổn thất, không phải người điều phối hoạt động xuất khẩu."
+      },
+      "source": "KB §1.10 – Role 2"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-roles-002",
+    "chapter": "C1",
+    "topic": "roles",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which examples does the slide give under the role “Enabling digital trade transformation”?",
+    "options": [
+      {
+        "id": "a",
+        "text": "e-Invoice, e-Bill of Lading, e-Certificate of Origin, e-Customs"
+      },
+      {
+        "id": "b",
+        "text": "Paper-only documents signed by hand"
+      },
+      {
+        "id": "c",
+        "text": "Arbitration and force majeure clauses"
+      },
+      {
+        "id": "d",
+        "text": "FPA, WA and AR insurance conditions"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Chuyển đổi số: AI, Big Data, chứng từ điện tử (e-Invoice, e-B/L, e-C/O, e-Customs), ERP, phân tích dữ liệu.",
+      "whyCorrect": "Slide về vai trò thứ 6 – thúc đẩy chuyển đổi số thương mại – nêu: AI cho nghiên cứu thị trường và dự báo nhu cầu; phân tích Big Data để nhận diện cơ hội; chứng từ thương mại điện tử (e-Invoice, e-Bill of Lading, e-Certificate of Origin, e-Customs); tích hợp ERP với logistics và tài chính; phân tích dữ liệu cho ra quyết định.",
+      "whyWrong": {
+        "b": "Chứng từ giấy ký tay ngược với tinh thần chuyển đổi số; slide nêu chứng từ điện tử.",
+        "c": "Trọng tài và bất khả kháng là điều khoản hợp đồng (C6), không phải ví dụ về chuyển đổi số.",
+        "d": "FPA, WA, AR là điều kiện bảo hiểm truyền thống (C4), không liên quan đến chuyển đổi số."
+      },
+      "source": "KB §1.10 – Role 6"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-roles-003",
+    "chapter": "C1",
+    "topic": "roles",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An export department cuts logistics costs, shortens delivery lead times and minimises documentation errors, giving the firm an edge over rivals. Which role of export & import management does this illustrate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Facilitating international trade"
+      },
+      {
+        "id": "b",
+        "text": "Managing risks"
+      },
+      {
+        "id": "c",
+        "text": "Creating customer value"
+      },
+      {
+        "id": "d",
+        "text": "Enhancing organizational competitiveness"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Giảm chi phí logistics, rút ngắn lead time, giảm lỗi chứng từ → Nâng cao năng lực cạnh tranh của tổ chức.",
+      "whyCorrect": "Slide về vai trò thứ 5 – nâng cao năng lực cạnh tranh của tổ chức – nêu: giảm chi phí logistics và vận hành; rút ngắn thời gian giao hàng; giảm thiểu lỗi chứng từ; cải thiện khả năng đáp ứng; nâng cao lợi thế cạnh tranh, hướng tới vận hành xuất sắc và tăng trưởng bền vững. Tình huống khớp với vai trò này.",
+      "whyWrong": {
+        "a": "Thúc đẩy thương mại quốc tế là tiếp cận thị trường, mở rộng khách hàng và nhà cung cấp, không phải giảm chi phí.",
+        "b": "Quản trị rủi ro là nhận diện, đánh giá và giảm thiểu các loại rủi ro, không phải cắt giảm chi phí logistics.",
+        "c": "Tạo giá trị khách hàng tập trung vào dịch vụ tin cậy cho khách hàng; tình huống nhấn mạnh lợi thế so với đối thủ."
+      },
+      "source": "KB §1.10 – Role 5"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-roles-004",
+    "chapter": "C1",
+    "topic": "roles",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the role “Creating customer value”, what do customers buy besides the product itself?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the lowest possible price"
+      },
+      {
+        "id": "b",
+        "text": "Reliable, professional services: on-time delivery, accurate documentation, secure and convenient payment, responsive after-sales service"
+      },
+      {
+        "id": "c",
+        "text": "The exporter's shares"
+      },
+      {
+        "id": "d",
+        "text": "The exporter's insurance policy"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Khách hàng mua cả dịch vụ tin cậy: giao đúng hạn, chứng từ chính xác, thanh toán an toàn, hậu mãi nhanh nhạy.",
+      "whyCorrect": "Slide về vai trò thứ 4 – tạo giá trị cho khách hàng – nêu khách hàng không chỉ mua sản phẩm mà còn mua dịch vụ tin cậy, chuyên nghiệp: giao hàng đúng hạn, chứng từ chính xác, thanh toán an toàn và thuận tiện, dịch vụ hậu mãi nhanh nhạy. Kết quả là sự hài lòng, niềm tin và quan hệ lâu dài.",
+      "whyWrong": {
+        "a": "Slide không nói khách hàng chỉ quan tâm giá thấp nhất; nó nhấn mạnh giá trị dịch vụ đi kèm.",
+        "c": "Cổ phần của nhà xuất khẩu không liên quan đến giá trị khách hàng nhận được trong giao dịch.",
+        "d": "Đơn bảo hiểm là chứng từ bảo vệ hàng hóa, không phải giá trị dịch vụ slide mô tả."
+      },
+      "source": "KB §1.10 – Role 4"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-roles-005",
+    "chapter": "C1",
+    "topic": "roles",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Under the role “Managing risks”, an export manager identifies three problems: (1) a discrepancy in the bill of lading; (2) depreciation of the buyer's currency before payment; (3) war breaking out in a transit country. Which risk types from the slide are these?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(1) transportation risk; (2) payment risk; (3) legal & contractual risk"
+      },
+      {
+        "id": "b",
+        "text": "(1) legal & contractual risk; (2) political risk; (3) foreign exchange risk"
+      },
+      {
+        "id": "c",
+        "text": "(1) documentary risk; (2) foreign exchange risk; (3) political risk"
+      },
+      {
+        "id": "d",
+        "text": "(1) payment risk; (2) documentary risk; (3) transportation risk"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Sai biệt vận đơn → rủi ro chứng từ; đồng tiền mất giá → rủi ro tỷ giá; chiến tranh → rủi ro chính trị.",
+      "whyCorrect": "Slide về vai trò thứ 3 – quản trị rủi ro – liệt kê các rủi ro cần nhận diện, đánh giá và giảm thiểu: thanh toán, tỷ giá, vận tải, pháp lý và hợp đồng, chính trị, chứng từ. Sai biệt trên vận đơn là rủi ro chứng từ; đồng tiền người mua mất giá trước khi thanh toán là rủi ro tỷ giá; chiến tranh ở nước quá cảnh là rủi ro chính trị.",
+      "whyWrong": {
+        "a": "Sai biệt chứng từ không phải rủi ro vận tải, và mất giá tiền tệ là rủi ro tỷ giá chứ không phải thanh toán.",
+        "b": "Mất giá đồng tiền là rủi ro tỷ giá và chiến tranh là rủi ro chính trị; phương án đảo hai loại này.",
+        "d": "Sai biệt vận đơn là rủi ro chứng từ, và mất giá đồng tiền không phải rủi ro chứng từ."
+      },
+      "source": "KB §1.10 – Role 3; §2.10"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C1-roles-006",
+    "chapter": "C1",
+    "topic": "roles",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A company switches to e-Bills of Lading and e-Certificates of Origin integrated with its ERP system and, as a result, sharply reduces documentation errors and delivery lead times. Which two roles of export & import management does this case illustrate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enabling digital trade transformation, and enhancing organizational competitiveness"
+      },
+      {
+        "id": "b",
+        "text": "Facilitating international trade, and managing risks"
+      },
+      {
+        "id": "c",
+        "text": "Coordinating operations, and creating customer value only through lower prices"
+      },
+      {
+        "id": "d",
+        "text": "Managing risks only"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "e-B/L, e-C/O, ERP → Chuyển đổi số (vai trò 6); giảm lỗi chứng từ, rút ngắn lead time → Năng lực cạnh tranh (vai trò 5).",
+      "whyCorrect": "Phân tích theo 6 vai trò trên slide. Việc dùng e-Bill of Lading, e-Certificate of Origin và tích hợp ERP là nội dung của vai trò 6 – thúc đẩy chuyển đổi số thương mại. Kết quả giảm lỗi chứng từ và rút ngắn thời gian giao hàng là nội dung của vai trò 5 – nâng cao năng lực cạnh tranh của tổ chức.",
+      "whyWrong": {
+        "b": "Tình huống không nói về tiếp cận thị trường mới hay nhận diện rủi ro cụ thể; trọng tâm là số hóa và hiệu quả.",
+        "c": "Slide không mô tả tạo giá trị khách hàng bằng giá thấp hơn; tình huống cũng không nhắc đến giá bán.",
+        "d": "Giảm lỗi chứng từ có thể giảm rủi ro, nhưng tình huống thể hiện rõ chuyển đổi số và năng lực cạnh tranh."
+      },
+      "source": "KB §1.10 – Roles 5 & 6"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C1-service-providers-001",
+    "chapter": "C1",
+    "topic": "service-providers",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In Figure 1-6 (interrelationships with outside service providers), what is at the centre?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The customs authority"
+      },
+      {
+        "id": "b",
+        "text": "The Vice President (Director) Export/Import Operations Department"
+      },
+      {
+        "id": "c",
+        "text": "The freight forwarder"
+      },
+      {
+        "id": "d",
+        "text": "The buyer's bank"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Trung tâm Hình 1-6: Phó Tổng/Giám đốc bộ phận Nghiệp vụ Xuất Nhập khẩu.",
+      "whyCorrect": "Hình 1-6 trên slide đặt Phó chủ tịch/Giám đốc bộ phận nghiệp vụ xuất nhập khẩu (VP/Director Export/Import Operations Department) ở trung tâm, kết nối với kế toán/ngân hàng, hệ thống thông tin, pháp chế, sản xuất, marketing, mua hàng, người chuyên chở, người giao nhận, đại lý hải quan, bảo hiểm và các cơ quan khác.",
+      "whyWrong": {
+        "a": "Cơ quan nhà nước là một nhóm kết nối với bộ phận XNK, không phải trung tâm của Hình 1-6.",
+        "c": "Người giao nhận là một nhà cung cấp dịch vụ bên ngoài kết nối với trung tâm, không nằm ở trung tâm.",
+        "d": "Ngân hàng kết nối qua bộ phận ngân quỹ/kế toán, không phải trung tâm của sơ đồ."
+      },
+      "source": "KB §1.8 – Figure 1-6"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-service-providers-002",
+    "chapter": "C1",
+    "topic": "service-providers",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In Figure 1-6, the VP Marketing (Sales) connects the Export/Import Operations Department with which party?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Suppliers"
+      },
+      {
+        "id": "b",
+        "text": "Banks"
+      },
+      {
+        "id": "c",
+        "text": "Translators"
+      },
+      {
+        "id": "d",
+        "text": "Customers"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "VP Marketing (Sales) → Khách hàng; VP Purchasing → Nhà cung cấp; Ngân quỹ/Kế toán → Ngân hàng.",
+      "whyCorrect": "Hình 1-6 cho thấy bộ phận nghiệp vụ XNK kết nối với VP Marketing (Sales) và qua đó với khách hàng (customers); với VP Purchasing và qua đó với nhà cung cấp (suppliers); với bộ phận ngân quỹ hoặc kế toán và ngân hàng; cùng các nhà cung cấp dịch vụ bên ngoài khác.",
+      "whyWrong": {
+        "a": "Nhà cung cấp được kết nối qua VP Purchasing (mua hàng), không phải qua VP Marketing (Sales).",
+        "b": "Ngân hàng được kết nối qua bộ phận ngân quỹ hoặc kế toán, không phải qua bộ phận marketing.",
+        "c": "Người phiên dịch thuộc nhóm cùng cơ quan nhà nước, lãnh sự quán, giám định trước giao hàng."
+      },
+      "source": "KB §1.8 – Figure 1-6"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-service-providers-003",
+    "chapter": "C1",
+    "topic": "service-providers",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which group of outside parties appears together in Figure 1-6?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stock exchanges, rating agencies, auditors"
+      },
+      {
+        "id": "b",
+        "text": "Advertising agencies, retailers, consumers"
+      },
+      {
+        "id": "c",
+        "text": "Government agencies, translators, consulates, preshipment inspection companies"
+      },
+      {
+        "id": "d",
+        "text": "Competitors, trade unions, universities"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Hình 1-6: cơ quan nhà nước, người phiên dịch, lãnh sự quán, công ty giám định trước giao hàng là một nhóm.",
+      "whyCorrect": "Hình 1-6 liệt kê các nhóm bên ngoài kết nối với bộ phận nghiệp vụ XNK, trong đó có nhóm: cơ quan nhà nước (government agencies), người phiên dịch (translators), lãnh sự quán (consulates) và công ty giám định trước giao hàng (preshipment inspection companies). Các nhóm khác gồm người chuyên chở, người giao nhận, đại lý hải quan, bảo hiểm và bảo lãnh, công ty đóng gói.",
+      "whyWrong": {
+        "a": "Sở giao dịch chứng khoán, công ty xếp hạng và kiểm toán viên không xuất hiện trong Hình 1-6.",
+        "b": "Công ty quảng cáo, nhà bán lẻ và người tiêu dùng không được liệt kê là nhóm trong Hình 1-6.",
+        "d": "Đối thủ cạnh tranh, công đoàn và trường đại học không có trong sơ đồ quan hệ của Hình 1-6."
+      },
+      "source": "KB §1.8 – Figure 1-6"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-two-flows-001",
+    "chapter": "C1",
+    "topic": "two-flows",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In the financial flow of an export transaction, which party processes the payment and remits it to the seller's bank?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The carrier"
+      },
+      {
+        "id": "b",
+        "text": "The buyer's bank"
+      },
+      {
+        "id": "c",
+        "text": "The customs authority"
+      },
+      {
+        "id": "d",
+        "text": "The freight forwarder"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Dòng tài chính: người mua trả → ngân hàng người mua xử lý và chuyển → (L/C, T/T, D/P, D/A) → ngân hàng người bán → người bán.",
+      "whyCorrect": "Slide mô tả dòng tài chính (dòng ngoại tệ đi vào): A – người mua thanh toán theo hợp đồng; B – ngân hàng của người mua xử lý khoản thanh toán và chuyển tiền đến ngân hàng của người bán; C – phương thức thanh toán; D – ngân hàng người bán nhận ngoại tệ và ghi có; E – người bán nhận ngoại tệ.",
+      "whyWrong": {
+        "a": "Người chuyên chở tham gia dòng hàng hóa (vận chuyển quốc tế), không xử lý thanh toán giữa các ngân hàng.",
+        "c": "Hải quan làm thủ tục thông quan và thu thuế trong dòng hàng hóa, không chuyển tiền cho người bán.",
+        "d": "Người giao nhận hỗ trợ khâu vận chuyển và chứng từ, không xử lý và chuyển khoản thanh toán."
+      },
+      "source": "KB §1.3 – Financial flow"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-two-flows-002",
+    "chapter": "C1",
+    "topic": "two-flows",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which payment methods are listed in the financial flow on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "EXW, FOB, CIF, DDP"
+      },
+      {
+        "id": "b",
+        "text": "ICC (A), ICC (B), ICC (C)"
+      },
+      {
+        "id": "c",
+        "text": "Quotation, order entry, shipment, collection"
+      },
+      {
+        "id": "d",
+        "text": "L/C, T/T, D/P, D/A or other agreed terms"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Bước C của dòng tài chính: phương thức thanh toán – L/C, T/T, D/P, D/A hoặc điều kiện khác đã thỏa thuận.",
+      "whyCorrect": "Trong sơ đồ dòng tài chính trên slide, bước C là phương thức thanh toán (payment methods): thư tín dụng (L/C), chuyển tiền bằng điện (T/T), nhờ thu trả tiền đổi chứng từ (D/P), nhờ thu chấp nhận đổi chứng từ (D/A) hoặc các điều kiện khác đã thỏa thuận.",
+      "whyWrong": {
+        "a": "EXW, FOB, CIF, DDP là quy tắc Incoterms phân chia chi phí và rủi ro trong dòng hàng hóa.",
+        "b": "ICC (A), (B), (C) là các điều kiện bảo hiểm hàng hóa, không phải phương thức thanh toán.",
+        "c": "Báo giá, nhận đơn, giao hàng, thu tiền là 4 giai đoạn của quy trình đơn hàng xuất khẩu."
+      },
+      "source": "KB §1.3 – Financial flow (C)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-two-flows-003",
+    "chapter": "C1",
+    "topic": "two-flows",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which sequence correctly describes the financial flow (inflow of foreign exchange) on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buyer pays → Buyer's bank remits → payment method (L/C, T/T, D/P, D/A) → Seller's bank credits → Seller receives foreign exchange"
+      },
+      {
+        "id": "b",
+        "text": "Seller pays → Seller's bank remits → Buyer's bank credits → Buyer receives foreign exchange"
+      },
+      {
+        "id": "c",
+        "text": "Buyer pays → Customs collects → Carrier transfers → Seller receives foreign exchange"
+      },
+      {
+        "id": "d",
+        "text": "Seller's bank pays → Buyer's bank credits → Buyer pays → Seller receives goods"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "A Người mua trả → B NH người mua chuyển → C phương thức TT → D NH người bán ghi có → E Người bán nhận ngoại tệ.",
+      "whyCorrect": "Slide mô tả dòng tài chính theo năm bước: (A) người mua thanh toán theo điều kiện hợp đồng; (B) ngân hàng người mua xử lý và chuyển tiền đến ngân hàng người bán; (C) qua các phương thức L/C, T/T, D/P, D/A…; (D) ngân hàng người bán nhận ngoại tệ và ghi có tài khoản người bán; (E) người bán nhận ngoại tệ.",
+      "whyWrong": {
+        "b": "Phương án đảo chiều dòng tiền: với nhà xuất khẩu, ngoại tệ đi từ người mua đến người bán.",
+        "c": "Hải quan và người chuyên chở thuộc dòng hàng hóa, không phải các mắt xích chuyển tiền trong dòng tài chính.",
+        "d": "Ngân hàng người bán không trả tiền cho người mua; trình tự bắt đầu từ việc người mua thanh toán."
+      },
+      "source": "KB §1.3 – Financial flow"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-two-flows-004",
+    "chapter": "C1",
+    "topic": "two-flows",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the slide that maps course topics to the two flows, what does the International Sale Contract do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It protects the goods flow"
+      },
+      {
+        "id": "b",
+        "text": "It allocates cost and risk in the goods flow"
+      },
+      {
+        "id": "c",
+        "text": "It legally connects the two flows"
+      },
+      {
+        "id": "d",
+        "text": "It plans the two flows"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Hợp đồng mua bán quốc tế kết nối hai dòng về mặt pháp lý.",
+      "whyCorrect": "Slide ánh xạ các chủ đề của môn học với hai dòng: lập kế hoạch và chuẩn bị – hoạch định hai dòng; giá và Incoterms – phân bổ chi phí/rủi ro trong dòng hàng; bảo hiểm hàng hóa – bảo vệ dòng hàng; thanh toán quốc tế – quản lý dòng tài chính; hợp đồng mua bán quốc tế – kết nối hai dòng về mặt pháp lý; chứng từ và thủ tục – hỗ trợ và kiểm soát cả hai dòng.",
+      "whyWrong": {
+        "a": "Bảo vệ dòng hàng hóa là vai trò của bảo hiểm hàng hóa (Cargo Insurance) trên slide.",
+        "b": "Phân bổ chi phí và rủi ro trong dòng hàng là vai trò của giá và Incoterms® trên slide.",
+        "d": "Hoạch định hai dòng là vai trò của chủ đề lập kế hoạch và chuẩn bị xuất khẩu (C2)."
+      },
+      "source": "KB §1.5 – Mapping of course topics"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-two-flows-005",
+    "chapter": "C1",
+    "topic": "two-flows",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the slide that maps course topics to the two flows, which topic “manages the financial flow”?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cargo Insurance"
+      },
+      {
+        "id": "b",
+        "text": "International Payment"
+      },
+      {
+        "id": "c",
+        "text": "Pricing & Incoterms®"
+      },
+      {
+        "id": "d",
+        "text": "Planning & Preparation"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Thanh toán quốc tế quản lý dòng tài chính.",
+      "whyCorrect": "Theo slide, chủ đề thanh toán quốc tế (International Payment) quản lý dòng tài chính – tức dòng ngoại tệ đi vào của nhà xuất khẩu, thông qua các phương thức như L/C, T/T, D/P, D/A. Các chủ đề khác chủ yếu hoạch định, phân bổ, bảo vệ, kết nối hoặc hỗ trợ các dòng.",
+      "whyWrong": {
+        "a": "Bảo hiểm hàng hóa có vai trò bảo vệ dòng hàng hóa, không phải quản lý dòng tài chính.",
+        "c": "Giá và Incoterms phân bổ chi phí và rủi ro trong dòng hàng hóa theo slide ánh xạ.",
+        "d": "Lập kế hoạch và chuẩn bị có vai trò hoạch định cả hai dòng, không phải quản lý dòng tài chính."
+      },
+      "source": "KB §1.5 – Mapping of course topics"
+    },
+    "tags": []
+  },
+  {
+    "id": "C1-two-flows-006",
+    "chapter": "C1",
+    "topic": "two-flows",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "The right goods arrive at the right place on time, but the bill of lading contains a discrepancy, so the bank refuses the documents and payment is delayed. Which elements of “Right goods → Right place → Right time → Right documents → Right payment → Acceptable risk” have failed?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Right documents and Right payment"
+      },
+      {
+        "id": "b",
+        "text": "Right goods and Right place"
+      },
+      {
+        "id": "c",
+        "text": "Right time only"
+      },
+      {
+        "id": "d",
+        "text": "None; the goods arrived, so coordination succeeded"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Chứng từ sai → ngân hàng từ chối → thanh toán chậm: thất bại ở Right documents và Right payment.",
+      "whyCorrect": "Slide nêu phối hợp hiệu quả hai dòng phải đạt chuỗi: đúng hàng, đúng nơi, đúng lúc, đúng chứng từ, đúng thanh toán, rủi ro chấp nhận được. Ba yếu tố đầu của dòng hàng đã đạt. Nhưng vận đơn có sai biệt nên chứng từ không đúng, dẫn đến ngân hàng từ chối và tiền về chậm – thất bại ở “Right documents” và kéo theo “Right payment”.",
+      "whyWrong": {
+        "b": "Đề bài nói đúng hàng đã đến đúng nơi, nên hai yếu tố này không thất bại.",
+        "c": "Hàng đến đúng hạn; sự chậm trễ nằm ở thanh toán do chứng từ sai, không phải thời gian giao hàng.",
+        "d": "Hàng đến nơi chưa đủ; chứng từ sai làm dòng tài chính thất bại nên việc phối hợp chưa thành công."
+      },
+      "source": "KB §1.5 – Effective coordination"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  }
+]

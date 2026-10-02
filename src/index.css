@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+/* Dark mode is class-based: <html class="dark"> (toggle + follows system). */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Be Vietnam Pro", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* Primary: deep navy #1E3A5F (= navy-800) */
+  --color-navy-50: #f1f5fa;
+  --color-navy-100: #dde7f2;
+  --color-navy-200: #bfd0e5;
+  --color-navy-300: #93b0d2;
+  --color-navy-400: #5f87b8;
+  --color-navy-500: #3e679c;
+  --color-navy-600: #2e5082;
+  --color-navy-700: #264269;
+  --color-navy-800: #1e3a5f;
+  --color-navy-900: #182c47;
+  --color-navy-950: #0f1c2e;
+
+  /* Semantic roles: correct / wrong / flagged / seller / buyer */
+  --color-correct: #15803d;
+  --color-wrong: #b91c1c;
+  --color-flag: #b45309;
+  --color-seller: #1d4ed8;
+  --color-buyer: #b45309;
+}
+
+@layer base {
+  html {
+    font-size: 16.5px;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased dark:bg-slate-950 dark:text-slate-200;
+    line-height: 1.6;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-navy-500 dark:outline-navy-300;
+  }
+  ::selection {
+    @apply bg-navy-200 text-navy-950;
+  }
+  /* Scroll containers must contain absolutely positioned children (e.g. .sr-only labels in wide tables);
+     otherwise those escape the clip and widen the whole page on mobile. */
+  .overflow-auto,
+  .overflow-x-auto {
+    position: relative;
+  }
+}
+
+/* Payment Flow Stepper: the active arrow "flows" towards its target. */
+@keyframes flow-dash {
+  to {
+    stroke-dashoffset: -28;
+  }
+}
+.flow-dash {
+  animation: flow-dash 0.9s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0ms !important;
+    animation-duration: 0ms !important;
+  }
+}

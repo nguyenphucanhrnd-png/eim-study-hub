@@ -1,0 +1,939 @@
+[
+  {
+    "id": "C8-export-procedure-001",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How many steps does the export procedure on the slides contain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "10"
+      },
+      {
+        "id": "b",
+        "text": "9"
+      },
+      {
+        "id": "c",
+        "text": "8"
+      },
+      {
+        "id": "d",
+        "text": "12"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Quy trình xuất khẩu gồm 10 bước; quy trình nhập khẩu gồm 9 bước.",
+      "whyCorrect": "Slide C8 trình bày quy trình xuất khẩu gồm 10 bước: ký hợp đồng; xem xét điều kiện thanh toán; chuẩn bị hàng; kiểm tra hàng; thuê phương tiện vận tải; mua bảo hiểm; thông quan xuất khẩu; giao hàng; lập và xuất trình chứng từ thanh toán; giải quyết khiếu nại và tranh chấp.",
+      "whyWrong": {
+        "b": "9 là số bước của quy trình nhập khẩu trên slide C8, hoặc số bước của dòng hàng ở C1.",
+        "c": "Con số 8 không khớp với quy trình xuất khẩu hay nhập khẩu được trình bày trên slide C8.",
+        "d": "12 là số bên tham gia giao dịch thương mại quốc tế ở C1, không phải số bước xuất khẩu."
+      },
+      "source": "KB §8.2 – Export procedures (10 steps)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-export-procedure-002",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "What is the first step of the export procedure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Arrange transportation"
+      },
+      {
+        "id": "b",
+        "text": "Prepare goods for export"
+      },
+      {
+        "id": "c",
+        "text": "Negotiate and sign the sales contract"
+      },
+      {
+        "id": "d",
+        "text": "Complete export customs clearance"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bước 1: đàm phán và ký hợp đồng – thỏa thuận giá, số lượng, chất lượng, điều kiện giao hàng, thanh toán…",
+      "whyCorrect": "Bước đầu tiên của quy trình xuất khẩu trên slide là đàm phán và ký hợp đồng mua bán: thỏa thuận về giá, số lượng, chất lượng, điều kiện giao hàng, điều kiện thanh toán… Các bước sau đều thực hiện theo những điều khoản đã thỏa thuận này.",
+      "whyWrong": {
+        "a": "Thuê phương tiện vận tải là bước 5, thực hiện theo quy tắc Incoterms sau khi đã ký hợp đồng.",
+        "b": "Chuẩn bị hàng xuất khẩu là bước 3, sau khi hợp đồng đã được ký và điều kiện thanh toán được xem xét.",
+        "d": "Thông quan xuất khẩu là bước 7, diễn ra khi hàng đã sẵn sàng và phương tiện vận tải đã được thu xếp."
+      },
+      "source": "KB §8.2 – Step 1"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-export-procedure-003",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "What is the last (10th) step of the export procedure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deliver the goods"
+      },
+      {
+        "id": "b",
+        "text": "Handle claims and resolve disputes, if any"
+      },
+      {
+        "id": "c",
+        "text": "Make payment"
+      },
+      {
+        "id": "d",
+        "text": "Arrange cargo insurance"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Bước 10 quy trình XK: xử lý khiếu nại và giải quyết tranh chấp (nếu có).",
+      "whyCorrect": "Bước cuối cùng của quy trình xuất khẩu là xử lý khiếu nại và giải quyết tranh chấp, nếu có – ví dụ hàng hư hỏng, thiếu hụt hoặc giao chậm. Bước này đứng sau việc lập và xuất trình chứng từ để thanh toán (bước 9).",
+      "whyWrong": {
+        "a": "Giao hàng theo quy tắc Incoterms là bước 8, trước bước xuất trình chứng từ và giải quyết khiếu nại.",
+        "c": "Thanh toán là bước cuối (bước 9) của quy trình nhập khẩu, do người mua thực hiện, không phải bước 10 XK.",
+        "d": "Mua bảo hiểm hàng hóa là bước 6 của quy trình xuất khẩu, nếu hợp đồng hoặc quy tắc yêu cầu."
+      },
+      "source": "KB §8.2 – Step 10"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-export-procedure-004",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter has signed a contract with payment by L/C and has just received the L/C through the advising bank. According to step 2 of the export procedure, what should the exporter do?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ship the goods immediately without reading the L/C"
+      },
+      {
+        "id": "b",
+        "text": "Open a new L/C in favour of the buyer"
+      },
+      {
+        "id": "c",
+        "text": "Arrange cargo insurance before anything else"
+      },
+      {
+        "id": "d",
+        "text": "Check the L/C against the agreed payment terms"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Bước 2 quy trình XK: xem xét điều kiện thanh toán; nếu thanh toán bằng L/C thì kiểm tra L/C.",
+      "whyCorrect": "Slide nêu bước 2 của quy trình xuất khẩu là xem xét điều kiện thanh toán theo thỏa thuận (T/T, L/C, D/P…), và nếu thanh toán bằng L/C thì phải kiểm tra L/C. Người xuất khẩu cần đối chiếu L/C với hợp đồng trước khi chuẩn bị và giao hàng.",
+      "whyWrong": {
+        "a": "Giao hàng mà không kiểm tra L/C bỏ qua bước 2; sai lệch trong L/C có thể khiến người bán không được thanh toán.",
+        "b": "Mở L/C là việc của người mua ở bước 2 của quy trình nhập khẩu, không phải của người xuất khẩu.",
+        "c": "Mua bảo hiểm là bước 6 và chỉ khi hợp đồng hoặc quy tắc yêu cầu, không phải việc ngay sau khi nhận L/C."
+      },
+      "source": "KB §8.2 – Step 2"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C8-export-procedure-005",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the notes on the export procedure, which statement about the export license is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An export license is not always required; it is needed only when the goods are regulated"
+      },
+      {
+        "id": "b",
+        "text": "An export license is required for every export shipment"
+      },
+      {
+        "id": "c",
+        "text": "An export license replaces export customs clearance"
+      },
+      {
+        "id": "d",
+        "text": "An export license is issued by the carrier"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Giấy phép xuất khẩu không phải lúc nào cũng cần – chỉ khi hàng hóa thuộc diện quản lý.",
+      "whyCorrect": "Phần lưu ý của quy trình xuất khẩu trên slide nêu: giấy phép xuất khẩu không phải lúc nào cũng bắt buộc, mà chỉ cần khi hàng hóa thuộc diện quản lý (regulated). Điều này phù hợp với câu hỏi chuẩn bị xuất khẩu ở C2: có cần giấy phép xuất khẩu không?",
+      "whyWrong": {
+        "b": "Slide nhấn mạnh giấy phép xuất khẩu không phải lúc nào cũng cần, chỉ khi hàng hóa thuộc diện quản lý.",
+        "c": "Thông quan xuất khẩu là bước 7 riêng; giấy phép (khi cần) không thay thế thủ tục hải quan.",
+        "d": "Người chuyên chở phát hành vận đơn, không cấp giấy phép xuất khẩu cho hàng hóa."
+      },
+      "source": "KB §8.2 – Notes; §2.11 – Question 2"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-export-procedure-006",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "When must step 4 of the export procedure (inspect goods) be carried out?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Always, for every shipment"
+      },
+      {
+        "id": "b",
+        "text": "Only after the goods arrive at the buyer's premises"
+      },
+      {
+        "id": "c",
+        "text": "If required by the contract, the L/C or regulations"
+      },
+      {
+        "id": "d",
+        "text": "Only when the buyer pays in advance"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bước 4 quy trình XK: kiểm tra hàng – nếu hợp đồng, L/C hoặc quy định yêu cầu.",
+      "whyCorrect": "Slide nêu bước 4 của quy trình xuất khẩu – kiểm tra hàng (inspect goods) – được thực hiện nếu hợp đồng, L/C hoặc quy định pháp luật yêu cầu. Bước này diễn ra sau khi chuẩn bị hàng và trước khi thuê phương tiện vận tải, tức là trước khi giao hàng.",
+      "whyWrong": {
+        "a": "Slide nêu kiểm tra hàng khi có yêu cầu từ hợp đồng, L/C hoặc quy định, không bắt buộc cho mọi lô hàng.",
+        "b": "Kiểm tra tại cơ sở người mua thuộc bước 7 của quy trình nhập khẩu; bước 4 XK diễn ra trước khi giao hàng.",
+        "d": "Slide không gắn việc kiểm tra hàng với thanh toán trả trước; căn cứ là hợp đồng, L/C hoặc quy định."
+      },
+      "source": "KB §8.2 – Step 4"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-export-procedure-007",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Which sequence correctly orders steps 3 to 9 of the export procedure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prepare goods → Arrange transportation → Inspect goods → Export customs clearance → Arrange insurance → Present documents → Deliver goods"
+      },
+      {
+        "id": "b",
+        "text": "Prepare goods → Inspect goods → Arrange transportation → Arrange insurance → Export customs clearance → Deliver goods → Present documents for payment"
+      },
+      {
+        "id": "c",
+        "text": "Inspect goods → Prepare goods → Export customs clearance → Arrange transportation → Deliver goods → Arrange insurance → Present documents"
+      },
+      {
+        "id": "d",
+        "text": "Prepare goods → Inspect goods → Export customs clearance → Deliver goods → Arrange transportation → Arrange insurance → Present documents"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "3 Chuẩn bị hàng → 4 Kiểm tra → 5 Vận tải → 6 Bảo hiểm → 7 Thông quan XK → 8 Giao hàng → 9 Xuất trình chứng từ.",
+      "whyCorrect": "Slide sắp xếp quy trình xuất khẩu: (3) chuẩn bị hàng xuất khẩu; (4) kiểm tra hàng nếu cần; (5) thuê phương tiện vận tải theo Incoterms; (6) mua bảo hiểm nếu cần; (7) thông quan xuất khẩu; (8) giao hàng theo Incoterms; (9) lập và xuất trình chứng từ để thanh toán. Chứng từ như vận đơn chỉ có sau khi giao hàng, nên bước 9 đứng sau bước 8.",
+      "whyWrong": {
+        "a": "Kiểm tra hàng (4) phải trước vận tải (5), và xuất trình chứng từ không thể trước khi giao hàng.",
+        "c": "Phải chuẩn bị hàng trước rồi mới kiểm tra, và bảo hiểm phải thu xếp trước khi giao hàng.",
+        "d": "Phải thuê phương tiện vận tải và mua bảo hiểm trước khi thông quan và giao hàng, không phải sau."
+      },
+      "source": "KB §8.2 – Export procedures"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-export-procedure-008",
+    "chapter": "C8",
+    "topic": "export-procedure",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Under a CIF contract paid by L/C, the seller has delivered the goods on board at the port of shipment. Which step comes next, and what determines the documents to prepare?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Arrange cargo insurance; determined by the buyer's wishes"
+      },
+      {
+        "id": "b",
+        "text": "Handle claims; determined by the carrier"
+      },
+      {
+        "id": "c",
+        "text": "Complete export customs clearance; determined by the Incoterms rule"
+      },
+      {
+        "id": "d",
+        "text": "Prepare and present the shipping documents for payment; determined by the payment method (here the L/C)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Sau giao hàng (bước 8) → bước 9: lập và xuất trình chứng từ để thanh toán, theo yêu cầu của phương thức thanh toán (L/C).",
+      "whyCorrect": "Sau bước 8 – giao hàng theo Incoterms (CIF: hàng ở trên tàu tại cảng bốc) – là bước 9: lập và xuất trình chứng từ để thanh toán. Slide lưu ý việc xuất trình chứng từ phụ thuộc vào phương thức thanh toán (L/C, D/P, T/T…). Với L/C, người bán phải lập bộ chứng từ đúng theo yêu cầu của L/C để được thanh toán.",
+      "whyWrong": {
+        "a": "Theo CIF, bảo hiểm (bước 6) phải được thu xếp trước khi giao hàng, không phải sau khi hàng đã lên tàu.",
+        "b": "Khiếu nại là bước 10 và chỉ khi có vấn đề; người chuyên chở không quyết định bộ chứng từ thanh toán.",
+        "c": "Thông quan xuất khẩu là bước 7, phải hoàn tất trước khi hàng được giao lên tàu."
+      },
+      "source": "KB §8.2 – Steps 8–9 & notes"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-implementation-considerations-001",
+    "chapter": "C8",
+    "topic": "implementation-considerations",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, which two key considerations must be examined when implementing an export or import contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The arbitration place and the applicable law"
+      },
+      {
+        "id": "b",
+        "text": "The terms of sale (Incoterms®) and the method of payment"
+      },
+      {
+        "id": "c",
+        "text": "The packaging material and the shipping marks"
+      },
+      {
+        "id": "d",
+        "text": "The exchange rate and the bank charges"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Hai yếu tố then chốt khi thực hiện hợp đồng: điều kiện thương mại (Incoterms®) và phương thức thanh toán.",
+      "whyCorrect": "Slide C8 nêu hai yếu tố then chốt khi thực hiện hợp đồng: (1) điều kiện thương mại – Incoterms® và (2) phương thức thanh toán. Hai yếu tố này quyết định mỗi bên phải thực hiện những bước nào trong quy trình xuất khẩu và nhập khẩu.",
+      "whyWrong": {
+        "a": "Nơi trọng tài và luật áp dụng là nội dung Điều 12 của hợp đồng, không phải hai yếu tố then chốt ở C8.",
+        "c": "Vật liệu bao bì và ký mã hiệu là nội dung Điều 4 và bước chuẩn bị hàng, không phải hai yếu tố then chốt.",
+        "d": "Tỷ giá và phí ngân hàng là chi tiết trong điều khoản giá/thanh toán, không phải hai yếu tố then chốt trên slide."
+      },
+      "source": "KB §8.1 – Key considerations"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-implementation-considerations-002",
+    "chapter": "C8",
+    "topic": "implementation-considerations",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Why are the Incoterms® rule and the method of payment the key considerations in implementing a contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Because they determine the contract's applicable law"
+      },
+      {
+        "id": "b",
+        "text": "Because they fix the quality of the goods"
+      },
+      {
+        "id": "c",
+        "text": "Because they replace the need for a written contract"
+      },
+      {
+        "id": "d",
+        "text": "Because they decide which steps each party performs"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Incoterms® và phương thức thanh toán quyết định mỗi bên phải thực hiện những bước nào.",
+      "whyCorrect": "Slide nêu rõ hai yếu tố – điều kiện thương mại (Incoterms®) và phương thức thanh toán – quyết định những bước mà mỗi bên phải thực hiện. Ví dụ, ai thuê phương tiện vận tải chính, ai mua bảo hiểm phụ thuộc vào Incoterms; việc mở, kiểm tra L/C và xuất trình chứng từ phụ thuộc vào phương thức thanh toán.",
+      "whyWrong": {
+        "a": "Luật áp dụng do điều khoản trọng tài của hợp đồng quy định, không do Incoterms hay phương thức thanh toán quyết định.",
+        "b": "Chất lượng hàng hóa do Điều 2 của hợp đồng quy định, không phải do Incoterms hay thanh toán.",
+        "c": "Incoterms và phương thức thanh toán được ghi trong hợp đồng; chúng không thay thế hợp đồng bằng văn bản."
+      },
+      "source": "KB §8.1 – Key considerations"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-implementation-considerations-003",
+    "chapter": "C8",
+    "topic": "implementation-considerations",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "A Vietnamese exporter sells the same goods under two contracts: Contract 1 is FOB with payment by T/T; Contract 2 is CIF with payment by L/C. Why does the exporter follow different procedural steps for the two contracts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Because the Incoterms® rule and the payment method differ, and these decide which steps each party performs"
+      },
+      {
+        "id": "b",
+        "text": "Because CIF contracts never require export customs clearance"
+      },
+      {
+        "id": "c",
+        "text": "Because T/T contracts do not require a sales contract"
+      },
+      {
+        "id": "d",
+        "text": "Because the goods are different"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Khác Incoterms (FOB/CIF) và khác phương thức thanh toán (T/T/L/C) → khác các bước mỗi bên phải làm.",
+      "whyCorrect": "Theo slide, Incoterms® và phương thức thanh toán quyết định các bước mỗi bên thực hiện. Với CIF, người bán thuê vận tải chính và mua bảo hiểm; với FOB thì không. Với L/C, người bán phải kiểm tra L/C và xuất trình chứng từ theo L/C; với T/T thì quy trình khác. Vì vậy hai hợp đồng có quy trình khác nhau.",
+      "whyWrong": {
+        "b": "Thông quan xuất khẩu vẫn là một bước trong quy trình xuất khẩu với CIF; CIF không loại bỏ bước này.",
+        "c": "Mọi giao dịch đều bắt đầu bằng đàm phán và ký hợp đồng, bất kể phương thức thanh toán là T/T.",
+        "d": "Đề bài nói hai hợp đồng bán cùng một loại hàng; khác biệt nằm ở Incoterms và phương thức thanh toán."
+      },
+      "source": "KB §8.1; §8.2"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-implementation-considerations-004",
+    "chapter": "C8",
+    "topic": "implementation-considerations",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A contract is concluded on “CFR Busan, Korea – Incoterms® 2020” with payment by irrevocable L/C at sight. Which set of seller's steps follows from the two key considerations?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Open the L/C; leave the main carriage to the buyer; insure the goods"
+      },
+      {
+        "id": "b",
+        "text": "Leave the main carriage to the buyer; buy ICC (A) insurance; receive payment by T/T"
+      },
+      {
+        "id": "c",
+        "text": "Check the L/C; book the main carriage; no obligation to insure; present the shipping documents under the L/C"
+      },
+      {
+        "id": "d",
+        "text": "Check the L/C; book the main carriage; insure under ICC (C); collect payment after the buyer inspects the goods"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "CFR: người bán thuê tàu, không có nghĩa vụ bảo hiểm; L/C: người bán kiểm tra L/C và xuất trình chứng từ.",
+      "whyCorrect": "Phân tích theo hai yếu tố then chốt. Điều kiện CFR là quy tắc nhóm C, nên người bán thuê vận tải chính (bước 5); CFR không phải CIF/CIP nên người bán không có nghĩa vụ mua bảo hiểm (bước 6 chỉ khi hợp đồng hoặc quy tắc yêu cầu). Thanh toán bằng L/C nên người bán kiểm tra L/C (bước 2) và chuẩn bị, xuất trình chứng từ theo L/C để được thanh toán (bước 9).",
+      "whyWrong": {
+        "a": "Mở L/C là việc của người mua; theo CFR người bán thuê vận tải chính và không có nghĩa vụ bảo hiểm.",
+        "b": "Theo CFR người bán thuê vận tải chính, và hợp đồng thanh toán bằng L/C chứ không phải T/T.",
+        "d": "CFR không bắt buộc người bán mua bảo hiểm, và L/C trả ngay thanh toán khi xuất trình chứng từ phù hợp."
+      },
+      "source": "KB §8.1; §8.2 – Steps 2, 5, 6, 9; §3.8 – CFR"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-import-procedure-001",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How many steps does the import procedure on the slides contain?",
+    "options": [
+      {
+        "id": "a",
+        "text": "10"
+      },
+      {
+        "id": "b",
+        "text": "7"
+      },
+      {
+        "id": "c",
+        "text": "9"
+      },
+      {
+        "id": "d",
+        "text": "11"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Quy trình nhập khẩu gồm 9 bước, kết thúc bằng thanh toán.",
+      "whyCorrect": "Slide C8 trình bày quy trình nhập khẩu gồm 9 bước: ký hợp đồng; xem xét điều kiện thanh toán (mở L/C nếu cần); thuê phương tiện vận tải; mua bảo hiểm; thông quan nhập khẩu; nhận hàng; kiểm tra hàng; khiếu nại và giải quyết khiếu nại; thanh toán.",
+      "whyWrong": {
+        "a": "10 là số bước của quy trình xuất khẩu, không phải quy trình nhập khẩu.",
+        "b": "Con số 7 không khớp với quy trình nhập khẩu trên slide, vốn có 9 bước.",
+        "d": "11 là số quy tắc Incoterms hoặc số câu hỏi chuẩn bị xuất khẩu, không phải số bước nhập khẩu."
+      },
+      "source": "KB §8.3 – Import procedures (9 steps)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-import-procedure-002",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In the import procedure, what must the buyer do at step 2 if payment is by L/C?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Open the L/C"
+      },
+      {
+        "id": "b",
+        "text": "Check the L/C received from the advising bank"
+      },
+      {
+        "id": "c",
+        "text": "Present the shipping documents to the bank"
+      },
+      {
+        "id": "d",
+        "text": "Pay the import duties"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Bước 2 quy trình NK: xem xét điều kiện thanh toán – mở L/C nếu thanh toán bằng L/C.",
+      "whyCorrect": "Slide nêu bước 2 của quy trình nhập khẩu là xem xét điều kiện thanh toán, và nếu thanh toán bằng L/C thì người mua phải mở L/C. Đối ứng ở phía xuất khẩu, bước 2 là người bán kiểm tra L/C nhận được.",
+      "whyWrong": {
+        "b": "Kiểm tra L/C là việc của người xuất khẩu ở bước 2 quy trình xuất khẩu, không phải của người mua.",
+        "c": "Xuất trình chứng từ để thanh toán là bước 9 của quy trình xuất khẩu, do người bán thực hiện.",
+        "d": "Nộp thuế nhập khẩu thuộc bước 5 – thông quan nhập khẩu, không phải bước 2."
+      },
+      "source": "KB §8.3 – Step 2"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-import-procedure-003",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, what is the final step of the import procedure?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inspect goods"
+      },
+      {
+        "id": "b",
+        "text": "Take delivery of goods"
+      },
+      {
+        "id": "c",
+        "text": "Complete import customs clearance"
+      },
+      {
+        "id": "d",
+        "text": "Make payment, per the agreed payment terms"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Bước 9 (cuối) của quy trình nhập khẩu: thanh toán theo điều kiện thanh toán đã thỏa thuận.",
+      "whyCorrect": "Slide liệt kê bước 9 – bước cuối của quy trình nhập khẩu – là thanh toán (make payment) theo điều kiện thanh toán đã thỏa thuận. Các bước trước gồm thông quan nhập khẩu (5), nhận hàng (6), kiểm tra hàng (7), khiếu nại và giải quyết khiếu nại (8).",
+      "whyWrong": {
+        "a": "Kiểm tra hàng là bước 7, sau khi nhận hàng và trước khi khiếu nại, thanh toán.",
+        "b": "Nhận hàng là bước 6, khi người mua nhận hàng từ người chuyên chở/cảng và vận chuyển nội địa.",
+        "c": "Thông quan nhập khẩu là bước 5, diễn ra trước khi người mua nhận hàng, kiểm tra hàng và thanh toán."
+      },
+      "source": "KB §8.3 – Step 9"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-import-procedure-004",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "After taking delivery, an importer inspects the goods and finds a shortage of 30 cartons. According to the import procedure, what is the next step?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Re-do the import customs clearance"
+      },
+      {
+        "id": "b",
+        "text": "Claim and settle the claim with the seller, the carrier or the insurer, as appropriate"
+      },
+      {
+        "id": "c",
+        "text": "Open a new L/C for the missing cartons"
+      },
+      {
+        "id": "d",
+        "text": "Ignore the shortage and close the file"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Sau bước 7 (kiểm tra) phát hiện thiếu hàng → bước 8: khiếu nại người bán, người chuyên chở hoặc bảo hiểm.",
+      "whyCorrect": "Theo slide, bước 7 là kiểm tra hàng (số lượng, chất lượng, tình trạng, sự phù hợp với hợp đồng) và bước 8 là khiếu nại và giải quyết khiếu nại với người bán, người chuyên chở hoặc công ty bảo hiểm về tổn thất hoặc sai lệch. Phát hiện thiếu 30 thùng nên bước tiếp theo là khiếu nại bên có trách nhiệm.",
+      "whyWrong": {
+        "a": "Thông quan nhập khẩu đã hoàn tất ở bước 5; thiếu hàng được xử lý bằng khiếu nại, không làm lại thủ tục.",
+        "c": "Mở L/C mới không giải quyết tổn thất; slide nêu bước khiếu nại với bên có trách nhiệm.",
+        "d": "Bỏ qua thiếu hụt bỏ lỡ bước 8 và quyền đòi bồi thường với người bán, người chuyên chở hoặc bảo hiểm."
+      },
+      "source": "KB §8.3 – Steps 7–8"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C8-import-procedure-005",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which activities does step 5 of the import procedure (complete import customs clearance) include?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Booking the main carriage and paying the freight"
+      },
+      {
+        "id": "b",
+        "text": "Checking the quantity and quality of the goods"
+      },
+      {
+        "id": "c",
+        "text": "Submitting the declaration, providing documents and paying duties and fees"
+      },
+      {
+        "id": "d",
+        "text": "Opening the L/C and paying bank charges"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bước 5 quy trình NK: nộp tờ khai, cung cấp chứng từ, nộp thuế và phí.",
+      "whyCorrect": "Slide nêu bước 5 của quy trình nhập khẩu – hoàn tất thông quan nhập khẩu – gồm: nộp tờ khai hải quan, cung cấp chứng từ và nộp thuế, phí. Điều này tương ứng với bước 7 của dòng hàng ở C1 (khai báo nhập khẩu, kiểm tra chứng từ, kiểm hóa, nộp thuế, giải phóng hàng).",
+      "whyWrong": {
+        "a": "Thuê phương tiện vận tải chính là bước 3 của quy trình nhập khẩu, theo nhóm E và F.",
+        "b": "Kiểm tra số lượng và chất lượng hàng là bước 7, sau khi người mua đã nhận hàng.",
+        "d": "Mở L/C thuộc bước 2 – xem xét điều kiện thanh toán – không thuộc thông quan nhập khẩu."
+      },
+      "source": "KB §8.3 – Step 5; §1.2 – Step 7"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-import-procedure-006",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In the import procedure, which step comes immediately after import customs clearance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Take delivery of the goods from the carrier/terminal and arrange inland transport"
+      },
+      {
+        "id": "b",
+        "text": "Arrange cargo insurance"
+      },
+      {
+        "id": "c",
+        "text": "Negotiate the contract"
+      },
+      {
+        "id": "d",
+        "text": "Make payment"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Sau thông quan NK (bước 5) → bước 6: nhận hàng từ người chuyên chở/cảng và vận chuyển nội địa.",
+      "whyCorrect": "Theo slide, quy trình nhập khẩu tiếp tục từ bước 5 – thông quan nhập khẩu – sang bước 6: nhận hàng (take delivery) từ người chuyên chở hoặc bến bãi và thu xếp vận chuyển nội địa. Sau đó là kiểm tra hàng (7), khiếu nại (8) và thanh toán (9).",
+      "whyWrong": {
+        "b": "Mua bảo hiểm hàng hóa là bước 4, phải thực hiện trước khi hàng được vận chuyển, không sau thông quan.",
+        "c": "Đàm phán và ký hợp đồng là bước 1, bước khởi đầu của toàn bộ quy trình nhập khẩu.",
+        "d": "Thanh toán là bước 9, bước cuối cùng của quy trình nhập khẩu trên slide."
+      },
+      "source": "KB §8.3 – Steps 5–6"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-import-procedure-007",
+    "chapter": "C8",
+    "topic": "import-procedure",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Comparing the export and import procedures on the slides, which statement about “inspect goods” is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "It appears only in the import procedure"
+      },
+      {
+        "id": "b",
+        "text": "It is step 4 in both procedures and always happens before shipment"
+      },
+      {
+        "id": "c",
+        "text": "It appears only in the export procedure, before export customs clearance"
+      },
+      {
+        "id": "d",
+        "text": "It is step 4 of the export procedure (before shipment, if required) and step 7 of the import procedure (after taking delivery)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Kiểm tra hàng: bước 4 XK (trước giao, nếu được yêu cầu) và bước 7 NK (sau khi nhận hàng).",
+      "whyCorrect": "So sánh hai quy trình trên slide. Trong quy trình xuất khẩu, kiểm tra hàng là bước 4, sau chuẩn bị hàng và trước khi thuê vận tải – thực hiện nếu hợp đồng, L/C hoặc quy định yêu cầu. Trong quy trình nhập khẩu, kiểm tra hàng là bước 7, sau khi nhận hàng – kiểm tra số lượng, chất lượng, tình trạng và sự phù hợp với hợp đồng.",
+      "whyWrong": {
+        "a": "Quy trình xuất khẩu cũng có bước kiểm tra hàng (bước 4) khi hợp đồng, L/C hoặc quy định yêu cầu.",
+        "b": "Trong quy trình nhập khẩu, kiểm tra hàng là bước 7 và diễn ra sau khi nhận hàng, không trước khi giao.",
+        "c": "Quy trình nhập khẩu cũng có bước kiểm tra hàng (bước 7), không chỉ riêng quy trình xuất khẩu."
+      },
+      "source": "KB §8.2 – Step 4; §8.3 – Step 7"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-incoterms-procedure-link-001",
+    "chapter": "C8",
+    "topic": "incoterms-procedure-link",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the export procedure, under which groups of Incoterms® rules does the seller book the main carriage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "E and F rules"
+      },
+      {
+        "id": "b",
+        "text": "C and D rules"
+      },
+      {
+        "id": "c",
+        "text": "Only EXW"
+      },
+      {
+        "id": "d",
+        "text": "Only FOB and FCA"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Người bán thuê vận tải chính theo nhóm C & D; người mua thuê theo nhóm E & F.",
+      "whyCorrect": "Slide nêu ở bước 5 của quy trình xuất khẩu – thu xếp vận tải theo quy tắc Incoterms: người bán thuê phương tiện vận tải chính (main carriage) theo các quy tắc nhóm C và D. Đối ứng, ở bước 3 của quy trình nhập khẩu, người mua thuê vận tải chính theo các quy tắc nhóm E và F.",
+      "whyWrong": {
+        "a": "Theo nhóm E và F, người mua – không phải người bán – thuê phương tiện vận tải chính.",
+        "c": "EXW thuộc nhóm E; người mua thuê vận tải chính, người bán chỉ giao hàng tại cơ sở của mình.",
+        "d": "FOB và FCA thuộc nhóm F; theo slide, người mua là bên thuê vận tải chính."
+      },
+      "source": "KB §8.2 – Step 5; §8.3 – Step 3"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-incoterms-procedure-link-002",
+    "chapter": "C8",
+    "topic": "incoterms-procedure-link",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the import procedure, under which groups of Incoterms® rules does the buyer book the main carriage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "C and D rules"
+      },
+      {
+        "id": "b",
+        "text": "Only D rules"
+      },
+      {
+        "id": "c",
+        "text": "CIF and CIP only"
+      },
+      {
+        "id": "d",
+        "text": "E and F rules"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Bước 3 quy trình NK: người mua thuê vận tải chính theo nhóm E & F.",
+      "whyCorrect": "Slide nêu bước 3 của quy trình nhập khẩu – thu xếp vận tải: người mua thuê phương tiện vận tải chính theo các quy tắc nhóm E và F (EXW; FCA, FAS, FOB). Theo nhóm C và D, việc này thuộc về người bán ở bước 5 của quy trình xuất khẩu.",
+      "whyWrong": {
+        "a": "Theo nhóm C và D, người bán là bên thuê phương tiện vận tải chính, không phải người mua.",
+        "b": "Theo nhóm D, người bán chịu trách nhiệm vận chuyển đến nơi đến, nên người mua không thuê vận tải chính.",
+        "c": "CIF và CIP thuộc nhóm C; người bán thuê vận tải chính và còn phải mua bảo hiểm."
+      },
+      "source": "KB §8.3 – Step 3"
+    },
+    "tags": []
+  },
+  {
+    "id": "C8-incoterms-procedure-link-003",
+    "chapter": "C8",
+    "topic": "incoterms-procedure-link",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese importer buys under “CFR Haiphong, Vietnam – Incoterms® 2020”. According to step 4 of the import procedure, should the importer consider arranging cargo insurance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because under CFR the seller is not obliged to insure while the buyer bears the risk during the main carriage"
+      },
+      {
+        "id": "b",
+        "text": "No, because under CFR the seller must insure the goods"
+      },
+      {
+        "id": "c",
+        "text": "No, because the carrier insures all goods under CFR"
+      },
+      {
+        "id": "d",
+        "text": "Yes, but only after the goods arrive in Haiphong"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "CFR: người bán không có nghĩa vụ bảo hiểm, người mua chịu rủi ro chặng chính → người mua nên cân nhắc mua bảo hiểm.",
+      "whyCorrect": "Slide nêu bước 4 của quy trình nhập khẩu – thu xếp bảo hiểm hàng hóa, nếu có – áp dụng theo các quy tắc E, F, CPT, CFR: những quy tắc mà người bán không có nghĩa vụ bảo hiểm trong khi người mua chịu rủi ro trong chặng vận tải chính. CFR nằm trong nhóm này, nên người nhập khẩu nên cân nhắc tự mua bảo hiểm.",
+      "whyWrong": {
+        "b": "Nghĩa vụ bảo hiểm của người bán chỉ có theo CIF và CIP; CFR không bao gồm bảo hiểm.",
+        "c": "Người chuyên chở không có nghĩa vụ mua bảo hiểm hàng hóa cho chủ hàng theo Incoterms.",
+        "d": "Rủi ro chặng chính đã chuyển cho người mua khi hàng lên tàu; mua bảo hiểm sau khi hàng đến là quá muộn."
+      },
+      "source": "KB §8.3 – Step 4; §3.8 – CFR"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-incoterms-procedure-link-004",
+    "chapter": "C8",
+    "topic": "incoterms-procedure-link",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter sells under “FOB Ho Chi Minh City – Incoterms® 2020”. Who books the main carriage, and in which procedure step does that appear?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The seller, in step 5 of the export procedure"
+      },
+      {
+        "id": "b",
+        "text": "The carrier, in step 8 of the export procedure"
+      },
+      {
+        "id": "c",
+        "text": "The buyer, in step 3 of the import procedure (F rules)"
+      },
+      {
+        "id": "d",
+        "text": "The seller's bank, in step 9 of the export procedure"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "FOB thuộc nhóm F → người mua thuê vận tải chính (bước 3 quy trình NK).",
+      "whyCorrect": "FOB thuộc nhóm F. Theo slide, ở bước 3 của quy trình nhập khẩu, người mua thuê phương tiện vận tải chính theo các quy tắc nhóm E và F. Người bán theo FOB chỉ giao hàng lên tàu do người mua chỉ định tại cảng bốc – phù hợp ví dụ hợp đồng FOB ở C6, nơi người mua thông báo tên tàu cho người bán.",
+      "whyWrong": {
+        "a": "Người bán chỉ thuê vận tải chính theo nhóm C và D (bước 5 XK); FOB thuộc nhóm F.",
+        "b": "Người chuyên chở thực hiện vận tải theo hợp đồng do một bên ký; bước 8 XK là giao hàng của người bán.",
+        "d": "Ngân hàng tham gia khâu thanh toán; bước 9 XK là xuất trình chứng từ, không phải thuê vận tải."
+      },
+      "source": "KB §8.2 – Step 5; §8.3 – Step 3; §6.8 – Example"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C8-incoterms-procedure-link-005",
+    "chapter": "C8",
+    "topic": "incoterms-procedure-link",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A contract is concluded on “CIP Hanoi, Vietnam – Incoterms® 2020”. Applying the slides' procedures, which allocation of the transport and insurance steps is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The buyer books the main carriage (import step 3) and insures the goods (import step 4)"
+      },
+      {
+        "id": "b",
+        "text": "The seller books the main carriage (export step 5, C rule) and arranges cargo insurance (export step 6, CIP); CIP is not among the rules listed for the buyer's insurance step"
+      },
+      {
+        "id": "c",
+        "text": "The seller books the main carriage, but the buyer must insure because CIP is like CPT"
+      },
+      {
+        "id": "d",
+        "text": "Neither party arranges insurance under CIP"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "CIP: người bán thuê vận tải chính (nhóm C, bước 5 XK) và mua bảo hiểm (bước 6 XK); CIP không thuộc nhóm E, F, CPT, CFR của bước 4 NK.",
+      "whyCorrect": "Phân tích theo hai quy trình. CIP thuộc nhóm C nên người bán thuê vận tải chính ở bước 5 của quy trình xuất khẩu. Bước 6 xuất khẩu nêu người bán mua bảo hiểm nếu hợp đồng hoặc quy tắc yêu cầu – CIF và CIP. Bước 4 nhập khẩu chỉ liệt kê E, F, CPT, CFR là các trường hợp người mua thu xếp bảo hiểm, không có CIP.",
+      "whyWrong": {
+        "a": "Theo CIP, người bán – không phải người mua – thuê vận tải chính và có nghĩa vụ mua bảo hiểm.",
+        "c": "CIP khác CPT ở chỗ người bán phải mua bảo hiểm; CPT mới là trường hợp người mua cân nhắc tự bảo hiểm.",
+        "d": "CIP (Carriage and Insurance Paid To) đặt nghĩa vụ mua bảo hiểm cho người bán ngay trong tên quy tắc."
+      },
+      "source": "KB §8.2 – Steps 5–6; §8.3 – Steps 3–4"
+    },
+    "tags": [
+      "integrated"
+    ]
+  }
+]

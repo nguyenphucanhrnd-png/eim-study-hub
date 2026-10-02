@@ -1,0 +1,4314 @@
+{
+  "seed": 20260101,
+  "generatedFrom": "src/data/questions",
+  "exams": [
+    {
+      "id": "EXAM-01",
+      "title": "Đề thi thử số 1",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-service-providers-001",
+        "C1-players-004",
+        "C1-two-flows-006",
+        "C2-target-market-001",
+        "C2-objectives-kpi-003",
+        "C2-market-entry-005",
+        "C2-product-adaptation-004",
+        "C3-rule-exw-002",
+        "C3-rule-dpu-002",
+        "C3-pricing-objectives-003",
+        "C3-rule-fas-002",
+        "C3-rule-fob-001",
+        "C3-incoterms-basics-003",
+        "C3-pricing-approaches-014",
+        "C3-incoterms-2010-vs-2020-008",
+        "C3-pricing-objectives-013",
+        "C3-rule-exw-005",
+        "C3-incoterms-basics-006",
+        "C3-rule-comparison-009",
+        "C3-incoterms-2010-vs-2020-006",
+        "C3-rule-cip-008",
+        "C3-rule-ddp-008",
+        "C4-insurance-principles-003",
+        "C4-incoterms-insurance-002",
+        "C4-cargo-insurance-concept-004",
+        "C4-trade-risks-008",
+        "C4-peril-coverage-006",
+        "C4-icc-abc-010",
+        "C5-consignment-003",
+        "C5-tt-deferred-001",
+        "C5-lc-contents-002",
+        "C5-lc-procedure-002",
+        "C5-lc-parties-005",
+        "C5-documentary-collection-007",
+        "C5-lc-concept-004",
+        "C5-documentary-collection-005",
+        "C5-lc-concept-007",
+        "C5-open-account-005",
+        "C6-art-other-001",
+        "C6-art-penalty-001",
+        "C6-art-payment-003",
+        "C6-art-price-003",
+        "C6-art-delivery-005",
+        "C7-proforma-001",
+        "C7-certificate-of-origin-001",
+        "C7-invoice-vs-lc-002",
+        "C7-document-lists-004",
+        "C7-co-forms-fta-005",
+        "C8-import-procedure-002",
+        "C8-export-procedure-005"
+      ],
+      "optionOrder": {
+        "C1-service-providers-001": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C1-players-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C1-two-flows-006": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C2-target-market-001": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C2-objectives-kpi-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C2-market-entry-005": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C2-product-adaptation-004": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-exw-002": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-rule-dpu-002": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-pricing-objectives-003": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-rule-fas-002": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-rule-fob-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-incoterms-basics-003": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-pricing-approaches-014": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-incoterms-2010-vs-2020-008": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-pricing-objectives-013": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-exw-005": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-incoterms-basics-006": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-rule-comparison-009": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-incoterms-2010-vs-2020-006": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-rule-cip-008": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-rule-ddp-008": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C4-insurance-principles-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C4-incoterms-insurance-002": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C4-cargo-insurance-concept-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C4-trade-risks-008": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C4-peril-coverage-006": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C4-icc-abc-010": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-consignment-003": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C5-tt-deferred-001": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C5-lc-contents-002": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C5-lc-procedure-002": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C5-lc-parties-005": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C5-documentary-collection-007": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-lc-concept-004": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-documentary-collection-005": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C5-lc-concept-007": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-open-account-005": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C6-art-other-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C6-art-penalty-001": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C6-art-payment-003": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C6-art-price-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C6-art-delivery-005": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C7-proforma-001": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-certificate-of-origin-001": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C7-invoice-vs-lc-002": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C7-document-lists-004": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C7-co-forms-fta-005": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C8-import-procedure-002": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C8-export-procedure-005": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-02",
+      "title": "Đề thi thử số 2",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-players-002",
+        "C1-export-process-steps-003",
+        "C1-roles-005",
+        "C2-export-plan-components-002",
+        "C2-market-entry-001",
+        "C2-fx-risk-003",
+        "C2-target-market-004",
+        "C3-rule-ddp-001",
+        "C3-rule-fas-003",
+        "C3-carriage-stages-003",
+        "C3-rule-dap-002",
+        "C3-pricing-approaches-004",
+        "C3-carriage-stages-001",
+        "C3-rule-fob-005",
+        "C3-pricing-objectives-001",
+        "C3-rule-fca-006",
+        "C3-rule-exw-006",
+        "C3-rule-cif-008",
+        "C3-rule-exw-004",
+        "C3-pricing-objectives-018",
+        "C3-rule-ddp-009",
+        "C3-rule-fas-007",
+        "C4-cargo-insurance-concept-002",
+        "C4-trade-risks-004",
+        "C4-incoterms-insurance-008",
+        "C4-icc-abc-008",
+        "C4-insurance-principles-008",
+        "C4-peril-coverage-011",
+        "C5-lc-concept-002",
+        "C5-discrepancies-002",
+        "C5-method-selection-002",
+        "C5-lc-checklist-003",
+        "C5-lc-dates-008",
+        "C5-lc-checklist-004",
+        "C5-tt-advance-005",
+        "C5-lc-procedure-005",
+        "C5-lc-dates-011",
+        "C5-tt-deferred-005",
+        "C6-contract-structure-001",
+        "C6-art-force-majeure-001",
+        "C6-art-commodity-003",
+        "C6-art-price-004",
+        "C6-art-quality-005",
+        "C7-document-lists-002",
+        "C7-co-forms-fta-002",
+        "C7-invoice-vs-lc-003",
+        "C7-packing-list-003",
+        "C7-commercial-invoice-005",
+        "C8-export-procedure-002",
+        "C8-incoterms-procedure-link-003"
+      ],
+      "optionOrder": {
+        "C1-players-002": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C1-export-process-steps-003": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C1-roles-005": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C2-export-plan-components-002": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C2-market-entry-001": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C2-fx-risk-003": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C2-target-market-004": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C3-rule-ddp-001": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-fas-003": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-carriage-stages-003": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-rule-dap-002": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-pricing-approaches-004": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-carriage-stages-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-rule-fob-005": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C3-pricing-objectives-001": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C3-rule-fca-006": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C3-rule-exw-006": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C3-rule-cif-008": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-rule-exw-004": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-pricing-objectives-018": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C3-rule-ddp-009": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-fas-007": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C4-cargo-insurance-concept-002": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C4-trade-risks-004": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-incoterms-insurance-008": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C4-icc-abc-008": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C4-insurance-principles-008": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C4-peril-coverage-011": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-lc-concept-002": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C5-discrepancies-002": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C5-method-selection-002": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C5-lc-checklist-003": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C5-lc-dates-008": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-lc-checklist-004": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-tt-advance-005": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C5-lc-procedure-005": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-lc-dates-011": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C5-tt-deferred-005": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C6-contract-structure-001": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C6-art-force-majeure-001": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C6-art-commodity-003": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C6-art-price-004": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C6-art-quality-005": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C7-document-lists-002": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C7-co-forms-fta-002": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-invoice-vs-lc-003": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C7-packing-list-003": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C7-commercial-invoice-005": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C8-export-procedure-002": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C8-incoterms-procedure-link-003": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-03",
+      "title": "Đề thi thử số 3",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-order-process-002",
+        "C1-two-flows-001",
+        "C1-export-definition-004",
+        "C2-risk-types-002",
+        "C2-objectives-kpi-004",
+        "C2-product-adaptation-003",
+        "C2-financial-analysis-006",
+        "C3-incoterms-2010-vs-2020-003",
+        "C3-rule-cfr-001",
+        "C3-incoterms-2010-vs-2020-005",
+        "C3-rule-cip-003",
+        "C3-pricing-objectives-002",
+        "C3-rule-cfr-002",
+        "C3-rule-cip-007",
+        "C3-rule-cpt-006",
+        "C3-rule-dap-005",
+        "C3-pricing-objectives-010",
+        "C3-rule-comparison-012",
+        "C3-incoterms-basics-007",
+        "C3-rule-cpt-008",
+        "C3-pricing-approaches-017",
+        "C3-rule-fob-010",
+        "C4-peril-coverage-004",
+        "C4-traditional-vs-icc-003",
+        "C4-icc-abc-006",
+        "C4-insurance-principles-006",
+        "C4-incoterms-insurance-009",
+        "C4-trade-risks-010",
+        "C5-tt-advance-002",
+        "C5-lc-contents-003",
+        "C5-documentary-collection-003",
+        "C5-documentary-collection-002",
+        "C5-lc-procedure-004",
+        "C5-lc-dates-001",
+        "C5-lc-parties-006",
+        "C5-dp-da-007",
+        "C5-dp-da-009",
+        "C5-dp-da-008",
+        "C6-art-packing-001",
+        "C6-art-claim-002",
+        "C6-art-insurance-002",
+        "C6-art-payment-004",
+        "C6-art-arbitration-cisg-004",
+        "C7-invoice-vs-lc-001",
+        "C7-commercial-invoice-002",
+        "C7-gsp-003",
+        "C7-insurance-docs-004",
+        "C7-proforma-004",
+        "C8-import-procedure-003",
+        "C8-incoterms-procedure-link-004"
+      ],
+      "optionOrder": {
+        "C1-order-process-002": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C1-two-flows-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C1-export-definition-004": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C2-risk-types-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C2-objectives-kpi-004": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C2-product-adaptation-003": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C2-financial-analysis-006": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-incoterms-2010-vs-2020-003": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-rule-cfr-001": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C3-incoterms-2010-vs-2020-005": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-rule-cip-003": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C3-pricing-objectives-002": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-rule-cfr-002": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-rule-cip-007": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-rule-cpt-006": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-dap-005": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-pricing-objectives-010": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-comparison-012": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-incoterms-basics-007": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-cpt-008": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-pricing-approaches-017": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-fob-010": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C4-peril-coverage-004": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C4-traditional-vs-icc-003": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-icc-abc-006": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C4-insurance-principles-006": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C4-incoterms-insurance-009": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C4-trade-risks-010": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C5-tt-advance-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C5-lc-contents-003": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C5-documentary-collection-003": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C5-documentary-collection-002": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C5-lc-procedure-004": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-lc-dates-001": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-lc-parties-006": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-dp-da-007": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-dp-da-009": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-dp-da-008": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C6-art-packing-001": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C6-art-claim-002": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C6-art-insurance-002": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C6-art-payment-004": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C6-art-arbitration-cisg-004": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C7-invoice-vs-lc-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C7-commercial-invoice-002": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-gsp-003": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C7-insurance-docs-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C7-proforma-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C8-import-procedure-003": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C8-incoterms-procedure-link-004": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-04",
+      "title": "Đề thi thử số 4",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-export-elements-001",
+        "C1-export-definition-001",
+        "C1-export-process-steps-006",
+        "C2-export-plan-components-001",
+        "C2-market-entry-003",
+        "C2-financial-analysis-004",
+        "C2-pricing-payment-plan-003",
+        "C3-pricing-objectives-004",
+        "C3-incoterms-basics-004",
+        "C3-incoterms-2010-vs-2020-001",
+        "C3-rule-cfr-003",
+        "C3-incoterms-scope-002",
+        "C3-rule-cpt-001",
+        "C3-rule-ddp-007",
+        "C3-rule-ddp-005",
+        "C3-rule-comparison-010",
+        "C3-pricing-objectives-008",
+        "C3-rule-cif-006",
+        "C3-rule-fas-006",
+        "C3-rule-comparison-016",
+        "C3-pricing-approaches-018",
+        "C3-rule-fob-009",
+        "C4-peril-coverage-002",
+        "C4-icc-abc-002",
+        "C4-cargo-insurance-concept-006",
+        "C4-incoterms-insurance-006",
+        "C4-trade-risks-006",
+        "C4-traditional-vs-icc-009",
+        "C5-discrepancies-004",
+        "C5-dp-da-002",
+        "C5-documentary-collection-001",
+        "C5-open-account-001",
+        "C5-tt-deferred-004",
+        "C5-bill-of-exchange-005",
+        "C5-lc-dates-009",
+        "C5-lc-dates-010",
+        "C5-lc-contents-007",
+        "C5-lc-dates-012",
+        "C6-art-insurance-001",
+        "C6-contract-structure-003",
+        "C6-art-claim-003",
+        "C6-art-arbitration-cisg-003",
+        "C6-art-documents-004",
+        "C7-insurance-docs-002",
+        "C7-gsp-001",
+        "C7-co-forms-fta-004",
+        "C7-bl-checklist-002",
+        "C7-certificate-of-origin-004",
+        "C8-export-procedure-001",
+        "C8-import-procedure-004"
+      ],
+      "optionOrder": {
+        "C1-export-elements-001": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C1-export-definition-001": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C1-export-process-steps-006": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C2-export-plan-components-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C2-market-entry-003": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C2-financial-analysis-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C2-pricing-payment-plan-003": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-pricing-objectives-004": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-incoterms-basics-004": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-incoterms-2010-vs-2020-001": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-cfr-003": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-incoterms-scope-002": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-cpt-001": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-rule-ddp-007": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-ddp-005": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C3-rule-comparison-010": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-pricing-objectives-008": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C3-rule-cif-006": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-fas-006": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-rule-comparison-016": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-pricing-approaches-018": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-fob-009": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C4-peril-coverage-002": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C4-icc-abc-002": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C4-cargo-insurance-concept-006": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-incoterms-insurance-006": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C4-trade-risks-006": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C4-traditional-vs-icc-009": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C5-discrepancies-004": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-dp-da-002": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C5-documentary-collection-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C5-open-account-001": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-tt-deferred-004": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-bill-of-exchange-005": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-lc-dates-009": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-lc-dates-010": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-lc-contents-007": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-lc-dates-012": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C6-art-insurance-001": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C6-contract-structure-003": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C6-art-claim-003": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C6-art-arbitration-cisg-003": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C6-art-documents-004": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C7-insurance-docs-002": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C7-gsp-001": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C7-co-forms-fta-004": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C7-bl-checklist-002": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C7-certificate-of-origin-004": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C8-export-procedure-001": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C8-import-procedure-004": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-05",
+      "title": "Đề thi thử số 5",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-export-elements-002",
+        "C1-roles-002",
+        "C1-export-process-steps-005",
+        "C2-pricing-payment-plan-001",
+        "C2-eleven-questions-002",
+        "C2-risk-types-003",
+        "C2-export-plan-components-005",
+        "C3-incoterms-basics-001",
+        "C3-rule-dap-003",
+        "C3-rule-cpt-002",
+        "C3-rule-fca-003",
+        "C3-pricing-objectives-005",
+        "C3-rule-ddp-002",
+        "C3-rule-fob-007",
+        "C3-rule-dpu-004",
+        "C3-incoterms-scope-004",
+        "C3-pricing-approaches-013",
+        "C3-rule-fca-005",
+        "C3-rule-ddp-006",
+        "C3-pricing-approaches-016",
+        "C3-rule-comparison-013",
+        "C3-rule-cfr-009",
+        "C4-icc-abc-004",
+        "C4-incoterms-insurance-003",
+        "C4-cargo-insurance-concept-007",
+        "C4-traditional-vs-icc-005",
+        "C4-peril-coverage-008",
+        "C4-insurance-principles-009",
+        "C5-tt-deferred-002",
+        "C5-lc-contents-001",
+        "C5-lc-dates-005",
+        "C5-dp-da-004",
+        "C5-lc-contents-005",
+        "C5-discrepancies-006",
+        "C5-bill-of-exchange-004",
+        "C5-lc-types-005",
+        "C5-tt-advance-008",
+        "C5-lc-procedure-008",
+        "C6-art-quantity-002",
+        "C6-art-price-002",
+        "C6-art-penalty-003",
+        "C6-art-other-002",
+        "C6-art-force-majeure-004",
+        "C7-bl-types-001",
+        "C7-bl-functions-002",
+        "C7-certificate-of-origin-003",
+        "C7-commercial-invoice-003",
+        "C7-phyto-inspection-004",
+        "C8-export-procedure-003",
+        "C8-implementation-considerations-002"
+      ],
+      "optionOrder": {
+        "C1-export-elements-002": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C1-roles-002": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C1-export-process-steps-005": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C2-pricing-payment-plan-001": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C2-eleven-questions-002": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C2-risk-types-003": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C2-export-plan-components-005": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C3-incoterms-basics-001": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C3-rule-dap-003": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-rule-cpt-002": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-fca-003": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-pricing-objectives-005": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-ddp-002": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-rule-fob-007": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C3-rule-dpu-004": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-incoterms-scope-004": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-pricing-approaches-013": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-fca-005": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-ddp-006": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-pricing-approaches-016": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-rule-comparison-013": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-rule-cfr-009": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C4-icc-abc-004": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C4-incoterms-insurance-003": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C4-cargo-insurance-concept-007": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C4-traditional-vs-icc-005": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C4-peril-coverage-008": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C4-insurance-principles-009": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-tt-deferred-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C5-lc-contents-001": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C5-lc-dates-005": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C5-dp-da-004": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C5-lc-contents-005": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C5-discrepancies-006": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C5-bill-of-exchange-004": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C5-lc-types-005": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C5-tt-advance-008": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-lc-procedure-008": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C6-art-quantity-002": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C6-art-price-002": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C6-art-penalty-003": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C6-art-other-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C6-art-force-majeure-004": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C7-bl-types-001": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C7-bl-functions-002": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-certificate-of-origin-003": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C7-commercial-invoice-003": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-phyto-inspection-004": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C8-export-procedure-003": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C8-implementation-considerations-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-06",
+      "title": "Đề thi thử số 6",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-two-flows-002",
+        "C1-roles-001",
+        "C1-export-elements-004",
+        "C2-financial-analysis-002",
+        "C2-risk-types-004",
+        "C2-fx-risk-002",
+        "C2-objectives-kpi-005",
+        "C3-carriage-stages-002",
+        "C3-pricing-approaches-005",
+        "C3-rule-dpu-003",
+        "C3-rule-cif-004",
+        "C3-rule-cip-002",
+        "C3-rule-exw-001",
+        "C3-rule-comparison-011",
+        "C3-rule-fas-005",
+        "C3-rule-cip-005",
+        "C3-incoterms-2010-vs-2020-007",
+        "C3-pricing-approaches-009",
+        "C3-rule-cip-006",
+        "C3-rule-comparison-015",
+        "C3-incoterms-basics-009",
+        "C3-pricing-objectives-017",
+        "C4-trade-risks-001",
+        "C4-icc-abc-001",
+        "C4-traditional-vs-icc-008",
+        "C4-peril-coverage-009",
+        "C4-insurance-principles-007",
+        "C4-incoterms-insurance-010",
+        "C5-tt-advance-003",
+        "C5-bill-of-exchange-001",
+        "C5-lc-checklist-001",
+        "C5-lc-concept-003",
+        "C5-method-selection-005",
+        "C5-lc-contents-004",
+        "C5-bill-of-exchange-006",
+        "C5-method-selection-003",
+        "C5-documentary-collection-008",
+        "C5-lc-procedure-009",
+        "C6-art-arbitration-cisg-002",
+        "C6-art-commodity-002",
+        "C6-contract-structure-004",
+        "C6-contract-errors-001",
+        "C6-art-insurance-003",
+        "C7-bl-types-002",
+        "C7-commercial-invoice-001",
+        "C7-quantity-quality-cert-002",
+        "C7-document-lists-003",
+        "C7-bl-functions-004",
+        "C8-incoterms-procedure-link-002",
+        "C8-export-procedure-004"
+      ],
+      "optionOrder": {
+        "C1-two-flows-002": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C1-roles-001": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C1-export-elements-004": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C2-financial-analysis-002": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C2-risk-types-004": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C2-fx-risk-002": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C2-objectives-kpi-005": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-carriage-stages-002": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-pricing-approaches-005": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-rule-dpu-003": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-cif-004": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-rule-cip-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-rule-exw-001": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-comparison-011": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-rule-fas-005": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-cip-005": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C3-incoterms-2010-vs-2020-007": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-pricing-approaches-009": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-rule-cip-006": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C3-rule-comparison-015": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C3-incoterms-basics-009": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-pricing-objectives-017": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C4-trade-risks-001": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C4-icc-abc-001": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C4-traditional-vs-icc-008": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C4-peril-coverage-009": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C4-insurance-principles-007": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-incoterms-insurance-010": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C5-tt-advance-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C5-bill-of-exchange-001": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C5-lc-checklist-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-lc-concept-003": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-method-selection-005": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C5-lc-contents-004": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-bill-of-exchange-006": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-method-selection-003": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-documentary-collection-008": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-lc-procedure-009": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C6-art-arbitration-cisg-002": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C6-art-commodity-002": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C6-contract-structure-004": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C6-contract-errors-001": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C6-art-insurance-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C7-bl-types-002": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C7-commercial-invoice-001": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C7-quantity-quality-cert-002": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C7-document-lists-003": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C7-bl-functions-004": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C8-incoterms-procedure-link-002": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C8-export-procedure-004": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-07",
+      "title": "Đề thi thử số 7",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-export-process-steps-001",
+        "C1-service-providers-003",
+        "C1-two-flows-004",
+        "C2-financial-analysis-001",
+        "C2-market-entry-002",
+        "C2-export-plan-components-004",
+        "C2-pricing-payment-plan-002",
+        "C3-rule-fca-001",
+        "C3-incoterms-2010-vs-2020-004",
+        "C3-rule-comparison-002",
+        "C3-rule-cif-002",
+        "C3-pricing-approaches-006",
+        "C3-rule-cif-005",
+        "C3-incoterms-2010-vs-2020-009",
+        "C3-incoterms-scope-005",
+        "C3-incoterms-scope-006",
+        "C3-rule-comparison-007",
+        "C3-pricing-approaches-012",
+        "C3-rule-comparison-001",
+        "C3-pricing-objectives-016",
+        "C3-rule-cif-010",
+        "C3-rule-exw-007",
+        "C4-insurance-principles-001",
+        "C4-peril-coverage-005",
+        "C4-icc-abc-005",
+        "C4-traditional-vs-icc-006",
+        "C4-incoterms-insurance-011",
+        "C4-trade-risks-009",
+        "C5-lc-procedure-003",
+        "C5-bill-of-exchange-002",
+        "C5-lc-parties-001",
+        "C5-tt-advance-001",
+        "C5-lc-parties-004",
+        "C5-discrepancies-001",
+        "C5-dp-da-006",
+        "C5-open-account-004",
+        "C5-method-selection-006",
+        "C5-lc-checklist-008",
+        "C6-art-payment-001",
+        "C6-art-claim-001",
+        "C6-art-packing-002",
+        "C6-art-force-majeure-003",
+        "C6-contract-errors-002",
+        "C7-packing-list-001",
+        "C7-bl-functions-001",
+        "C7-commercial-invoice-004",
+        "C7-bl-types-003",
+        "C7-bl-checklist-004",
+        "C8-incoterms-procedure-link-001",
+        "C8-export-procedure-006"
+      ],
+      "optionOrder": {
+        "C1-export-process-steps-001": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C1-service-providers-003": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C1-two-flows-004": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C2-financial-analysis-001": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C2-market-entry-002": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C2-export-plan-components-004": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C2-pricing-payment-plan-002": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C3-rule-fca-001": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-incoterms-2010-vs-2020-004": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-rule-comparison-002": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-cif-002": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C3-pricing-approaches-006": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C3-rule-cif-005": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-incoterms-2010-vs-2020-009": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C3-incoterms-scope-005": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-incoterms-scope-006": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-rule-comparison-007": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-pricing-approaches-012": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-rule-comparison-001": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-pricing-objectives-016": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-rule-cif-010": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-rule-exw-007": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C4-insurance-principles-001": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C4-peril-coverage-005": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C4-icc-abc-005": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C4-traditional-vs-icc-006": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C4-incoterms-insurance-011": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C4-trade-risks-009": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-lc-procedure-003": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-bill-of-exchange-002": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-lc-parties-001": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C5-tt-advance-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-lc-parties-004": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-discrepancies-001": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C5-dp-da-006": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-open-account-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C5-method-selection-006": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C5-lc-checklist-008": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C6-art-payment-001": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C6-art-claim-001": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C6-art-packing-002": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C6-art-force-majeure-003": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C6-contract-errors-002": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C7-packing-list-001": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C7-bl-functions-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C7-commercial-invoice-004": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C7-bl-types-003": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C7-bl-checklist-004": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C8-incoterms-procedure-link-001": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C8-export-procedure-006": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-08",
+      "title": "Đề thi thử số 8",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-export-process-steps-002",
+        "C1-roles-004",
+        "C1-export-definition-003",
+        "C2-objectives-kpi-001",
+        "C2-logistics-plan-001",
+        "C2-eleven-questions-003",
+        "C2-fx-risk-004",
+        "C3-pricing-objectives-006",
+        "C3-incoterms-basics-005",
+        "C3-rule-fob-003",
+        "C3-rule-comparison-003",
+        "C3-rule-fas-001",
+        "C3-rule-cpt-003",
+        "C3-rule-cif-007",
+        "C3-pricing-objectives-009",
+        "C3-rule-fob-008",
+        "C3-rule-dap-004",
+        "C3-pricing-approaches-011",
+        "C3-rule-fca-007",
+        "C3-rule-exw-008",
+        "C3-rule-dpu-007",
+        "C3-incoterms-scope-007",
+        "C4-insurance-principles-002",
+        "C4-cargo-insurance-concept-003",
+        "C4-trade-risks-007",
+        "C4-traditional-vs-icc-007",
+        "C4-peril-coverage-012",
+        "C4-icc-abc-009",
+        "C5-open-account-002",
+        "C5-consignment-002",
+        "C5-consignment-001",
+        "C5-lc-types-002",
+        "C5-documentary-collection-006",
+        "C5-tt-advance-006",
+        "C5-tt-deferred-003",
+        "C5-method-selection-004",
+        "C5-method-selection-001",
+        "C5-tt-advance-007",
+        "C6-art-payment-002",
+        "C6-art-price-001",
+        "C6-art-delivery-004",
+        "C6-art-quality-003",
+        "C6-art-quantity-004",
+        "C7-phyto-inspection-001",
+        "C7-quantity-quality-cert-001",
+        "C7-bl-checklist-003",
+        "C7-proforma-003",
+        "C7-insurance-docs-005",
+        "C8-import-procedure-001",
+        "C8-export-procedure-008"
+      ],
+      "optionOrder": {
+        "C1-export-process-steps-002": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C1-roles-004": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C1-export-definition-003": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C2-objectives-kpi-001": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C2-logistics-plan-001": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C2-eleven-questions-003": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C2-fx-risk-004": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-pricing-objectives-006": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C3-incoterms-basics-005": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-rule-fob-003": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-comparison-003": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-rule-fas-001": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-cpt-003": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-cif-007": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-pricing-objectives-009": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C3-rule-fob-008": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-dap-004": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-pricing-approaches-011": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C3-rule-fca-007": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-rule-exw-008": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-dpu-007": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-incoterms-scope-007": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C4-insurance-principles-002": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C4-cargo-insurance-concept-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C4-trade-risks-007": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C4-traditional-vs-icc-007": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C4-peril-coverage-012": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C4-icc-abc-009": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C5-open-account-002": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-consignment-002": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-consignment-001": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-lc-types-002": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-documentary-collection-006": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-tt-advance-006": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C5-tt-deferred-003": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C5-method-selection-004": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C5-method-selection-001": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-tt-advance-007": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C6-art-payment-002": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C6-art-price-001": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C6-art-delivery-004": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C6-art-quality-003": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C6-art-quantity-004": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C7-phyto-inspection-001": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C7-quantity-quality-cert-001": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C7-bl-checklist-003": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C7-proforma-003": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C7-insurance-docs-005": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C8-import-procedure-001": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C8-export-procedure-008": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-09",
+      "title": "Đề thi thử số 9",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-two-flows-005",
+        "C1-export-elements-003",
+        "C1-players-003",
+        "C2-product-adaptation-002",
+        "C2-fx-risk-001",
+        "C2-target-market-003",
+        "C2-logistics-plan-003",
+        "C3-incoterms-2010-vs-2020-002",
+        "C3-incoterms-basics-002",
+        "C3-rule-cif-003",
+        "C3-pricing-approaches-007",
+        "C3-rule-fca-002",
+        "C3-incoterms-scope-003",
+        "C3-rule-cfr-007",
+        "C3-rule-dpu-005",
+        "C3-pricing-approaches-010",
+        "C3-rule-cif-001",
+        "C3-rule-cfr-006",
+        "C3-pricing-objectives-015",
+        "C3-rule-dap-008",
+        "C3-rule-dap-007",
+        "C3-carriage-stages-006",
+        "C4-traditional-vs-icc-002",
+        "C4-trade-risks-002",
+        "C4-incoterms-insurance-001",
+        "C4-peril-coverage-007",
+        "C4-cargo-insurance-concept-005",
+        "C4-insurance-principles-010",
+        "C5-lc-concept-001",
+        "C5-lc-parties-003",
+        "C5-lc-dates-003",
+        "C5-lc-checklist-002",
+        "C5-lc-types-006",
+        "C5-lc-contents-006",
+        "C5-lc-checklist-006",
+        "C5-dp-da-005",
+        "C5-lc-types-007",
+        "C5-lc-checklist-007",
+        "C6-art-delivery-002",
+        "C6-art-quality-002",
+        "C6-art-documents-003",
+        "C6-art-force-majeure-002",
+        "C6-art-price-005",
+        "C7-insurance-docs-001",
+        "C7-co-forms-fta-001",
+        "C7-phyto-inspection-002",
+        "C7-invoice-vs-lc-004",
+        "C7-bl-types-006",
+        "C8-implementation-considerations-001",
+        "C8-import-procedure-007"
+      ],
+      "optionOrder": {
+        "C1-two-flows-005": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C1-export-elements-003": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C1-players-003": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C2-product-adaptation-002": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C2-fx-risk-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C2-target-market-003": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C2-logistics-plan-003": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-incoterms-2010-vs-2020-002": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-incoterms-basics-002": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C3-rule-cif-003": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-pricing-approaches-007": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C3-rule-fca-002": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C3-incoterms-scope-003": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-cfr-007": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-dpu-005": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-pricing-approaches-010": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-cif-001": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-cfr-006": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C3-pricing-objectives-015": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-rule-dap-008": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-dap-007": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-carriage-stages-006": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C4-traditional-vs-icc-002": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C4-trade-risks-002": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C4-incoterms-insurance-001": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C4-peril-coverage-007": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C4-cargo-insurance-concept-005": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C4-insurance-principles-010": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C5-lc-concept-001": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-lc-parties-003": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-lc-dates-003": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-lc-checklist-002": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C5-lc-types-006": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C5-lc-contents-006": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C5-lc-checklist-006": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C5-dp-da-005": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-lc-types-007": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C5-lc-checklist-007": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C6-art-delivery-002": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C6-art-quality-002": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C6-art-documents-003": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C6-art-force-majeure-002": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C6-art-price-005": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C7-insurance-docs-001": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C7-co-forms-fta-001": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C7-phyto-inspection-002": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C7-invoice-vs-lc-004": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-bl-types-006": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C8-implementation-considerations-001": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C8-import-procedure-007": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-10",
+      "title": "Đề thi thử số 10",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-order-process-001",
+        "C1-roles-003",
+        "C1-two-flows-003",
+        "C2-objectives-kpi-002",
+        "C2-product-adaptation-001",
+        "C2-export-plan-components-003",
+        "C2-fx-risk-005",
+        "C3-rule-ddp-004",
+        "C3-pricing-approaches-002",
+        "C3-rule-comparison-005",
+        "C3-pricing-approaches-003",
+        "C3-rule-dap-001",
+        "C3-rule-comparison-006",
+        "C3-rule-fas-004",
+        "C3-rule-dap-006",
+        "C3-rule-cif-009",
+        "C3-rule-cpt-004",
+        "C3-rule-fob-006",
+        "C3-pricing-objectives-011",
+        "C3-rule-fca-009",
+        "C3-rule-cpt-007",
+        "C3-rule-cif-011",
+        "C4-trade-risks-003",
+        "C4-traditional-vs-icc-001",
+        "C4-cargo-insurance-concept-001",
+        "C4-incoterms-insurance-005",
+        "C4-insurance-principles-005",
+        "C4-peril-coverage-010",
+        "C5-lc-dates-004",
+        "C5-lc-procedure-001",
+        "C5-lc-dates-002",
+        "C5-dp-da-003",
+        "C5-consignment-004",
+        "C5-lc-dates-006",
+        "C5-discrepancies-005",
+        "C5-lc-concept-006",
+        "C5-lc-parties-007",
+        "C5-discrepancies-008",
+        "C6-art-arbitration-cisg-001",
+        "C6-art-documents-001",
+        "C6-art-quality-004",
+        "C6-art-penalty-002",
+        "C6-art-claim-004",
+        "C7-document-lists-001",
+        "C7-packing-list-002",
+        "C7-insurance-docs-003",
+        "C7-phyto-inspection-003",
+        "C7-invoice-vs-lc-005",
+        "C8-import-procedure-006",
+        "C8-incoterms-procedure-link-005"
+      ],
+      "optionOrder": {
+        "C1-order-process-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C1-roles-003": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C1-two-flows-003": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C2-objectives-kpi-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C2-product-adaptation-001": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C2-export-plan-components-003": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C2-fx-risk-005": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-ddp-004": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-pricing-approaches-002": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C3-rule-comparison-005": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C3-pricing-approaches-003": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-rule-dap-001": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-rule-comparison-006": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-fas-004": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-rule-dap-006": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-cif-009": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C3-rule-cpt-004": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C3-rule-fob-006": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-pricing-objectives-011": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-rule-fca-009": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-cpt-007": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C3-rule-cif-011": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C4-trade-risks-003": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C4-traditional-vs-icc-001": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-cargo-insurance-concept-001": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C4-incoterms-insurance-005": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-insurance-principles-005": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C4-peril-coverage-010": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C5-lc-dates-004": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-lc-procedure-001": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C5-lc-dates-002": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C5-dp-da-003": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-consignment-004": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C5-lc-dates-006": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C5-discrepancies-005": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C5-lc-concept-006": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C5-lc-parties-007": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C5-discrepancies-008": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C6-art-arbitration-cisg-001": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C6-art-documents-001": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C6-art-quality-004": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C6-art-penalty-002": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C6-art-claim-004": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C7-document-lists-001": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C7-packing-list-002": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-insurance-docs-003": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C7-phyto-inspection-003": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C7-invoice-vs-lc-005": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C8-import-procedure-006": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C8-incoterms-procedure-link-005": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-11",
+      "title": "Đề thi thử số 11",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-players-001",
+        "C1-export-process-steps-004",
+        "C1-service-providers-002",
+        "C2-logistics-plan-002",
+        "C2-risk-types-001",
+        "C2-market-entry-004",
+        "C2-financial-analysis-005",
+        "C3-rule-ddp-003",
+        "C3-rule-cip-001",
+        "C3-rule-fob-002",
+        "C3-pricing-approaches-008",
+        "C3-pricing-objectives-007",
+        "C3-rule-dpu-001",
+        "C3-carriage-stages-004",
+        "C3-pricing-approaches-015",
+        "C3-rule-cpt-005",
+        "C3-carriage-stages-005",
+        "C3-rule-comparison-008",
+        "C3-rule-fca-008",
+        "C3-rule-fca-010",
+        "C3-rule-cip-009",
+        "C3-rule-cfr-008",
+        "C4-peril-coverage-003",
+        "C4-icc-abc-003",
+        "C4-traditional-vs-icc-004",
+        "C4-incoterms-insurance-007",
+        "C4-cargo-insurance-concept-008",
+        "C4-insurance-principles-011",
+        "C5-lc-types-003",
+        "C5-discrepancies-003",
+        "C5-open-account-003",
+        "C5-documentary-collection-004",
+        "C5-tt-advance-004",
+        "C5-lc-procedure-007",
+        "C5-lc-types-004",
+        "C5-lc-checklist-005",
+        "C5-consignment-006",
+        "C5-documentary-collection-009",
+        "C6-art-commodity-001",
+        "C6-contract-structure-002",
+        "C6-art-delivery-003",
+        "C6-art-quantity-003",
+        "C6-contract-errors-003",
+        "C7-certificate-of-origin-002",
+        "C7-bl-checklist-001",
+        "C7-bl-functions-003",
+        "C7-bl-types-004",
+        "C7-document-lists-005",
+        "C8-import-procedure-005",
+        "C8-implementation-considerations-004"
+      ],
+      "optionOrder": {
+        "C1-players-001": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C1-export-process-steps-004": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C1-service-providers-002": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C2-logistics-plan-002": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C2-risk-types-001": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C2-market-entry-004": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C2-financial-analysis-005": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-ddp-003": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-cip-001": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-rule-fob-002": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-pricing-approaches-008": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C3-pricing-objectives-007": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C3-rule-dpu-001": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C3-carriage-stages-004": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C3-pricing-approaches-015": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-rule-cpt-005": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-carriage-stages-005": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-rule-comparison-008": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-fca-008": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-rule-fca-010": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C3-rule-cip-009": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-rule-cfr-008": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C4-peril-coverage-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C4-icc-abc-003": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C4-traditional-vs-icc-004": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C4-incoterms-insurance-007": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-cargo-insurance-concept-008": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C4-insurance-principles-011": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C5-lc-types-003": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-discrepancies-003": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C5-open-account-003": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C5-documentary-collection-004": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C5-tt-advance-004": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C5-lc-procedure-007": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C5-lc-types-004": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-lc-checklist-005": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C5-consignment-006": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-documentary-collection-009": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C6-art-commodity-001": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C6-contract-structure-002": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C6-art-delivery-003": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C6-art-quantity-003": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C6-contract-errors-003": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C7-certificate-of-origin-002": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C7-bl-checklist-001": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ],
+        "C7-bl-functions-003": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C7-bl-types-004": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C7-document-lists-005": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C8-import-procedure-005": [
+          "c",
+          "a",
+          "b",
+          "d"
+        ],
+        "C8-implementation-considerations-004": [
+          "c",
+          "b",
+          "a",
+          "d"
+        ]
+      }
+    },
+    {
+      "id": "EXAM-12",
+      "title": "Đề thi thử số 12",
+      "durationMin": 60,
+      "questionIds": [
+        "C1-export-definition-002",
+        "C1-order-process-003",
+        "C1-roles-006",
+        "C2-target-market-002",
+        "C2-eleven-questions-001",
+        "C2-financial-analysis-003",
+        "C2-logistics-plan-004",
+        "C3-pricing-approaches-001",
+        "C3-rule-exw-003",
+        "C3-rule-fca-004",
+        "C3-incoterms-scope-001",
+        "C3-rule-comparison-004",
+        "C3-rule-fob-004",
+        "C3-pricing-objectives-014",
+        "C3-incoterms-basics-008",
+        "C3-rule-cip-004",
+        "C3-pricing-objectives-012",
+        "C3-rule-cfr-004",
+        "C3-rule-cfr-005",
+        "C3-rule-dpu-006",
+        "C3-rule-comparison-014",
+        "C3-incoterms-2010-vs-2020-010",
+        "C4-incoterms-insurance-004",
+        "C4-peril-coverage-001",
+        "C4-insurance-principles-004",
+        "C4-trade-risks-005",
+        "C4-icc-abc-007",
+        "C4-cargo-insurance-concept-009",
+        "C5-lc-types-001",
+        "C5-dp-da-001",
+        "C5-lc-parties-002",
+        "C5-bill-of-exchange-003",
+        "C5-lc-procedure-006",
+        "C5-lc-concept-005",
+        "C5-consignment-005",
+        "C5-lc-dates-007",
+        "C5-discrepancies-007",
+        "C5-bill-of-exchange-007",
+        "C6-art-quality-001",
+        "C6-art-delivery-001",
+        "C6-art-quantity-001",
+        "C6-art-documents-002",
+        "C6-art-payment-005",
+        "C7-proforma-002",
+        "C7-gsp-002",
+        "C7-bl-types-005",
+        "C7-co-forms-fta-003",
+        "C7-quantity-quality-cert-003",
+        "C8-implementation-considerations-003",
+        "C8-export-procedure-007"
+      ],
+      "optionOrder": {
+        "C1-export-definition-002": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C1-order-process-003": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C1-roles-006": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C2-target-market-002": [
+          "a",
+          "d",
+          "c",
+          "b"
+        ],
+        "C2-eleven-questions-001": [
+          "d",
+          "c",
+          "b",
+          "a"
+        ],
+        "C2-financial-analysis-003": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C2-logistics-plan-004": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-pricing-approaches-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-rule-exw-003": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C3-rule-fca-004": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C3-incoterms-scope-001": [
+          "a",
+          "c",
+          "b",
+          "d"
+        ],
+        "C3-rule-comparison-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C3-rule-fob-004": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C3-pricing-objectives-014": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-incoterms-basics-008": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C3-rule-cip-004": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-pricing-objectives-012": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "C3-rule-cfr-004": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C3-rule-cfr-005": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C3-rule-dpu-006": [
+          "b",
+          "c",
+          "a",
+          "d"
+        ],
+        "C3-rule-comparison-014": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C3-incoterms-2010-vs-2020-010": [
+          "a",
+          "b",
+          "d",
+          "c"
+        ],
+        "C4-incoterms-insurance-004": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C4-peril-coverage-001": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C4-insurance-principles-004": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C4-trade-risks-005": [
+          "c",
+          "b",
+          "d",
+          "a"
+        ],
+        "C4-icc-abc-007": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C4-cargo-insurance-concept-009": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C5-lc-types-001": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-dp-da-001": [
+          "d",
+          "a",
+          "c",
+          "b"
+        ],
+        "C5-lc-parties-002": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C5-bill-of-exchange-003": [
+          "c",
+          "d",
+          "b",
+          "a"
+        ],
+        "C5-lc-procedure-006": [
+          "c",
+          "a",
+          "d",
+          "b"
+        ],
+        "C5-lc-concept-005": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C5-consignment-005": [
+          "c",
+          "d",
+          "a",
+          "b"
+        ],
+        "C5-lc-dates-007": [
+          "a",
+          "d",
+          "b",
+          "c"
+        ],
+        "C5-discrepancies-007": [
+          "b",
+          "a",
+          "c",
+          "d"
+        ],
+        "C5-bill-of-exchange-007": [
+          "d",
+          "b",
+          "a",
+          "c"
+        ],
+        "C6-art-quality-001": [
+          "d",
+          "c",
+          "a",
+          "b"
+        ],
+        "C6-art-delivery-001": [
+          "b",
+          "a",
+          "d",
+          "c"
+        ],
+        "C6-art-quantity-001": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C6-art-documents-002": [
+          "b",
+          "d",
+          "a",
+          "c"
+        ],
+        "C6-art-payment-005": [
+          "d",
+          "a",
+          "b",
+          "c"
+        ],
+        "C7-proforma-002": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C7-gsp-002": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C7-bl-types-005": [
+          "d",
+          "b",
+          "c",
+          "a"
+        ],
+        "C7-co-forms-fta-003": [
+          "b",
+          "c",
+          "d",
+          "a"
+        ],
+        "C7-quantity-quality-cert-003": [
+          "a",
+          "c",
+          "d",
+          "b"
+        ],
+        "C8-implementation-considerations-003": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ],
+        "C8-export-procedure-007": [
+          "b",
+          "d",
+          "c",
+          "a"
+        ]
+      }
+    }
+  ]
+}

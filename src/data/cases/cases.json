@@ -1,0 +1,3753 @@
+[
+  {
+    "id": "CASE-C1-01",
+    "chapters": [
+      "C1"
+    ],
+    "title": "Mapping the players and the two flows of a cashew export deal",
+    "difficulty": 1,
+    "estMinutes": 20,
+    "scenario": "**Binh Phuoc Cashew JSC** (Vietnam) sells 2 containers of cashew kernels to **Holland Nuts B.V.** (the Netherlands).\n\n- Trade term: **CIF Rotterdam, the Netherlands – Incoterms® 2020**\n- Payment: **irrevocable L/C at sight**, issued by the buyer's bank in Amsterdam and advised through Vietcombank HCMC\n- A freight forwarder books the space with a shipping line, and a clearing agent handles export customs at Cat Lai port\n- The buyer requires a C/O issued by VCCI and an inspection certificate from an independent inspection company\n- The contract states that any dispute will be settled by arbitration",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Identify at least eight of the twelve players in an international trade transaction (as listed on the slides) that take part in this deal, and state the role of each one here.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Describe the physical flow (outflow of goods) of this shipment along the nine steps on the slides, and say in which country each step takes place.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Describe the financial flow (inflow of foreign exchange) for this deal along steps A–E, and explain how the documents connect the two flows.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| Player | Role in this deal |\n|---|---|\n| Exporter | Binh Phuoc Cashew – sells, ships and presents the documents |\n| Importer | Holland Nuts – buys, opens the L/C, pays and receives the goods |\n| Banks | Issuing bank (Amsterdam) and advising bank (Vietcombank HCMC) handle the L/C and the payment |\n| Port authorities/companies | Cat Lai (loading) and Rotterdam (discharge) |\n| Carrier/transporter | The shipping line performs the main carriage (contracted by the seller under CIF) |\n| Freight forwarder | Books space and arranges transport on the seller's behalf |\n| Customs | Vietnamese customs (export clearance) and Dutch customs (import clearance) |\n| Clearing agent | Handles the export customs procedures at Cat Lai |\n| Insurance company | Insures the cargo – under CIF the seller must insure |\n| Inspection company | Issues the independent inspection certificate |\n| Chamber of Commerce | VCCI issues the C/O |\n| Arbitrator | Settles any dispute under the arbitration clause |"
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Seller's factory** (Vietnam) – kernels produced and prepared for export.\n2. **Packing & loading at origin** (Vietnam) – packed into containers and loaded for delivery to the port.\n3. **Export customs clearance** (Vietnam) – export declaration, document check, inspection, export release (via the clearing agent).\n4. **Port of loading – Cat Lai** (Vietnam) – containers delivered to the port and loaded on board.\n5. **International transport** (Vietnam → Netherlands) – by sea.\n6. **Port of discharge – Rotterdam** (Netherlands).\n7. **Import customs clearance** (Netherlands) – import declaration, document check, inspection, payment of import duties and taxes, release.\n8. **Inland transport to the buyer** (Netherlands).\n9. **Buyer's premises** (Netherlands) – goods received.\n\nSteps 1–4 take place in the seller's country, step 5 is the international leg, and steps 6–9 take place in the buyer's country."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **A.** The buyer pays according to the contract terms. Here, the issuing bank pays under the L/C when complying documents are presented and debits the buyer.\n- **B.** The buyer's bank (the issuing bank) processes the payment and remits it to the seller's bank.\n- **C.** The payment method is the **L/C**; T/T, D/P and D/A are the other possible methods.\n- **D.** The seller's bank receives the foreign exchange and credits the seller's account.\n- **E.** The seller receives the foreign exchange (inflow of foreign currency).\n\n**Link between the flows:** the seller's key export documents describe and control the goods. These are the commercial invoice, packing list, export declaration, B/L, C/O and other certificates (here, the inspection certificate). The bank pays against these documents, so they connect the goods flow to the money flow. This is the “right documents → right payment” link."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu đúng ít nhất 8 bên trong danh sách 12 bên trên slide",
+            "points": 1.5
+          },
+          {
+            "text": "Mô tả đúng vai trò của từng bên trong chính giao dịch này (ngân hàng phát hành/thông báo, bảo hiểm do người bán mua theo CIF, VCCI cấp C/O…)",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Liệt kê đủ 9 bước theo đúng thứ tự",
+            "points": 2
+          },
+          {
+            "text": "Gắn đúng quốc gia: bước 1–4 ở Việt Nam, bước 6–9 ở Hà Lan",
+            "points": 1
+          },
+          {
+            "text": "Nêu nộp thuế nhập khẩu ở bước thông quan nhập khẩu (bước 7)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Mô tả đúng trình tự A–E của dòng tài chính",
+            "points": 1.5
+          },
+          {
+            "text": "Giải thích chứng từ là cầu nối giữa dòng hàng và dòng tiền (ngân hàng trả tiền dựa trên chứng từ)",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Liệt kê các bên chung chung mà không nói vai trò cụ thể trong giao dịch này.",
+      "Đặt bước thông quan nhập khẩu và nộp thuế nhập khẩu ở nước người bán.",
+      "Cho rằng người mua mua bảo hiểm – theo CIF người bán là bên mua bảo hiểm.",
+      "Mô tả dòng tiền đi từ người bán sang người mua (đảo chiều dòng ngoại tệ)."
+    ],
+    "sources": [
+      "KB §1.2 – Physical flow (9 steps)",
+      "KB §1.3 – Financial flow",
+      "KB §1.4 – Key documents",
+      "KB §1.9 – Players (12)",
+      "KB §3.8 – CIF"
+    ]
+  },
+  {
+    "id": "CASE-C1-02",
+    "chapters": [
+      "C1",
+      "C5"
+    ],
+    "title": "The export manager's role when a shipment is delayed",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Viet Wood Co.** exports furniture to a US retailer. The goods are needed for the Christmas season.\n\n- Payment: irrevocable L/C, **latest shipment date 30 September**, **expiry date 15 October**\n- Trade term: **FOB Cat Lai, Vietnam – Incoterms® 2020**; the buyer has nominated the vessel\n\nOn **25 September** the buyer's forwarder informs Viet Wood that, because of port congestion, the nominated vessel will only arrive and load on **5 October**. The production department says the goods are ready. The sales department is worried about the L/C. The finance department asks whether the company will still be paid.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Which roles of export & import management (from the six on the slides) are most relevant in this situation? Explain how each one applies.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Propose the export manager's action plan: whom must the manager coordinate with, and what must be changed in the L/C? Explain the L/C date rule that applies.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Using the chain “Right goods → Right place → Right time → Right documents → Right payment → Acceptable risk”, identify which elements are threatened and how the plan protects them.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "- **Coordinating international trade operations.** The export manager acts as the **coordinator** between production, sales, finance, the buyer, the forwarder/carrier and the banks.\n- **Managing risks.** Payment risk (shipping after the latest shipment date is a discrepancy), documentary risk and transportation delay all need to be identified and minimised.\n- **Creating customer value.** The customer buys reliable service, not only the furniture: on-time delivery, accurate documents and quick communication. Handling the delay professionally protects the long-term relationship."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Inform the buyer immediately** and agree on the new schedule. Under FOB the buyer nominates the vessel, so the delay comes from the buyer's side of the arrangement.\n2. **Ask the buyer (the applicant) to amend the L/C** through the issuing bank. The **latest shipment date** must be extended to at least 5 October, and the advising bank then notifies Viet Wood of the amendment.\n3. **Rule:** if the buyer and seller agree to extend the shipment date, the **expiry date is extended too**. Extending only the expiry would *not* extend the shipment date. So the amendment must explicitly extend the shipment date, with the expiry moving accordingly. That leaves enough time to present the documents: no later than 21 days after shipment and within the validity period.\n4. **Coordinate internally:** production keeps the goods ready, finance updates the cash-flow plan, and the documentation team prepares the documents dated to the actual on-board date.\n5. **Do not ship or present documents** that break the original L/C before the amendment is received."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Right goods / right place** – not threatened: the goods are ready and the port is unchanged.\n- **Right time** – threatened by the vessel delay. Managed by agreeing the new date with the buyer.\n- **Right documents** – threatened: a B/L dated 5 October would not comply with a latest shipment date of 30 September. Managed by the L/C amendment.\n- **Right payment** – depends on complying documents. Protected once the amended L/C covers the new dates.\n- **Acceptable risk** – the payment risk is brought back to an acceptable level by the amendment and clear communication."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu vai trò điều phối (nhà quản trị XK là người điều phối các bên)",
+            "points": 1
+          },
+          {
+            "text": "Nêu vai trò quản trị rủi ro (rủi ro thanh toán/chứng từ/vận tải)",
+            "points": 1
+          },
+          {
+            "text": "Nêu vai trò tạo giá trị khách hàng (giao đúng hạn, thông tin kịp thời, quan hệ lâu dài)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Đề xuất thông báo người mua và yêu cầu tu chỉnh L/C qua ngân hàng phát hành",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu đúng quy tắc: gia hạn ngày giao hàng thì ngày hết hạn được gia hạn theo; gia hạn ngày hết hạn không gia hạn ngày giao hàng",
+            "points": 1.5
+          },
+          {
+            "text": "Phối hợp nội bộ (sản xuất, tài chính, chứng từ) và không giao/xuất trình khi chưa có tu chỉnh",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Xác định đúng các mắt xích bị đe dọa: đúng lúc, đúng chứng từ, đúng thanh toán",
+            "points": 2
+          },
+          {
+            "text": "Giải thích kế hoạch bảo vệ các mắt xích đó như thế nào",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Chỉ xin gia hạn ngày hết hạn L/C – điều này không gia hạn ngày giao hàng.",
+      "Vẫn giao hàng và xuất trình chứng từ theo L/C cũ, chấp nhận sai biệt mà không trao đổi với người mua.",
+      "Cho rằng người bán tự liên hệ ngân hàng phát hành để sửa L/C – tu chỉnh do người mua (người yêu cầu) đề nghị.",
+      "Chỉ nêu tên các vai trò mà không gắn với tình huống cụ thể."
+    ],
+    "sources": [
+      "KB §1.10 – Roles of EIM",
+      "KB §1.5 – Effective coordination",
+      "KB §5.5 – Remarks on dates",
+      "KB §6.8 – Delivery (FOB example)"
+    ]
+  },
+  {
+    "id": "CASE-C2-01",
+    "chapters": [
+      "C2"
+    ],
+    "title": "Foreign-exchange scenarios for a deferred EUR payment",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**An Giang Coffee JSC** sells coffee to a German buyer for **EUR 80,000**, payable **3 months after delivery**. The company's cost of goods sold (COGS) for the shipment is **VND 1,972 million**.\n\n| Exchange rate (VND per EUR) | Value |\n|---|---|\n| At the contract date | 29,000 |\n| Scenario 1 at payment (EUR depreciates) | 27,500 |\n| Scenario 2 at payment (EUR appreciates) | 30,500 |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Calculate the expected VND revenue at the contract date, and the VND revenue and FX gain/loss in each scenario.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Calculate the gross profit and gross profit margin (one decimal) at the contract rate and in each scenario.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Explain why the buyer is unaffected while the exporter's results change, and recommend measures (within the course content) to manage this foreign exchange risk.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| | Rate | VND revenue | FX gain/loss |\n|---|---|---|---|\n| Contract date | 29,000 | 80,000 × 29,000 = **VND 2,320 million** | – |\n| Scenario 1 | 27,500 | 80,000 × 27,500 = **VND 2,200 million** | **Loss VND 120 million** |\n| Scenario 2 | 30,500 | 80,000 × 30,500 = **VND 2,440 million** | **Gain VND 120 million** |"
+      },
+      {
+        "taskId": "t2",
+        "answer": "Gross profit = revenue − COGS. Gross profit margin = gross profit / revenue × 100%.\n\n| | Revenue | Gross profit | Margin |\n|---|---|---|---|\n| Contract rate | 2,320 | 2,320 − 1,972 = **348** | 348 / 2,320 = **15.0%** |\n| Scenario 1 | 2,200 | **228** | 228 / 2,200 = **10.4%** |\n| Scenario 2 | 2,440 | **468** | 468 / 2,440 = **19.2%** |\n\n(VND million.) A 5% move in the EUR changes gross profit by about one third."
+      },
+      {
+        "taskId": "t3",
+        "answer": "The buyer still pays **EUR 80,000** in every case. The agreed foreign-currency amount does not change, but its **value in the home currency (VND)** changes between the contract and the payment date. This is **foreign exchange risk**: the buyer's currency depreciating against the exporter's currency before payment hits the exporter's revenue and profitability.\n\n**Measures (course content):**\n1. **Shorten the exposure**: use payment in advance or at sight instead of 3-month deferred payment. The deferred period is what creates the exposure.\n2. **Choose the currency deliberately**: quote in a widely accepted, convertible currency. If the price currency differs from the payment currency, the contract must state the **exchange rate and the date for determining it**.\n3. Build the FX scenarios into the export plan's **financial analysis** and **risk management**, e.g. set a minimum acceptable margin or **Loss (%)** KPI.\n4. *[EXT]* Banks also offer hedging tools such as forward contracts; these are outside the slides."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Tính đúng doanh thu kỳ vọng VND 2,320 triệu",
+            "points": 1
+          },
+          {
+            "text": "Tính đúng doanh thu kịch bản 1 (2,200) và lỗ 120 triệu",
+            "points": 1.5
+          },
+          {
+            "text": "Tính đúng doanh thu kịch bản 2 (2,440) và lãi 120 triệu",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Tính đúng lợi nhuận gộp ba trường hợp (348 / 228 / 468 triệu)",
+            "points": 1.5
+          },
+          {
+            "text": "Tính đúng biên lợi nhuận gộp (15.0% / 10.4% / 19.2%)",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Giải thích số EUR không đổi, chỉ giá trị VND thay đổi → rủi ro tỷ giá của nhà XK",
+            "points": 1
+          },
+          {
+            "text": "Đề xuất rút ngắn thời hạn thanh toán / trả trước, trả ngay",
+            "points": 1
+          },
+          {
+            "text": "Đề xuất khác trong phạm vi môn học (chọn đồng tiền, điều khoản tỷ giá, KPI/kịch bản trong kế hoạch)",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng người mua phải trả thêm EUR khi tỷ giá thay đổi.",
+      "Tính biên lợi nhuận bằng lợi nhuận gộp chia giá vốn thay vì chia doanh thu.",
+      "Nhầm chiều: EUR tăng giá thì nhà xuất khẩu Việt Nam được lợi, không bị lỗ.",
+      "Đề xuất công cụ phòng ngừa ngoài slide mà không ghi rõ là kiến thức mở rộng."
+    ],
+    "sources": [
+      "KB §2.9 – Financial analysis & FX example",
+      "KB §2.10 – Foreign exchange risk",
+      "KB §6.7 – Currency of price"
+    ]
+  },
+  {
+    "id": "CASE-C2-02",
+    "chapters": [
+      "C2"
+    ],
+    "title": "Drafting export objectives and KPIs",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Sai Gon Ceramics** exported **USD 2.0 million** last year, all to Japan. For next year, the board wants to grow exports, enter South Korea and reduce its dependence on a few Japanese customers.\n\nThe draft forecast for next year:\n\n| Item | USD |\n|---|---|\n| Export sales revenue | 2,400,000 |\n| COGS (all export-related costs) | 1,920,000 |\n\nThe board also says: *“Even in a bad year, we must not lose more than 5% of export revenue.”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Write the company's export objectives using the typical objectives on the slides.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Set at least five KPIs from the slides, defining each one and giving the target value where the data allow.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Calculate the planned export sales growth (%) and gross profit margin (%). Explain what the break-even point KPI would tell the board.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "1. **Enter a new foreign market**: South Korea.\n2. **Increase export sales**: from USD 2.0m to USD 2.4m.\n3. **Develop new international customers**: first customers in Korea.\n4. **Expand the customer base**: reduce dependence on a few Japanese customers."
+      },
+      {
+        "taskId": "t2",
+        "answer": "| KPI (slides) | Definition | Target |\n|---|---|---|\n| Export Sales Revenue | Total value of export sales | **USD 2,400,000** |\n| Export Sales Growth (%) | Percentage increase in export sales | **20%** |\n| Gross Profit Margin (%) | % of revenue remaining after export-related costs | **20%** |\n| Expected Profit (%) | Expected profit relative to export revenue | Set by the board, e.g. from the margin after other costs |\n| Break-even Point | Minimum sales revenue required to cover total costs | Calculated from total costs |\n| Loss (%) | Maximum acceptable loss under an unfavourable scenario | **≤ 5% of export revenue** |"
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Export sales growth** = (2,400,000 − 2,000,000) / 2,000,000 × 100% = **20%**.\n- **Gross profit** = 2,400,000 − 1,920,000 = USD 480,000, so the **gross profit margin** = 480,000 / 2,400,000 × 100% = **20%**.\n- **Break-even point** = the **minimum sales revenue needed to cover total costs**. It tells the board how far revenue can fall (for example if Korea develops slowly) before exports make a loss. Together with the Loss (%) limit of 5%, it shows how much downside the plan can absorb."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu được ít nhất 3 mục tiêu điển hình gắn với tình huống (thị trường mới Hàn Quốc, tăng doanh số, khách hàng mới/mở rộng cơ sở khách hàng)",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu đủ ít nhất 5 KPI đúng tên theo slide",
+            "points": 1.5
+          },
+          {
+            "text": "Định nghĩa đúng các KPI",
+            "points": 1.5
+          },
+          {
+            "text": "Gắn giá trị mục tiêu đúng với dữ liệu (2.4 triệu USD, 20%, Loss ≤ 5%)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Tính đúng tăng trưởng doanh số 20%",
+            "points": 1
+          },
+          {
+            "text": "Tính đúng biên lợi nhuận gộp 20%",
+            "points": 1
+          },
+          {
+            "text": "Giải thích đúng ý nghĩa điểm hòa vốn (doanh thu tối thiểu bù đắp tổng chi phí)",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Nhầm mục tiêu (objectives) với KPI – ví dụ coi “biên lợi nhuận gộp” là mục tiêu.",
+      "Tính tăng trưởng doanh số bằng cách chia cho doanh thu năm sau thay vì năm trước.",
+      "Định nghĩa điểm hòa vốn là “lợi nhuận bằng 0%” mà không nêu đó là doanh thu tối thiểu bù đắp tổng chi phí.",
+      "Bỏ qua KPI Loss (%) dù ban giám đốc đã đưa ra giới hạn lỗ 5%."
+    ],
+    "sources": [
+      "KB §2.2 – Export objectives & KPIs",
+      "KB §2.9 – Gross profit margin"
+    ]
+  },
+  {
+    "id": "CASE-C2-03",
+    "chapters": [
+      "C2"
+    ],
+    "title": "Choosing a market entry channel and adapting the packaging",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Dong Thap Fruits** is a small producer of dried mango with 40 employees, no foreign sales staff and limited marketing budget. It wants to start exporting to **Germany** and is considering three options:\n\n1. Selling in bulk to a **German importer/distributor** that supplies bakeries and food manufacturers.\n2. Selling directly to a **German supermarket chain**, which would sell the mango under the Dong Thap brand.\n3. Selling **directly to consumers** through a cross-border online marketplace.\n\nThe company's goals for the first year are to achieve volume quickly with low risk and few staff.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Classify each option as direct export, indirect export or cross-border e-commerce, and explain how each one reaches the target customer.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "For each option, describe the implications for packaging, labeling and logistics according to the slides.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Recommend one option for the first year and justify it. List the product adaptations the company must prepare for the German market (Product for foreign market component).",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "1. **Indirect export.** The company reaches end customers through an **importer/distributor** (B2B).\n2. **Direct export.** There is a **direct relationship with the foreign buyer**, the supermarket chain, which then sells on to consumers.\n3. **Cross-border e-commerce.** Sales go through an **online marketplace / D2C** directly to consumers."
+      },
+      {
+        "taskId": "t2",
+        "answer": "| Option | Packaging & labeling | Logistics |\n|---|---|---|\n| 1. Importer/distributor (B2B) | **Bulk supply**; packaging designed mainly for **transport and B2B handling** | Full container loads to the importer |\n| 2. Supermarket/retail | **Consumer-oriented packaging, labeling, barcodes** for the shelf | Regular shipments to the chain's distribution centres |\n| 3. Cross-border e-commerce | **E-commerce-friendly, individual-unit packaging** | **Fulfillment solutions** and **reliable last-mile delivery** to each consumer |"
+      },
+      {
+        "taskId": "t3",
+        "answer": "**Recommendation: Option 1, the German importer/distributor (indirect export).** It needs no foreign sales staff, ships in bulk (volume quickly), uses simple transport packaging and leaves the local market work to the importer. That fits the company's limited resources and low-risk goal. Options 2 and 3 can be considered later.\n\n**Product adaptations (Product for foreign market):**\n- Product–market–customer fit (e.g. moisture level and cut size required by bakeries)\n- Quality and **product standards (health & safety)** required in Germany/the EU\n- **Packaging, labeling, markings and language** (German/English labels where required)\n- **Shelf life** and seasonality of supply\n- **Foreign IP protection**, e.g. registering the Dong Thap brand/trademark before building it in Germany"
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Phân loại đúng cả ba phương án (gián tiếp / trực tiếp / TMĐT xuyên biên giới)",
+            "points": 2
+          },
+          {
+            "text": "Giải thích cách mỗi kênh tiếp cận khách hàng",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "B2B: hàng rời số lượng lớn, bao bì cho vận chuyển/xử lý B2B",
+            "points": 1.5
+          },
+          {
+            "text": "Siêu thị: bao bì hướng người tiêu dùng, nhãn, mã vạch",
+            "points": 1
+          },
+          {
+            "text": "TMĐT: bao bì từng đơn vị, fulfillment, giao hàng chặng cuối",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Đưa ra khuyến nghị có lập luận phù hợp nguồn lực và mục tiêu (không có đáp án duy nhất; chấp nhận lập luận hợp lý)",
+            "points": 1.5
+          },
+          {
+            "text": "Liệt kê ít nhất 3 điều chỉnh sản phẩm đúng slide (tiêu chuẩn, nhãn/ngôn ngữ, hạn sử dụng, bảo hộ SHTT…)",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Coi bán cho chuỗi siêu thị là xuất khẩu gián tiếp – đây là quan hệ trực tiếp với người mua nước ngoài.",
+      "Không nêu ảnh hưởng của kênh đến bao bì và logistics.",
+      "Khuyến nghị TMĐT D2C mà không xét doanh nghiệp không có nhân sự và giải pháp fulfillment.",
+      "Bỏ qua bảo hộ sở hữu trí tuệ khi xây dựng thương hiệu ở nước ngoài."
+    ],
+    "sources": [
+      "KB §2.4 – Market entry / Distribution",
+      "KB §2.5 – Product for foreign market"
+    ]
+  },
+  {
+    "id": "CASE-C2-04",
+    "chapters": [
+      "C2",
+      "C5",
+      "C3"
+    ],
+    "title": "A risky new buyer: identifying risks and choosing protections",
+    "difficulty": 3,
+    "estMinutes": 30,
+    "scenario": "**Hanoi Electric Cable Co.** has received its first order, worth **USD 300,000**, from a new buyer in a country that has recently experienced political instability and occasional restrictions on transferring foreign currency abroad. The buyer has no trading history with the company, and its financial statements cannot be verified.\n\nThe buyer proposes:\n\n- Payment: **documentary collection, D/A 90 days**\n- Trade term: **CFR – Incoterms® 2020** (destination port in the buyer's country)\n\nThe product is a standard cable that many competitors also sell. The buyer's country has announced new technical standards for electrical products that take effect next year.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Identify the risks in this deal and classify them into the six risk groups of the export plan.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Evaluate the buyer's proposed D/A 90 days and recommend a safer payment method. Justify your recommendation with the criteria on the slides.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Under the proposed CFR term, who bears the risk during the sea voyage and who must insure the goods? Which rule would oblige the seller to insure, and what mitigation would you add for the regulatory risk?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| Risk group | In this deal |\n|---|---|\n| Foreign credit / payment risk | New buyer, unverifiable creditworthiness, D/A 90 days (non-payment, delayed payment) |\n| Foreign exchange risk | **Inability to obtain/transfer foreign currency** in the buyer's country |\n| Political / country risk | Political instability, possible changes in government policy |\n| Regulatory & compliance risk | New technical standards for electrical products, possible customs/documentation problems |\n| Transportation risk | Loss/damage/delay during the sea voyage |\n| Market risk | Standard product with many competitors, so prices and competition can change |"
+      },
+      {
+        "taskId": "t2",
+        "answer": "**D/A is not suitable.** Under D/A the buyer receives the title documents just by **accepting a time draft**, takes the goods, and pays only later. Documentary collections give **no bank guarantee of payment**. The slides say a seller should agree to documentary collection only if:\n\n- there is **no doubt** about the buyer's ability and willingness to pay;\n- the buyer's country is **politically, economically and legally stable**;\n- there are **no exchange restrictions**;\n- the goods are easily marketable.\n\nAt least the first three conditions fail here.\n\n**Recommendation: cash-in-advance (T/T in advance)** or, if the buyer cannot accept that, an **irrevocable L/C, preferably confirmed** by a bank in a safer country. The slide criteria for cash-in-advance all apply: the importer is a **new customer** with no operating history; its **creditworthiness is unverifiable**; and the **political and commercial risks of the importer's country are very high**. *[EXT – Trade Finance Guide]* On the exporter's risk ladder, cash-in-advance and L/C (confirmed > unconfirmed) are lower risk than D/P and D/A."
+      },
+      {
+        "taskId": "t3",
+        "answer": "Under **CFR**, risk passes to the **buyer** when the goods are on board at the port of shipment, so the buyer bears the risk during the voyage. CFR places **no insurance obligation** on either party; the buyer, who bears the risk, may insure at its discretion.\n\nTo make the **seller** insure, the parties would use **CIF** (minimum ICC (C)). The seller would then contract both the main carriage and the insurance, while risk still passes on board at the port of shipment.\n\n**Regulatory risk:** check the buyer country's new technical standards before production. Specify the applicable standard (issuing body, number, version) in the **quality clause**, and obtain the required certificates (e.g. an inspection certificate) before shipment."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Phân loại đúng ít nhất 4 nhóm rủi ro gắn với dữ kiện (tín dụng, tỷ giá/chuyển ngoại tệ, chính trị, pháp lý…)",
+            "points": 2
+          },
+          {
+            "text": "Xếp đúng “không chuyển được ngoại tệ” vào rủi ro tỷ giá theo slide",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Giải thích rủi ro của D/A (giao chứng từ khi chấp nhận hối phiếu, không có ngân hàng bảo đảm)",
+            "points": 1
+          },
+          {
+            "text": "Đối chiếu 4 điều kiện để người bán chấp nhận nhờ thu và chỉ ra điều kiện không thỏa",
+            "points": 1.5
+          },
+          {
+            "text": "Khuyến nghị trả trước hoặc L/C (có xác nhận) với lập luận theo tiêu chí trả trước trên slide",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "CFR: người mua chịu rủi ro trên biển; không bên nào có nghĩa vụ bảo hiểm",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu CIF buộc người bán mua bảo hiểm (tối thiểu ICC (C)), rủi ro vẫn chuyển tại cảng bốc",
+            "points": 1
+          },
+          {
+            "text": "Đề xuất biện pháp cho rủi ro pháp lý (kiểm tra tiêu chuẩn mới, ghi tiêu chuẩn trong điều khoản chất lượng, chứng nhận)",
+            "points": 0.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng D/A an toàn vì có ngân hàng tham gia – nhờ thu không có cam kết thanh toán của ngân hàng.",
+      "Xếp việc không chuyển được ngoại tệ vào rủi ro chính trị thay vì rủi ro tỷ giá như slide.",
+      "Cho rằng theo CFR người bán phải mua bảo hiểm.",
+      "Chỉ đề xuất “yêu cầu người mua uy tín hơn” mà không chọn phương thức thanh toán cụ thể."
+    ],
+    "sources": [
+      "KB §2.10 – Risk management (6 groups)",
+      "KB §5.3 – Cash-in-advance",
+      "KB §5.4 – Documentary collection",
+      "KB §5.5 – [EXT] risk ladder",
+      "KB §3.8 – CFR/CIF",
+      "KB §6.4 – Quality by standard"
+    ]
+  },
+  {
+    "id": "CASE-C3-01",
+    "chapters": [
+      "C3"
+    ],
+    "title": "Who bears the loss? Three incidents under three Incoterms® rules",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Saigon Agro JSC** (Vietnam) has three export contracts running at the same time. Each one runs into an incident.\n\n| Contract | Trade term as written in the draft | Transport | Incident |\n|---|---|---|---|\n| A | **CIF Hamburg, Germany – Incoterms® 2020** | Sea, Ho Chi Minh City → Hamburg | The goods are loaded on board in Ho Chi Minh City. During the voyage a storm damages part of the cargo. |\n| B | **FOB Haiphong, Vietnam – Incoterms® 2020** | Sea, Haiphong → Busan | While the goods are being lifted from the quay, the crane drops a pallet onto the quay. The pallet never gets on board. |\n| C | **DAP buyer's warehouse, Phnom Penh, Cambodia – Incoterms® 2020** | Truck, Ho Chi Minh City → Phnom Penh | The truck arrives on time at the buyer's warehouse. While the buyer's workers are **unloading** it, several cartons fall and are damaged. |\n\nThe buyer in Contract C writes: *“Next time we want you to bear the risk until the goods are unloaded at our warehouse.”*\n\nA fourth draft contract simply says: **“Price: USD 520/MT CIF Busan.”**",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "For incidents A, B and C, state which party (seller or buyer) bears the loss. Justify each answer with the delivery point (risk-transfer point) of the rule.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "For Contract A: who contracts for and pays the main carriage, and who must insure the goods (with what minimum cover)? Does naming “Hamburg” mean that risk passes in Hamburg? Explain.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "(a) Which Incoterms® 2020 rule meets the Contract C buyer's request? (b) Rewrite the fourth draft's trade term in the correct notation.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**A – CIF Hamburg: the buyer bears the loss.** Under CIF, delivery (and so risk transfer) happens when the goods are **on board the vessel at the port of shipment** (Ho Chi Minh City). The storm damage occurs during the voyage, after risk has passed.\n\n**B – FOB Haiphong: the seller bears the loss.** Under FOB, delivery happens when the goods are **on board the vessel nominated by the buyer** at the named port of shipment. The pallet was dropped on the quay before it was on board, so risk had not passed yet.\n\n**C – DAP Phnom Penh: the buyer bears the loss.** Under DAP, the goods are delivered when they are placed at the buyer's disposal **on the arriving means of transport, ready for unloading**, at the named place. Unloading is not the seller's job under DAP, so damage during unloading is the buyer's risk."
+      },
+      {
+        "taskId": "t2",
+        "answer": "Under **CIF** the **seller** contracts for and pays the **main carriage** to the named port of destination (Hamburg). The seller must also **insure** the goods, with **minimum cover ICC (C)**.\n\nNo, risk does not pass in Hamburg. C-group rules have **two critical points**: risk passes at the **origin**, when the goods are on board at the port of shipment, while the seller pays main-carriage costs up to the **destination**. “CIF Hamburg” names the destination up to which freight is paid, not the risk-transfer point."
+      },
+      {
+        "taskId": "t3",
+        "answer": "(a) **DPU – Delivered at Place Unloaded**, e.g. *“DPU buyer's warehouse, Phnom Penh, Cambodia – Incoterms® 2020”*. DPU is the only rule under which the seller must **unload** the goods at destination. Delivery and risk transfer happen **once the goods are unloaded** from the arriving means of transport.\n\n(b) **“USD 520/MT, CIF Busan, Korea – Incoterms® 2020”**. Correct notation is **rule + named place + version**; the draft is missing the country and the Incoterms® version."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "A: xác định đúng người mua chịu tổn thất, giải thích rủi ro chuyển khi hàng đã ở trên tàu tại cảng bốc (HCM)",
+            "points": 1.5
+          },
+          {
+            "text": "B: xác định đúng người bán chịu tổn thất, giải thích theo FOB hàng chưa lên tàu nên rủi ro chưa chuyển",
+            "points": 1.5
+          },
+          {
+            "text": "C: xác định đúng người mua chịu tổn thất, nêu DAP giao trên phương tiện đến, sẵn sàng để dỡ (người bán không dỡ hàng)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu người bán ký hợp đồng và trả cước vận tải chính đến Hamburg",
+            "points": 1
+          },
+          {
+            "text": "Nêu người bán phải mua bảo hiểm, tối thiểu ICC (C)",
+            "points": 1
+          },
+          {
+            "text": "Giải thích “hai điểm tới hạn” của nhóm C: rủi ro chuyển tại cảng đi, Hamburg chỉ là nơi người bán trả cước đến",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Chọn đúng DPU và giải thích người bán phải dỡ hàng; rủi ro chuyển khi hàng đã được dỡ",
+            "points": 1.5
+          },
+          {
+            "text": "Viết lại đúng cú pháp: quy tắc + địa điểm chỉ định (có quốc gia) + phiên bản Incoterms® 2020",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng theo CIF Hamburg rủi ro chuyển sang người mua tại Hamburg – nhầm nơi trả cước với điểm chuyển rủi ro.",
+      "Cho rằng theo DAP người bán phải dỡ hàng – chỉ DPU mới buộc người bán dỡ hàng tại nơi đến.",
+      "Cho rằng theo FOB rủi ro chuyển khi hàng được giao đến cảng – thực tế là khi hàng đã ở trên tàu.",
+      "Cho rằng người bán theo CIF phải mua bảo hiểm ICC (A) – mức tối thiểu theo CIF là ICC (C); ICC (A) là yêu cầu của CIP.",
+      "Viết điều kiện thương mại thiếu phiên bản Incoterms hoặc thiếu quốc gia của địa điểm chỉ định."
+    ],
+    "sources": [
+      "KB §3.8 – obligation matrix & key insights",
+      "KB §3.7 – pre-/main-/on-carriage",
+      "KB §6.7 – trade term notation"
+    ]
+  },
+  {
+    "id": "CASE-C3-02",
+    "chapters": [
+      "C3"
+    ],
+    "title": "Choosing the right Incoterms® rule for four shipments",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Vina Trade** prepares quotations for four shipments:\n\n| # | Goods & situation |\n|---|---|\n| A | Garments in a 40' container, handed to the buyer's carrier at **Song Than ICD (Binh Duong)**, an inland container depot. The buyer arranges and pays the main carriage. |\n| B | **Bulk coal** loaded onto a vessel nominated by the buyer at **Cam Pha port**. The buyer pays the ocean freight. |\n| C | A Korean buyer wants the **seller's obligations to be as small as possible**, but it is a foreign company and **cannot carry out export customs clearance in Vietnam**. Goods are collected at the seller's factory. |\n| D | Machinery sent by container from Ho Chi Minh City to **Lyon, France** (sea + rail). The seller will contract and pay the carriage to Lyon, and the buyer wants the seller to **insure the goods**. |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Choose the most suitable rule for shipments A and B and justify your choice. Why is FOB not appropriate for A?",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "For shipment C, explain why EXW is a poor choice and which rule you would propose instead.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Choose the rule for shipment D, state the seller's minimum insurance obligation under it, and write the trade term in the correct notation.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**A – FCA Song Than ICD, Binh Duong, Vietnam – Incoterms® 2020.** The goods are containerised and handed to the carrier at an **inland terminal**, and the buyer contracts the main carriage, so an F-rule for any mode is needed. **FOB** is a **sea/inland waterway rule** where delivery is **on board the vessel** at the port of shipment. Under FOB the seller would remain at risk after handing the container over at the ICD, until the container is loaded on board. For containers handed over at an inland terminal, the multimodal equivalent is **FCA**. *([EXT] the ICC Explanatory Notes recommend FCA instead of FOB for containerised goods.)*\n\n**B – FOB Cam Pha, Vietnam – Incoterms® 2020.** These are bulk goods loaded **on board a vessel nominated by the buyer**, and the buyer contracts the main carriage. FOB fits exactly: delivery and risk transfer happen when the goods are on board at the named port of shipment."
+      },
+      {
+        "taskId": "t2",
+        "answer": "Under **EXW** the **buyer** is responsible even for the **export licence/clearance**, and the goods are not loaded by the seller. A foreign buyer that cannot clear export in Vietnam cannot meet that obligation.\n\nPropose **FCA (seller's factory, …, Vietnam) – Incoterms® 2020**. The **seller handles export clearance** and delivers the goods to the buyer's carrier; at the seller's premises, delivery is once the goods are **loaded** on the collecting vehicle. The seller's obligations stay small, but export clearance is done by the party able to do it."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**CIP – Carriage and Insurance Paid To.** It suits **any mode** (sea + rail, containerised): the seller contracts carriage to the named destination **and must insure**. Risk passes when the goods are delivered to the **first carrier**.\n\nUnder Incoterms® 2020 the seller's minimum cover under **CIP is ICC (A)**. *([EXT] minimum 110% of the contract price, in the contract currency.)*\n\nNotation: **“CIP Lyon, France – Incoterms® 2020”**."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "A: chọn FCA tại ICD, giải thích hàng container giao tại điểm nội địa",
+            "points": 1.5
+          },
+          {
+            "text": "A: giải thích FOB chỉ dùng cho đường biển, giao khi hàng lên tàu → người bán chịu rủi ro thêm",
+            "points": 1
+          },
+          {
+            "text": "B: chọn FOB Cam Pha, giải thích hàng rời giao lên tàu do người mua chỉ định",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu theo EXW người mua phải làm thủ tục xuất khẩu",
+            "points": 1.5
+          },
+          {
+            "text": "Đề xuất FCA tại xưởng người bán và giải thích người bán thông quan XK, giao khi hàng đã bốc lên phương tiện",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Chọn CIP và giải thích (đa phương thức, người bán trả cước + mua bảo hiểm)",
+            "points": 1
+          },
+          {
+            "text": "Nêu mức bảo hiểm tối thiểu ICC (A) theo CIP",
+            "points": 1
+          },
+          {
+            "text": "Viết đúng ký hiệu CIP Lyon, France – Incoterms® 2020",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Dùng FOB cho hàng container giao tại ICD nội địa.",
+      "Cho rằng EXW phù hợp vì “người mua muốn người bán làm ít nhất”, bỏ qua việc người mua không thể thông quan xuất khẩu.",
+      "Chọn CIF cho tuyến biển + đường sắt đến nơi nội địa (CIF chỉ dùng cho đường biển/thủy nội địa).",
+      "Cho rằng CIP chỉ cần bảo hiểm ICC (C) như CIF."
+    ],
+    "sources": [
+      "KB §3.5 – Rules by mode of transport",
+      "KB §3.8 – Obligation matrix & key insights",
+      "KB §3.6 – Insurance changes (CIF vs CIP)"
+    ]
+  },
+  {
+    "id": "CASE-C3-03",
+    "chapters": [
+      "C3"
+    ],
+    "title": "Who pays what? Allocating costs under five Incoterms® rules",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Mekong Pumps Co.** (factory in Long An, Vietnam) sells water pumps to a buyer whose warehouse is in **Surabaya, Indonesia**. The goods go by truck to Cat Lai port, by sea to Tanjung Perak port (Surabaya), then by truck to the buyer's warehouse.\n\nThe buyer asks for quotations under five rules:\n\n- **EXW** Long An factory\n- **FCA** Long An factory\n- **CIF** Tanjung Perak port\n- **DAP** buyer's warehouse, Surabaya\n- **DDP** buyer's warehouse, Surabaya\n\nCost items to allocate:\n\n1. Loading the goods onto the collecting truck at the factory\n2. Export customs clearance in Vietnam\n3. Main carriage (ocean freight Cat Lai → Tanjung Perak)\n4. Cargo insurance (as an **obligation**)\n5. Import customs clearance and import duties in Indonesia\n6. Transport from Tanjung Perak to the buyer's warehouse\n7. Unloading the truck at the buyer's warehouse",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Allocate cost items 1–7 between seller and buyer under EXW and FCA (factory). Explain the difference for items 1 and 2.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Allocate items 1–7 under CIF and DAP. For each rule, state the point at which risk passes.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Allocate items 1–7 under DDP. Which single item would change if the rule were DPU instead of DAP, and why?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| Item | EXW | FCA (factory) |\n|---|---|---|\n| 1 Loading at factory | **Buyer** (goods placed at buyer's disposal, **not loaded**) | **Seller** (delivery at seller's premises = **once loaded**) |\n| 2 Export clearance | **Buyer** | **Seller** |\n| 3 Main carriage | Buyer | Buyer |\n| 4 Insurance obligation | None | None |\n| 5 Import clearance & duties | Buyer | Buyer |\n| 6 Port → warehouse | Buyer | Buyer |\n| 7 Unloading at warehouse | Buyer | Buyer |\n\nEXW is the **minimum** obligation for the seller: the buyer even loads and clears for export. Under FCA at the seller's premises, the seller loads and clears for export."
+      },
+      {
+        "taskId": "t2",
+        "answer": "| Item | CIF Tanjung Perak | DAP buyer's warehouse |\n|---|---|---|\n| 1 Loading at factory | Seller | Seller |\n| 2 Export clearance | Seller | Seller |\n| 3 Main carriage | **Seller** | **Seller** |\n| 4 Insurance obligation | **Seller – minimum ICC (C)** | None (the seller bears the risk and may insure at its discretion) |\n| 5 Import clearance & duties | Buyer | **Buyer** |\n| 6 Port → warehouse | **Buyer** (seller's carriage ends at the named port) | **Seller** |\n| 7 Unloading at warehouse | Buyer | **Buyer** (goods delivered **ready for unloading**) |\n\n**Risk:** under **CIF** it passes when the goods are **on board the vessel at the port of shipment** (Cat Lai), even though the seller pays freight to Tanjung Perak. Under **DAP** it passes when the goods are placed at the buyer's disposal **on the arriving truck, ready for unloading**, at the buyer's warehouse."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**DDP:** the seller pays items 1, 2, 3, **5** and 6. Item 4 is not an obligation (the seller bears the risk and may insure). Item 7, unloading, is the **buyer's**: DDP delivers the goods **cleared for import**, on the arriving means of transport, **ready for unloading**. DDP is the **maximum** obligation for the seller.\n\n**DPU instead of DAP:** only **item 7 (unloading)** moves to the **seller**. DPU is the **only rule where the seller must unload** at destination, and delivery happens **once the goods are unloaded**."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Phân bổ đúng 7 khoản theo EXW và FCA",
+            "points": 2
+          },
+          {
+            "text": "Giải thích khác biệt: EXW người mua bốc hàng và thông quan XK; FCA tại cơ sở người bán thì người bán bốc hàng và thông quan XK",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Phân bổ đúng 7 khoản theo CIF (gồm bảo hiểm ICC (C) của người bán; vận chuyển cảng → kho thuộc người mua)",
+            "points": 1.5
+          },
+          {
+            "text": "Phân bổ đúng 7 khoản theo DAP (người bán chở đến kho, người mua dỡ hàng và thông quan NK)",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu đúng điểm chuyển rủi ro của CIF và DAP",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Phân bổ đúng DDP (người bán thông quan NK và nộp thuế; người mua dỡ hàng)",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu đúng: chuyển sang DPU thì chỉ khoản dỡ hàng chuyển cho người bán, kèm giải thích",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng theo DAP/DDP người bán phải dỡ hàng – chỉ DPU yêu cầu người bán dỡ hàng.",
+      "Cho rằng theo CIF người bán trả cả cước vận chuyển nội địa từ cảng đến kho người mua.",
+      "Cho rằng theo DAP/DDP người bán có nghĩa vụ bảo hiểm – chỉ CIF và CIP có nghĩa vụ bảo hiểm.",
+      "Cho rằng theo EXW người bán vẫn làm thủ tục xuất khẩu."
+    ],
+    "sources": [
+      "KB §3.8 – Obligation matrix & general cost/risk rule",
+      "KB §3.7 – Pre-/main-/on-carriage"
+    ]
+  },
+  {
+    "id": "CASE-C3-04",
+    "chapters": [
+      "C3"
+    ],
+    "title": "Pricing strategy for prestige versus market share",
+    "difficulty": 1,
+    "estMinutes": 20,
+    "scenario": "**Lam Dong Coffee Group** plans three export moves:\n\n- **Product A – single-origin organic Arabica** for specialty cafés in Japan and South Korea. Supply is limited; the company wants a high profit per kilo and a **prestige** image. Willingness to pay differs between the two markets.\n- **Product B – instant coffee 3-in-1** for the Philippines. The goal is to **gain market share quickly** against established brands and to convey an **image of discounts**.\n- **One-off order**: a Middle-East trader offers to buy 5 tons of Robusta at a price that covers the **variable cost** of production but not the factory's fixed costs. The factory has spare capacity this quarter.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "For Product A, state the pricing objective(s), the price level and the pricing strategy that the slides link to them. Should prices be the same in Japan and Korea?",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Do the same for Product B.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Which pricing approach does accepting the one-off order represent? Explain it and its main limitation. Then explain how competitive pricing differs from demand-based pricing.",
+        "points": 4
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "- **Objectives:** achieve a desired profit level; convey an image of prestige.\n- **Price level:** **maximum price**, with **different prices for different markets**.\n- **Strategy:** **price skimming**, i.e. a premium price, and **demand-based pricing**, based on what buyers in each market are willing to pay.\n\nNo, prices need not be the same in Japan and Korea. Because willingness to pay differs, the company can set different prices for each market."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **Objectives:** maximise sales and increase market share; convey an image of discounts.\n- **Price level:** **minimum price**, with the **same price for all markets**.\n- **Strategy:** **penetration pricing**, i.e. lower prices to increase market share, combined with **cost-based pricing** (full cost plus markup) so that the low price is still grounded in costs."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**Marginal pricing.** The price does **not cover total cost**; it includes only the **marginal (variable) cost** of producing for the export market. It can make sense when there is spare capacity and the order is one-off. **Limitation:** the price does not cover fixed costs, so it cannot be a long-term pricing basis for the whole business.\n\n- **Demand-based pricing:** the price is based on **what buyers are willing to pay** and is set by market demand.\n- **Competitive pricing:** the price is based on **competitive pressures**, i.e. what competitors charge in the market."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Mục tiêu: lợi nhuận mong muốn + hình ảnh uy tín",
+            "points": 1
+          },
+          {
+            "text": "Mức giá tối đa, giá khác nhau theo thị trường",
+            "points": 1
+          },
+          {
+            "text": "Chiến lược hớt váng (skimming) và định giá theo nhu cầu",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Mục tiêu: tối đa doanh số/tăng thị phần + hình ảnh giảm giá",
+            "points": 1
+          },
+          {
+            "text": "Mức giá tối thiểu, cùng giá cho mọi thị trường",
+            "points": 1
+          },
+          {
+            "text": "Chiến lược thâm nhập (penetration) và định giá dựa trên chi phí",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Xác định đúng định giá biên (chỉ gồm chi phí biến đổi)",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu hạn chế: không bù đắp tổng chi phí/định phí",
+            "points": 1
+          },
+          {
+            "text": "Phân biệt đúng định giá theo nhu cầu và định giá cạnh tranh",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Gắn “hình ảnh uy tín” với chiến lược thâm nhập – theo sơ đồ, uy tín đi với giá tối đa và hớt váng.",
+      "Cho rằng chiến lược thâm nhập dùng giá khác nhau cho từng thị trường – sơ đồ ghi cùng một giá cho mọi thị trường.",
+      "Nhầm định giá biên với định giá dựa trên chi phí đầy đủ cộng lãi.",
+      "Coi định giá cạnh tranh và định giá theo nhu cầu là một."
+    ],
+    "sources": [
+      "KB §3.1 – Six approaches to export pricing",
+      "KB §3.2 – Pricing objectives → strategy"
+    ]
+  },
+  {
+    "id": "CASE-C3-05",
+    "chapters": [
+      "C3",
+      "C6"
+    ],
+    "title": "Fixing incorrect Incoterms® notations in five quotations",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "A junior sales executive at **Vietnam Export Hub** (seller, located in Vietnam) has drafted five trade terms:\n\n| # | Draft trade term | Actual arrangement |\n|---|---|---|\n| 1 | **FOB Hamburg – Incoterms® 2020** | Sea shipment Cat Lai → Hamburg; the buyer contracts the ocean freight |\n| 2 | **CIF Cat Lai, Vietnam – Incoterms® 2020** | Sea shipment Cat Lai → Hamburg; the seller pays freight and insurance to Hamburg |\n| 3 | **DAT Phnom Penh – Incoterms® 2020** | Truck delivery; the seller unloads at the buyer's warehouse in Phnom Penh |\n| 4 | **FOB Noi Bai Airport – Incoterms® 2020** | Air freight from Hanoi; the buyer contracts the air carriage |\n| 5 | **EXW Binh Duong** | Goods collected at the seller's factory in Binh Duong |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "For each draft, identify the error.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Rewrite each trade term correctly.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Explain why the correct notation “rule + named place + version” matters, given what Incoterms® are.",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "1. **Wrong named place:** FOB names the **port of shipment**, not the destination.\n2. **Wrong named place:** CIF names the **port of destination**, not the port of shipment.\n3. **DAT no longer exists** in Incoterms® 2020; it was replaced by **DPU**. The place also lacks a country.\n4. **Wrong rule for the mode:** FOB is a **sea/inland waterway** rule and cannot be used for air freight.\n5. **No version** (and an imprecise named place)."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **FOB Cat Lai, Ho Chi Minh City, Vietnam – Incoterms® 2020**\n2. **CIF Hamburg, Germany – Incoterms® 2020**\n3. **DPU [buyer's warehouse address], Phnom Penh, Cambodia – Incoterms® 2020** (the seller unloads, so DPU, not DAP)\n4. **FCA Noi Bai International Airport, Hanoi, Vietnam – Incoterms® 2020** (the any-mode equivalent where the buyer contracts the carriage)\n5. **EXW [seller's factory address], Binh Duong, Vietnam – Incoterms® 2020**"
+      },
+      {
+        "taskId": "t3",
+        "answer": "Incoterms® are **ICC rules, not law**. They apply only when the parties incorporate them into the contract, and several versions exist (1936 … 2010, 2020) with different content (e.g. DAT vs DPU, CIF/CIP insurance levels). The **rule** fixes the allocation of costs, risks and responsibilities. The **named place** fixes where delivery or carriage ends. The **version** fixes which set of rules applies. A missing or wrong element creates disputes, and the slides list it as a **common contract mistake**."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Chỉ đúng lỗi của 1 và 2 (sai nơi chỉ định FOB/CIF)",
+            "points": 1.5
+          },
+          {
+            "text": "Chỉ đúng lỗi của 3 (DAT không còn trong 2020) và 4 (FOB chỉ cho đường biển)",
+            "points": 1.5
+          },
+          {
+            "text": "Chỉ đúng lỗi của 5 (thiếu phiên bản/địa điểm chưa cụ thể)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Viết lại đúng 1, 2 (FOB Cat Lai…; CIF Hamburg…)",
+            "points": 1.5
+          },
+          {
+            "text": "Viết lại đúng 3 bằng DPU và 4 bằng FCA",
+            "points": 1.5
+          },
+          {
+            "text": "Viết lại đúng 5 với địa điểm cụ thể và phiên bản",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Nêu Incoterms là quy tắc của ICC, không phải luật, có nhiều phiên bản",
+            "points": 1
+          },
+          {
+            "text": "Giải thích vai trò của quy tắc, địa điểm, phiên bản và hậu quả khi thiếu",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Sửa “DAT” thành “DAP” dù người bán phải dỡ hàng – trường hợp này phải dùng DPU.",
+      "Giữ FOB cho hàng không chỉ vì “người mua thuê vận tải”.",
+      "Ghi nơi đến cho FOB hoặc nơi đi cho CIF.",
+      "Không ghi phiên bản Incoterms® vì cho rằng “mặc định là bản mới nhất”."
+    ],
+    "sources": [
+      "KB §3.3 – What are Incoterms",
+      "KB §3.5 – Rules by mode",
+      "KB §3.6 – DAT → DPU",
+      "KB §3.8 – Named place & notation",
+      "KB §6.17 – Common contract mistakes"
+    ]
+  },
+  {
+    "id": "CASE-C3-06",
+    "chapters": [
+      "C3",
+      "C6"
+    ],
+    "title": "What Incoterms® do and do not cover: a buyer's three arguments",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "A short contract between **Quang Ninh Wood** (Seller) and a buyer in Taiwan says only:\n\n> *“200 m³ of plywood, USD 450/m³, FOB Haiphong, Vietnam – Incoterms® 2020.”*\n\nThere is no article on payment, ownership, penalties or applicable law. After loading, the cargo is damaged by heavy weather during the voyage. The buyer refuses to pay and argues:\n\n1. *“Under FOB the seller keeps the risk until the goods arrive in Taiwan.”*\n2. *“Incoterms say that ownership of the goods passes on arrival, so the goods were still yours.”*\n3. *“Incoterms entitle us to compensation for your breach of contract.”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Explain what Incoterms® are and list their four purposes according to the slides.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Respond to each of the buyer's three arguments.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Which articles should the contract have contained to avoid this dispute? Name them, with one key element each.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "Incoterms® are a set of rules for the **interpretation of trade terms** in a contract of sale. They are **not law** but the official rules of the **ICC**, first published in **1936** and last revised in **2020**.\n\n**Purposes:**\n1. Identify the obligations of seller and buyer.\n2. Divide costs and expenses.\n3. Fix the transfer of risk (the point where risk of loss/damage passes).\n4. Help the exporter calculate the export price under the chosen rule."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Wrong.** Under FOB, delivery and **risk transfer happen when the goods are on board the vessel** at the named port of shipment (Haiphong). The damage occurred during the voyage, so the risk was the **buyer's**.\n2. **Wrong.** Incoterms **do not cover the transfer of title (ownership)**. Ownership is a matter for the contract and the applicable law.\n3. **Wrong.** Incoterms **do not cover breach of contract** (remedies, liabilities, consequences), and they do **not** cover payment terms either. They govern only the division of costs, risks and responsibilities related to **delivery**."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Art. 7 – Payment:** currency, method (e.g. L/C subject to UCP 600) and time of payment.\n- **Art. 9 – Insurance:** who insures and on what conditions. Under FOB there is no insurance obligation, so the buyer, who bears the voyage risk, should insure.\n- **Art. 10 – Claim:** grounds, claim period and claim documents.\n- **Art. 11 – Penalty:** late delivery or late payment penalties, with a cap.\n- **Art. 12 – Arbitration / applicable law:** e.g. CISG plus the place of arbitration. Matters such as remedies are settled under the applicable law."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu Incoterms là quy tắc giải thích điều kiện thương mại của ICC, không phải luật",
+            "points": 1
+          },
+          {
+            "text": "Liệt kê đúng 4 mục đích",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Lập luận 1: rủi ro chuyển khi hàng ở trên tàu tại cảng bốc → người mua chịu",
+            "points": 1.5
+          },
+          {
+            "text": "Lập luận 2: Incoterms không điều chỉnh chuyển quyền sở hữu",
+            "points": 1.5
+          },
+          {
+            "text": "Lập luận 3: Incoterms không điều chỉnh vi phạm hợp đồng (và thanh toán)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Nêu ít nhất 3 điều khoản phù hợp (thanh toán, bảo hiểm, khiếu nại, phạt, trọng tài/luật áp dụng)",
+            "points": 2
+          },
+          {
+            "text": "Nêu được nội dung then chốt của mỗi điều khoản",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng Incoterms quy định thời điểm chuyển quyền sở hữu.",
+      "Cho rằng Incoterms là luật quốc tế bắt buộc áp dụng.",
+      "Nhầm điểm chuyển rủi ro của FOB là khi hàng đến cảng đích.",
+      "Cho rằng Incoterms quy định phương thức thanh toán."
+    ],
+    "sources": [
+      "KB §3.3 – What are Incoterms (purpose & scope)",
+      "KB §3.8 – FOB",
+      "KB §6.9–§6.14 – Contract articles"
+    ]
+  },
+  {
+    "id": "CASE-C3-07",
+    "chapters": [
+      "C3"
+    ],
+    "title": "Building FOB, CFR and CIF prices from an EXW price",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Ben Tre Coconut Co.** quotes **20 MT** of desiccated coconut to a buyer in Rotterdam. Its EXW price for the lot is **USD 48,000**. The forwarder gives these costs for the shipment:\n\n| Cost | USD |\n|---|---|\n| Inland trucking factory → Cat Lai port | 600 |\n| Export customs clearance | 150 |\n| Terminal handling and loading on board at Cat Lai | 250 |\n| Ocean freight Cat Lai → Rotterdam | 2,400 |\n| Cargo insurance premium (ICC (C)) | 160 |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Calculate the FOB Cat Lai price for the lot, explaining which costs are included and why.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Calculate the CFR Rotterdam and CIF Rotterdam prices for the lot and per MT.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Under the CIF quote, the seller pays freight to Rotterdam. Explain where risk passes, and state the minimum insurance cover and minimum insured amount.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "Under FOB the seller pays **all costs until the goods are delivered on board** at the port of shipment: inland trucking, export clearance, and terminal handling/loading on board.\n\nFOB Cat Lai = 48,000 + 600 + 150 + 250 = **USD 49,000**.\n\nOcean freight and insurance are the buyer's costs under FOB, because they arise after delivery."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **CFR Rotterdam** = FOB + ocean freight = 49,000 + 2,400 = **USD 51,400**, which is **USD 2,570/MT**.\n- **CIF Rotterdam** = CFR + insurance premium = 51,400 + 160 = **USD 51,560**, which is **USD 2,578/MT**.\n\nThis is one of the purposes of Incoterms: to help the exporter **calculate the export price** under the chosen rule."
+      },
+      {
+        "taskId": "t3",
+        "answer": "Under CIF the risk passes when the goods are **on board the vessel at Cat Lai**, the port of shipment, even though the seller pays the freight to Rotterdam. C-rules have **two critical points**.\n\n- **Minimum cover:** **ICC (C)**.\n- **Minimum insured amount** *([EXT] Incoterms® 2020 CIF A5)*: **110% of the contract price** = 110% × 51,560 = **USD 56,716**, in the contract currency."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Tính đúng FOB = USD 49,000",
+            "points": 1.5
+          },
+          {
+            "text": "Giải thích FOB gồm chi phí đến khi hàng lên tàu; cước và bảo hiểm do người mua chịu",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Tính đúng CFR = USD 51,400 (2,570/MT)",
+            "points": 2
+          },
+          {
+            "text": "Tính đúng CIF = USD 51,560 (2,578/MT)",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Rủi ro chuyển khi hàng ở trên tàu tại Cát Lái",
+            "points": 1
+          },
+          {
+            "text": "Bảo hiểm tối thiểu ICC (C)",
+            "points": 1
+          },
+          {
+            "text": "Số tiền bảo hiểm tối thiểu 110% × 51,560 = USD 56,716 (kiến thức mở rộng)",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Bỏ phí xếp hàng tại cảng bốc ra khỏi giá FOB.",
+      "Cộng cước biển vào giá FOB.",
+      "Tính số tiền bảo hiểm trên giá FOB hoặc CFR thay vì giá CIF/giá hợp đồng.",
+      "Cho rằng rủi ro theo CIF chuyển tại Rotterdam vì người bán trả cước đến đó."
+    ],
+    "sources": [
+      "KB §3.3 – Purpose (calculate export price)",
+      "KB §3.8 – FOB/CFR/CIF & general cost rule",
+      "[EXT] Incoterms® 2020 CIF A5 (110%)"
+    ]
+  },
+  {
+    "id": "CASE-C3-08",
+    "chapters": [
+      "C3"
+    ],
+    "title": "Updating an Incoterms® 2010 contract template to Incoterms® 2020",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Thai Binh Textiles** still uses an old contract template written for **Incoterms® 2010**. Three issues come up:\n\n1. One clause reads **“DAT Laem Chabang Container Terminal – Incoterms® 2010”**. The buyer now wants delivery at its own **warehouse in Bangkok**, with the seller unloading the goods.\n2. A new deal is on **FCA Song Than ICD**, but the buyer's L/C requires an **on-board bill of lading**. The seller worries it cannot obtain one, because under FCA it hands the goods to the buyer's carrier at an inland depot.\n3. A buyer asks whether the seller's insurance obligation is the same under **CIF** and **CIP**, and whether it may collect the goods with **its own trucks** under FCA.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Update issue 1 to Incoterms® 2020. Which rule replaces DAT, and what is different about it?",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Explain how Incoterms® 2020 helps the seller in issue 2.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Answer the buyer's questions in issue 3, and say where in Incoterms® 2020 the parties can find all cost allocations listed together.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**DAT** (Delivered at Terminal) was replaced by **DPU – Delivered at Place Unloaded**. This is the only name change among the 11 rules. The destination **need not be a terminal**, and the seller delivers **after unloading** at the named place. DPU is also the only rule that requires the seller to unload.\n\nNew clause: **“DPU [buyer's warehouse address], Bangkok, Thailand – Incoterms® 2020”**."
+      },
+      {
+        "taskId": "t2",
+        "answer": "Incoterms® 2010 did not address on-board B/Ls under FCA. Under **Incoterms® 2020**, the parties may agree that the **buyer instructs its carrier to issue an on-board B/L to the seller** after the goods are loaded. This helps the seller obtain the **on-board B/L required by the L/C** while still delivering at the ICD under FCA. The seller should get this agreed in the contract and reflected in the L/C before shipping."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Insurance:** no, the obligations differ. Under Incoterms® 2020, **CIF requires minimum ICC (C)**, the lower default cover, while **CIP requires ICC (A)** (or equivalent), the higher default cover.\n- **Own transport:** yes. Incoterms® 2020 expressly recognises the use of the parties' **own means of transport** under **FCA, DAP, DPU and DDP**.\n- **Costs:** they are **consolidated in A9/B9** of each rule, so it is easier to see who pays what."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu DPU thay DAT, nơi đến không cần là bến/terminal",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu người bán giao sau khi dỡ hàng và viết đúng điều kiện mới",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu Incoterms 2010 chưa đề cập vấn đề này",
+            "points": 1
+          },
+          {
+            "text": "Nêu cơ chế 2020: các bên thỏa thuận người mua chỉ thị người chuyên chở cấp B/L on board cho người bán",
+            "points": 2
+          },
+          {
+            "text": "Liên hệ yêu cầu L/C và việc đưa thỏa thuận vào hợp đồng",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "CIF tối thiểu ICC (C), CIP ICC (A)",
+            "points": 1
+          },
+          {
+            "text": "Phương tiện vận tải riêng được thừa nhận ở FCA, DAP, DPU, DDP",
+            "points": 1
+          },
+          {
+            "text": "Chi phí được tập hợp tại A9/B9",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Thay DAT bằng DAP mà không xét yêu cầu người bán dỡ hàng.",
+      "Cho rằng theo FCA người bán không bao giờ lấy được B/L on board.",
+      "Cho rằng CIF và CIP đều chỉ yêu cầu ICC (C) như Incoterms 2010.",
+      "Cho rằng phương tiện vận tải riêng chỉ được dùng theo EXW."
+    ],
+    "sources": [
+      "KB §3.6 – Main differences 2010 vs 2020",
+      "KB §4.7 – Insurance-related changes",
+      "KB §3.8 – DPU"
+    ]
+  },
+  {
+    "id": "CASE-C4-01",
+    "chapters": [
+      "C4"
+    ],
+    "title": "Does ICC (A), (B) or (C) cover this loss?",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Bat Trang Ceramics** ships glazed ceramic tiles by sea. The insurer offers three alternatives: **ICC (A)**, **ICC (B)** or **ICC (C)**. To decide, the company reviews five incidents from past shipments:\n\n1. The vessel **collides** with another ship; several pallets are crushed.\n2. While stored at the port of transit, goods are damaged in an **earthquake**.\n3. **Rainwater** (fresh water) enters through a leaking container roof and damages the cartons.\n4. Tiles are **broken by rough handling**, an external cause, with no casualty to the vessel.\n5. In a storm, a container is **washed overboard**.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "For each incident, state whether it is covered under ICC (A), ICC (B) and ICC (C) according to Table 6.2.",
+        "points": 5
+      },
+      {
+        "id": "t2",
+        "prompt": "Give the traditional conditions that correspond approximately to ICC (A), (B) and (C), and explain why the correspondence is only approximate.",
+        "points": 2
+      },
+      {
+        "id": "t3",
+        "prompt": "Recommend an insurance condition for fragile ceramic tiles and justify it. If the goods are sold CIF, what does the seller have to buy at minimum, and what should the buyer do?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| Incident | ICC (A) | ICC (B) | ICC (C) |\n|---|---|---|---|\n| 1 Collision | ✔ | ✔ | ✔ (one of the major casualties) |\n| 2 Earthquake | ✔ | ✔ | ✘ |\n| 3 Fresh water (rain) | ✔ | ✘ | ✘ |\n| 4 Breakage from any external cause | ✔ | ✘ | ✘ |\n| 5 Washing overboard | ✔ | ✔ | ✘ |\n\nICC (C) covers the major casualties (collision, grounding/sinking, jettison…). B adds earthquake/volcano/lightning, entry of sea/river water, total loss overboard or during loading/unloading, and washing overboard. A adds breakage from any external cause, fresh water, hook damage, pilferage, and so on."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **AR (All Risks) ≈ ICC (A)**: broadest cover.\n- **WA (With Average) ≈ ICC (B)**: intermediate cover.\n- **FPA (Free of Particular Average) ≈ ICC (C)**: basic cover.\n\nThe correspondence is **approximate**. Per Table 6.2 the columns differ on some rows (nondelivery and theft are marked differently for WA/FPA and ICC (B)/(C)), so the mapping is valid only at the level of coverage width."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**Recommend ICC (A).** Breakage from external causes and fresh-water damage are the typical risks for ceramic tiles, and only ICC (A) covers them. B and C would leave these losses uninsured.\n\nUnder **CIF**, the seller must insure only at **minimum ICC (C)**. The buyer, who bears the risk from on board, should therefore **require ICC (A) in the contract's insurance article**, or arrange **additional cover itself**."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Sự cố 1 đúng (A, B, C đều có)",
+            "points": 1
+          },
+          {
+            "text": "Sự cố 2 đúng (A, B có; C không)",
+            "points": 1
+          },
+          {
+            "text": "Sự cố 3 đúng (chỉ A)",
+            "points": 1
+          },
+          {
+            "text": "Sự cố 4 đúng (chỉ A)",
+            "points": 1
+          },
+          {
+            "text": "Sự cố 5 đúng (A, B có; C không)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu đúng AR≈A, WA≈B, FPA≈C",
+            "points": 1
+          },
+          {
+            "text": "Giải thích tương ứng chỉ gần đúng (khác ở một số dòng của Bảng 6.2)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Khuyến nghị ICC (A) với lý do vỡ/nước ngọt chỉ A bảo hiểm",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu CIF người bán chỉ phải mua tối thiểu ICC (C); người mua nên yêu cầu ICC (A) trong hợp đồng hoặc tự mua thêm",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng ICC (B) bảo hiểm vỡ hàng do nguyên nhân bên ngoài.",
+      "Nhầm nước mưa (nước ngọt) với nước biển tràn vào tàu – nước ngọt chỉ ICC (A) bảo hiểm.",
+      "Cho rằng ICC (C) bảo hiểm động đất hoặc sóng cuốn.",
+      "Coi tương ứng FPA/WA/AR với C/B/A là hoàn toàn trùng khớp."
+    ],
+    "sources": [
+      "KB §4.4 – Institute Cargo Clauses",
+      "KB §4.5 – Table 6.2",
+      "KB §4.6 – Traditional vs ICC",
+      "KB §4.7 – CIF minimum ICC (C)"
+    ]
+  },
+  {
+    "id": "CASE-C4-02",
+    "chapters": [
+      "C4",
+      "C3"
+    ],
+    "title": "Subrogation: the carrier drops the container",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Hai Phong Machinery** (buyer, Vietnam) buys spare parts **FOB Busan, Korea – Incoterms® 2020** and insures the voyage itself under **ICC (A)**, with an insured amount of USD 110,000.\n\nAt Haiphong port, the **shipping line's crane operator** drops a container during discharge. Parts worth **USD 20,000** are destroyed. A survey report confirms the cause: careless handling by the carrier's staff.\n\nThe buyer's manager asks: *“Should we claim from the insurer or sue the carrier? Can we do both and receive USD 40,000?”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Who bears the risk of this loss under FOB, and does the buyer have an insurable interest? Is the loss covered under ICC (A)?",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Explain the principle of subrogation and apply it to this case step by step.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Answer the manager's question about receiving USD 40,000, using the nature of marine insurance as a contract of indemnity.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "Under **FOB**, risk passed to the **buyer** when the goods were **on board the vessel at Busan**. The loss at discharge in Haiphong is therefore the buyer's. The buyer has an **insurable interest**: a financial interest, based on a legal right, in the preservation of the goods it has bought and whose risk it bears.\n\nThe loss is covered under **ICC (A)**, the widest cover. Breakage or loss from any external cause and loss during discharge are covered (Table 6.2)."
+      },
+      {
+        "taskId": "t2",
+        "answer": "**Subrogation:** after paying the insured's claim, the insurer **stands in the position of the insured** to claim from other parties responsible for the loss.\n\n1. The buyer (insured) claims from the insurer, supported by the survey report, B/L, invoice and other documents.\n2. The insurer pays the buyer **USD 20,000** under the ICC (A) policy.\n3. The insurer now **stands in the buyer's position** and claims the USD 20,000 from the **carrier**, the party responsible for the damage.\n4. The buyer must support this recovery (e.g. by providing the documents) and must not waive its rights against the carrier."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**No.** Marine insurance is a **contract of indemnity**: the insurer compensates the insured for the loss actually suffered from insured risks, here USD 20,000. Once the insurer has paid, the right to claim from the carrier passes to the insurer through **subrogation**. The buyer cannot recover the same loss again from the carrier. Its total recovery is the loss of USD 20,000, either from the insurer or from the carrier, but not from both."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Người mua chịu rủi ro (FOB: rủi ro chuyển khi hàng ở trên tàu tại Busan)",
+            "points": 1
+          },
+          {
+            "text": "Người mua có quyền lợi được bảo hiểm – nêu đúng định nghĩa",
+            "points": 1
+          },
+          {
+            "text": "Xác định tổn thất được ICC (A) bảo hiểm",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Định nghĩa đúng nguyên tắc thế quyền",
+            "points": 1.5
+          },
+          {
+            "text": "Áp dụng đúng trình tự: bồi thường cho người mua → người bảo hiểm thay thế đòi người chuyên chở",
+            "points": 2.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Trả lời không thể nhận USD 40,000",
+            "points": 1
+          },
+          {
+            "text": "Giải thích hợp đồng bồi thường và quyền đòi đã chuyển sang người bảo hiểm",
+            "points": 2
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng theo FOB Busan người bán chịu tổn thất vì hàng chưa đến kho người mua.",
+      "Cho rằng người bảo hiểm từ chối bồi thường vì lỗi thuộc người chuyên chở.",
+      "Cho rằng người được bảo hiểm được nhận tiền từ cả người bảo hiểm và người chuyên chở.",
+      "Nhầm thế quyền với quyền lợi được bảo hiểm."
+    ],
+    "sources": [
+      "KB §4.2 – Marine insurance (contract of indemnity)",
+      "KB §4.3 – Insurable interest & subrogation",
+      "KB §4.5 – Table 6.2",
+      "KB §3.8 – FOB"
+    ]
+  },
+  {
+    "id": "CASE-C4-03",
+    "chapters": [
+      "C4",
+      "C3"
+    ],
+    "title": "Who has an insurable interest, and when?",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "Three parties are considering insurance on the same coffee shipment, sold **FOB Cat Lai, Vietnam – Incoterms® 2020** from **Tay Nguyen Coffee** (seller) to a buyer in Italy:\n\n1. **The seller** wants cover for trucking from its factory to Cat Lai and for loading.\n2. **The buyer** wants cover “warehouse to warehouse”, i.e. from the seller's factory to its own warehouse in Milan.\n3. **Mr. K**, an investor with no ownership, contract or financial stake in the shipment, wants to insure the cargo because he expects a storm on the route and hopes to profit if it sinks.\n\nA second contract with another buyer is on **CIF Genoa, Italy – Incoterms® 2020**.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Define insurable interest as stated on the slides.",
+        "points": 2
+      },
+      {
+        "id": "t2",
+        "prompt": "Analyse each party's insurable interest in the FOB shipment, stage by stage (factory → on board → voyage → Milan).",
+        "points": 5
+      },
+      {
+        "id": "t3",
+        "prompt": "Under the CIF contract, which party buys the insurance, which party bears the voyage risk, and why does that make insurance important to the buyer?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**Insurable interest** (nguyên tắc quyền lợi được bảo hiểm) is **a financial interest based on some legal right in the preservation of the insured property**. The insured must stand to lose financially if the goods are lost or damaged."
+      },
+      {
+        "taskId": "t2",
+        "answer": "| Stage | Seller | Buyer | Mr. K |\n|---|---|---|---|\n| Factory → port → loading (before **on board**) | **Yes**: under FOB the seller still bears the risk until the goods are on board | No financial loss yet: the risk is still the seller's | **No** |\n| On board → voyage → Milan | No longer bears the risk | **Yes**: the risk passed when the goods were on board at Cat Lai | **No** |\n\nThe seller should therefore insure the leg up to loading on board, and the buyer from on board onwards. A “warehouse to warehouse” cover for the buyer only protects a real interest from on board. **Mr. K has no insurable interest** at any stage: no ownership, no contract, no financial stake. His proposal is a bet, not insurance."
+      },
+      {
+        "taskId": "t3",
+        "answer": "Under **CIF** the **seller** must buy the insurance, at minimum ICC (C). The **voyage risk is the buyer's**, however, because risk passes on board at the port of shipment.\n\nThe insurance therefore protects a loss that the **buyer** would suffer: the buyer has the insurable interest during the voyage. This is why the buyer should check the cover (conditions, amount) and require wider cover such as ICC (A) or (B) if needed."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Định nghĩa đúng: lợi ích tài chính dựa trên quyền hợp pháp đối với việc bảo toàn tài sản",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Người bán có quyền lợi trước khi hàng lên tàu (FOB)",
+            "points": 1.5
+          },
+          {
+            "text": "Người mua có quyền lợi từ khi hàng ở trên tàu",
+            "points": 1.5
+          },
+          {
+            "text": "Ông K không có quyền lợi được bảo hiểm ở bất kỳ giai đoạn nào – nêu lý do",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "CIF: người bán mua bảo hiểm (tối thiểu ICC (C)), người mua chịu rủi ro trên biển",
+            "points": 2
+          },
+          {
+            "text": "Giải thích người mua có quyền lợi nên cần kiểm tra/yêu cầu mức bảo hiểm phù hợp",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng người mua theo FOB có quyền lợi từ khi hàng rời xưởng người bán.",
+      "Cho rằng ai trả phí bảo hiểm thì người đó có quyền lợi được bảo hiểm.",
+      "Cho rằng theo CIF người bán chịu rủi ro trên biển vì là bên mua bảo hiểm.",
+      "Cho rằng ông K có quyền lợi vì sẵn sàng trả phí."
+    ],
+    "sources": [
+      "KB §4.3 – Insurable interest",
+      "KB §3.8 – FOB & CIF",
+      "KB §6.11 – Art. 9 Insurance"
+    ]
+  },
+  {
+    "id": "CASE-C4-04",
+    "chapters": [
+      "C4"
+    ],
+    "title": "Required insurance under CIF versus CIP",
+    "difficulty": 1,
+    "estMinutes": 15,
+    "scenario": "**Viet Furniture** has a contract value of **USD 200,000** and can quote either:\n\n- **CIF Hamburg, Germany – Incoterms® 2020** (sea), or\n- **CIP Munich, Germany – Incoterms® 2020** (container by sea to Hamburg, then rail to Munich).\n\nThe contract does not specify any insurance details beyond the Incoterms rule. The buyer asks: *“Will the insurance be the same in both cases?”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Compare the seller's insurance obligation under CIF and CIP (who insures, minimum condition, coverage level). Name the traditional condition that corresponds approximately to each ICC level.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Calculate the minimum insured amount in both cases and state the currency.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Which of the two rules suits this container shipment to Munich better, and why? If the buyer accepts CIF but wants broader cover, what should it do?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| | CIF | CIP |\n|---|---|---|\n| Who insures | Seller | Seller |\n| Minimum condition (Incoterms® 2020) | **ICC (C)** | **ICC (A)** (or equivalent) |\n| Coverage level | Basic / narrow (lowest) | Widest |\n| Traditional equivalent (approx.) | **FPA** | **AR (All Risks)** |\n\nSo no, the insurance is not the same: CIF gives lower default cover and CIP gives higher default cover."
+      },
+      {
+        "taskId": "t2",
+        "answer": "*[EXT] Incoterms® 2020 CIF/CIP A5*: minimum **110% of the contract price**, in the **currency of the contract**.\n\n110% × USD 200,000 = **USD 220,000** in both cases. The insured amount is the same; the **scope of cover** differs (ICC (C) vs ICC (A))."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**CIP** suits better. The goods are **containerised** and travel **multimodally** (sea + rail) to an inland place. CIP is a rule for **any mode**, while CIF is for **sea and inland waterway only**, and its named place must be a port of destination. CIP also gives ICC (A) cover by default.\n\nIf the parties keep CIF, the buyer should **write a higher condition (ICC (A) or (B)) into the contract's insurance article**, or **buy additional insurance** itself."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu đúng: cả hai do người bán mua; CIF tối thiểu ICC (C), CIP ICC (A)",
+            "points": 2.5
+          },
+          {
+            "text": "Nêu đúng tương ứng gần đúng FPA ≈ C, AR ≈ A",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Tính đúng USD 220,000 cho cả hai, ghi rõ là kiến thức mở rộng 110%",
+            "points": 2
+          },
+          {
+            "text": "Nêu đồng tiền bảo hiểm là đồng tiền của hợp đồng (USD)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Chọn CIP vì hàng container, đa phương thức đến điểm nội địa; CIF chỉ cho đường biển",
+            "points": 2
+          },
+          {
+            "text": "Đề xuất ghi điều kiện cao hơn vào hợp đồng hoặc tự mua thêm bảo hiểm",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng CIF và CIP đều chỉ yêu cầu ICC (C).",
+      "Cho rằng theo CIP người mua là bên mua bảo hiểm.",
+      "Tính số tiền bảo hiểm bằng 100% giá hợp đồng.",
+      "Dùng CIF cho hàng đi tiếp bằng đường sắt đến thành phố nội địa."
+    ],
+    "sources": [
+      "KB §3.6 / §4.7 – CIF vs CIP insurance",
+      "KB §4.6 – Traditional vs ICC",
+      "KB §3.5 – Rules by mode",
+      "[EXT] Incoterms® 2020 CIF/CIP A5"
+    ]
+  },
+  {
+    "id": "CASE-C4-05",
+    "chapters": [
+      "C4",
+      "C3",
+      "C6"
+    ],
+    "title": "Drafting the insurance clause for an electronics import",
+    "difficulty": 3,
+    "estMinutes": 30,
+    "scenario": "**Saigon Tech** (Vietnam) imports laptops from Taiwan. Two options are on the table:\n\n- **Option 1: CFR Haiphong, Vietnam – Incoterms® 2020**, with Saigon Tech arranging its own insurance.\n- **Option 2: CIF Haiphong, Vietnam – Incoterms® 2020**, with the seller insuring.\n\nPast shipments of electronics suffered from three kinds of loss:\n\n1. **Pilferage**: some laptops stolen from opened cartons.\n2. **Fresh water damage** from condensation and rain.\n3. A **collision** of the vessel.\n\nThe invoice value of the next shipment will be **USD 300,000**.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Under Option 1 (CFR), who bears the voyage risk and who must insure? Which ICC condition would you recommend for laptops, and why?",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "For Option 2 (CIF), draft Article 9 (Insurance) of the contract so that it protects Saigon Tech, covering all elements recommended on the slides.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "For each of the three past losses, state whether it would be covered under the CIF default minimum and under the condition you drafted.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "Under **CFR**, risk passes to the **buyer** when the goods are **on board at the port of shipment**, so Saigon Tech bears the voyage risk. CFR imposes **no insurance obligation**. The buyer, as the party bearing the risk, should insure at its own discretion.\n\n**Recommendation: ICC (A).** Pilferage and fresh-water damage are typical risks for electronics, and under Table 6.2 only ICC (A) covers them. ICC (B) and (C) would leave these losses uninsured."
+      },
+      {
+        "taskId": "t2",
+        "answer": "> **Article 9 – Insurance**\n> 9.1 The Seller shall arrange and pay for cargo insurance covering the goods from the port of shipment to Haiphong port.\n> 9.2 **Conditions:** Institute Cargo Clauses **(A)**.\n> 9.3 **Insured amount:** **110% of the invoice value**, i.e. **USD 330,000** for an invoice value of USD 300,000.\n> 9.4 **Currency:** USD, the currency of the contract.\n> 9.5 **Insured risks:** all risks covered under ICC (A), subject to its exclusions.\n> 9.6 **Claims payable at:** Haiphong, Vietnam (destination).\n> 9.7 The Seller shall present an insurance policy/certificate dated no later than the shipment date.\n\nThe clause covers the slide elements: who insures, conditions, insured amount, currency, insured risks and where claims are payable."
+      },
+      {
+        "taskId": "t3",
+        "answer": "| Loss | CIF default minimum ICC (C) | Drafted ICC (A) |\n|---|---|---|\n| 1 Pilferage | ✘ Not covered | ✔ Covered |\n| 2 Fresh water | ✘ Not covered | ✔ Covered |\n| 3 Collision | ✔ Covered | ✔ Covered |\n\nWithout the drafted clause, two of the three typical losses would fall on Saigon Tech, which bears the voyage risk under CIF."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "CFR: người mua chịu rủi ro từ khi hàng ở trên tàu; không có nghĩa vụ bảo hiểm",
+            "points": 1.5
+          },
+          {
+            "text": "Khuyến nghị ICC (A) với lý do mất cắp một phần/nước ngọt chỉ A bảo hiểm",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Có điều kiện bảo hiểm cụ thể (ICC (A))",
+            "points": 1
+          },
+          {
+            "text": "Có số tiền bảo hiểm 110% giá trị hóa đơn = USD 330,000 và đồng tiền",
+            "points": 1
+          },
+          {
+            "text": "Có rủi ro được bảo hiểm và nơi trả bồi thường (Hải Phòng)",
+            "points": 1
+          },
+          {
+            "text": "Có ngày chứng từ bảo hiểm không muộn hơn ngày giao hàng hoặc yếu tố bảo vệ người mua tương đương",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Xác định đúng 3 tổn thất theo ICC (C) (chỉ đâm va được bảo hiểm)",
+            "points": 1.5
+          },
+          {
+            "text": "Xác định đúng cả 3 được bảo hiểm theo ICC (A)",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng theo CFR người bán phải mua bảo hiểm.",
+      "Soạn điều khoản chỉ ghi “bảo hiểm do người bán mua” mà thiếu điều kiện, số tiền, nơi bồi thường.",
+      "Cho rằng ICC (C) bảo hiểm mất cắp một phần.",
+      "Tính số tiền bảo hiểm 110% trên giá FOB thay vì giá trị hóa đơn CIF."
+    ],
+    "sources": [
+      "KB §3.8 – CFR/CIF",
+      "KB §4.5 – Table 6.2",
+      "KB §6.11 – Art. 9 Insurance",
+      "KB §7.6 – Insurance documents checklist"
+    ]
+  },
+  {
+    "id": "CASE-C5-01",
+    "chapters": [
+      "C5"
+    ],
+    "title": "Checking the dates of a letter of credit",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Mekong Seafood Co.** (Vietnam, the beneficiary) sells frozen shrimp to a buyer in Japan. Payment is by an **irrevocable documentary L/C at sight**. The L/C does not state a specific presentation period.\n\n| L/C data | Date |\n|---|---|\n| Date of issue | 1 July 2026 |\n| Latest shipment date | 31 August 2026 |\n| Expiry date | 15 September 2026 |\n\nWhat actually happened:\n\n- The goods were loaded on board on **28 August 2026** (B/L on-board date).\n- Because the C/O and the health certificate came late, Mekong Seafood presented the documents to the bank on **20 September 2026**.\n\nAfter the bank raises the problem, Mekong Seafood's sales manager suggests: *“Let's simply ask the buyer to extend the expiry date to 30 September. That will also give us more time to ship next time.”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Check each of the date rules on the slides against this case (issue date, shipment date, expiry date, presentation). Which rules are met and which are broken? What was the last day on which the documents could have been presented?",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Evaluate the sales manager's suggestion: does extending the expiry date also extend the shipment date? State the rule in both directions.",
+        "points": 2
+      },
+      {
+        "id": "t3",
+        "prompt": "Using the exporter's L/C checklist, explain what Mekong Seafood should have checked when it first received the L/C, and propose what it should do in future to avoid this problem.",
+        "points": 4
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| Rule (per slides) | Check | Result |\n|---|---|---|\n| Issue date before shipment date | 1 Jul < 28 Aug | ✔ Met |\n| Shipment within the validity period, not later than the latest shipment date | 28 Aug ≤ 31 Aug, before 15 Sep | ✔ Met |\n| Expiry date after shipment date | 15 Sep > 28 Aug | ✔ Met |\n| Presentation no later than 21 days after shipment | 28 Aug + 21 days = **18 Sep**; presented 20 Sep (23 days) | ✘ Broken |\n| Presentation within the validity period (≤ expiry) | 20 Sep > 15 Sep | ✘ Broken – the L/C had expired |\n\n**Last day to present** = the earlier of the two limits = **15 September 2026**. The expiry date comes before the 21-day limit (18 Sep)."
+      },
+      {
+        "taskId": "t2",
+        "answer": "The suggestion is wrong on the second point. According to the slides:\n\n- If the buyer and seller agree to **extend the shipment date**, the **expiry date is extended too**.\n- If only the **expiry date is extended**, the **shipment date is NOT extended**.\n\nExtending the expiry to 30 September would only give more time to **present** documents. It would not give more time to **ship**; that needs the latest shipment date itself to be amended."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**On receipt of the L/C**, checklist item **8** applies: check that the **shipping, expiration and presentation dates allow sufficient time** to process the order, ship and prepare the documents. Item **3** also applies: check that the **documents can be obtained in the required form**, here the C/O and health certificate and how long they take to obtain.\n\nOnly **18 days** separated the latest shipment date (31 Aug) from the expiry (15 Sep). If the goods ship near the latest date, there is very little time to collect the certificates.\n\n**Proposals:**\n1. When the L/C arrives, compare its dates with the production schedule and the lead time for each document. If the time is too short, ask the buyer for an **amendment** (a later expiry and/or shipment date) **before shipping**.\n2. Ship earlier where possible, and apply for the C/O and health certificate in advance.\n3. Set an internal deadline: present documents well before the **earlier** of shipment + 21 days and the expiry date."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Xác nhận đúng 3 quy tắc được đáp ứng (ngày phát hành < ngày giao hàng; giao hàng trong hiệu lực và ≤ ngày giao hàng chậm nhất; ngày hết hạn sau ngày giao hàng)",
+            "points": 1
+          },
+          {
+            "text": "Tính đúng 28/8 + 21 ngày = 18/9 và kết luận xuất trình 20/9 là trễ (23 ngày)",
+            "points": 1
+          },
+          {
+            "text": "Nêu xuất trình sau ngày hết hạn 15/9 → L/C đã hết hiệu lực",
+            "points": 1
+          },
+          {
+            "text": "Kết luận ngày cuối cùng được xuất trình là 15/9/2026 (mốc sớm hơn trong hai giới hạn)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu đúng quy tắc: gia hạn ngày giao hàng thì ngày hết hạn được gia hạn theo",
+            "points": 1
+          },
+          {
+            "text": "Nêu đúng: gia hạn ngày hết hạn KHÔNG gia hạn ngày giao hàng → đề xuất của trưởng phòng sai",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Chỉ ra mục 8 checklist (ngày giao hàng, hết hạn, xuất trình đủ thời gian) và mục 3 (chứng từ lấy được đúng yêu cầu)",
+            "points": 1.5
+          },
+          {
+            "text": "Nhận xét khoảng thời gian 31/8–15/9 quá ngắn để chuẩn bị chứng từ",
+            "points": 0.5
+          },
+          {
+            "text": "Đề xuất yêu cầu tu chỉnh L/C trước khi giao hàng nếu thời gian không đủ",
+            "points": 1
+          },
+          {
+            "text": "Đề xuất biện pháp chủ động khác (giao sớm, xin chứng từ trước, đặt hạn nội bộ trước mốc sớm hơn)",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Chỉ kiểm tra quy tắc 21 ngày mà quên rằng chứng từ còn phải xuất trình trong thời hạn hiệu lực của L/C.",
+      "Lấy mốc 18/9 làm hạn cuối thay vì mốc sớm hơn là ngày hết hạn 15/9.",
+      "Cho rằng gia hạn ngày hết hạn thì ngày giao hàng cũng được gia hạn.",
+      "Tính sai số ngày khi cộng qua tháng (tháng 8 có 31 ngày).",
+      "Chỉ đề xuất “xin người mua chấp nhận” mà không nêu việc kiểm tra L/C ngay khi nhận theo checklist."
+    ],
+    "sources": [
+      "KB §5.5 – Remarks on dates (ERRATA E-06, rephrased)",
+      "KB §5.5 – Exporter's L/C checklist (items 3, 8)",
+      "[EXT] UCP 600 Art. 14(c)"
+    ]
+  },
+  {
+    "id": "CASE-C5-02",
+    "chapters": [
+      "C5"
+    ],
+    "title": "Choosing a payment method for three different buyers",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Viet Pharma Equipment** has three new orders:\n\n| Buyer | Situation |\n|---|---|\n| A | A **new customer** in a country with **very high political and commercial risks**; its financial statements **cannot be verified**. The equipment is **unique** and in heavy demand. |\n| B | A distributor in Singapore that has bought regularly for **five years** and always paid on time. Singapore is stable, with no exchange restrictions, and the goods are easily marketable. |\n| C | A **new** hospital-supply company in Australia that wants some credit. Viet Pharma wants a **bank's undertaking** to pay. |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Recommend a payment method for Buyer A and justify it with the criteria on the slides.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "For Buyer B, compare open account and documentary collection (D/P), and recommend one. Explain the exporter's risk in each case.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Recommend a method for Buyer C, explaining what the bank promises and why this suits a new buyer.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**Cash-in-advance (T/T payment in advance).** The buyer remits first and the exporter ships last. The slide criteria for using cash-in-advance all apply:\n\n- the importer is a **new customer**;\n- its **creditworthiness is unverifiable**;\n- the **political and commercial risks** of the importer's country are **very high**;\n- the product is **unique and in heavy demand**, so the buyer is likely to accept."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **Open account:** the exporter ships **on credit** and mails the documents separately; payment comes within an agreed period (typically **30–120 days**). The exporter carries the full non-payment risk until it is paid.\n- **D/P:** the buyer receives the shipping documents **only after paying** at the collecting bank. The exporter keeps control of the documents until payment, but there is **no bank guarantee of payment**: the buyer may refuse to pay, leaving the goods at destination.\n\nAll four conditions for agreeing to a documentary collection are met: no doubt about the buyer's willingness and ability to pay; a stable country; no exchange restrictions; easily marketable goods. **Recommendation: D/P**, which gives more control than open account at low cost. Open account can be considered for this trusted buyer if it is needed to stay competitive."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**An irrevocable letter of credit** (confirmed if extra security is wanted). An L/C is **a bank's promise to pay** the seller on behalf of the buyer, **provided the seller meets the terms and conditions** of the credit: complying documents presented in time. The payment risk shifts from an unknown buyer to the issuing bank. It can also give the buyer some credit, through a usance/deferred-payment L/C. *[EXT – Trade Finance Guide]* On the exporter's risk ladder, an L/C (confirmed > unconfirmed) is safer than D/P, D/A or open account."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Khuyến nghị trả trước (T/T in advance)",
+            "points": 1
+          },
+          {
+            "text": "Nêu ít nhất 3 tiêu chí trả trước trên slide khớp với người mua A",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Mô tả đúng ghi sổ (giao trên cơ sở tín dụng, 30–120 ngày) và rủi ro",
+            "points": 1.5
+          },
+          {
+            "text": "Mô tả đúng D/P (nhận chứng từ sau khi trả tiền) và rủi ro không có bảo đảm của ngân hàng",
+            "points": 1.5
+          },
+          {
+            "text": "Đối chiếu 4 điều kiện nhờ thu và đưa ra khuyến nghị có lập luận",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Khuyến nghị L/C không hủy ngang (có thể xác nhận)",
+            "points": 1
+          },
+          {
+            "text": "Nêu L/C là cam kết trả tiền của ngân hàng khi người bán đáp ứng điều kiện",
+            "points": 2
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Khuyến nghị nhờ thu cho người mua A dù rủi ro quốc gia rất cao.",
+      "Cho rằng D/P có ngân hàng bảo đảm thanh toán.",
+      "Cho rằng L/C bảo đảm thanh toán vô điều kiện – ngân hàng chỉ trả khi chứng từ phù hợp.",
+      "Nhầm ghi sổ với ký gửi (ký gửi: người mua trả sau khi bán được hàng)."
+    ],
+    "sources": [
+      "KB §5.2 – Open account",
+      "KB §5.3 – Cash-in-advance criteria",
+      "KB §5.4 – Documentary collection",
+      "KB §5.5 – L/C definition & [EXT] risk ladder"
+    ]
+  },
+  {
+    "id": "CASE-C5-03",
+    "chapters": [
+      "C5"
+    ],
+    "title": "Classifying L/C discrepancies and proposing fixes",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "The issuing bank reviews the documents presented by **Viet Garment Co.** under an L/C and reports four discrepancies. For each one, the facts below state **how it can be corrected**:\n\n1. The commercial invoice misspells the beneficiary's own street address. Viet Garment can **re-issue a corrected invoice itself** before the presentation deadline.\n2. The issuing bank's own covering schedule shows a wrong L/C reference number. **The issuing bank can correct it** immediately.\n3. The invoice describes the goods as *“men's cotton shirts”* while the L/C says *“cotton shirts for men”*. The bank refuses, but the **buyer is willing to accept the documents and sign a written waiver**.\n4. The goods were shipped **five days after the latest shipment date**. This can be cured **only by an amendment to the L/C**.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "State the three types of discrepancy on the slides and how each type is corrected.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Classify discrepancies 1–4 and justify each classification from the correction route described.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Using the exporter's L/C checklist, propose how Viet Garment could have prevented discrepancies 3 and 4.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "- **Accidental**: easily corrected by the **beneficiary** or the **issuing bank**.\n- **Minor**: corrected by a **written waiver from the buyer**.\n- **Major**: **cannot be corrected**, or can be corrected only by an **amendment to the L/C**."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Accidental**: the beneficiary itself corrects it by re-issuing the invoice.\n2. **Accidental**: the issuing bank corrects its own error.\n3. **Minor**: it is cured by the **buyer's written waiver**.\n4. **Major**: late shipment cannot be fixed by correcting documents; it needs an **L/C amendment**, which the buyer must agree to and the issuing bank must issue."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Discrepancy 3 – checklist item 7:** the **description of goods must be consistent between the L/C and the commercial invoice**. The invoice should copy the L/C wording exactly (“cotton shirts for men”).\n- **Discrepancy 4 – checklist item 8:** check on receipt of the L/C that the **shipping, expiration and presentation dates allow sufficient time** to process the order, ship and prepare documents. If they do not, ask the buyer for an **amendment before shipping**. Extending the shipment date also extends the expiry date."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu đúng 3 loại sai biệt và cách khắc phục từng loại",
+            "points": 3
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Phân loại đúng 1 và 2 là sai biệt ngẫu nhiên (accidental)",
+            "points": 1.5
+          },
+          {
+            "text": "Phân loại đúng 3 là sai biệt nhỏ (minor – văn bản chấp thuận của người mua)",
+            "points": 1.25
+          },
+          {
+            "text": "Phân loại đúng 4 là sai biệt lớn (major – chỉ khắc phục bằng tu chỉnh L/C)",
+            "points": 1.25
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Gắn sai biệt 3 với mục 7 checklist (mô tả hàng thống nhất giữa L/C và hóa đơn)",
+            "points": 1.5
+          },
+          {
+            "text": "Gắn sai biệt 4 với mục 8 checklist và đề xuất xin tu chỉnh trước khi giao hàng",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Phân loại theo “mức độ nghiêm trọng cảm tính” thay vì theo cách khắc phục như định nghĩa trên slide.",
+      "Cho rằng giao hàng trễ có thể sửa bằng cách lập lại vận đơn.",
+      "Cho rằng sai biệt nhỏ được người bán tự sửa – thực tế cần văn bản chấp thuận của người mua.",
+      "Không liên hệ việc phòng ngừa với checklist kiểm tra L/C của nhà xuất khẩu."
+    ],
+    "sources": [
+      "KB §5.5 – Discrepancies (3 types)",
+      "KB §5.5 – Exporter's L/C checklist (items 7, 8)",
+      "KB §5.5 – Remarks on dates"
+    ]
+  },
+  {
+    "id": "CASE-C5-04",
+    "chapters": [
+      "C5"
+    ],
+    "title": "D/P or D/A? Advising a seafood exporter",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Ca Mau Seafood** sells frozen shrimp worth **USD 120,000** to an importer in Japan with which it has traded for three years. The importer proposes payment by **documentary collection** and asks for **D/A 60 days**. Ca Mau Seafood's director prefers **D/P**. Both companies use their own banks: Vietcombank Ca Mau (seller's bank) and a Tokyo bank (buyer's bank).",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Explain the documentary collection procedure for this deal (the seven steps of Figure 11.2), naming each bank's role. What changes at step 5 between D/P and D/A, and which type of draft is used in each?",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Compare the seller's risk under D/P and D/A. Which is safer for Ca Mau Seafood, and why?",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Check whether the slide conditions for a seller to agree to documentary collection are met here, and give your recommendation.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "1. The parties agree the terms; Ca Mau Seafood ships and prepares the documents (and draws a draft on the buyer).\n2. The seller presents the documents to the **remitting bank** (Vietcombank Ca Mau).\n3. The remitting bank forwards them to the **collecting bank** (the Tokyo bank).\n4. The collecting bank presents the documents to the buyer.\n5. The buyer **pays (D/P)** or **accepts the draft (D/A)** against the documents.\n6. The collecting bank advises acceptance or remits payment to the remitting bank.\n7. The remitting bank advises the seller of acceptance or pays it.\n\n- **D/P:** a **sight draft**, payable on presentation. The buyer gets the documents only after paying.\n- **D/A:** a **time (usance) draft**. The buyer gets the title documents after **signing (accepting)** the draft and promises to pay at maturity."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **D/P:** the seller keeps control of the shipping documents, and so of the goods, until the buyer pays. The risk is that the buyer refuses to pay, leaving goods at destination, with **no bank guarantee**.\n- **D/A:** the buyer obtains the documents and the goods **before paying**, on a mere promise (the accepted draft). If it does not pay at maturity, the seller has lost both goods and money.\n\n**D/P is safer** for the seller. In both cases the seller is paid only after shipping, and the bank does not guarantee payment."
+      },
+      {
+        "taskId": "t3",
+        "answer": "Conditions from the slides:\n\n1. **No doubt about the buyer's ability and willingness to pay**: plausible after three years of trading, but verify the payment record.\n2. **The buyer's country is politically, economically and legally stable**: Japan meets this.\n3. **No exchange restrictions** in the buyer's country: met.\n4. **The goods are easily marketable**: frozen shrimp is marketable, though perishable, which raises the cost if the buyer refuses.\n\n**Recommendation:** documentary collection is acceptable. Prefer **D/P** because the goods are perishable and the seller should keep control until payment. Accept **D/A** only if the buyer's payment history is excellent, and consider a shorter tenor."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Trình bày đúng 7 bước, gọi đúng ngân hàng chuyển (remitting) và ngân hàng thu hộ (collecting)",
+            "points": 2
+          },
+          {
+            "text": "Phân biệt đúng bước 5: D/P trả tiền – hối phiếu trả ngay; D/A chấp nhận – hối phiếu có kỳ hạn",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Phân tích đúng rủi ro D/A (người mua nhận hàng trước khi trả tiền)",
+            "points": 1.5
+          },
+          {
+            "text": "Kết luận D/P an toàn hơn và nêu nhờ thu không có bảo đảm của ngân hàng",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Đối chiếu đủ 4 điều kiện với tình huống",
+            "points": 2
+          },
+          {
+            "text": "Đưa ra khuyến nghị có lập luận (ưu tiên D/P, lưu ý hàng dễ hư hỏng)",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Nhầm ngân hàng chuyển (của người bán) với ngân hàng thu hộ (của người mua).",
+      "Cho rằng D/A dùng hối phiếu trả ngay.",
+      "Cho rằng ngân hàng thu hộ phải trả tiền nếu người mua không trả.",
+      "Chỉ nêu điều kiện chung mà không áp dụng vào trường hợp Nhật Bản và hàng thủy sản đông lạnh."
+    ],
+    "sources": [
+      "KB §5.4 – Documentary collection (D/P, D/A, drafts, Figure 11.2, risks, conditions)"
+    ]
+  },
+  {
+    "id": "CASE-C5-05",
+    "chapters": [
+      "C5"
+    ],
+    "title": "The exporter's L/C checklist: an L/C that does not match the contract",
+    "difficulty": 3,
+    "estMinutes": 30,
+    "scenario": "**Contract** between **Thanh Long Spices Co., Ltd** (Seller) and a buyer in the Netherlands:\n\n- 50 MT black pepper, USD 4,000/MT, **total USD 200,000**, **CIF Rotterdam, the Netherlands – Incoterms® 2020**\n- Partial shipments **allowed**; latest shipment **30 November**\n- Payment by irrevocable L/C at sight for 100% of the invoice value\n- Insurance by the Seller, ICC (A)\n\n**L/C received (extract):**\n\n| Field | Content |\n|---|---|\n| Beneficiary | **Thanh Long Spice Co.** |\n| Amount | **USD 180,000** |\n| Partial shipments | **Prohibited** |\n| Latest shipment date | 30 November |\n| Expiry date | **5 December** |\n| Documents | Commercial invoice; full set clean on-board B/L marked **“Freight Collect”**; insurance certificate “to be covered **by the applicant**”; inspection certificate **signed by the applicant** |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Using the exporter's L/C checklist, identify at least six problems in the L/C and link each one to the relevant checklist item.",
+        "points": 5
+      },
+      {
+        "id": "t2",
+        "prompt": "What should Thanh Long do before shipping, and why? Who initiates the change?",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Quantify two of the problems: the shortfall in the L/C amount, and the number of days available to present documents if the goods ship on the latest shipment date.",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| # | Problem | Checklist item |\n|---|---|---|\n| 1 | Beneficiary name “Thanh Long **Spice** Co.” ≠ “Thanh Long **Spices** Co., Ltd” | 1 – all names and addresses correct |\n| 2 | Amount USD 180,000 < contract value USD 200,000 | 4/5 – unit price and total conform; goods and charges comply with the L/C amount |\n| 3 | Partial shipments prohibited, but the contract allows them | 6 – partial shipments/transshipments specified correctly |\n| 4 | B/L “Freight Collect” under CIF, where the seller pays the freight | 10 – freight payment indicated properly |\n| 5 | Insurance “covered by the applicant” under CIF, where the seller insures with ICC (A) | 13 – insurance coverage and the party paying are as agreed |\n| 6 | Inspection certificate **signed by the applicant**: the seller cannot control this document | 2 – no unacceptable conditions; 3 – documents can be obtained in the required form |\n| 7 | Only 5 days between latest shipment and expiry | 8 – dates allow sufficient time to ship and prepare documents |"
+      },
+      {
+        "taskId": "t2",
+        "answer": "Thanh Long should **not ship** under this L/C. It should immediately ask the **buyer (the applicant)** to have the **issuing bank amend the L/C** so that it matches the contract: correct name, USD 200,000, partial shipments allowed, “Freight Prepaid”, insurance by the beneficiary, removal of the applicant-signed certificate (or a neutral issuer), and a later expiry date.\n\nThe reason: in an L/C transaction **documents are the key issue**, and the bank pays only for documents that comply with the L/C. Shipping first would create discrepancies the seller cannot fix afterwards, i.e. major discrepancies that need an amendment anyway."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Amount shortfall:** 200,000 − 180,000 = **USD 20,000**. The L/C covers only 90% of the contract value, about 45 MT at USD 4,000.\n- **Presentation time:** shipment on 30 November and expiry on 5 December give only **5 days**. Documents must be presented no later than 21 days after shipment **and within the validity period**, so the expiry is the binding limit. Five days is very tight for collecting the B/L, insurance and inspection documents."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Phát hiện đúng ít nhất 6 vấn đề",
+            "points": 3
+          },
+          {
+            "text": "Gắn đúng mỗi vấn đề với mục checklist tương ứng",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Đề xuất không giao hàng, yêu cầu người mua đề nghị ngân hàng phát hành tu chỉnh L/C",
+            "points": 2
+          },
+          {
+            "text": "Giải thích chứng từ là trọng tâm, ngân hàng chỉ trả khi chứng từ phù hợp",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Tính đúng thiếu hụt USD 20,000",
+            "points": 1
+          },
+          {
+            "text": "Tính đúng 5 ngày và giải thích ngày hết hạn là giới hạn ràng buộc",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Bỏ qua lỗi tên người thụ hưởng vì “chỉ sai một chữ”.",
+      "Không nhận ra “Freight Collect” mâu thuẫn với CIF.",
+      "Chấp nhận chứng từ do người yêu cầu mở L/C ký – người bán không kiểm soát được việc có chứng từ này.",
+      "Giao hàng trước rồi mới xin sửa L/C."
+    ],
+    "sources": [
+      "KB §5.5 – Exporter's L/C checklist (14)",
+      "KB §5.5 – Definition & remarks on dates",
+      "KB §3.8 – CIF"
+    ]
+  },
+  {
+    "id": "CASE-C5-06",
+    "chapters": [
+      "C5"
+    ],
+    "title": "Walking through the L/C procedure",
+    "difficulty": 1,
+    "estMinutes": 15,
+    "scenario": "**Minh Phat Plastics** (Vietnam) imports a moulding machine from **Krauss GmbH** (Germany). Payment is by irrevocable L/C. Minh Phat's bank is **BIDV Hanoi**; Krauss's bank is **Deutsche Handelsbank, Stuttgart**.\n\nA trainee has written the steps in the wrong order:\n\n- (a) Krauss forwards the documents to Deutsche Handelsbank.\n- (b) BIDV forwards the documents to Minh Phat, which pays or has its account debited.\n- (c) Minh Phat applies for and opens the L/C at BIDV.\n- (d) Deutsche Handelsbank pays Krauss as specified in the L/C.\n- (e) BIDV issues the L/C and forwards it to Deutsche Handelsbank.\n- (f) Krauss delivers the goods once the L/C terms are met.\n- (g) Deutsche Handelsbank notifies Krauss of the L/C.\n- (h) BIDV reviews the documents, accepts them and pays Deutsche Handelsbank.\n- (i) Deutsche Handelsbank forwards the documents to BIDV for review.\n\nAfter arrival, Minh Phat finds the machine is of lower quality than agreed, although all documents complied with the L/C.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Name the role of each party in this L/C (applicant, beneficiary, issuing bank, advising bank).",
+        "points": 2
+      },
+      {
+        "id": "t2",
+        "prompt": "Put steps (a)–(i) in the correct order of the nine-step L/C procedure.",
+        "points": 5
+      },
+      {
+        "id": "t3",
+        "prompt": "Could BIDV refuse to pay because the machine is of lower quality? Explain using the nature of an L/C, and say what remedy Minh Phat has.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "- **Applicant:** Minh Phat Plastics (the buyer).\n- **Beneficiary:** Krauss GmbH (the seller).\n- **Issuing / opening bank:** BIDV Hanoi (the applicant's bank).\n- **Advising bank:** Deutsche Handelsbank (the beneficiary's bank; it could also be the confirming/paying bank)."
+      },
+      {
+        "taskId": "t2",
+        "answer": "**c → e → g → f → a → i → h → b → d**\n\n1. (c) Buyer applies for and opens the L/C.\n2. (e) The issuing bank issues it and forwards it to the advising bank.\n3. (g) The advising bank notifies the seller.\n4. (f) The seller delivers the goods.\n5. (a) The seller forwards the documents to the advising bank.\n6. (i) The advising bank forwards them to the issuing bank.\n7. (h) The issuing bank reviews, accepts and pays the advising bank.\n8. (b) The issuing bank forwards the documents to the buyer, who pays or is debited.\n9. (d) The advising bank pays the seller."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**No.** An L/C is a **bank's promise to pay the seller provided the seller meets the terms of the credit**. **Documents are the key issue**, and **banks act as intermediaries and have nothing to do with the goods themselves**. Because the documents complied, BIDV must pay. Minh Phat's remedy lies in the **sales contract**: a claim against Krauss under the claim article (grounds: discrepancy in quality), with supporting documents such as a survey report and certificate of quality, within the claim period."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Xác định đúng 4 vai trò",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Sắp xếp đúng bước 1–3 (c → e → g)",
+            "points": 1.5
+          },
+          {
+            "text": "Sắp xếp đúng bước 4–6 (f → a → i)",
+            "points": 1.5
+          },
+          {
+            "text": "Sắp xếp đúng bước 7–9 (h → b → d)",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Kết luận ngân hàng không được từ chối vì chứng từ phù hợp; ngân hàng không liên quan đến hàng hóa",
+            "points": 2
+          },
+          {
+            "text": "Nêu biện pháp: khiếu nại người bán theo điều khoản khiếu nại của hợp đồng",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Đặt bước người bán giao hàng trước khi được thông báo L/C.",
+      "Cho rằng ngân hàng kiểm tra chất lượng hàng hóa trước khi thanh toán.",
+      "Nhầm ngân hàng thông báo là ngân hàng phát hành.",
+      "Cho rằng người mua có thể yêu cầu ngân hàng hoàn tiền vì hàng kém chất lượng."
+    ],
+    "sources": [
+      "KB §5.5 – L/C definition, parties, 9-step procedure",
+      "KB §6.12 – Art. 10 Claim"
+    ]
+  },
+  {
+    "id": "CASE-C5-07",
+    "chapters": [
+      "C5"
+    ],
+    "title": "Consignment or open account for a French distributor?",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**Hoi An Handicrafts** wants to enter France. A Paris distributor proposes two options:\n\n- **Option 1 – Consignment:** Hoi An sends lacquerware worth EUR 40,000 to the distributor's showroom. The distributor pays only for items it sells, and unsold goods may be returned.\n- **Option 2 – Open account:** Hoi An ships the goods on credit, mails the shipping documents directly to the distributor, and is paid **90 days** after the invoice date.\n\nHoi An has limited working capital, and lacquerware is fragile and expensive to ship back.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Explain how a consignment sale works, including when title passes to the importer.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Apply the four problems of consignment sales listed on the slides to Hoi An's situation.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Explain how open account works and compare its risk with consignment. Which option would you recommend for Hoi An, and what safer alternative could it propose?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "In a **consignment sale** the exporter sends the goods to the importer on a **deferred-payment basis**: the importer pays **only after the goods are sold to a third party**. **Title passes to the importer only when payment is made** to the exporter, so until then Hoi An still owns the goods in Paris."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Delays in payment:** Hoi An is paid only when items sell, which strains its limited working capital.\n2. **Risk of non-payment:** the distributor may sell and not pay, or pay late.\n3. **Cost of returning merchandise:** unsold, fragile lacquerware is expensive to ship back.\n4. **Limited sales effort by importers:** the distributor carries no stock risk and may not push the products."
+      },
+      {
+        "taskId": "t3",
+        "answer": "Under **open account**, the exporter ships **on credit**, mails the documents separately, and is paid within an agreed period (30–120 days; here 90 days). Payment no longer depends on resale, so open account is better than consignment for Hoi An. Still, the exporter carries the **non-payment risk** for 90 days.\n\n**Recommendation:** decline consignment. Accept open account only for a small trial order after checking the distributor's creditworthiness, or propose a **safer method** such as **D/P** or an **L/C**. *[EXT – Trade Finance Guide]* On the exporter's risk ladder, consignment is the riskiest, followed by open account."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Giải thích người nhập khẩu chỉ trả tiền sau khi bán được hàng",
+            "points": 1.5
+          },
+          {
+            "text": "Nêu quyền sở hữu chỉ chuyển khi người nhập khẩu thanh toán",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Vấn đề 1 – chậm thanh toán, áp dụng vào vốn lưu động hạn chế",
+            "points": 1
+          },
+          {
+            "text": "Vấn đề 2 – rủi ro không được thanh toán",
+            "points": 1
+          },
+          {
+            "text": "Vấn đề 3 – chi phí trả lại hàng (hàng dễ vỡ)",
+            "points": 1
+          },
+          {
+            "text": "Vấn đề 4 – nhà phân phối ít nỗ lực bán hàng",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Mô tả đúng ghi sổ (giao trên cơ sở tín dụng, gửi chứng từ trực tiếp, 30–120 ngày)",
+            "points": 1.5
+          },
+          {
+            "text": "So sánh rủi ro và đưa ra khuyến nghị có lập luận, kèm phương án an toàn hơn",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng quyền sở hữu chuyển cho nhà phân phối khi hàng đến Paris.",
+      "Nhầm ghi sổ với ký gửi.",
+      "Bỏ qua chi phí trả lại hàng dễ vỡ khi đánh giá ký gửi.",
+      "Cho rằng ghi sổ không có rủi ro vì người mua là khách quen."
+    ],
+    "sources": [
+      "KB §5.1 – Consignment sale",
+      "KB §5.2 – Open account",
+      "KB §5.5 – [EXT] risk ladder"
+    ]
+  },
+  {
+    "id": "CASE-C5-08",
+    "chapters": [
+      "C5"
+    ],
+    "title": "Reading a bill of exchange",
+    "difficulty": 1,
+    "estMinutes": 15,
+    "scenario": "**Viet Rubber JSC** sells rubber to **Kuala Trading Sdn Bhd** (Malaysia) under a documentary collection. Its accountant drafts two bills of exchange:\n\n> **Draft 1:** *“At sight, pay to the order of Vietcombank the sum of USD 50,000. Drawn by Viet Rubber JSC on Kuala Trading Sdn Bhd.”*\n\n> **Draft 2:** *“At 60 days, pay to the order of Vietcombank the sum of USD 50,000 **provided that the goods are found satisfactory**. Drawn by Viet Rubber JSC on Kuala Trading Sdn Bhd.”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Define a bill of exchange as stated on the slides, and identify the drawer, the drawee and the person to whose order payment is made in Draft 1.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Which type of draft is Draft 1, and which type is intended in Draft 2? Link each to D/P or D/A.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "What is wrong with the wording of Draft 2, and how should it be corrected?",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "A **bill of exchange (draft)** is an **unconditional written order** drawn by one person (the **drawer**) on another (the **drawee**). It requires the drawee to pay, on demand or at a fixed or determinable future time, a stated sum to the order of a specified person.\n\n- **Drawer:** Viet Rubber JSC (the exporter/seller).\n- **Drawee:** Kuala Trading (the importer/buyer).\n- **Payment to the order of:** Vietcombank (the seller's bank, collecting on the seller's behalf). The beneficiary can be the seller/drawer or another person."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **Draft 1 – sight draft:** payable **upon presentation** to the drawee. It is used with **D/P**: the buyer pays and then receives the documents.\n- **Draft 2 – time (usance) draft:** per the slides, payment is due **within a certain time after the buyer accepts the draft and receives the goods**. It is used with **D/A**: the buyer accepts the draft, receives the documents and pays later.\n\n*[EXT] In practice the maturity date is usually counted from acceptance/sight or from the B/L date (see ERRATA E-13).*"
+      },
+      {
+        "taskId": "t3",
+        "answer": "A bill of exchange must be an **unconditional** order. The phrase *“provided that the goods are found satisfactory”* makes payment **conditional**, so the document no longer fits the definition of a draft.\n\n**Correction:** delete the condition, e.g. *“At 60 days after sight, pay to the order of Vietcombank the sum of USD 50,000…”*. Any quality issues belong in the **contract's claim article**, not in the draft."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Định nghĩa đúng hối phiếu (lệnh viết vô điều kiện)",
+            "points": 1.5
+          },
+          {
+            "text": "Xác định đúng người ký phát, người trả tiền và người được trả tiền theo lệnh",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Hối phiếu 1 là trả ngay, gắn với D/P",
+            "points": 2
+          },
+          {
+            "text": "Hối phiếu 2 là có kỳ hạn, gắn với D/A (giữ đúng định nghĩa trên slide)",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Chỉ ra điều kiện “nếu hàng đạt yêu cầu” làm mất tính vô điều kiện",
+            "points": 2
+          },
+          {
+            "text": "Đề xuất sửa lại và chuyển vấn đề chất lượng sang điều khoản khiếu nại",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Nhầm người ký phát (người bán) với người trả tiền (người mua).",
+      "Gắn hối phiếu trả ngay với D/A.",
+      "Cho rằng có thể ghi điều kiện chất lượng vào hối phiếu.",
+      "Cho rằng ngân hàng của người bán là người trả tiền hối phiếu."
+    ],
+    "sources": [
+      "KB §5.4 – Bill of exchange & two types of drafts",
+      "KB §9 – ERRATA E-13"
+    ]
+  },
+  {
+    "id": "CASE-C6-01",
+    "chapters": [
+      "C6",
+      "C5",
+      "C7",
+      "C4"
+    ],
+    "title": "From contract to claim: a rice shipment under CIF and L/C",
+    "difficulty": 3,
+    "estMinutes": 35,
+    "scenario": "**Contract (extract)** between **Mekong Rice Co.** (Vietnam, Seller) and **Luzon Foods Inc.** (Philippines, Buyer):\n\n| Article | Content |\n|---|---|\n| 3. Quantity | 1,000 MT of white rice, **more or less 5% at the Seller's option** |\n| 5. Price | **USD 500/MT, CIF Manila, Philippines – Incoterms® 2020** |\n| 7. Payment | Irrevocable documentary L/C at sight, subject to UCP 600, for 100% of invoice value |\n| 8. Documents | Signed commercial invoice; full set of original **clean shipped on board** B/L made out to order of the issuing bank, marked Freight Prepaid; insurance certificate |\n| 9. Insurance | By the Seller, **110% of invoice value, ICC (C)** |\n\nThe L/C reflects the contract. It allows 1,000 MT ±5% and a maximum amount of USD 525,000.\n\n**What happened:**\n\n1. The Seller loaded **1,040 MT** in Ho Chi Minh City and invoiced **USD 520,000**.\n2. The documents presented to the bank included:\n   - a clean B/L made out to order of the issuing bank, marked Freight Prepaid, but titled **“Received for shipment”**, with no on-board notation;\n   - an insurance certificate for **USD 550,000**, ICC (C), **dated two days after** the B/L date.\n3. During the voyage, **sea water entered the vessel's hold** and damaged **30 MT** of rice.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Check the quantity and invoice amount against the contract and the L/C. Show the permitted quantity range and whether 1,040 MT / USD 520,000 comply.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Identify the problems in the B/L and the insurance certificate. For each one, cite the requirement it breaks and say what the Seller should present instead (include the correct insured amount).",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Regarding the 30 MT damaged by sea water: (a) Who bears the risk of this loss under the contract's Incoterms® rule, and why? (b) Is the loss covered under the insurance condition chosen? (c) What should the Buyer require in future contracts?",
+        "points": 4
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "Tolerance of **5% at the Seller's option**:\n\n- Minimum = 1,000 × (1 − 5%) = **950 MT**\n- Maximum = 1,000 × (1 + 5%) = **1,050 MT**\n\n**1,040 MT is within 950–1,050 MT**, so it complies. Because the option is the Seller's, the Seller may choose the quantity within this range.\n\nInvoice amount = 1,040 × USD 500 = **USD 520,000**. This is consistent with unit price × quantity and below the L/C maximum of USD 525,000, so it complies (invoice-vs-L/C checklist items 4 and 5)."
+      },
+      {
+        "taskId": "t2",
+        "answer": "**1. B/L “Received for shipment”.** The contract and L/C require a **shipped on board** B/L. A received-for-shipment B/L only confirms that the carrier has received the goods, not that they are loaded. It does not match the requirement (B/L checklist item 8: clean on board). → Present a **shipped on board B/L**, or the B/L with an on-board notation and date.\n\n**2. Insured amount USD 550,000.** The contract requires **110% of invoice value**: 110% × 520,000 = **USD 572,000**. USD 550,000 is only 110% of the *nominal* contract value (1,000 MT), so the cover is too low. → Present cover for **USD 572,000**.\n\n**3. Insurance certificate dated after the B/L date.** The insurance document must be **dated no later than the shipment date** (insurance documents checklist item 4). → Present an insurance document dated on or before the on-board date. ([EXT] UCP 600 Art. 28(e) also accepts a later date if the document shows that cover is effective from no later than the shipment date.)"
+      },
+      {
+        "taskId": "t3",
+        "answer": "(a) Under **CIF**, risk passes to the **Buyer** when the goods are **on board the vessel at the port of shipment** (Ho Chi Minh City). The damage happened during the voyage, so the **Buyer bears the risk**. The Seller only had to arrange the insurance.\n\n(b) The peril is *entry of sea, lake or river water into vessel or storage*. According to Table 6.2 it is covered by **ICC (A) and ICC (B)** but **not by ICC (C)**. The contract only required ICC (C), the CIF minimum, so **this loss is not covered**.\n\n(c) In future contracts the Buyer should write **wider cover** into the insurance article (Art. 9): ICC (B), or ICC (A) for the broadest cover. Alternatively it can arrange its own additional insurance, because under CIF the Seller is only obliged to buy minimum ICC (C)."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Tính đúng khoảng dung sai 950–1,050 MT và kết luận 1,040 MT hợp lệ (quyền chọn thuộc người bán)",
+            "points": 1.5
+          },
+          {
+            "text": "Tính 1,040 × 500 = USD 520,000, đối chiếu ≤ USD 525,000 và khớp đơn giá × số lượng",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Chỉ ra B/L “received for shipment” không đạt yêu cầu “shipped on board”, đề xuất B/L đã xếp hàng/ghi chú on board",
+            "points": 1
+          },
+          {
+            "text": "Tính đúng số tiền bảo hiểm 110% × 520,000 = USD 572,000 và chỉ ra USD 550,000 là thiếu",
+            "points": 1
+          },
+          {
+            "text": "Chỉ ra chứng từ bảo hiểm ghi ngày sau ngày giao hàng là không hợp lệ (phải không muộn hơn ngày giao hàng)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "(a) Người mua chịu rủi ro vì theo CIF rủi ro chuyển khi hàng ở trên tàu tại cảng bốc",
+            "points": 1.5
+          },
+          {
+            "text": "(b) Xác định đúng rủi ro “nước biển tràn vào hầm tàu” không thuộc ICC (C), chỉ ICC (A)/(B) bảo hiểm",
+            "points": 1.5
+          },
+          {
+            "text": "(c) Đề xuất yêu cầu điều kiện rộng hơn (ICC (B)/(A)) hoặc tự mua bảo hiểm bổ sung",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Tính số tiền bảo hiểm trên giá trị hợp đồng danh nghĩa (USD 500,000) thay vì giá trị hóa đơn thực tế như hợp đồng quy định.",
+      "Cho rằng người bán chịu tổn thất do người bán là bên mua bảo hiểm theo CIF – mua bảo hiểm không đồng nghĩa với chịu rủi ro.",
+      "Cho rằng 1,040 MT vi phạm hợp đồng vì vượt 1,000 MT – quên dung sai ±5%.",
+      "Cho rằng ICC (C) bảo hiểm mọi tổn thất do nước – theo Bảng 6.2, nước biển tràn vào tàu chỉ thuộc ICC (B) và (A).",
+      "Không phát hiện vận đơn “received for shipment” khác với vận đơn “shipped on board”."
+    ],
+    "sources": [
+      "KB §6.5 – Quantity & tolerance",
+      "KB §6.7 / §6.9 / §6.10 / §6.11 – Price, Payment, Documents, Insurance",
+      "KB §7.3 – Checking the invoice against the L/C",
+      "KB §7.5 – B/L types & checklist",
+      "KB §7.6 – Insurance documents checklist",
+      "KB §3.8 – CIF",
+      "KB §4.5 – Table 6.2"
+    ]
+  },
+  {
+    "id": "CASE-C6-02",
+    "chapters": [
+      "C6"
+    ],
+    "title": "Contract doctor: find and fix the errors in a draft rice contract",
+    "difficulty": 2,
+    "estMinutes": 30,
+    "scenario": "A junior officer at **An Phu Rice Co.** has drafted the following contract with a buyer in Malaysia:\n\n| Article | Draft text |\n|---|---|\n| 1. Commodity | Rice |\n| 2. Quality | As per sample |\n| 3. Quantity | 1,000 MT, more or less 5% |\n| 5. Price | USD 480/MT CIF. Total: USD 480,000 |\n| 6. Delivery | Shipment: prompt |\n| 7. Payment | By L/C, payment in EUR |\n| 10. Claim | The Buyer may claim if the goods are defective |\n| 11. Penalty | Late delivery: 0.5% of the value of undelivered goods per day |\n| 12. Arbitration | All disputes shall be settled by arbitration |\n| 13. Force majeure | Neither party is liable for events beyond its control |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Identify at least eight errors in the draft, using the common contract mistakes from the slides.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Rewrite five of the defective articles correctly (you may invent reasonable details).",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Choose two errors and explain the dispute each one could cause.",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "1. **Commodity** too vague: not described simply and exactly (type, grade, origin).\n2. **Quality “as per sample”** without stating who sends and **who keeps the sample**.\n3. **Tolerance without stating whose option.**\n4. **“CIF” without named place and version.**\n5. **Total value not written in words.**\n6. **Vague delivery time (“prompt”).**\n7. **Price currency (USD) ≠ payment currency (EUR) without an exchange-rate clause.**\n8. **Payment method without banks, governing rules (UCP 600) and bank charges.**\n9. **Claim clause without a claim period or required documents.**\n10. **Penalty without a cap.**\n11. **Arbitration without applicable law or place.**\n12. **Force majeure without notification duties or a resolution method.**"
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **Art. 3:** “1,000 MT of Vietnamese long-grain white rice, more or less 5% **at the Seller's option**, based on net weight as per the weight certificate issued by an independent surveyor.”\n- **Art. 5:** “Unit price: USD 480/MT, **CIF Port Klang, Malaysia – Incoterms® 2020**. Total: **USD 480,000 – Say: US Dollars Four Hundred and Eighty Thousand Only**.”\n- **Art. 6:** “Shipment **between 1 and 31 October 2026** from Ho Chi Minh City port; partial shipment not allowed.”\n- **Art. 7:** “Payment in **USD** by irrevocable documentary L/C at sight for 100% of the invoice value, issued by [bank], advised through [bank], **subject to UCP 600**. Each party bears the bank charges in its own country.”\n- **Art. 11:** “… 0.5% of the value of the undelivered goods per day of delay, **up to a maximum of 5%**, except in cases of force majeure.”\n- **Art. 12:** “Applicable law: **CISG**, and Vietnamese law for matters not governed by CISG. Disputes settled by arbitration at **[centre], Ho Chi Minh City, Vietnam**. Costs borne as per the award.”\n- **Art. 13:** “… The affected party must **notify** the other in writing within [X] days. The parties may **prolong** the performance period or **terminate** the contract.”"
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Tolerance without option:** the seller ships 950 MT and the buyer insists on 1,050 MT. Neither side can show who had the right to choose.\n- **Penalty without cap:** a long delay could make the penalty exceed the value of the goods. The parties would dispute whether the amount is enforceable.\n\n(Other valid examples: “prompt” shipment, which gives no clear date for late delivery; USD/EUR without an exchange rate, which leads to arguments over the conversion rate.)"
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Phát hiện đúng ít nhất 4 lỗi",
+            "points": 2
+          },
+          {
+            "text": "Phát hiện đúng thêm ít nhất 4 lỗi nữa (tổng ≥ 8)",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Viết lại đúng ít nhất 3 điều khoản, mỗi điều khắc phục được lỗi đã nêu",
+            "points": 2.5
+          },
+          {
+            "text": "Viết lại đúng đủ 5 điều khoản",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Giải thích hợp lý tranh chấp từ lỗi thứ nhất",
+            "points": 1
+          },
+          {
+            "text": "Giải thích hợp lý tranh chấp từ lỗi thứ hai",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Chỉ phát hiện lỗi về Incoterms mà bỏ qua lỗi dung sai, phạt, trọng tài, bất khả kháng.",
+      "Sửa điều khoản phạt nhưng quên điều kiện loại trừ bất khả kháng.",
+      "Sửa thời gian giao hàng bằng một cụm từ chung chung khác (“as soon as possible”).",
+      "Thêm đồng tiền thanh toán EUR nhưng không ghi tỷ giá và ngày xác định tỷ giá."
+    ],
+    "sources": [
+      "KB §6.3–§6.16 – Articles 1–14",
+      "KB §6.17 – Common contract mistakes"
+    ]
+  },
+  {
+    "id": "CASE-C6-03",
+    "chapters": [
+      "C6",
+      "C5",
+      "C7"
+    ],
+    "title": "Drafting the Delivery, Payment and Documents articles for a cashew deal",
+    "difficulty": 3,
+    "estMinutes": 35,
+    "scenario": "**Binh Phuoc Cashew JSC** (Seller) will sell **16 MT of cashew kernels W320** to **Osaka Foods Co.** (Japan, Buyer).\n\n- Price: **USD 7,500/MT, CFR Osaka, Japan – Incoterms® 2020**; total **USD 120,000**\n- Payment by **irrevocable L/C at sight**; issuing bank: Osaka Commercial Bank; advising bank: Vietcombank HCMC\n- One shipment by sea from Ho Chi Minh City between **1 and 20 August 2026**\n- The buyer wants **Vietnamese origin** proven for the **Vietnam–Japan EPA** preference, a certificate of quality, and a packing list\n\nYou are asked to draft Articles 6, 7 and 8 of the contract.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Draft Article 6 (Delivery) covering term, time, place, notice of delivery and other provisions.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Draft Article 7 (Payment) covering currency, method (with banks, rules and charges) and time of payment.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Draft Article 8 (Documents) consistent with CFR and the L/C. Explain why no insurance document is listed, why the B/L must be marked “Freight Prepaid”, and which C/O form to require.",
+        "points": 4
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "> **Article 6 – Delivery**\n> 6.1 Term: **CFR Osaka, Japan – Incoterms® 2020**.\n> 6.2 Time: shipment **between 1 and 20 August 2026**.\n> 6.3 Place: port of loading Ho Chi Minh City, Vietnam; port of destination Osaka, Japan.\n> 6.4 Notice: within 24 hours after loading, the Seller shall advise the Buyer by email of the contract no., quantity, gross/net weight, number of packages, invoice value, vessel name, B/L number, ETD and ETA.\n> 6.5 Partial shipment not allowed; transshipment not allowed."
+      },
+      {
+        "taskId": "t2",
+        "answer": "> **Article 7 – Payment**\n> 7.1 Currency: USD.\n> 7.2 Method: irrevocable documentary L/C **at sight** for 100% of the invoice value, issued by **Osaka Commercial Bank** in favour of the Seller, advised through **Vietcombank HCMC**, **subject to UCP 600**. The L/C shall be opened no later than [date] before shipment.\n> 7.3 Each party bears the bank charges in its own country; amendment/extension charges are borne by the party requesting them.\n> 7.4 Time of payment: at sight, upon presentation of documents complying with the L/C."
+      },
+      {
+        "taskId": "t3",
+        "answer": "> **Article 8 – Documents**\n> 1. Signed commercial invoice ×3\n> 2. Full set 3/3 original **clean shipped on board B/L**, made out **to order of the L/C issuing bank**, marked **“Freight Prepaid”**, notify the Buyer\n> 3. Detailed packing list ×3\n> 4. Certificate of quality issued by [the manufacturer / an independent surveyor] ×2\n> 5. **C/O Form VJ** issued by the competent Vietnamese authority\n> Documents to be presented within 21 days after the shipment date and within the validity of the L/C.\n\n- **No insurance document:** under **CFR** neither party has an insurance obligation. The buyer bears the voyage risk and insures if it wishes. Only CIF and CIP oblige the seller to insure.\n- **“Freight Prepaid”:** under CFR the **seller contracts and pays the main carriage**, so the B/L freight notation must show freight prepaid.\n- **C/O Form VJ:** it is the form for the **Vietnam–Japan EPA**. (Form AJ would be used for the ASEAN–Japan agreement.)"
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Có đủ điều kiện, thời gian cụ thể, địa điểm theo Incoterms",
+            "points": 1.5
+          },
+          {
+            "text": "Có thông báo giao hàng (ai, khi nào, nội dung) và các quy định khác",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Có đồng tiền, loại L/C, ngân hàng, quy tắc UCP 600",
+            "points": 2
+          },
+          {
+            "text": "Có phí ngân hàng và thời hạn thanh toán",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Danh mục chứng từ phù hợp CFR và L/C (B/L on board theo lệnh ngân hàng, Freight Prepaid…)",
+            "points": 1.5
+          },
+          {
+            "text": "Giải thích không có chứng từ bảo hiểm vì CFR không có nghĩa vụ bảo hiểm",
+            "points": 1
+          },
+          {
+            "text": "Giải thích Freight Prepaid vì người bán trả cước theo CFR",
+            "points": 0.5
+          },
+          {
+            "text": "Chọn đúng C/O Form VJ cho VJEPA",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Liệt kê chứng từ bảo hiểm trong hợp đồng CFR như thể người bán phải mua bảo hiểm.",
+      "Ghi “Freight Collect” trên vận đơn dù người bán trả cước theo CFR.",
+      "Chọn C/O Form E hoặc Form D cho hàng xuất sang Nhật Bản.",
+      "Ghi thời gian giao hàng chung chung (“prompt”, “as soon as possible”)."
+    ],
+    "sources": [
+      "KB §6.8–§6.10 – Delivery, Payment, Documents (incl. slide examples)",
+      "KB §5.5 – Remarks on dates",
+      "KB §7.5 – B/L",
+      "KB §7.8 – C/O forms",
+      "KB §3.8 – CFR"
+    ]
+  },
+  {
+    "id": "CASE-C6-04",
+    "chapters": [
+      "C6"
+    ],
+    "title": "Force majeure or not? Four delays and a penalty",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Haiphong Steel Pipes** has a contract with these clauses:\n\n- **Art. 11 Penalty:** for late delivery, except in cases of force majeure, the Seller pays **0.1% of the value of the undelivered goods per day**, up to a maximum of **5%**.\n- **Art. 13 Force majeure:** typical events (war, strikes, lockout, government regulations, fire, flood, storm, earthquake…). The affected party must **notify** the other; the parties may **terminate** the contract or **prolong** the performance period.\n\nFour events delay shipments:\n\n| Event | Facts |\n|---|---|\n| A | A **typhoon** closes Haiphong port for 6 days. The seller notifies the buyer the same day. |\n| B | Steel prices rise 30%. The seller wants to delay shipment until prices fall. |\n| C | The government suddenly **bans exports** of the product for 2 months. |\n| D | A machine breaks down because of **poor maintenance**, delaying a shipment of goods worth **USD 100,000** by **20 days**. |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "State the definition of force majeure on the slides and decide whether each event A–D qualifies.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "For the qualifying events, what must the seller do, and how can the situation be resolved?",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Calculate the penalty for event D, checking it against the cap.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**Force majeure:** events that are **unforeseeable, unavoidable and impossible to overcome**.\n\n- **A – qualifies:** a storm/typhoon is in the typical list and closing the port cannot be overcome.\n- **B – does not qualify:** a price rise is a business/market risk. It is foreseeable and does not make performance impossible.\n- **C – qualifies:** **government regulations** are in the typical list, and a sudden export ban cannot be overcome by the seller.\n- **D – does not qualify:** the breakdown results from the seller's own poor maintenance, so it was avoidable."
+      },
+      {
+        "taskId": "t2",
+        "answer": "For A and C, the seller must **notify** the buyer of the force majeure event; A was notified promptly, and C must be notified as well. Neither party is liable for the delay to the extent it is caused by force majeure, so **no late-delivery penalty** applies. The parties may **prolong the performance period**, e.g. shipping after the port reopens (A) or after the ban ends (C), or **terminate the contract** if prolonging is not acceptable."
+      },
+      {
+        "taskId": "t3",
+        "answer": "Penalty = 0.1% × 20 days = **2%** of the value of the undelivered goods = 2% × USD 100,000 = **USD 2,000**.\n\nCap = 5% × 100,000 = USD 5,000. The penalty is below the cap, so **USD 2,000** is payable. Event D is not force majeure, so the exception does not apply."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu đúng định nghĩa (không lường trước, không tránh được, không khắc phục được)",
+            "points": 1
+          },
+          {
+            "text": "Kết luận đúng A và C là bất khả kháng (bão; quy định của chính phủ)",
+            "points": 1.5
+          },
+          {
+            "text": "Kết luận đúng B và D không phải bất khả kháng, có lý do",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Nêu nghĩa vụ thông báo",
+            "points": 1
+          },
+          {
+            "text": "Nêu hướng giải quyết: kéo dài thời hạn hoặc chấm dứt hợp đồng; không bị phạt giao chậm",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Tính đúng 0.1% × 20 = 2% → USD 2,000",
+            "points": 2
+          },
+          {
+            "text": "Đối chiếu mức trần 5% (USD 5,000) và kết luận",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Coi giá nguyên liệu tăng là bất khả kháng.",
+      "Coi hỏng máy do bảo trì kém là bất khả kháng.",
+      "Tính phạt trên tổng giá trị hợp đồng thay vì giá trị hàng chậm giao.",
+      "Quên nghĩa vụ thông báo khi viện dẫn bất khả kháng."
+    ],
+    "sources": [
+      "KB §6.13 – Art. 11 Penalty",
+      "KB §6.15 – Art. 13 Force majeure"
+    ]
+  },
+  {
+    "id": "CASE-C6-05",
+    "chapters": [
+      "C6"
+    ],
+    "title": "Claim period and claim documents: three buyer claims",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "Two contracts signed by **Dong Nai Industrial** (Seller) contain this claim article:\n\n> **Art. 10 – Claim.** Claims for quantity or quality discrepancies must be lodged **within 30 days after discharge** at the port of destination. Claims for **latent defects** must be lodged **within 30 days from the date of discovery**, provided they fall **within the 12-month defects liability period** starting from the date of discharge. After this period the Seller is no longer liable. Claims must be supported by the required claim documents.\n\nThree claims arrive:\n\n1. **Contract 1 (rice):** the buyer found a shortage of 2 MT at discharge on 1 March and lodged the claim on **15 April**.\n2. **Contract 2 (pumps):** a hidden manufacturing defect was discovered on **10 November**; the pumps were discharged on **1 March** of the same year. The claim was lodged on **20 November**.\n3. **Contract 2 (pumps), another lot:** a quality claim was lodged in time, but the buyer sent **only a Letter of Claim**.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "State the grounds for a claim on the slides and classify each of the three claims.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Check whether claims 1 and 2 were lodged within the claim period. Show the dates.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "List the required claim documents on the slides and say what the buyer in claim 3 must add.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "**Grounds:** a discrepancy in **quantity** (damage/shortfall) or **quality**, and other **non-conformities** with the contract.\n\n1. Quantity discrepancy (shortfall of 2 MT).\n2. Quality discrepancy: a **latent defect**.\n3. Quality discrepancy."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Late.** Quantity claims must be lodged within 30 days after discharge (1 March), so by **31 March**. The claim on 15 April is late, and the seller can reject it.\n2. **Valid.** For a latent defect the limit is 30 days from discovery (10 Nov), so by **10 December**; the claim on 20 November is in time. It also falls within the **12-month defects liability period** (1 March to the following 1 March)."
+      },
+      {
+        "taskId": "t3",
+        "answer": "**Claim documents (slides):** Letter of Claim, **Survey Report**, Invoice, B/L, Certificate of Quantity, Certificate of Quality, Packing List, Report on Receipt of Cargo, Cargo Outturn Report.\n\nThe buyer in claim 3 must add the supporting evidence, above all the **Survey Report**, plus the invoice, B/L, certificate of quality, packing list and receipt reports. A Letter of Claim alone does not prove the discrepancy."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu đúng căn cứ khiếu nại (số lượng, chất lượng, điểm không phù hợp khác)",
+            "points": 1.5
+          },
+          {
+            "text": "Phân loại đúng 3 khiếu nại",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Khiếu nại 1: hạn 31/3 → nộp 15/4 là trễ",
+            "points": 2
+          },
+          {
+            "text": "Khiếu nại 2: hạn 10/12 và trong thời hạn trách nhiệm 12 tháng → hợp lệ",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Liệt kê đúng ít nhất 6 chứng từ khiếu nại",
+            "points": 1.5
+          },
+          {
+            "text": "Chỉ ra cần bổ sung biên bản giám định và chứng từ chứng minh khác",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Tính thời hạn khiếu nại khuyết tật ẩn từ ngày dỡ hàng thay vì ngày phát hiện.",
+      "Quên điều kiện khuyết tật ẩn phải nằm trong thời hạn trách nhiệm 12 tháng.",
+      "Cho rằng chỉ cần thư khiếu nại là đủ.",
+      "Tính sai mốc 30 ngày khi qua tháng."
+    ],
+    "sources": [
+      "KB §6.12 – Art. 10 Claim (grounds, period, documents)"
+    ]
+  },
+  {
+    "id": "CASE-C7-01",
+    "chapters": [
+      "C7",
+      "C5"
+    ],
+    "title": "Checking a commercial invoice against the L/C",
+    "difficulty": 2,
+    "estMinutes": 20,
+    "scenario": "**L/C requirements (extract):**\n\n| Field | L/C |\n|---|---|\n| Beneficiary | Saigon Garment Co., Ltd |\n| Currency / amount | USD, maximum USD 80,000 |\n| Goods | 10,000 pcs **men's cotton shirts**, USD 8.00/pc (no tolerance stated) |\n| Trade term | **FOB Cat Lai, Vietnam – Incoterms® 2020** |\n| Marks | SG/OSAKA/1-200 |\n\n**Commercial invoice presented:**\n\n| Field | Invoice |\n|---|---|\n| Issued by | **Saigon Garment Trading JSC** (an affiliated company) |\n| Currency | USD |\n| Goods | 10,400 pcs **cotton shirts** |\n| Unit price / total | USD 8.00/pc / **USD 83,200** |\n| Trade term | **CIF Osaka, Japan – Incoterms® 2020** |\n| Marks | SG/OSAKA/1-200 |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Check the invoice against the seven-item checklist on the slides, item by item.",
+        "points": 5
+      },
+      {
+        "id": "t2",
+        "prompt": "List the discrepancies and propose how the beneficiary should correct the invoice.",
+        "points": 3
+      },
+      {
+        "id": "t3",
+        "prompt": "Who uses the commercial invoice, and for what? Why does its accuracy matter beyond the bank?",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| # | Check | Result |\n|---|---|---|\n| 1 | Issued by the beneficiary named in the L/C? | ✘ Issued by an affiliate, not Saigon Garment Co., Ltd |\n| 2 | Same currency as the L/C? | ✔ USD |\n| 3 | Description corresponds with the L/C? | ✘ “cotton shirts” omits “men's” |\n| 4 | Quantity complies, incl. tolerance? | ✘ 10,400 pcs > 10,000 pcs, with no tolerance stated |\n| 5 | Unit price and total comply? | ✘ Unit price OK, but the total USD 83,200 exceeds the L/C maximum USD 80,000 |\n| 6 | Delivery terms/Incoterms consistent? | ✘ CIF Osaka ≠ FOB Cat Lai |\n| 7 | Marks and numbers consistent? | ✔ SG/OSAKA/1-200 |"
+      },
+      {
+        "taskId": "t2",
+        "answer": "Discrepancies: items **1, 3, 4, 5, 6**. The beneficiary should **re-issue the invoice** in the name of **Saigon Garment Co., Ltd**, with the exact L/C description **“men's cotton shirts”**, **10,000 pcs**, total **USD 80,000** and **FOB Cat Lai, Vietnam – Incoterms® 2020**.\n\nIf 10,400 pcs were actually shipped, the excess cannot be invoiced under this L/C. It needs an **L/C amendment** or a separate arrangement with the buyer."
+      },
+      {
+        "taskId": "t3",
+        "answer": "The **buyer** needs the commercial invoice to **clear customs, prove ownership and arrange payment**. **Customs** uses it, together with other documents, to determine the **customs value** and assess duties and taxes. An inaccurate invoice therefore causes problems with the bank and also at import customs and in the buyer's own records."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Đánh giá đúng mục 1 và 2",
+            "points": 1.5
+          },
+          {
+            "text": "Đánh giá đúng mục 3 và 4",
+            "points": 1.5
+          },
+          {
+            "text": "Đánh giá đúng mục 5, 6 và 7",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Liệt kê đúng 5 sai biệt (1, 3, 4, 5, 6)",
+            "points": 1.5
+          },
+          {
+            "text": "Đề xuất cách lập lại hóa đơn đúng L/C; nêu phần vượt cần tu chỉnh L/C/thỏa thuận riêng",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Nêu công dụng với người mua và hải quan (trị giá hải quan, thuế)",
+            "points": 2
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Chấp nhận hóa đơn do công ty liên kết phát hành.",
+      "Cho rằng 10,400 cái hợp lệ dù L/C không quy định dung sai.",
+      "Chỉ kiểm tra đơn giá mà không đối chiếu tổng tiền với số tiền tối đa của L/C.",
+      "Bỏ qua sai lệch điều kiện Incoterms trên hóa đơn."
+    ],
+    "sources": [
+      "KB §7.3 – Commercial invoice & checklist vs L/C",
+      "KB §5.5 – L/C (documents are key)"
+    ]
+  },
+  {
+    "id": "CASE-C7-02",
+    "chapters": [
+      "C7"
+    ],
+    "title": "Which bill of lading meets the L/C?",
+    "difficulty": 1,
+    "estMinutes": 15,
+    "scenario": "An L/C requires: **“Full set of clean shipped on board bills of lading made out to order of the issuing bank, marked Freight Prepaid, notify the applicant.”** The goods are sold **CFR**.\n\nThe carrier offers three drafts:\n\n| Draft | Description |\n|---|---|\n| A | **Received for shipment** B/L; consignee: *“Tokyo Trading Co.”* (the buyer); Freight Prepaid |\n| B | **Shipped on board**; to order of the issuing bank; Freight Prepaid; notation **“10 cartons wet and torn”** |\n| C | **Shipped on board**; to order of the issuing bank; Freight Prepaid; notify the applicant; no adverse notation |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Define the B/L types involved: clean vs unclean, shipped on board vs received for shipment, to order vs straight.",
+        "points": 3
+      },
+      {
+        "id": "t2",
+        "prompt": "Evaluate drafts A, B and C against the L/C and choose the acceptable one.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "State the three functions of a B/L, and explain why the L/C asks for a B/L made out to order of the issuing bank and marked Freight Prepaid.",
+        "points": 3
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "- **Clean B/L:** no clause or notation indicating defective goods or packaging. **Unclean (claused/dirty):** carries such a notation.\n- **Shipped on board:** confirms the goods are loaded on board. **Received for shipment:** the carrier has received the goods but not yet loaded them.\n- **To order:** negotiable, transferable by **endorsement and delivery** (e.g. to order of the issuing bank). **Straight:** consigned to a **specifically named consignee**."
+      },
+      {
+        "taskId": "t2",
+        "answer": "- **A – not acceptable:** it is *received for shipment* (not on board) and a **straight** B/L to the buyer (not to order of the bank).\n- **B – not acceptable:** the notation “10 cartons wet and torn” makes it **unclean**.\n- **C – acceptable:** clean, shipped on board, to order of the issuing bank, Freight Prepaid, notify the applicant.\n\n**Choose C.**"
+      },
+      {
+        "taskId": "t3",
+        "answer": "**Functions:** (1) receipt for shipment; (2) evidence of the contract of carriage; (3) **document of title**, since a negotiable B/L lets the holder claim and control the goods.\n\n- **To order of the issuing bank:** as a document of title, the B/L lets the **bank control the goods** through the documents until the buyer pays or reimburses the bank.\n- **Freight Prepaid:** under **CFR** the seller contracts and pays the main carriage, so the freight notation must show prepaid, not collect."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Phân biệt đúng vận đơn sạch / không sạch",
+            "points": 1
+          },
+          {
+            "text": "Phân biệt đúng vận đơn đã xếp hàng / nhận hàng để chở",
+            "points": 1
+          },
+          {
+            "text": "Phân biệt đúng vận đơn theo lệnh / đích danh",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Bác bỏ A với hai lý do (chưa on board, vận đơn đích danh)",
+            "points": 1.5
+          },
+          {
+            "text": "Bác bỏ B vì là vận đơn không sạch",
+            "points": 1.5
+          },
+          {
+            "text": "Chọn C",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Nêu đúng 3 chức năng của vận đơn",
+            "points": 1.5
+          },
+          {
+            "text": "Giải thích lý do theo lệnh ngân hàng phát hành và Freight Prepaid theo CFR",
+            "points": 1.5
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Chấp nhận vận đơn B vì “chỉ có 10 thùng bị ướt”.",
+      "Nhầm vận đơn đích danh với vận đơn theo lệnh.",
+      "Cho rằng vận đơn nhận hàng để chở tương đương vận đơn đã xếp hàng.",
+      "Cho rằng theo CFR vận đơn ghi Freight Collect."
+    ],
+    "sources": [
+      "KB §7.5 – B/L functions, 7 types, checklist",
+      "KB §3.8 – CFR"
+    ]
+  },
+  {
+    "id": "CASE-C7-03",
+    "chapters": [
+      "C7"
+    ],
+    "title": "Choosing the C/O form by destination market",
+    "difficulty": 1,
+    "estMinutes": 15,
+    "scenario": "**Vina Food Export** ships the same Vietnamese-origin products to several markets. For each shipment, the importer asks for a C/O to claim preferential tariffs under a specific agreement, unless stated otherwise:\n\n| # | Destination | Agreement / request |\n|---|---|---|\n| 1 | China | ASEAN–China FTA (ACFTA) |\n| 2 | Thailand | ASEAN Trade in Goods Agreement (ATIGA) |\n| 3 | Germany | EU–Vietnam FTA (EVFTA) |\n| 4 | United Kingdom | UK–Vietnam FTA (UKVFTA) |\n| 5 | South Korea | Bilateral Vietnam–Korea FTA (VKFTA) |\n| 6 | New Zealand | ASEAN–Australia–New Zealand FTA |\n| 7 | A buyer who only needs proof of origin, **no preference claimed** | – |",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "What does a Certificate of Origin certify, and what is it used for?",
+        "points": 2
+      },
+      {
+        "id": "t2",
+        "prompt": "Choose the C/O form for each of shipments 1–7.",
+        "points": 6
+      },
+      {
+        "id": "t3",
+        "prompt": "Explain the GSP and its C/O form. Name the agreements that New Zealand belongs to on the slides (besides AANZ), for which other forms could apply.",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "A C/O certifies the **country of origin** of the exported goods. Depending on the trade agreement, it is used to determine eligibility for **preferential tariff treatment** in the importing country."
+      },
+      {
+        "taskId": "t2",
+        "answer": "| # | Destination | Form |\n|---|---|---|\n| 1 | China – ACFTA | **Form E** |\n| 2 | Thailand – ATIGA | **Form D** |\n| 3 | Germany – EVFTA | **Form EUR.1** |\n| 4 | UK – UKVFTA | **Form EUR.1 UK** |\n| 5 | Korea – VKFTA | **Form VK** (Form AK would be for ASEAN–Korea) |\n| 6 | New Zealand – AANZ | **Form AANZ** |\n| 7 | No preference | **Form B** (non-preferential) |"
+      },
+      {
+        "taskId": "t3",
+        "answer": "The **GSP (Generalized System of Preferences)** is a multilateral policy under **UNCTAD**. **Developed countries** grant preferential tariffs (exemption or reduction) to goods from **developing and least-developed countries**. Its C/O is **Form A**.\n\nNew Zealand is also a member of **RCEP** (10 ASEAN + China, Japan, South Korea, Australia, New Zealand) and **CPTPP**, so **Form RCEP** or **Form CPTPP** could also be relevant."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Nêu đúng: chứng nhận nước xuất xứ; dùng để xét ưu đãi thuế quan",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Đúng mẫu cho 1, 2 (Form E, Form D)",
+            "points": 1.5
+          },
+          {
+            "text": "Đúng mẫu cho 3, 4 (EUR.1, EUR.1 UK)",
+            "points": 1.5
+          },
+          {
+            "text": "Đúng mẫu cho 5, 6 (VK, AANZ)",
+            "points": 1.5
+          },
+          {
+            "text": "Đúng mẫu cho 7 (Form B)",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Giải thích GSP (UNCTAD, nước phát triển dành ưu đãi cho nước đang/kém phát triển) và Form A",
+            "points": 1
+          },
+          {
+            "text": "Nêu New Zealand thuộc RCEP và CPTPP",
+            "points": 1
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Dùng Form AK cho hàng xuất theo hiệp định song phương VKFTA.",
+      "Dùng EUR.1 cho hàng xuất sang Anh theo UKVFTA.",
+      "Nhầm Form B là mẫu ưu đãi.",
+      "Nhầm Form D (ATIGA) với Form E (ACFTA)."
+    ],
+    "sources": [
+      "KB §7.8 – Certificate of Origin, main forms, RCEP, CPTPP, GSP"
+    ]
+  },
+  {
+    "id": "CASE-C7-04",
+    "chapters": [
+      "C7",
+      "C5",
+      "C4"
+    ],
+    "title": "Evaluating an insurance document under a CIP letter of credit",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Viet Bamboo Furniture** sells furniture to a US buyer **CIP Chicago, USA – Incoterms® 2020**. The invoice value is **USD 150,000**. The L/C (subject to UCP 600) requires:\n\n> *“Insurance policy or certificate in duplicate, covering Institute Cargo Clauses (A) for 110% of the invoice value, claims payable in the USA.”*\n\nThe goods were handed to the first carrier on **5 June** (transport document date). The beneficiary presents:\n\n- a **cover note issued by an insurance broker**;\n- dated **8 June**;\n- for **USD 150,000**;\n- covering **ICC (C)**;\n- **one** original.",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Apply the four-item insurance documents checklist on the slides and identify every problem with the document presented.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Calculate the insured amount required by the L/C and the shortfall in the document presented.",
+        "points": 2
+      },
+      {
+        "id": "t3",
+        "prompt": "Explain why ICC (C) is not acceptable here (both under the L/C and under the Incoterms® rule), and describe the insurance document the exporter should present instead.",
+        "points": 4
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "| Checklist item | Finding |\n|---|---|\n| 1. All required **originals** presented as stipulated | ✘ Only one original; the L/C requires duplicate |\n| 2. Issued by an acceptable insurer or authorised agent | ✘ A **broker's cover note** is **not acceptable under UCP 600** |\n| 3. Correctly dated and signed | Must be checked; the date itself is the problem (item 4) |\n| 4. Dated **no later than the shipment date** | ✘ 8 June is after the 5 June shipment |\n\nThe document also fails the L/C terms on the **amount** (100% instead of 110%) and the **conditions** (ICC (C) instead of ICC (A))."
+      },
+      {
+        "taskId": "t2",
+        "answer": "Required: 110% × USD 150,000 = **USD 165,000**.\n\nPresented: USD 150,000, so the shortfall is **USD 15,000**."
+      },
+      {
+        "taskId": "t3",
+        "answer": "- **Under the L/C:** the credit expressly requires **ICC (A)**, so ICC (C) is a discrepancy.\n- **Under Incoterms® 2020:** under **CIP** the seller must insure with **ICC (A)** (or equivalent). Minimum ICC (C) applies only to **CIF**.\n\n**Present instead:** an **insurance policy or certificate issued by an insurance company or its authorised agent**, in **two originals**, **dated on or before 5 June**, covering **ICC (A)** for **USD 165,000**, with claims payable in the USA. *[EXT] UCP 600 Art. 28(e) also accepts a later date if the document shows that cover is effective no later than the shipment date.*"
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Chỉ ra phiếu bảo hiểm tạm thời của môi giới không được chấp nhận",
+            "points": 1.5
+          },
+          {
+            "text": "Chỉ ra ngày 8/6 muộn hơn ngày giao hàng 5/6",
+            "points": 1
+          },
+          {
+            "text": "Chỉ ra thiếu bản gốc (yêu cầu 2 bản)",
+            "points": 0.5
+          },
+          {
+            "text": "Nêu thêm sai về số tiền và điều kiện so với L/C",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Tính đúng USD 165,000 và thiếu USD 15,000",
+            "points": 2
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Giải thích ICC (C) sai theo L/C và theo CIP (yêu cầu ICC (A))",
+            "points": 2
+          },
+          {
+            "text": "Mô tả đúng chứng từ cần xuất trình (đơn vị phát hành, số bản, ngày, ICC (A), số tiền, nơi bồi thường)",
+            "points": 2
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Chấp nhận phiếu bảo hiểm tạm thời của môi giới.",
+      "Cho rằng theo CIP chỉ cần ICC (C) như CIF.",
+      "Tính số tiền bảo hiểm 100% giá trị hóa đơn.",
+      "Không đối chiếu ngày chứng từ bảo hiểm với ngày giao hàng."
+    ],
+    "sources": [
+      "KB §7.6 – Insurance documents & checklist",
+      "KB §3.6 / §4.7 – CIP ICC (A)",
+      "[EXT] UCP 600 Art. 28"
+    ]
+  },
+  {
+    "id": "CASE-C8-01",
+    "chapters": [
+      "C8",
+      "C3",
+      "C5"
+    ],
+    "title": "Export and import steps for an FOB deal paid by L/C",
+    "difficulty": 2,
+    "estMinutes": 25,
+    "scenario": "**Tay Ninh Tapioca** (Vietnam) sells tapioca starch to **Busan Food Co.** (Korea):\n\n- **FOB Cat Lai, Vietnam – Incoterms® 2020**\n- Payment: **irrevocable L/C at sight**\n- The contract requires an **inspection certificate** before shipment\n- The tapioca is not a regulated product (no export licence needed)",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "List the ten export procedure steps on the slides and, for each step, state what Tay Ninh Tapioca does in this deal (or why the step does not apply to it).",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "List the nine import procedure steps and, for each step, state what Busan Food does in this deal.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Which two key considerations determine these steps? Show with two concrete examples from this deal how they change the steps.",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "1. **Negotiate and sign the contract**: price, quantity, quality, FOB, L/C.\n2. **Consider payment terms**: **check the L/C** received through the advising bank.\n3. **Prepare goods**: packing, marking, export documents (no export licence needed, since the goods are not regulated).\n4. **Inspect goods**: required by the contract; obtain the inspection certificate.\n5. **Arrange transportation**: under FOB the **buyer** books the main carriage (the seller books it only under C and D rules). The seller coordinates with the buyer's nominated vessel.\n6. **Arrange cargo insurance**: **not required** of the seller (only under CIF and CIP).\n7. **Export customs clearance**: by the seller.\n8. **Deliver the goods**: on board the buyer's nominated vessel at Cat Lai.\n9. **Prepare and present documents for payment**: present the documents required by the **L/C** to the bank.\n10. **Handle claims/disputes**, if any."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **Negotiate & sign the contract** with the supplier.\n2. **Consider payment terms**: **open the L/C** with its bank.\n3. **Arrange transportation**: books the main carriage (**E and F rules**, here FOB).\n4. **Arrange cargo insurance**: advisable, because under FOB (an F rule) the seller does not insure and the buyer bears the risk in the main carriage.\n5. **Import customs clearance in Korea**: declaration, documents, duties and fees.\n6. **Take delivery**: from the carrier/terminal in Busan, then inland transport.\n7. **Inspect the goods**: quantity, quality, condition, conformity.\n8. **Claim and settle claims**, if any: with the seller, carrier or insurer.\n9. **Make payment**: per the L/C (the issuing bank pays against complying documents and debits the buyer)."
+      },
+      {
+        "taskId": "t3",
+        "answer": "The two key considerations are (1) the **terms of sale (Incoterms®)** and (2) the **method of payment**.\n\n- **Incoterms (FOB):** the buyer, not the seller, books the main carriage and decides on insurance. Export steps 5–6 shift to the buyer's import steps 3–4.\n- **Payment (L/C):** the buyer must **open the L/C** (import step 2), and the seller must **check it** (export step 2) and **present the L/C documents** (export step 9)."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Liệt kê đủ 10 bước theo đúng thứ tự",
+            "points": 1.5
+          },
+          {
+            "text": "Áp dụng đúng: kiểm tra L/C; thuê tàu do người mua (FOB); không có nghĩa vụ bảo hiểm",
+            "points": 1.5
+          },
+          {
+            "text": "Áp dụng đúng các bước còn lại (kiểm tra hàng, thông quan, giao lên tàu, xuất trình chứng từ L/C)",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Liệt kê đủ 9 bước theo đúng thứ tự",
+            "points": 1.5
+          },
+          {
+            "text": "Áp dụng đúng: mở L/C; người mua thuê tàu (nhóm F); nên mua bảo hiểm",
+            "points": 1.5
+          },
+          {
+            "text": "Áp dụng đúng các bước còn lại",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Nêu đúng hai yếu tố then chốt và hai ví dụ cụ thể",
+            "points": 2
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng theo FOB người bán thuê tàu và mua bảo hiểm.",
+      "Đặt việc mở L/C vào quy trình xuất khẩu của người bán.",
+      "Cho rằng luôn phải có giấy phép xuất khẩu.",
+      "Bỏ bước kiểm tra hàng dù hợp đồng yêu cầu."
+    ],
+    "sources": [
+      "KB §8.1–§8.3 – Key considerations, export & import procedures",
+      "KB §3.8 – FOB",
+      "KB §5.5 – L/C"
+    ]
+  },
+  {
+    "id": "CASE-C8-02",
+    "chapters": [
+      "C8",
+      "C3",
+      "C5",
+      "C4"
+    ],
+    "title": "Export and import steps for a CIP deal paid by D/P",
+    "difficulty": 3,
+    "estMinutes": 30,
+    "scenario": "**Thu Duc Electronics** (Vietnam) sells control panels to **Lyon Automation SA** (France):\n\n- **CIP Lyon, France – Incoterms® 2020** (container: truck to Cat Lai, sea to Marseille, rail to Lyon)\n- Payment: **documentary collection, D/P** through Vietcombank (remitting bank) and a Lyon bank (collecting bank)\n- The buyer's import department is used to L/C deals and asks: *“When do we open the L/C? Do we need to book the ship and insurance? When exactly do we pay?”*",
+    "tasks": [
+      {
+        "id": "t1",
+        "prompt": "Describe how export steps 2, 5, 6, 8 and 9 apply to Thu Duc Electronics in this deal.",
+        "points": 4
+      },
+      {
+        "id": "t2",
+        "prompt": "Answer the buyer's three questions with reference to the import procedure steps and the D/P mechanism.",
+        "points": 4
+      },
+      {
+        "id": "t3",
+        "prompt": "Under CIP, when does risk pass to the buyer, and why is the insurance arranged by the seller nevertheless important to the buyer?",
+        "points": 2
+      }
+    ],
+    "modelAnswers": [
+      {
+        "taskId": "t1",
+        "answer": "- **Step 2 – Payment terms:** there is no L/C to check. Agree the **D/P** collection details, i.e. the documents and the banks.\n- **Step 5 – Transportation:** the **seller books the main carriage** to Lyon (C rule).\n- **Step 6 – Insurance:** required, because **CIP** obliges the seller to insure with **ICC (A)** (or equivalent).\n- **Step 8 – Deliver:** hand the goods to the **first carrier**; that is delivery under CIP.\n- **Step 9 – Documents for payment:** present the shipping documents and a **sight draft** to the **remitting bank**, which forwards them to the collecting bank for D/P."
+      },
+      {
+        "taskId": "t2",
+        "answer": "1. **“When do we open the L/C?”** Never. Payment is by **documentary collection**, so import step 2 (consider payment terms) does **not** involve opening an L/C.\n2. **“Do we book the ship and insurance?”** No. Import step 3 (the buyer books the main carriage) applies only under **E and F rules**. Under **CIP** the seller books the carriage and buys the insurance (ICC (A)); import step 4 lists only E, F, CPT and CFR. The buyer may still buy extra cover if it wishes.\n3. **“When exactly do we pay?”** Under **D/P** the buyer receives the shipping documents **only after paying** at the collecting bank. It needs those documents to take delivery. So in practice the buyer **pays before** import clearance, taking delivery and inspection, even though the generic slide list shows “make payment” as step 9. *(Slide note: the timing of payment depends on the payment method.)*"
+      },
+      {
+        "taskId": "t3",
+        "answer": "Under **CIP**, risk passes when the goods are **delivered to the first carrier** in Vietnam, at the origin, even though the seller pays carriage and insurance to Lyon. The buyer therefore bears the risk for the whole journey. The seller's ICC (A) insurance protects a loss that would fall on the **buyer**, so the buyer should check that the cover and insured amount are adequate."
+      }
+    ],
+    "rubric": [
+      {
+        "taskId": "t1",
+        "criteria": [
+          {
+            "text": "Bước 2 và 9: thỏa thuận D/P, xuất trình chứng từ + hối phiếu trả ngay qua ngân hàng chuyển",
+            "points": 1.5
+          },
+          {
+            "text": "Bước 5 và 6: người bán thuê vận tải chính và mua bảo hiểm ICC (A)",
+            "points": 1.5
+          },
+          {
+            "text": "Bước 8: giao cho người chuyên chở đầu tiên",
+            "points": 1
+          }
+        ]
+      },
+      {
+        "taskId": "t2",
+        "criteria": [
+          {
+            "text": "Trả lời đúng: không mở L/C vì là nhờ thu",
+            "points": 1
+          },
+          {
+            "text": "Trả lời đúng: người mua không thuê tàu/bảo hiểm theo CIP (bước 3, 4 chỉ cho E, F, CPT, CFR)",
+            "points": 1.5
+          },
+          {
+            "text": "Giải thích D/P: phải trả tiền để nhận chứng từ trước khi nhận hàng; thứ tự bước 9 trên slide là khái quát",
+            "points": 1.5
+          }
+        ]
+      },
+      {
+        "taskId": "t3",
+        "criteria": [
+          {
+            "text": "Rủi ro chuyển khi giao cho người chuyên chở đầu tiên; bảo hiểm bảo vệ tổn thất của người mua",
+            "points": 2
+          }
+        ]
+      }
+    ],
+    "commonMistakes": [
+      "Cho rằng người mua phải mở L/C trong mọi giao dịch nhập khẩu.",
+      "Cho rằng theo CIP rủi ro chuyển khi hàng đến Lyon.",
+      "Cho rằng theo D/P người mua nhận hàng trước rồi mới trả tiền.",
+      "Cho rằng người mua theo CIP phải tự mua bảo hiểm ICC (A)."
+    ],
+    "sources": [
+      "KB §8.1–§8.3 – Procedures",
+      "KB §3.8 – CIP",
+      "KB §5.4 – D/P",
+      "KB §4.7 – CIP ICC (A)"
+    ]
+  }
+]

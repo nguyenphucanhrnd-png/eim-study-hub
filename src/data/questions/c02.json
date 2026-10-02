@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "C2-eleven-questions-001",
+    "chapter": "C2",
+    "topic": "eleven-questions",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is one of the 11 questions for export preparation on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Which arbitration centre will settle disputes?"
+      },
+      {
+        "id": "b",
+        "text": "Which bank will confirm the L/C?"
+      },
+      {
+        "id": "c",
+        "text": "Is an export license needed?"
+      },
+      {
+        "id": "d",
+        "text": "Which ICC clause will insure the goods?"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Câu hỏi 2 trong 11 câu hỏi chuẩn bị XK: có cần giấy phép xuất khẩu không?",
+      "whyCorrect": "Slide liệt kê 11 câu hỏi chuẩn bị xuất khẩu, trong đó câu hỏi 2 là: có cần giấy phép xuất khẩu (export license) không? Các câu hỏi khác xoay quanh sản phẩm, thị trường, khách hàng, kênh, thách thức, giá, các bước vận hành, thời gian, nguồn lực, chi phí và đánh giá kết quả.",
+      "whyWrong": {
+        "a": "Trung tâm trọng tài thuộc điều khoản trọng tài của hợp đồng (C6), không nằm trong 11 câu hỏi.",
+        "b": "Ngân hàng xác nhận L/C là chi tiết của phương thức thanh toán (C5), không phải một trong 11 câu hỏi.",
+        "d": "Điều kiện ICC thuộc nội dung bảo hiểm hàng hóa (C4), không phải câu hỏi chuẩn bị xuất khẩu trên slide."
+      },
+      "source": "KB §2.11 – The 11 questions"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-eleven-questions-002",
+    "chapter": "C2",
+    "topic": "eleven-questions",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which of the 11 export preparation questions links most directly to the “Pricing & Payment” component of the export plan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "How will the product's export sales price be determined?"
+      },
+      {
+        "id": "b",
+        "text": "Which countries are targeted for sales development?"
+      },
+      {
+        "id": "c",
+        "text": "What personnel and company resources will be dedicated to exporting?"
+      },
+      {
+        "id": "d",
+        "text": "Is an export license needed?"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Câu hỏi 6 (xác định giá bán XK) ↔ thành phần Giá & Thanh toán.",
+      "whyCorrect": "Câu hỏi 6 trong 11 câu hỏi là: giá bán xuất khẩu của sản phẩm sẽ được xác định như thế nào? Thành phần giá và thanh toán của kế hoạch xuất khẩu trả lời đúng câu hỏi này: cách xác định giá xuất khẩu (chi phí và lợi nhuận biên, chiến lược giá), Incoterms, đồng tiền báo giá và điều kiện thanh toán.",
+      "whyWrong": {
+        "b": "Chọn quốc gia mục tiêu (câu hỏi 3) gắn với thành phần thị trường và khách hàng mục tiêu.",
+        "c": "Nhân sự và nguồn lực (câu hỏi 9) gắn với thành phần nguồn lực và trách nhiệm, không phải giá.",
+        "d": "Giấy phép xuất khẩu (câu hỏi 2) là vấn đề thủ tục pháp lý, không phải xác định giá và thanh toán."
+      },
+      "source": "KB §2.11 – Question 6; §2.6"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C2-eleven-questions-003",
+    "chapter": "C2",
+    "topic": "eleven-questions",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which of the 11 export preparation questions corresponds to the “Resources & Responsibilities” component?",
+    "options": [
+      {
+        "id": "a",
+        "text": "How will results be evaluated and used to modify the plan?"
+      },
+      {
+        "id": "b",
+        "text": "Which products are selected for export development?"
+      },
+      {
+        "id": "c",
+        "text": "What special challenges pertain to each market?"
+      },
+      {
+        "id": "d",
+        "text": "What personnel and company resources will be dedicated to exporting?"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Câu hỏi 9 (nhân sự và nguồn lực dành cho XK) ↔ thành phần Nguồn lực & Trách nhiệm.",
+      "whyCorrect": "Thành phần nguồn lực và trách nhiệm trả lời câu hỏi ai thực hiện kế hoạch: các phòng ban nội bộ và đối tác bên ngoài. Câu hỏi 9 – những nhân sự và nguồn lực nào của công ty sẽ được dành cho xuất khẩu – tương ứng trực tiếp với thành phần này.",
+      "whyWrong": {
+        "a": "Đánh giá kết quả để điều chỉnh kế hoạch (câu hỏi 11) là khâu kiểm soát, không phải phân công nguồn lực.",
+        "b": "Chọn sản phẩm (câu hỏi 1) tương ứng với thành phần sản phẩm cho thị trường nước ngoài.",
+        "c": "Thách thức của từng thị trường (câu hỏi 5) gắn với phân tích thị trường và rủi ro, không phải nguồn lực."
+      },
+      "source": "KB §2.11 – Question 9; §2.8"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C2-export-plan-components-001",
+    "chapter": "C2",
+    "topic": "export-plan-components",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, an export plan is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "a structured proposal for exporting a specific product to a specific target market"
+      },
+      {
+        "id": "b",
+        "text": "a contract between the exporter and the foreign buyer"
+      },
+      {
+        "id": "c",
+        "text": "a set of ICC rules allocating costs and risks"
+      },
+      {
+        "id": "d",
+        "text": "a list of documents required by the issuing bank"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Kế hoạch xuất khẩu là đề xuất có cấu trúc để xuất khẩu một sản phẩm cụ thể sang một thị trường mục tiêu cụ thể.",
+      "whyCorrect": "Slide định nghĩa kế hoạch xuất khẩu (Export Plan) là một đề xuất có cấu trúc (structured proposal) cho việc xuất khẩu một sản phẩm cụ thể sang một thị trường mục tiêu cụ thể. Kế hoạch gồm 9 thành phần, từ mục tiêu xuất khẩu đến quản trị rủi ro.",
+      "whyWrong": {
+        "b": "Thỏa thuận giữa nhà xuất khẩu và người mua nước ngoài là hợp đồng mua bán quốc tế (C6), không phải kế hoạch xuất khẩu.",
+        "c": "Bộ quy tắc ICC phân chia chi phí và rủi ro là Incoterms, chỉ là một nội dung trong phần giá và thanh toán.",
+        "d": "Danh mục chứng từ ngân hàng yêu cầu thuộc điều kiện L/C, không phải định nghĩa của kế hoạch xuất khẩu."
+      },
+      "source": "KB §2.1 – Export plan definition"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-export-plan-components-002",
+    "chapter": "C2",
+    "topic": "export-plan-components",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How many components does the export plan on the slides have?",
+    "options": [
+      {
+        "id": "a",
+        "text": "6"
+      },
+      {
+        "id": "b",
+        "text": "7"
+      },
+      {
+        "id": "c",
+        "text": "9"
+      },
+      {
+        "id": "d",
+        "text": "11"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Kế hoạch xuất khẩu có 9 thành phần: mục tiêu, thị trường & khách hàng, thâm nhập/phân phối, sản phẩm, giá & thanh toán, logistics, nguồn lực, tài chính, rủi ro.",
+      "whyCorrect": "Slide liệt kê 9 thành phần của kế hoạch xuất khẩu: (1) mục tiêu xuất khẩu; (2) thị trường và khách hàng mục tiêu; (3) thâm nhập thị trường/phân phối; (4) sản phẩm cho thị trường nước ngoài; (5) giá và thanh toán; (6) logistics và giao hàng; (7) nguồn lực và trách nhiệm; (8) phân tích tài chính; (9) quản trị rủi ro.",
+      "whyWrong": {
+        "a": "6 là số nhóm rủi ro trong thành phần quản trị rủi ro, không phải số thành phần của kế hoạch xuất khẩu.",
+        "b": "Con số 7 không khớp với danh sách thành phần của kế hoạch xuất khẩu trên slide, vốn có 9 mục.",
+        "d": "11 là số câu hỏi chuẩn bị xuất khẩu (hoặc số quy tắc Incoterms), không phải số thành phần kế hoạch."
+      },
+      "source": "KB §2.1 – 9 components"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-export-plan-components-003",
+    "chapter": "C2",
+    "topic": "export-plan-components",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "The “Resources & Responsibilities” component lists the Export & Import Department, Sales/Marketing, Production, Finance/Accounting, Logistics, Documentation, Quality Control and external partners. What conclusion do the slides draw from this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Exporting is the sole responsibility of the Export & Import Department"
+      },
+      {
+        "id": "b",
+        "text": "Export management is cross-functional management"
+      },
+      {
+        "id": "c",
+        "text": "Exporting should be fully outsourced to freight forwarders"
+      },
+      {
+        "id": "d",
+        "text": "Only the Finance Department needs to approve the export plan"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Nhiều bộ phận và đối tác bên ngoài cùng thực hiện kế hoạch → quản trị xuất khẩu là quản trị liên chức năng.",
+      "whyCorrect": "Thành phần “Nguồn lực và trách nhiệm” trả lời câu hỏi ai thực hiện kế hoạch: phòng xuất nhập khẩu, kinh doanh/marketing, sản xuất, tài chính/kế toán, logistics, chứng từ, kiểm soát chất lượng và các đối tác bên ngoài. Slide kết luận quản trị xuất khẩu là quản trị liên chức năng (cross-functional management).",
+      "whyWrong": {
+        "a": "Slide liệt kê nhiều bộ phận cùng tham gia, nên xuất khẩu không phải trách nhiệm riêng của phòng xuất nhập khẩu.",
+        "c": "Người giao nhận chỉ là một đối tác bên ngoài; slide không khuyến nghị thuê ngoài toàn bộ hoạt động xuất khẩu.",
+        "d": "Tài chính/kế toán chỉ là một trong nhiều bộ phận tham gia; slide nhấn mạnh tính liên chức năng."
+      },
+      "source": "KB §2.8 – Resources & Responsibilities"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-export-plan-components-004",
+    "chapter": "C2",
+    "topic": "export-plan-components",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A company's draft export plan already covers its target market, distribution channel, product adaptation, pricing and logistics, but it has not estimated export revenue, export costs or gross profit margin. Which component is missing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Export objectives"
+      },
+      {
+        "id": "b",
+        "text": "Market entry / Distribution"
+      },
+      {
+        "id": "c",
+        "text": "Product for foreign market"
+      },
+      {
+        "id": "d",
+        "text": "Financial analysis"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Ước tính doanh thu, chi phí, lợi nhuận gộp và biên lợi nhuận thuộc thành phần Phân tích tài chính.",
+      "whyCorrect": "Theo slide, thành phần phân tích tài chính (financial analysis) gồm doanh thu xuất khẩu (số lượng × giá), chi phí xuất/nhập khẩu (chi phí sản phẩm, logistics, thuế), lợi nhuận gộp và biên lợi nhuận gộp, cùng các cân nhắc về tỷ giá. Kế hoạch trong đề chưa ước tính các con số này nên còn thiếu thành phần phân tích tài chính.",
+      "whyWrong": {
+        "a": "Mục tiêu xuất khẩu nêu điều doanh nghiệp muốn đạt và KPI, không phải phần tính toán doanh thu và chi phí.",
+        "b": "Kênh phân phối đã được kế hoạch đề cập; thành phần này không xử lý doanh thu và chi phí.",
+        "c": "Việc điều chỉnh sản phẩm đã có trong kế hoạch; thành phần này không ước tính lợi nhuận gộp."
+      },
+      "source": "KB §2.1; §2.9 – Financial analysis"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-export-plan-components-005",
+    "chapter": "C2",
+    "topic": "export-plan-components",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Which pairing of a planning question with the export plan component that addresses it is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "“Direct export, indirect export or cross-border e-commerce?” → Market entry / Distribution"
+      },
+      {
+        "id": "b",
+        "text": "“What is our break-even point?” → Logistics & Delivery"
+      },
+      {
+        "id": "c",
+        "text": "“Should we register our trademark abroad?” → Pricing & Payment"
+      },
+      {
+        "id": "d",
+        "text": "“Which Incoterms rule and payment timing?” → Resources & Responsibilities"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Chọn kênh XK trực tiếp/gián tiếp/TMĐT xuyên biên giới thuộc thành phần Thâm nhập thị trường/Phân phối.",
+      "whyCorrect": "Đối chiếu từng cặp với nội dung slide. Thành phần thâm nhập thị trường/phân phối trả lời câu hỏi tiếp cận khách hàng mục tiêu bằng cách nào: xuất khẩu trực tiếp, gián tiếp (qua nhà nhập khẩu, nhà phân phối, đại lý, nhà bán lẻ) hay thương mại điện tử xuyên biên giới. Vì vậy cặp A là đúng; các cặp còn lại gán sai thành phần.",
+      "whyWrong": {
+        "b": "Điểm hòa vốn là một KPI trong thành phần mục tiêu xuất khẩu, không thuộc thành phần logistics và giao hàng.",
+        "c": "Bảo hộ nhãn hiệu ở nước ngoài thuộc thành phần sản phẩm cho thị trường nước ngoài, không thuộc giá và thanh toán.",
+        "d": "Incoterms và thời hạn thanh toán thuộc thành phần giá và thanh toán, không thuộc nguồn lực và trách nhiệm."
+      },
+      "source": "KB §2.1–§2.8"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C2-financial-analysis-001",
+    "chapter": "C2",
+    "topic": "financial-analysis",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, export revenue is calculated as:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Export Quantity × Export Price"
+      },
+      {
+        "id": "b",
+        "text": "Revenue − COGS"
+      },
+      {
+        "id": "c",
+        "text": "Gross Profit / Revenue × 100%"
+      },
+      {
+        "id": "d",
+        "text": "Production cost + logistics cost"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Doanh thu xuất khẩu = Số lượng xuất khẩu × Giá xuất khẩu (vd 18 tấn × EUR 2,800 = EUR 50,400).",
+      "whyCorrect": "Slide phân tích tài chính nêu công thức: doanh thu xuất khẩu (Export Revenue) = số lượng xuất khẩu × giá xuất khẩu. Ví dụ trên slide: 18 tấn × EUR 2,800/tấn = EUR 50,400. Doanh thu là điểm xuất phát để tính lợi nhuận gộp và biên lợi nhuận gộp.",
+      "whyWrong": {
+        "b": "Doanh thu trừ giá vốn hàng bán là công thức lợi nhuận gộp (Gross Profit), không phải doanh thu.",
+        "c": "Lợi nhuận gộp chia doanh thu nhân 100% là công thức biên lợi nhuận gộp, không phải doanh thu.",
+        "d": "Chi phí sản xuất cộng chi phí logistics là một phần chi phí xuất khẩu, không phải doanh thu."
+      },
+      "source": "KB §2.9 – Export revenue"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-financial-analysis-002",
+    "chapter": "C2",
+    "topic": "financial-analysis",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which formula gives the Gross Profit Margin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Revenue × COGS"
+      },
+      {
+        "id": "b",
+        "text": "COGS / Revenue × 100%"
+      },
+      {
+        "id": "c",
+        "text": "Gross Profit / Revenue × 100%"
+      },
+      {
+        "id": "d",
+        "text": "Revenue / Quantity"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Biên lợi nhuận gộp = Lợi nhuận gộp / Doanh thu × 100%; Lợi nhuận gộp = Doanh thu − Giá vốn.",
+      "whyCorrect": "Slide nêu hai công thức: lợi nhuận gộp (Gross Profit) = doanh thu − giá vốn hàng bán (COGS); biên lợi nhuận gộp (Gross Profit Margin) = lợi nhuận gộp / doanh thu × 100%. Biên lợi nhuận gộp cho biết phần trăm doanh thu còn lại sau chi phí liên quan đến xuất khẩu.",
+      "whyWrong": {
+        "a": "Nhân doanh thu với giá vốn không có ý nghĩa kinh tế và không phải công thức nào trên slide.",
+        "b": "Giá vốn chia doanh thu là tỷ lệ chi phí trên doanh thu, phần bù của biên lợi nhuận gộp.",
+        "d": "Doanh thu chia số lượng cho ra giá bán bình quân mỗi đơn vị, không phải biên lợi nhuận gộp."
+      },
+      "source": "KB §2.9 – Gross Profit Margin"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-financial-analysis-003",
+    "chapter": "C2",
+    "topic": "financial-analysis",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An exporter plans to ship 25 tons of pepper at USD 3,200 per ton. What is the planned export revenue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 8,000"
+      },
+      {
+        "id": "b",
+        "text": "USD 80,000"
+      },
+      {
+        "id": "c",
+        "text": "USD 800,000"
+      },
+      {
+        "id": "d",
+        "text": "USD 3,225"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Doanh thu = 25 tấn × USD 3,200/tấn = USD 80,000.",
+      "whyCorrect": "Áp dụng công thức trên slide: doanh thu xuất khẩu = số lượng xuất khẩu × giá xuất khẩu = 25 × 3,200 = USD 80,000. Cách tính giống ví dụ trên slide (18 tấn × EUR 2,800 = EUR 50,400), chỉ thay số liệu.",
+      "whyWrong": {
+        "a": "USD 8,000 thiếu một chữ số 0, chỉ tương ứng 2.5 tấn với giá USD 3,200 mỗi tấn.",
+        "c": "USD 800,000 thừa một chữ số 0, tương ứng 250 tấn – gấp mười lần số lượng kế hoạch.",
+        "d": "USD 3,225 là kết quả cộng giá với số lượng, trong khi công thức doanh thu là phép nhân."
+      },
+      "source": "KB §2.9 – Export revenue"
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "revenue",
+      "inputs": {
+        "quantity": 25,
+        "price": 3200
+      },
+      "expected": 80000
+    }
+  },
+  {
+    "id": "C2-financial-analysis-004",
+    "chapter": "C2",
+    "topic": "financial-analysis",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In the slide's classification of export costs, which item is a logistics cost rather than a product cost or a duty/tax?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Packaging"
+      },
+      {
+        "id": "b",
+        "text": "Documentation"
+      },
+      {
+        "id": "c",
+        "text": "Import duties"
+      },
+      {
+        "id": "d",
+        "text": "Port charges"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Chi phí logistics: vận chuyển nội địa, cước, bốc dỡ, phí cảng…; bao bì & chứng từ là chi phí sản phẩm; thuế NK là thuế.",
+      "whyCorrect": "Slide chia chi phí xuất/nhập khẩu thành ba nhóm: chi phí sản phẩm (sản xuất, bao bì, xử lý, chứng từ, chi phí khác liên quan XK); chi phí logistics (vận chuyển nội địa, cước, bốc/dỡ, phí cảng, chi phí logistics khác); thuế và phí (thuế nhập khẩu, thuế liên quan XK, thuế/phí khác). Phí cảng (port charges) thuộc nhóm logistics.",
+      "whyWrong": {
+        "a": "Bao bì được slide xếp vào nhóm chi phí sản phẩm, cùng với chi phí sản xuất và xử lý hàng.",
+        "b": "Chi phí chứng từ được slide xếp vào nhóm chi phí sản phẩm, không thuộc nhóm chi phí logistics.",
+        "c": "Thuế nhập khẩu thuộc nhóm thuế và phí (duties & taxes), áp dụng khi có, không phải chi phí logistics."
+      },
+      "source": "KB §2.9 – Export/Import costs"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-financial-analysis-005",
+    "chapter": "C2",
+    "topic": "financial-analysis",
+    "difficulty": 3,
+    "cognitive": "apply",
+    "stem": "Using the slide's example revenue (18 tons × EUR 2,800/ton), suppose COGS is EUR 37,800. What is the gross profit margin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "75%"
+      },
+      {
+        "id": "b",
+        "text": "33.3%"
+      },
+      {
+        "id": "c",
+        "text": "25%"
+      },
+      {
+        "id": "d",
+        "text": "12.6%"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Doanh thu EUR 50,400; LN gộp = 50,400 − 37,800 = 12,600; biên = 12,600 / 50,400 = 25%.",
+      "whyCorrect": "Bài toán gồm ba bước theo công thức trên slide. (1) Doanh thu = 18 × 2,800 = EUR 50,400. (2) Lợi nhuận gộp = doanh thu − giá vốn = 50,400 − 37,800 = EUR 12,600. (3) Biên lợi nhuận gộp = 12,600 / 50,400 × 100% = 25%.",
+      "whyWrong": {
+        "a": "75% là tỷ lệ giá vốn trên doanh thu (37,800 / 50,400), phần bù của biên lợi nhuận gộp.",
+        "b": "33.3% là lợi nhuận gộp chia giá vốn (12,600 / 37,800), trong khi công thức yêu cầu chia cho doanh thu.",
+        "d": "12.6 là lợi nhuận gộp tính theo nghìn EUR, không phải tỷ lệ phần trăm biên lợi nhuận gộp."
+      },
+      "source": "KB §2.9 – Revenue, Gross Profit, Gross Profit Margin"
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "gross-margin",
+      "inputs": {
+        "revenue": 50400,
+        "cogs": 37800
+      },
+      "expected": 25
+    }
+  },
+  {
+    "id": "C2-financial-analysis-006",
+    "chapter": "C2",
+    "topic": "financial-analysis",
+    "difficulty": 3,
+    "cognitive": "apply",
+    "stem": "An exporter sells 40 tons at USD 3,000 per ton. COGS for the shipment is USD 96,000. What is the gross profit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 24,000"
+      },
+      {
+        "id": "b",
+        "text": "USD 120,000"
+      },
+      {
+        "id": "c",
+        "text": "USD 216,000"
+      },
+      {
+        "id": "d",
+        "text": "USD 30,000"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Doanh thu = 40 × 3,000 = USD 120,000; LN gộp = 120,000 − 96,000 = USD 24,000.",
+      "whyCorrect": "Bài toán gồm hai bước theo công thức trên slide. (1) Doanh thu xuất khẩu = số lượng × giá = 40 × 3,000 = USD 120,000. (2) Lợi nhuận gộp = doanh thu − giá vốn hàng bán = 120,000 − 96,000 = USD 24,000. Biên lợi nhuận gộp tương ứng là 20%.",
+      "whyWrong": {
+        "b": "USD 120,000 là doanh thu xuất khẩu, chưa trừ giá vốn hàng bán USD 96,000.",
+        "c": "USD 216,000 là kết quả cộng doanh thu với giá vốn, trong khi lợi nhuận gộp là phép trừ.",
+        "d": "USD 30,000 không khớp với phép tính; doanh thu USD 120,000 trừ giá vốn USD 96,000 ra USD 24,000."
+      },
+      "source": "KB §2.9 – Revenue, Gross Profit"
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "gross-profit",
+      "inputs": {
+        "revenue": 120000,
+        "cogs": 96000
+      },
+      "expected": 24000
+    }
+  },
+  {
+    "id": "C2-fx-risk-001",
+    "chapter": "C2",
+    "topic": "fx-risk",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Under deferred payment in a foreign currency, which statement about the exporter's revenue reflects the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Both the foreign-currency amount and its home-currency value are fixed"
+      },
+      {
+        "id": "b",
+        "text": "The agreed foreign-currency amount may remain unchanged, but its value in the home currency may change over time"
+      },
+      {
+        "id": "c",
+        "text": "The buyer must pay more foreign currency if the exchange rate changes"
+      },
+      {
+        "id": "d",
+        "text": "Exchange-rate fluctuations affect only the buyer, never the exporter"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Số tiền ngoại tệ đã thỏa thuận giữ nguyên, nhưng giá trị quy ra nội tệ có thể thay đổi theo thời gian.",
+      "whyCorrect": "Slide về cân nhắc tỷ giá nêu: số tiền ngoại tệ đã thỏa thuận có thể giữ nguyên, nhưng giá trị của nó tính bằng nội tệ có thể thay đổi theo thời gian. Với thanh toán trả chậm (ví dụ 3 hoặc 6 tháng), biến động tỷ giá ảnh hưởng đến doanh thu, chi phí và khả năng sinh lời của nhà xuất khẩu.",
+      "whyWrong": {
+        "a": "Chỉ số tiền ngoại tệ là cố định; giá trị quy đổi ra nội tệ thay đổi theo tỷ giá tại thời điểm nhận tiền.",
+        "c": "Ví dụ trên slide nhấn mạnh người mua vẫn trả đúng EUR 50,000; chỉ giá trị VND thay đổi.",
+        "d": "Slide nêu biến động tỷ giá tác động đến doanh thu và lợi nhuận của chính nhà xuất khẩu."
+      },
+      "source": "KB §2.9 – Foreign exchange considerations"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-fx-risk-002",
+    "chapter": "C2",
+    "topic": "fx-risk",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter signs a contract worth USD 40,000. At the contract date, 1 USD = 25,000 VND. What is the expected revenue in VND at that rate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "VND 100 million"
+      },
+      {
+        "id": "b",
+        "text": "VND 10 billion"
+      },
+      {
+        "id": "c",
+        "text": "VND 1.25 billion"
+      },
+      {
+        "id": "d",
+        "text": "VND 1 billion"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Giá trị VND kỳ vọng = 40,000 × 25,000 = VND 1,000,000,000 (1 tỷ).",
+      "whyCorrect": "Tương tự ví dụ trên slide (EUR 50,000 × 30,000 = VND 1.50 tỷ), doanh thu VND kỳ vọng bằng số tiền ngoại tệ nhân tỷ giá tại ngày ký hợp đồng: 40,000 × 25,000 = VND 1,000,000,000, tức VND 1 tỷ. Giá trị thực nhận còn phụ thuộc tỷ giá khi được thanh toán.",
+      "whyWrong": {
+        "a": "VND 100 triệu sai một bậc mười lần; 40,000 × 25,000 bằng 1 tỷ, không phải 100 triệu.",
+        "b": "VND 10 tỷ thừa một bậc mười lần so với kết quả đúng của phép nhân 40,000 × 25,000.",
+        "c": "VND 1.25 tỷ tương ứng tỷ giá 31,250 VND/USD, không phải tỷ giá 25,000 trong đề bài."
+      },
+      "source": "KB §2.9 – FX example"
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "fx-value",
+      "inputs": {
+        "amount": 40000,
+        "rate": 25000
+      },
+      "expected": 1000000000
+    }
+  },
+  {
+    "id": "C2-fx-risk-003",
+    "chapter": "C2",
+    "topic": "fx-risk",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter will receive EUR 50,000 six months after delivery. At the contract date 1 EUR = 30,000 VND; on the payment date 1 EUR = 29,000 VND. What is the effect on its VND revenue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Loss of VND 50 million (VND 1.45 billion instead of VND 1.50 billion)"
+      },
+      {
+        "id": "b",
+        "text": "Gain of VND 100 million"
+      },
+      {
+        "id": "c",
+        "text": "Loss of VND 1.45 billion"
+      },
+      {
+        "id": "d",
+        "text": "No effect, because the buyer still pays EUR 50,000"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "50,000 × (29,000 − 30,000) = −VND 50 triệu: thu VND 1.45 tỷ thay vì 1.50 tỷ.",
+      "whyCorrect": "Theo ví dụ tỷ giá trên slide, giá trị VND kỳ vọng tại ngày ký là 50,000 × 30,000 = VND 1.50 tỷ. Khi nhận tiền, EUR giảm giá còn 29,000, nên nhà xuất khẩu thu 50,000 × 29,000 = VND 1.45 tỷ. Chênh lệch là khoản lỗ VND 50 triệu, dù người mua vẫn trả đủ EUR 50,000.",
+      "whyWrong": {
+        "b": "EUR giảm giá so với VND nên nhà xuất khẩu bị lỗ chứ không lãi; 100 triệu cũng không đúng mức chênh.",
+        "c": "VND 1.45 tỷ là doanh thu VND thực nhận, không phải khoản lỗ do biến động tỷ giá.",
+        "d": "Số EUR không đổi nhưng giá trị VND thay đổi; slide nhấn mạnh rủi ro này với thanh toán trả chậm."
+      },
+      "source": "KB §2.9 – FX example (Scenario 1 logic)"
+    },
+    "tags": [
+      "calculation",
+      "scenario"
+    ],
+    "calc": {
+      "kind": "fx-gain-loss",
+      "inputs": {
+        "amount": 50000,
+        "rateAtContract": 30000,
+        "rateAtPayment": 29000
+      },
+      "expected": -50000000
+    }
+  },
+  {
+    "id": "C2-fx-risk-004",
+    "chapter": "C2",
+    "topic": "fx-risk",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In Scenario 2 of the slide's FX example (EUR 50,000; 1 EUR = 30,000 VND at the contract date), the EUR appreciates to 32,000 VND by the payment date. What happens?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The buyer pays only EUR 46,875 to compensate"
+      },
+      {
+        "id": "b",
+        "text": "The VND revenue falls to VND 1.40 billion"
+      },
+      {
+        "id": "c",
+        "text": "The exporter gains VND 100 million: VND 1.60 billion instead of VND 1.50 billion"
+      },
+      {
+        "id": "d",
+        "text": "Nothing changes; the VND value stays at VND 1.50 billion"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "EUR tăng giá lên 32,000 → VND 1.60 tỷ → lãi VND 100 triệu; người mua vẫn trả EUR 50,000.",
+      "whyCorrect": "Theo kịch bản 2 trên slide, EUR tăng giá lên 32,000 VND, nên EUR 50,000 quy đổi được VND 1.60 tỷ thay vì VND 1.50 tỷ dự kiến. Nhà xuất khẩu lãi tỷ giá VND 100 triệu. Người mua vẫn trả đúng EUR 50,000; chỉ giá trị VND thay đổi, theo hướng có lợi cho nhà xuất khẩu.",
+      "whyWrong": {
+        "a": "Người mua vẫn trả đúng EUR 50,000 theo hợp đồng; số tiền ngoại tệ không được điều chỉnh theo tỷ giá.",
+        "b": "VND 1.40 tỷ là kết quả của kịch bản 1 khi EUR giảm giá còn 28,000, không phải kịch bản tăng giá.",
+        "d": "Giá trị VND thay đổi theo tỷ giá lúc thanh toán; ở mức 32,000 nó tăng lên VND 1.60 tỷ."
+      },
+      "source": "KB §2.9 – FX example (Scenario 2)"
+    },
+    "tags": [
+      "calculation"
+    ],
+    "calc": {
+      "kind": "fx-gain-loss",
+      "inputs": {
+        "amount": 50000,
+        "rateAtContract": 30000,
+        "rateAtPayment": 32000
+      },
+      "expected": 100000000
+    }
+  },
+  {
+    "id": "C2-fx-risk-005",
+    "chapter": "C2",
+    "topic": "fx-risk",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An exporter sells goods for EUR 60,000 with payment 6 months after delivery. COGS is VND 1.62 billion. At the contract date 1 EUR = 30,000 VND; on the payment date 1 EUR = 28,500 VND. What is the actual gross profit in VND?",
+    "options": [
+      {
+        "id": "a",
+        "text": "VND 180 million – unchanged, because the buyer still pays EUR 60,000"
+      },
+      {
+        "id": "b",
+        "text": "VND 90 million – half of the VND 180 million planned at the contract date"
+      },
+      {
+        "id": "c",
+        "text": "VND 1.71 billion"
+      },
+      {
+        "id": "d",
+        "text": "A loss of VND 1.62 billion"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Doanh thu thực = 60,000 × 28,500 = VND 1.71 tỷ; LN gộp = 1.71 − 1.62 = VND 90 triệu (kế hoạch 180 triệu).",
+      "whyCorrect": "Bài toán kết hợp tỷ giá và lợi nhuận gộp. Kế hoạch: doanh thu 60,000 × 30,000 = VND 1.80 tỷ, lợi nhuận gộp 1.80 − 1.62 = VND 180 triệu. Thực tế: doanh thu 60,000 × 28,500 = VND 1.71 tỷ, lợi nhuận gộp 1.71 − 1.62 = VND 90 triệu. EUR giảm giá 5% nhưng lợi nhuận giảm một nửa, đúng như slide cảnh báo về tác động đến khả năng sinh lời.",
+      "whyWrong": {
+        "a": "VND 180 triệu là lợi nhuận kế hoạch; số EUR không đổi nhưng giá trị VND thực nhận đã giảm.",
+        "c": "VND 1.71 tỷ là doanh thu VND thực nhận, chưa trừ giá vốn hàng bán VND 1.62 tỷ.",
+        "d": "Doanh thu VND 1.71 tỷ vẫn lớn hơn giá vốn, nên nhà xuất khẩu vẫn có lãi gộp chứ không lỗ."
+      },
+      "source": "KB §2.9 – FX considerations; Gross Profit"
+    },
+    "tags": [
+      "calculation",
+      "integrated",
+      "scenario"
+    ],
+    "calc": {
+      "kind": "gross-profit",
+      "inputs": {
+        "revenue": 1710000000,
+        "cogs": 1620000000
+      },
+      "expected": 90000000
+    }
+  },
+  {
+    "id": "C2-logistics-plan-001",
+    "chapter": "C2",
+    "topic": "logistics-plan",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which parties are listed as logistics intermediaries in the Logistics & Delivery component?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Issuing bank, advising bank, confirming bank"
+      },
+      {
+        "id": "b",
+        "text": "Importers, distributors, agents, retailers"
+      },
+      {
+        "id": "c",
+        "text": "Freight forwarders, customs brokers, shipping lines/carriers"
+      },
+      {
+        "id": "d",
+        "text": "Production, Finance/Accounting, Quality Control"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Trung gian logistics: người giao nhận, đại lý hải quan, hãng tàu/người chuyên chở.",
+      "whyCorrect": "Slide liệt kê 5 nội dung của logistics và giao hàng: giao hàng và vận tải; kho bãi và tồn kho; bảo hiểm hàng hóa; trung gian logistics; chứng từ. Trung gian logistics gồm người giao nhận (freight forwarders), đại lý hải quan (customs brokers) và hãng tàu/người chuyên chở (shipping lines/carriers).",
+      "whyWrong": {
+        "a": "Các ngân hàng phát hành, thông báo, xác nhận tham gia thanh toán L/C, không phải trung gian logistics.",
+        "b": "Nhà nhập khẩu, nhà phân phối, đại lý, nhà bán lẻ là trung gian của kênh xuất khẩu gián tiếp.",
+        "d": "Sản xuất, tài chính/kế toán, kiểm soát chất lượng là các bộ phận nội bộ trong phần nguồn lực và trách nhiệm."
+      },
+      "source": "KB §2.7 – Logistics intermediaries"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-logistics-plan-002",
+    "chapter": "C2",
+    "topic": "logistics-plan",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which item belongs to “Delivery & transportation” in the Logistics & Delivery component?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Order processing and delivery timelines (lead time, delivery schedules)"
+      },
+      {
+        "id": "b",
+        "text": "Protection of trademarks and patents"
+      },
+      {
+        "id": "c",
+        "text": "Break-even point"
+      },
+      {
+        "id": "d",
+        "text": "Target Customer Profile"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Giao hàng & vận tải: xử lý đơn hàng, thời gian giao (lead time, lịch giao), phối hợp SX–tồn kho–giao hàng, chọn phương thức vận tải, lịch tàu.",
+      "whyCorrect": "Slide nêu mục giao hàng và vận tải gồm: xử lý đơn hàng và thời hạn giao hàng (lead time, lịch giao hàng); phối hợp giữa sản xuất, tồn kho và giao hàng; lựa chọn phương thức vận tải (biển, hàng không, đường bộ, đường sắt, đa phương thức); và lên lịch giao hàng.",
+      "whyWrong": {
+        "b": "Bảo hộ nhãn hiệu và sáng chế thuộc nội dung sở hữu trí tuệ trong thành phần sản phẩm cho thị trường nước ngoài.",
+        "c": "Điểm hòa vốn là KPI trong thành phần mục tiêu xuất khẩu, không phải nội dung giao hàng và vận tải.",
+        "d": "Hồ sơ khách hàng mục tiêu thuộc thành phần thị trường và khách hàng mục tiêu, không thuộc logistics."
+      },
+      "source": "KB §2.7 – Delivery & transportation"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-logistics-plan-003",
+    "chapter": "C2",
+    "topic": "logistics-plan",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "In the Logistics & Delivery component, storage requirements and inventory control methods belong to which element?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cargo insurance"
+      },
+      {
+        "id": "b",
+        "text": "Logistics intermediaries"
+      },
+      {
+        "id": "c",
+        "text": "Documentation"
+      },
+      {
+        "id": "d",
+        "text": "Warehousing & inventory"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Yêu cầu lưu kho và phương pháp kiểm soát tồn kho → mục Kho bãi & tồn kho.",
+      "whyCorrect": "Slide chia logistics và giao hàng thành 5 mục: (1) giao hàng và vận tải; (2) kho bãi và tồn kho – gồm yêu cầu lưu kho (storage requirements) và phương pháp kiểm soát tồn kho (inventory control methods); (3) bảo hiểm hàng hóa; (4) trung gian logistics; (5) chứng từ.",
+      "whyWrong": {
+        "a": "Bảo hiểm hàng hóa xử lý yêu cầu bảo hiểm cước/hàng hóa, không xử lý lưu kho và kiểm soát tồn kho.",
+        "b": "Trung gian logistics là người giao nhận, đại lý hải quan, hãng tàu – không phải phương pháp quản lý tồn kho.",
+        "c": "Chứng từ là mục riêng về hồ sơ giấy tờ, không bao gồm yêu cầu lưu kho và kiểm soát tồn kho."
+      },
+      "source": "KB §2.7 – Warehousing & inventory"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-logistics-plan-004",
+    "chapter": "C2",
+    "topic": "logistics-plan",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A draft logistics plan covers delivery timelines, sea transport as the mode, the shipment schedule, and the choice of freight forwarder and customs broker. Which elements of the slide's Logistics & Delivery component are still missing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transport mode selection and logistics intermediaries"
+      },
+      {
+        "id": "b",
+        "text": "Warehousing & inventory, cargo insurance and documentation"
+      },
+      {
+        "id": "c",
+        "text": "Payment timing and payment currency"
+      },
+      {
+        "id": "d",
+        "text": "Nothing; the plan is complete"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Đã có: giao hàng & vận tải, trung gian logistics. Còn thiếu: kho bãi & tồn kho, bảo hiểm hàng hóa, chứng từ.",
+      "whyCorrect": "Đối chiếu với 5 mục trên slide: (1) giao hàng và vận tải – đã có thời hạn, phương thức vận tải, lịch giao hàng; (4) trung gian logistics – đã có người giao nhận và đại lý hải quan. Còn thiếu (2) kho bãi và tồn kho, (3) bảo hiểm hàng hóa và (5) chứng từ.",
+      "whyWrong": {
+        "a": "Bản nháp đã chọn vận tải biển và đã chọn người giao nhận, đại lý hải quan, nên hai mục này không thiếu.",
+        "c": "Thời hạn và đồng tiền thanh toán thuộc thành phần giá và thanh toán, không thuộc logistics và giao hàng.",
+        "d": "Bản nháp chưa đề cập kho bãi, bảo hiểm hàng hóa và chứng từ, nên chưa đầy đủ theo slide."
+      },
+      "source": "KB §2.7 – Logistics & Delivery (5 elements)"
+    },
+    "tags": [
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C2-market-entry-001",
+    "chapter": "C2",
+    "topic": "market-entry",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, indirect export reaches the target customer through:",
+    "options": [
+      {
+        "id": "a",
+        "text": "a direct relationship with the foreign buyer"
+      },
+      {
+        "id": "b",
+        "text": "an online marketplace or D2C website"
+      },
+      {
+        "id": "c",
+        "text": "an importer, distributor, agent or retailer"
+      },
+      {
+        "id": "d",
+        "text": "the issuing bank of the L/C"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "XK gián tiếp → qua nhà nhập khẩu / nhà phân phối / đại lý / nhà bán lẻ.",
+      "whyCorrect": "Slide nêu ba cách tiếp cận khách hàng mục tiêu: xuất khẩu trực tiếp (quan hệ trực tiếp với người mua nước ngoài), xuất khẩu gián tiếp (qua nhà nhập khẩu, nhà phân phối, đại lý, nhà bán lẻ) và thương mại điện tử xuyên biên giới (sàn trực tuyến, D2C).",
+      "whyWrong": {
+        "a": "Quan hệ trực tiếp với người mua nước ngoài là đặc điểm của xuất khẩu trực tiếp, không phải gián tiếp.",
+        "b": "Sàn trực tuyến và D2C là kênh thương mại điện tử xuyên biên giới, một kênh riêng trên slide.",
+        "d": "Ngân hàng phát hành L/C tham gia khâu thanh toán, không phải kênh phân phối hàng đến khách hàng."
+      },
+      "source": "KB §2.4 – Market entry"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-market-entry-002",
+    "chapter": "C2",
+    "topic": "market-entry",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which channel uses an online marketplace or D2C (direct-to-consumer) selling?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cross-border e-commerce"
+      },
+      {
+        "id": "b",
+        "text": "Indirect export"
+      },
+      {
+        "id": "c",
+        "text": "Consignment through an agent"
+      },
+      {
+        "id": "d",
+        "text": "Countertrade"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Thương mại điện tử xuyên biên giới → sàn trực tuyến / D2C (bán trực tiếp cho người tiêu dùng).",
+      "whyCorrect": "Slide nêu thương mại điện tử xuyên biên giới (cross-border e-commerce) tiếp cận khách hàng qua sàn thương mại điện tử (online marketplace) hoặc mô hình D2C – bán trực tiếp cho người tiêu dùng. Kênh này đòi hỏi bao bì phù hợp TMĐT, giải pháp fulfillment và giao hàng chặng cuối tin cậy.",
+      "whyWrong": {
+        "b": "Xuất khẩu gián tiếp đi qua nhà nhập khẩu, nhà phân phối, đại lý hoặc nhà bán lẻ, không qua sàn D2C.",
+        "c": "Slide không mô tả ký gửi qua đại lý là kênh dùng sàn trực tuyến hay bán trực tiếp cho người tiêu dùng.",
+        "d": "Buôn bán đối lưu không nằm trong ba kênh thâm nhập thị trường được slide C2 liệt kê."
+      },
+      "source": "KB §2.4 – Market entry"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-market-entry-003",
+    "chapter": "C2",
+    "topic": "market-entry",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese snack producer decides to sell through a supermarket chain in Australia. According to the slides, how should this channel choice influence its packaging?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bulk supply with packaging designed mainly for transport and B2B handling"
+      },
+      {
+        "id": "b",
+        "text": "Consumer-oriented packaging, labeling and barcodes"
+      },
+      {
+        "id": "c",
+        "text": "Individual-unit e-commerce packaging with last-mile delivery"
+      },
+      {
+        "id": "d",
+        "text": "The channel has no influence on packaging"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Kênh siêu thị/bán lẻ → bao bì hướng tới người tiêu dùng, nhãn mác, mã vạch.",
+      "whyCorrect": "Slide nêu việc chọn kênh ảnh hưởng đến thiết kế sản phẩm, bao bì, logistics và giao hàng. Với kênh siêu thị/bán lẻ, doanh nghiệp cần bao bì hướng tới người tiêu dùng (consumer-oriented packaging), nhãn mác và mã vạch (barcodes), vì sản phẩm được bày bán trực tiếp trên kệ.",
+      "whyWrong": {
+        "a": "Cung cấp số lượng lớn và bao bì cho vận chuyển, xử lý B2B phù hợp với kênh nhà nhập khẩu/nhà phân phối.",
+        "c": "Bao bì từng đơn vị cho TMĐT và giao hàng chặng cuối phù hợp với kênh thương mại điện tử xuyên biên giới.",
+        "d": "Slide khẳng định lựa chọn kênh có ảnh hưởng đến thiết kế sản phẩm, bao bì, logistics và giao hàng."
+      },
+      "source": "KB §2.4 – Channel influence"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-market-entry-004",
+    "chapter": "C2",
+    "topic": "market-entry",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese furniture maker signs a supply contract directly with a hotel chain in the United States, without any importer, distributor or agent. Which market entry method is this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Indirect export"
+      },
+      {
+        "id": "b",
+        "text": "Cross-border e-commerce"
+      },
+      {
+        "id": "c",
+        "text": "Indirect export through a retailer"
+      },
+      {
+        "id": "d",
+        "text": "Direct export"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Quan hệ trực tiếp với người mua nước ngoài, không qua trung gian → xuất khẩu trực tiếp.",
+      "whyCorrect": "Theo slide, xuất khẩu trực tiếp (direct export) là có quan hệ trực tiếp với người mua nước ngoài. Nhà sản xuất nội thất ký hợp đồng thẳng với chuỗi khách sạn ở Mỹ, không qua nhà nhập khẩu, nhà phân phối hay đại lý, nên đây là xuất khẩu trực tiếp.",
+      "whyWrong": {
+        "a": "Xuất khẩu gián tiếp đi qua nhà nhập khẩu, nhà phân phối, đại lý hoặc nhà bán lẻ; ở đây không có trung gian.",
+        "b": "Tình huống là hợp đồng cung cấp ký trực tiếp, không bán qua sàn trực tuyến hay mô hình D2C.",
+        "c": "Chuỗi khách sạn là người mua sử dụng hàng, không phải nhà bán lẻ trung gian bán lại cho người tiêu dùng."
+      },
+      "source": "KB §2.4 – Direct export"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-market-entry-005",
+    "chapter": "C2",
+    "topic": "market-entry",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A coffee exporter that has always shipped in bulk to a B2B importer now plans to sell roasted coffee D2C through a cross-border online marketplace. According to the slides, which set of changes should the plan anticipate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Larger bulk lots and stronger transport-only packaging"
+      },
+      {
+        "id": "b",
+        "text": "Only a change of Incoterms rule; packaging and logistics stay the same"
+      },
+      {
+        "id": "c",
+        "text": "E-commerce-friendly, individual-unit packaging, fulfillment solutions and reliable last-mile delivery"
+      },
+      {
+        "id": "d",
+        "text": "Supermarket shelf labeling only, with the same bulk logistics"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Chuyển sang TMĐT xuyên biên giới D2C → bao bì thân thiện TMĐT, đóng gói từng đơn vị, fulfillment, giao hàng chặng cuối.",
+      "whyCorrect": "Câu hỏi đòi hỏi so sánh hai kênh trên slide. Với kênh nhà nhập khẩu B2B, doanh nghiệp cung cấp số lượng lớn với bao bì chủ yếu cho vận chuyển. Khi chuyển sang thương mại điện tử xuyên biên giới, slide nêu cần bao bì thân thiện với TMĐT, đóng gói từng đơn vị, giải pháp fulfillment và giao hàng chặng cuối tin cậy. Vì vậy kế hoạch phải điều chỉnh cả bao bì lẫn logistics.",
+      "whyWrong": {
+        "a": "Lô lớn và bao bì vận chuyển là đặc điểm của kênh B2B cũ, không phù hợp với bán lẻ D2C trên sàn trực tuyến.",
+        "b": "Slide khẳng định kênh ảnh hưởng đến bao bì, logistics và giao hàng, nên không thể chỉ đổi điều kiện Incoterms.",
+        "d": "Nhãn mác trên kệ siêu thị phù hợp kênh bán lẻ; kênh TMĐT còn cần fulfillment và giao hàng chặng cuối."
+      },
+      "source": "KB §2.4 – Channel influence"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-objectives-kpi-001",
+    "chapter": "C2",
+    "topic": "objectives-kpi",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which KPI is defined as the minimum sales revenue required to cover total costs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Expected Profit (%)"
+      },
+      {
+        "id": "b",
+        "text": "Break-even Point"
+      },
+      {
+        "id": "c",
+        "text": "Export Sales Revenue"
+      },
+      {
+        "id": "d",
+        "text": "Loss (%)"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Điểm hòa vốn (Break-even Point): doanh thu tối thiểu cần để bù đắp tổng chi phí.",
+      "whyCorrect": "Slide định nghĩa các KPI xuất khẩu; trong đó điểm hòa vốn (Break-even Point) là doanh thu bán hàng tối thiểu cần thiết để bù đắp tổng chi phí. Dưới mức này doanh nghiệp bị lỗ; trên mức này doanh nghiệp bắt đầu có lãi.",
+      "whyWrong": {
+        "a": "Lợi nhuận kỳ vọng (%) là lợi nhuận dự kiến so với doanh thu xuất khẩu, không phải doanh thu tối thiểu để hòa vốn.",
+        "c": "Doanh thu xuất khẩu là tổng giá trị hàng bán ra nước ngoài, không gắn với mức bù đắp chi phí.",
+        "d": "Lỗ (%) là mức lỗ tối đa có thể chấp nhận trong kịch bản bất lợi, không phải điểm hòa vốn."
+      },
+      "source": "KB §2.2 – KPIs"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-objectives-kpi-002",
+    "chapter": "C2",
+    "topic": "objectives-kpi",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which KPI measures the percentage increase in export sales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gross Profit Margin (%)"
+      },
+      {
+        "id": "b",
+        "text": "Expected Profit (%)"
+      },
+      {
+        "id": "c",
+        "text": "Break-even Point"
+      },
+      {
+        "id": "d",
+        "text": "Export Sales Growth (%)"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Tăng trưởng doanh số xuất khẩu (%) đo tỷ lệ phần trăm tăng của doanh số xuất khẩu.",
+      "whyCorrect": "Theo danh sách KPI trên slide, tăng trưởng doanh số xuất khẩu (Export Sales Growth %) là tỷ lệ phần trăm tăng của doanh số xuất khẩu. KPI này phù hợp với các mục tiêu như tăng doanh số xuất khẩu hay mở rộng cơ sở khách hàng.",
+      "whyWrong": {
+        "a": "Biên lợi nhuận gộp là phần trăm doanh thu còn lại sau chi phí liên quan đến xuất khẩu, không đo mức tăng trưởng.",
+        "b": "Lợi nhuận kỳ vọng là lợi nhuận dự kiến so với doanh thu xuất khẩu, không đo tốc độ tăng doanh số.",
+        "c": "Điểm hòa vốn là doanh thu tối thiểu bù đắp tổng chi phí, không phải tỷ lệ tăng trưởng doanh số."
+      },
+      "source": "KB §2.2 – KPIs"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-objectives-kpi-003",
+    "chapter": "C2",
+    "topic": "objectives-kpi",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which of the following is listed on the slides as a typical export objective rather than as a KPI?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Break-even Point"
+      },
+      {
+        "id": "b",
+        "text": "Loss (%)"
+      },
+      {
+        "id": "c",
+        "text": "Develop new international customers"
+      },
+      {
+        "id": "d",
+        "text": "Gross Profit Margin (%)"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Mục tiêu điển hình: thâm nhập thị trường mới, tăng doanh số XK, phát triển khách hàng quốc tế mới, mở rộng cơ sở khách hàng.",
+      "whyCorrect": "Slide tách riêng mục tiêu xuất khẩu và KPI. Các mục tiêu điển hình gồm: thâm nhập thị trường nước ngoài mới, tăng doanh số xuất khẩu, phát triển khách hàng quốc tế mới và mở rộng cơ sở khách hàng. KPI là các thước đo như doanh thu, tăng trưởng, biên lợi nhuận gộp, lợi nhuận kỳ vọng, điểm hòa vốn và lỗ (%).",
+      "whyWrong": {
+        "a": "Điểm hòa vốn là một KPI dùng để đo lường, không phải một mục tiêu xuất khẩu điển hình trên slide.",
+        "b": "Lỗ (%) là KPI thể hiện mức lỗ tối đa chấp nhận được, không phải mục tiêu xuất khẩu.",
+        "d": "Biên lợi nhuận gộp (%) là KPI đo khả năng sinh lời, không phải mục tiêu xuất khẩu điển hình."
+      },
+      "source": "KB §2.2 – Objectives & KPIs"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-objectives-kpi-004",
+    "chapter": "C2",
+    "topic": "objectives-kpi",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "In an export plan, management writes: “Under the most unfavourable scenario, we will accept a loss of no more than 5% of export revenue.” Which KPI does this statement set?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Loss (%)"
+      },
+      {
+        "id": "b",
+        "text": "Expected Profit (%)"
+      },
+      {
+        "id": "c",
+        "text": "Gross Profit Margin (%)"
+      },
+      {
+        "id": "d",
+        "text": "Export Sales Growth (%)"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Lỗ (%) = mức lỗ tối đa có thể chấp nhận trong kịch bản bất lợi.",
+      "whyCorrect": "Slide định nghĩa KPI Lỗ (Loss %) là mức lỗ tối đa có thể chấp nhận (maximum acceptable loss) trong một kịch bản bất lợi. Câu của ban lãnh đạo đặt giới hạn lỗ không quá 5% doanh thu xuất khẩu trong kịch bản xấu nhất, nên đây chính là KPI Lỗ (%).",
+      "whyWrong": {
+        "b": "Lợi nhuận kỳ vọng là mức lãi dự kiến so với doanh thu, không phải mức lỗ tối đa trong kịch bản xấu.",
+        "c": "Biên lợi nhuận gộp là phần trăm doanh thu còn lại sau chi phí, không phải giới hạn lỗ chấp nhận được.",
+        "d": "Tăng trưởng doanh số đo phần trăm tăng doanh số, không liên quan đến mức lỗ trong kịch bản bất lợi."
+      },
+      "source": "KB §2.2 – KPIs"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-objectives-kpi-005",
+    "chapter": "C2",
+    "topic": "objectives-kpi",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An export plan sets a Gross Profit Margin target of 20%. The plan forecasts export revenue of USD 50,000 and COGS of USD 41,000. What is the forecast gross profit margin, and does it meet the target?",
+    "options": [
+      {
+        "id": "a",
+        "text": "22% – above the target"
+      },
+      {
+        "id": "b",
+        "text": "18% – below the 20% target"
+      },
+      {
+        "id": "c",
+        "text": "82% – well above the target"
+      },
+      {
+        "id": "d",
+        "text": "USD 9,000 – the target is met because profit is positive"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Lợi nhuận gộp = 50,000 − 41,000 = 9,000; biên = 9,000 / 50,000 = 18% < mục tiêu 20%.",
+      "whyCorrect": "Áp dụng công thức trên slide: lợi nhuận gộp = doanh thu − giá vốn = 50,000 − 41,000 = USD 9,000; biên lợi nhuận gộp = lợi nhuận gộp / doanh thu × 100% = 9,000 / 50,000 = 18%. So với KPI mục tiêu 20%, kế hoạch chưa đạt, nên cần xem lại giá bán hoặc chi phí.",
+      "whyWrong": {
+        "a": "22% không khớp phép tính; lợi nhuận gộp USD 9,000 chia doanh thu USD 50,000 chỉ ra 18%.",
+        "c": "82% là tỷ lệ giá vốn trên doanh thu (41,000 / 50,000), không phải biên lợi nhuận gộp.",
+        "d": "USD 9,000 là lợi nhuận gộp tuyệt đối; KPI đặt theo phần trăm và biên 18% vẫn thấp hơn mục tiêu."
+      },
+      "source": "KB §2.2 – KPIs; §2.9 – Gross Profit Margin"
+    },
+    "tags": [
+      "calculation",
+      "integrated"
+    ],
+    "calc": {
+      "kind": "gross-margin",
+      "inputs": {
+        "revenue": 50000,
+        "cogs": 41000
+      },
+      "expected": 18
+    }
+  },
+  {
+    "id": "C2-pricing-payment-plan-001",
+    "chapter": "C2",
+    "topic": "pricing-payment-plan",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "In the Pricing & Payment component, which options are listed for payment timing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "T/T, D/P, D/A, L/C"
+      },
+      {
+        "id": "b",
+        "text": "EXW, FOB, CIF, DDP"
+      },
+      {
+        "id": "c",
+        "text": "Fixed price and adjustable price"
+      },
+      {
+        "id": "d",
+        "text": "Prepayment, payment at sight, deferred payment"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Thời điểm thanh toán: trả trước, trả ngay khi xuất trình, trả chậm.",
+      "whyCorrect": "Slide nêu điều kiện thanh toán trong kế hoạch xuất khẩu gồm phương thức thanh toán, thời điểm thanh toán (payment timing), đồng tiền thanh toán và rủi ro thanh toán. Thời điểm thanh toán có ba lựa chọn: trả trước (prepayment), trả ngay (payment at sight) và trả chậm (deferred payment).",
+      "whyWrong": {
+        "a": "T/T, D/P, D/A, L/C là các phương thức thanh toán (payment methods), không phải thời điểm thanh toán.",
+        "b": "EXW, FOB, CIF, DDP là các quy tắc Incoterms phân chia chi phí và rủi ro, không phải thời điểm thanh toán.",
+        "c": "Giá cố định và giá điều chỉnh là cách điều chỉnh giá trong hợp đồng (C6), không phải thời điểm thanh toán."
+      },
+      "source": "KB §2.6 – Pricing & Payment"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-pricing-payment-plan-002",
+    "chapter": "C2",
+    "topic": "pricing-payment-plan",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Why do the slides advise exporters to specify the currency in which the price is quoted?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Because the value of a foreign-currency price in the home currency may change, so the currency choice affects foreign exchange risk"
+      },
+      {
+        "id": "b",
+        "text": "Because Incoterms® rules fix the currency automatically"
+      },
+      {
+        "id": "c",
+        "text": "Because the currency only matters when payment is by L/C"
+      },
+      {
+        "id": "d",
+        "text": "Because the quoted currency determines the transport mode"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Đồng tiền báo giá quyết định mức độ rủi ro tỷ giá: số tiền ngoại tệ giữ nguyên nhưng giá trị nội tệ có thể thay đổi.",
+      "whyCorrect": "Slide C2 nêu nhà xuất khẩu cần xác định đồng tiền báo giá, và phần phân tích tài chính lưu ý rằng số tiền ngoại tệ đã thỏa thuận có thể giữ nguyên nhưng giá trị quy ra nội tệ có thể thay đổi theo thời gian. Vì vậy chọn đồng tiền ảnh hưởng đến rủi ro tỷ giá; C6 còn khuyến nghị dùng đồng tiền phổ biến, tự do chuyển đổi như USD, EUR.",
+      "whyWrong": {
+        "b": "Incoterms phân chia chi phí, rủi ro và trách nhiệm giao hàng; chúng không quy định đồng tiền báo giá.",
+        "c": "Đồng tiền ảnh hưởng doanh thu và lợi nhuận với mọi phương thức thanh toán, không chỉ riêng L/C.",
+        "d": "Phương thức vận tải được chọn trong thành phần logistics, không phụ thuộc vào đồng tiền báo giá."
+      },
+      "source": "KB §2.6; §2.9 – FX considerations; §6.7"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C2-pricing-payment-plan-003",
+    "chapter": "C2",
+    "topic": "pricing-payment-plan",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "The Pricing & Payment section of a draft export plan reads only: “Price: USD 2,000/ton FOB Ho Chi Minh City – Incoterms® 2020.” Which payment terms listed on the slides are still missing?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only the transport mode and the freight forwarder"
+      },
+      {
+        "id": "b",
+        "text": "Payment method, payment timing, payment currency and payment risk"
+      },
+      {
+        "id": "c",
+        "text": "Only the gross profit margin"
+      },
+      {
+        "id": "d",
+        "text": "Nothing; FOB already determines the payment terms"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Thành phần Giá & Thanh toán còn cần: phương thức, thời điểm, đồng tiền và rủi ro thanh toán.",
+      "whyCorrect": "Slide nêu thành phần giá và thanh toán gồm cách xác định giá xuất khẩu, Incoterms, đồng tiền báo giá và điều kiện thanh toán: phương thức thanh toán, thời điểm thanh toán (trả trước, trả ngay, trả chậm), đồng tiền thanh toán và rủi ro thanh toán. Bản nháp mới có giá và Incoterms, nên còn thiếu toàn bộ phần điều kiện thanh toán.",
+      "whyWrong": {
+        "a": "Phương thức vận tải và người giao nhận thuộc thành phần logistics và giao hàng, không phải giá và thanh toán.",
+        "c": "Biên lợi nhuận gộp thuộc phân tích tài chính; nó không thay thế được các điều kiện thanh toán còn thiếu.",
+        "d": "Incoterms chỉ phân chia chi phí và rủi ro giao hàng; chúng không quy định phương thức hay thời hạn thanh toán."
+      },
+      "source": "KB §2.6 – Pricing & Payment"
+    },
+    "tags": [
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C2-product-adaptation-001",
+    "chapter": "C2",
+    "topic": "product-adaptation",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which list matches the items of foreign intellectual property protection on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tariffs, quotas, TBT and sanctions"
+      },
+      {
+        "id": "b",
+        "text": "Brand name, trademarks, trade secrets, patents, industrial designs, copyrights"
+      },
+      {
+        "id": "c",
+        "text": "Lead time, delivery schedule, transport mode"
+      },
+      {
+        "id": "d",
+        "text": "Market size, market growth and market trends"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Bảo hộ sở hữu trí tuệ ở nước ngoài: tên thương hiệu, nhãn hiệu, bí mật kinh doanh, sáng chế, kiểu dáng công nghiệp, quyền tác giả.",
+      "whyCorrect": "Trong thành phần sản phẩm cho thị trường nước ngoài, slide nêu nội dung bảo hộ sở hữu trí tuệ ở nước ngoài (foreign intellectual property protection) gồm: tên thương hiệu, nhãn hiệu (trademarks), bí mật kinh doanh, bằng sáng chế (patents), kiểu dáng công nghiệp và quyền tác giả (copyrights).",
+      "whyWrong": {
+        "a": "Thuế quan, hạn ngạch, TBT và lệnh trừng phạt là rào cản thương mại hoặc rủi ro, không phải đối tượng sở hữu trí tuệ.",
+        "c": "Thời gian chờ, lịch giao hàng và phương thức vận tải thuộc thành phần logistics và giao hàng.",
+        "d": "Quy mô, tăng trưởng và xu hướng thị trường thuộc nhóm cơ hội thị trường trong phần thị trường mục tiêu."
+      },
+      "source": "KB §2.5 – Foreign IP protection"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-product-adaptation-002",
+    "chapter": "C2",
+    "topic": "product-adaptation",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which factor is considered in the “Product for foreign market” component of the export plan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Payment timing"
+      },
+      {
+        "id": "b",
+        "text": "Choice of freight forwarder"
+      },
+      {
+        "id": "c",
+        "text": "Break-even point"
+      },
+      {
+        "id": "d",
+        "text": "Product life cycle, seasonality and shelf life"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Thành phần sản phẩm xét: phù hợp sản phẩm–thị trường–khách hàng, đặc tính, chất lượng, tiêu chuẩn, bao bì, nhãn, ngôn ngữ, vòng đời, mùa vụ, hạn sử dụng.",
+      "whyCorrect": "Slide nêu thành phần sản phẩm cho thị trường nước ngoài gồm lựa chọn và phát triển sản phẩm: sự phù hợp sản phẩm–thị trường–khách hàng; đặc tính sản phẩm; chất lượng; tiêu chuẩn sản phẩm (sức khỏe, an toàn); bao bì, nhãn mác, ký hiệu, ngôn ngữ; vòng đời sản phẩm, tính mùa vụ và hạn sử dụng (shelf life).",
+      "whyWrong": {
+        "a": "Thời hạn thanh toán (trả trước, trả ngay, trả chậm) thuộc thành phần giá và thanh toán.",
+        "b": "Lựa chọn người giao nhận thuộc nội dung trung gian logistics trong thành phần logistics và giao hàng.",
+        "c": "Điểm hòa vốn là một KPI trong thành phần mục tiêu xuất khẩu, không thuộc thành phần sản phẩm."
+      },
+      "source": "KB §2.5 – Product for foreign market"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-product-adaptation-003",
+    "chapter": "C2",
+    "topic": "product-adaptation",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A food exporter learns that its target market requires labels in the local language and compliance with specific health and safety standards. Under which export plan component do the slides place these product requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Product for foreign market"
+      },
+      {
+        "id": "b",
+        "text": "Logistics & Delivery"
+      },
+      {
+        "id": "c",
+        "text": "Pricing & Payment"
+      },
+      {
+        "id": "d",
+        "text": "Export objectives"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Nhãn mác, ngôn ngữ, tiêu chuẩn sức khỏe & an toàn → thành phần Sản phẩm cho thị trường nước ngoài.",
+      "whyCorrect": "Slide đặt các nội dung tiêu chuẩn sản phẩm (sức khỏe và an toàn) và bao bì, nhãn mác, ký hiệu, ngôn ngữ trong thành phần sản phẩm cho thị trường nước ngoài. Doanh nghiệp cần điều chỉnh sản phẩm hiện có để đáp ứng các yêu cầu này trước khi xuất khẩu.",
+      "whyWrong": {
+        "b": "Logistics và giao hàng xử lý vận tải, kho bãi, bảo hiểm, trung gian và chứng từ, không phải nhãn và tiêu chuẩn sản phẩm.",
+        "c": "Giá và thanh toán xử lý giá xuất khẩu, Incoterms, đồng tiền và phương thức thanh toán.",
+        "d": "Mục tiêu xuất khẩu nêu kết quả muốn đạt và KPI, không quy định yêu cầu nhãn mác của sản phẩm."
+      },
+      "source": "KB §2.5 – Product for foreign market"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-product-adaptation-004",
+    "chapter": "C2",
+    "topic": "product-adaptation",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Question 1 of the 11 export preparation questions asks: “Which products are selected for export development, and what modifications are needed to adapt them for overseas markets?” Which export plan component mainly answers it?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Market entry / Distribution"
+      },
+      {
+        "id": "b",
+        "text": "Financial analysis"
+      },
+      {
+        "id": "c",
+        "text": "Product for foreign market"
+      },
+      {
+        "id": "d",
+        "text": "Resources & Responsibilities"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Câu hỏi 1 (chọn và điều chỉnh sản phẩm) ↔ thành phần Sản phẩm cho thị trường nước ngoài.",
+      "whyCorrect": "Câu hỏi kết hợp 11 câu hỏi chuẩn bị xuất khẩu với 9 thành phần kế hoạch. Thành phần sản phẩm cho thị trường nước ngoài nêu việc lựa chọn sản phẩm hiện có cho thị trường mới, điều chỉnh sản phẩm hiện có hoặc phát triển sản phẩm mới, và sự phù hợp sản phẩm–thị trường–khách hàng. Đây chính là nội dung câu hỏi 1.",
+      "whyWrong": {
+        "a": "Thâm nhập thị trường/phân phối trả lời cách tiếp cận khách hàng (câu hỏi 4 về kênh), không phải chọn sản phẩm.",
+        "b": "Phân tích tài chính tính doanh thu, chi phí và lợi nhuận, không quyết định chọn và điều chỉnh sản phẩm.",
+        "d": "Nguồn lực và trách nhiệm trả lời ai thực hiện kế hoạch (câu hỏi 9), không phải sản phẩm nào được chọn."
+      },
+      "source": "KB §2.5; §2.11 – Question 1"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C2-risk-types-001",
+    "chapter": "C2",
+    "topic": "risk-types",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Trade restrictions or sanctions belong to which risk group on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transportation risk"
+      },
+      {
+        "id": "b",
+        "text": "Market risk"
+      },
+      {
+        "id": "c",
+        "text": "Foreign credit / payment risk"
+      },
+      {
+        "id": "d",
+        "text": "Political / country risk"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Rủi ro chính trị/quốc gia: bất ổn chính trị, hạn chế thương mại hoặc trừng phạt, thay đổi chính sách, gián đoạn kinh tế/địa chính trị.",
+      "whyCorrect": "Slide liệt kê 6 nhóm rủi ro. Rủi ro chính trị/quốc gia (political/country risk) gồm bất ổn chính trị; hạn chế thương mại hoặc lệnh trừng phạt (sanctions); thay đổi chính sách của chính phủ; và các gián đoạn kinh tế hoặc địa chính trị.",
+      "whyWrong": {
+        "a": "Rủi ro vận tải gồm mất mát, hư hỏng trong vận chuyển và chậm trễ, không gồm lệnh trừng phạt.",
+        "b": "Rủi ro thị trường liên quan đến thay đổi nhu cầu, điều kiện thị trường, cạnh tranh hoặc giá cả.",
+        "c": "Rủi ro tín dụng/thanh toán liên quan đến người mua không trả, trả chậm và khả năng tín dụng."
+      },
+      "source": "KB §2.10 – Political / country risk"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-risk-types-002",
+    "chapter": "C2",
+    "topic": "risk-types",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Non-payment, delayed payment and the buyer's creditworthiness belong to which risk group?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Foreign credit / payment risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign exchange risk"
+      },
+      {
+        "id": "c",
+        "text": "Regulatory & compliance risk"
+      },
+      {
+        "id": "d",
+        "text": "Transportation risk"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Rủi ro tín dụng/thanh toán: người mua không trả tiền, trả chậm, khả năng tín dụng của người mua.",
+      "whyCorrect": "Theo slide, rủi ro tín dụng/thanh toán nước ngoài (foreign credit/payment risk) gồm người mua không thanh toán (non-payment), thanh toán chậm (delayed payment) và vấn đề khả năng tín dụng (creditworthiness) của người mua. Đây là một trong 6 nhóm rủi ro cần được xử lý trong thành phần quản trị rủi ro của kế hoạch xuất khẩu.",
+      "whyWrong": {
+        "b": "Rủi ro tỷ giá liên quan đến biến động đồng tiền và khả năng chuyển ngoại tệ, không phải việc người mua không trả.",
+        "c": "Rủi ro pháp lý và tuân thủ liên quan đến quy định nhập khẩu, tiêu chuẩn sản phẩm và chứng từ.",
+        "d": "Rủi ro vận tải liên quan đến mất mát, hư hỏng hoặc chậm trễ của hàng hóa trong quá trình vận chuyển."
+      },
+      "source": "KB §2.10 – Foreign credit / payment risk"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-risk-types-003",
+    "chapter": "C2",
+    "topic": "risk-types",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "After a contract is signed, the importing country changes its product labeling standards and the shipment is held at customs for non-compliance. Which risk group does this illustrate?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Market risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign credit / payment risk"
+      },
+      {
+        "id": "c",
+        "text": "Regulatory & compliance risk"
+      },
+      {
+        "id": "d",
+        "text": "Foreign exchange risk"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Thay đổi quy định nhập khẩu, tiêu chuẩn sản phẩm, vướng hải quan/chứng từ → rủi ro pháp lý & tuân thủ.",
+      "whyCorrect": "Slide nêu rủi ro pháp lý và tuân thủ (regulatory & compliance risk) gồm thay đổi quy định nhập khẩu, tiêu chuẩn sản phẩm, vấn đề hải quan/chứng từ và không đáp ứng yêu cầu của thị trường đích. Việc tiêu chuẩn nhãn mác thay đổi khiến hàng bị giữ ở hải quan đúng là rủi ro này.",
+      "whyWrong": {
+        "a": "Rủi ro thị trường là thay đổi nhu cầu, cạnh tranh hoặc giá cả, không phải hàng bị giữ do tiêu chuẩn nhãn.",
+        "b": "Tình huống không nói người mua không trả hoặc trả chậm; vấn đề là hàng không đáp ứng quy định.",
+        "d": "Không có biến động tỷ giá nào trong tình huống; hàng bị giữ vì thay đổi tiêu chuẩn nhãn mác."
+      },
+      "source": "KB §2.10 – Regulatory & compliance risk"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-risk-types-004",
+    "chapter": "C2",
+    "topic": "risk-types",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A buyer is willing to pay, but its country suddenly makes it impossible to obtain and transfer foreign currency abroad. According to the slide's classification, which risk group lists this situation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Transportation risk"
+      },
+      {
+        "id": "b",
+        "text": "Foreign exchange risk"
+      },
+      {
+        "id": "c",
+        "text": "Market risk"
+      },
+      {
+        "id": "d",
+        "text": "Regulatory & compliance risk"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Slide xếp “không thể mua/chuyển ngoại tệ ở nước người mua” vào nhóm rủi ro tỷ giá.",
+      "whyCorrect": "Slide liệt kê trong rủi ro tỷ giá (foreign exchange risk): đồng tiền của người mua mất giá so với đồng tiền của nhà xuất khẩu trước khi thanh toán; biến động tỷ giá ảnh hưởng lợi nhuận; và không thể mua hoặc chuyển ngoại tệ ở nước người mua (inability to obtain/transfer foreign currency).",
+      "whyWrong": {
+        "a": "Rủi ro vận tải là mất mát, hư hỏng hoặc chậm trễ của hàng trong vận chuyển, không phải chuyển ngoại tệ.",
+        "c": "Rủi ro thị trường là thay đổi nhu cầu, cạnh tranh hoặc giá, không phải việc không chuyển được ngoại tệ.",
+        "d": "Rủi ro pháp lý trên slide gắn với quy định nhập khẩu, tiêu chuẩn sản phẩm và hải quan, không phải ngoại tệ."
+      },
+      "source": "KB §2.10 – Foreign exchange risk"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-target-market-001",
+    "chapter": "C2",
+    "topic": "target-market",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which factors does the slide group under “market opportunity”?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Market size, market growth, market trends and demand"
+      },
+      {
+        "id": "b",
+        "text": "Tariff barriers, TBT and logistics connectivity"
+      },
+      {
+        "id": "c",
+        "text": "Company size, industry and financial capability of buyers"
+      },
+      {
+        "id": "d",
+        "text": "Payment method, payment timing and payment currency"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Cơ hội thị trường: quy mô, tăng trưởng, xu hướng và nhu cầu của thị trường.",
+      "whyCorrect": "Slide về thị trường mục tiêu chia thành ba nhóm: cơ hội thị trường (market opportunity) gồm quy mô thị trường, tăng trưởng thị trường, xu hướng và nhu cầu; mức hấp dẫn và khả năng tiếp cận thị trường; và khách hàng mục tiêu. Phương án A đúng với nhóm cơ hội thị trường.",
+      "whyWrong": {
+        "b": "Rào cản thuế quan, TBT và kết nối logistics thuộc nhóm mức hấp dẫn và khả năng tiếp cận thị trường.",
+        "c": "Quy mô công ty, ngành và năng lực tài chính là các yếu tố trong hồ sơ khách hàng mục tiêu.",
+        "d": "Phương thức, thời hạn và đồng tiền thanh toán thuộc thành phần giá và thanh toán của kế hoạch."
+      },
+      "source": "KB §2.3 – Market opportunity"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-target-market-002",
+    "chapter": "C2",
+    "topic": "target-market",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "On the slides, “TBT” – listed under market attractiveness and accessibility – stands for:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Total Business Turnover"
+      },
+      {
+        "id": "b",
+        "text": "Transport By Truck"
+      },
+      {
+        "id": "c",
+        "text": "Technical Barriers to Trade"
+      },
+      {
+        "id": "d",
+        "text": "Tariff-Based Trade"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "TBT = Technical Barriers to Trade (rào cản kỹ thuật đối với thương mại).",
+      "whyCorrect": "Slide liệt kê trong nhóm mức hấp dẫn và khả năng tiếp cận thị trường các yếu tố: cạnh tranh (đối thủ chính), quy định, rào cản thương mại (thuế quan và phi thuế quan), rào cản kỹ thuật đối với thương mại (Technical Barriers to Trade – TBT) và kết nối logistics.",
+      "whyWrong": {
+        "a": "“Total Business Turnover” không xuất hiện trên slide; TBT là rào cản kỹ thuật đối với thương mại.",
+        "b": "“Transport By Truck” là cách hiểu sai chữ viết tắt; TBT thuộc nhóm rào cản tiếp cận thị trường.",
+        "d": "Rào cản thuế quan được slide nêu riêng; TBT là rào cản kỹ thuật, không phải thương mại dựa trên thuế."
+      },
+      "source": "KB §2.3 – Market attractiveness & accessibility"
+    },
+    "tags": []
+  },
+  {
+    "id": "C2-target-market-003",
+    "chapter": "C2",
+    "topic": "target-market",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An export analyst compiles the company size, industry, geographic location, distribution network and financial capability of the ideal foreign buyers. What is the analyst building?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A market opportunity assessment"
+      },
+      {
+        "id": "b",
+        "text": "A break-even analysis"
+      },
+      {
+        "id": "c",
+        "text": "A logistics plan"
+      },
+      {
+        "id": "d",
+        "text": "A Target Customer Profile"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Quy mô, ngành, vị trí, mạng lưới phân phối, năng lực tài chính của người mua lý tưởng → Hồ sơ khách hàng mục tiêu.",
+      "whyCorrect": "Slide nêu hồ sơ khách hàng mục tiêu (Target Customer Profile) gồm quy mô công ty, ngành, vị trí địa lý, mạng lưới phân phối, năng lực tài chính… Đây là một phần của nội dung khách hàng mục tiêu, bên cạnh B2B/B2C, phân khúc, nhu cầu và hành vi mua.",
+      "whyWrong": {
+        "a": "Đánh giá cơ hội thị trường xét quy mô, tăng trưởng, xu hướng và nhu cầu của cả thị trường, không phải từng người mua.",
+        "b": "Phân tích hòa vốn tính doanh thu tối thiểu bù đắp chi phí, không mô tả đặc điểm khách hàng.",
+        "c": "Kế hoạch logistics xử lý vận tải, kho bãi, bảo hiểm, trung gian và chứng từ, không mô tả người mua."
+      },
+      "source": "KB §2.3 – Target customer"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C2-target-market-004",
+    "chapter": "C2",
+    "topic": "target-market",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An exporter collects four facts about a target market: (1) the market grows 8% a year; (2) the country applies tariff and non-tariff barriers; (3) port and transport links are weak; (4) buyers purchase mainly through B2B tenders. Which classification follows the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Opportunity: (1), (2); Attractiveness & accessibility: (3); Target customer: (4)"
+      },
+      {
+        "id": "b",
+        "text": "Opportunity: (1); Attractiveness & accessibility: (2), (3); Target customer: (4)"
+      },
+      {
+        "id": "c",
+        "text": "Opportunity: (4); Attractiveness & accessibility: (1); Target customer: (2), (3)"
+      },
+      {
+        "id": "d",
+        "text": "Opportunity: (1), (3); Attractiveness & accessibility: (4); Target customer: (2)"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Tăng trưởng → cơ hội; rào cản & kết nối logistics → hấp dẫn & tiếp cận; hành vi mua B2B → khách hàng mục tiêu.",
+      "whyCorrect": "Phân loại theo slide: tăng trưởng thị trường thuộc cơ hội thị trường; rào cản thương mại (thuế quan, phi thuế quan) và kết nối logistics thuộc mức hấp dẫn và khả năng tiếp cận; còn B2B/B2C, nhu cầu và hành vi mua thuộc khách hàng mục tiêu. Vì vậy (1) – cơ hội; (2), (3) – hấp dẫn và tiếp cận; (4) – khách hàng mục tiêu.",
+      "whyWrong": {
+        "a": "Rào cản thuế quan và phi thuế quan (2) thuộc nhóm hấp dẫn và khả năng tiếp cận, không phải cơ hội thị trường.",
+        "c": "Hành vi mua B2B (4) thuộc khách hàng mục tiêu, và tăng trưởng thị trường (1) là cơ hội thị trường.",
+        "d": "Kết nối logistics (3) thuộc khả năng tiếp cận, và hành vi mua (4) thuộc khách hàng mục tiêu."
+      },
+      "source": "KB §2.3 – Target market & target customer"
+    },
+    "tags": [
+      "scenario"
+    ]
+  }
+]

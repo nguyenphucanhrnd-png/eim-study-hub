@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "C7-bl-checklist-001",
+    "chapter": "C7",
+    "topic": "bl-checklist",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the B/L checklist, how may the freight be marked on a bill of lading?",
+    "options": [
+      {
+        "id": "a",
+        "text": "“Freight Insured” or “Freight Guaranteed”"
+      },
+      {
+        "id": "b",
+        "text": "“Freight Prepaid” or “Freight Collect/Payable at Destination”"
+      },
+      {
+        "id": "c",
+        "text": "“Freight on Board” or “Freight at Sight”"
+      },
+      {
+        "id": "d",
+        "text": "“Freight Waived” only"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Mục 18 checklist B/L: cước phí ghi “Freight Prepaid” hoặc “Freight Collect/Payable at Destination”.",
+      "whyCorrect": "Mục 18 trong checklist 19 mục kiểm tra vận đơn là cước phí (freight): vận đơn ghi “Freight Prepaid” (cước trả trước) hoặc “Freight Collect/Payable at Destination” (cước trả sau, thanh toán tại nơi đến). Ghi chú này phải phù hợp với điều kiện thương mại và yêu cầu của L/C.",
+      "whyWrong": {
+        "a": "“Freight Insured” và “Freight Guaranteed” không phải cách ghi cước phí được nêu trong checklist vận đơn.",
+        "c": "“On board” chỉ việc hàng đã xếp lên tàu và “at sight” chỉ thời hạn thanh toán, không phải ghi chú cước.",
+        "d": "Checklist nêu hai cách ghi cước là trả trước hoặc trả tại nơi đến, không có cách ghi “Freight Waived”."
+      },
+      "source": "KB §7.5 – B/L checklist (18)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-checklist-002",
+    "chapter": "C7",
+    "topic": "bl-checklist",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A B/L presented under an L/C is signed only by the shipper (the exporter). Under item 4 of the B/L checklist (issuer), is this acceptable?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because the shipper is the party that sends the goods"
+      },
+      {
+        "id": "b",
+        "text": "Yes, if the shipper also signs the commercial invoice"
+      },
+      {
+        "id": "c",
+        "text": "No, because the B/L must be issued by the carrier, an agent of the carrier, the master or an agent of the master"
+      },
+      {
+        "id": "d",
+        "text": "No, because only the issuing bank may sign a B/L"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Mục 4: người phát hành B/L phải là người chuyên chở, đại lý của người chuyên chở, thuyền trưởng hoặc đại lý của thuyền trưởng.",
+      "whyCorrect": "Checklist vận đơn mục 4 yêu cầu kiểm tra người phát hành: người chuyên chở (carrier), đại lý của người chuyên chở, thuyền trưởng (master) hoặc đại lý của thuyền trưởng; mục 5 kiểm tra chữ ký. Vận đơn là chứng từ do người chuyên chở cấp cho người gửi hàng, nên vận đơn chỉ có chữ ký của người gửi hàng là không phù hợp.",
+      "whyWrong": {
+        "a": "Người gửi hàng là bên nhận vận đơn từ người chuyên chở, không phải bên được phép phát hành vận đơn.",
+        "b": "Chữ ký của người gửi hàng trên hóa đơn không biến họ thành người phát hành vận đơn hợp lệ.",
+        "d": "Ngân hàng phát hành không ký vận đơn; người phát hành hợp lệ là người chuyên chở, thuyền trưởng hoặc đại lý của họ."
+      },
+      "source": "KB §7.5 – B/L checklist (4), (5)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-bl-checklist-003",
+    "chapter": "C7",
+    "topic": "bl-checklist",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Goods are sold “CIF Busan, Korea – Incoterms® 2020”, and the B/L is marked “Freight Collect”. Why should this be queried when checking the B/L?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Under CIF the seller contracts for and pays the main carriage, so “Freight Prepaid” would be expected"
+      },
+      {
+        "id": "b",
+        "text": "Under CIF the buyer always pays the freight, so the notation is correct"
+      },
+      {
+        "id": "c",
+        "text": "A B/L may never show any freight notation"
+      },
+      {
+        "id": "d",
+        "text": "“Freight Collect” is used only for air waybills"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "CIF: người bán trả cước chặng chính → vận đơn thường ghi “Freight Prepaid”, không phải “Freight Collect”.",
+      "whyCorrect": "Câu hỏi kết hợp checklist vận đơn (mục 18 – cước phí) với Incoterms (C3). Theo CIF, người bán ký hợp đồng và trả cước vận chuyển đến cảng đích. Vì vậy vận đơn nên ghi “Freight Prepaid”; ghi “Freight Collect/Payable at Destination” nghĩa là cước do bên nhận trả tại nơi đến, không nhất quán với CIF.",
+      "whyWrong": {
+        "b": "Theo CIF, người bán – không phải người mua – trả cước vận chuyển chặng chính đến cảng đích.",
+        "c": "Mục 18 của checklist yêu cầu kiểm tra ghi chú cước phí, nên vận đơn có ghi chú này là bình thường.",
+        "d": "Checklist vận đơn đường biển có cả hai cách ghi Prepaid và Collect, không chỉ dành cho vận đơn hàng không."
+      },
+      "source": "KB §7.5 – B/L checklist (18); §3.8 – CIF"
+    },
+    "tags": [
+      "integrated",
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C7-bl-checklist-004",
+    "chapter": "C7",
+    "topic": "bl-checklist",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An L/C requires a “full set 3/3 original clean on-board B/L, to order of the L/C opening bank, Freight Prepaid, notify the Buyer”. The beneficiary presents 2 originals of a clean on-board B/L, to order of the L/C opening bank, marked Freight Prepaid, notify the Buyer. Which checklist item fails?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Item 8: clean on board"
+      },
+      {
+        "id": "b",
+        "text": "Item 13: notify party"
+      },
+      {
+        "id": "c",
+        "text": "Item 18: freight notation"
+      },
+      {
+        "id": "d",
+        "text": "Item 7: number of originals"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "L/C đòi trọn bộ 3/3 bản gốc nhưng chỉ xuất trình 2 bản → không thỏa mục 7: số bản gốc.",
+      "whyCorrect": "Đối chiếu từng mục trong checklist 19 mục: vận đơn sạch, đã xếp hàng (mục 8), theo lệnh ngân hàng mở L/C, ghi Freight Prepaid (mục 18), bên được thông báo là người mua (mục 13) – đều khớp yêu cầu. Nhưng L/C đòi trọn bộ 3/3 bản gốc, trong khi chỉ có 2 bản gốc được xuất trình. Vì vậy mục 7 – số bản gốc – không đạt.",
+      "whyWrong": {
+        "a": "Vận đơn xuất trình là vận đơn sạch, đã xếp hàng lên tàu, nên mục 8 được đáp ứng.",
+        "b": "Bên được thông báo là người mua, đúng như yêu cầu của L/C, nên mục 13 không có vấn đề.",
+        "c": "Vận đơn ghi Freight Prepaid đúng yêu cầu của L/C, nên mục 18 được đáp ứng."
+      },
+      "source": "KB §7.5 – B/L checklist (19 items); §6.10 – Example"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-bl-functions-001",
+    "chapter": "C7",
+    "topic": "bl-functions",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, a bill of lading is a transport document issued by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the seller to the buyer"
+      },
+      {
+        "id": "b",
+        "text": "the issuing bank to the applicant"
+      },
+      {
+        "id": "c",
+        "text": "the insurance company to the insured"
+      },
+      {
+        "id": "d",
+        "text": "the carrier to the shipper"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Vận đơn (B/L) do người chuyên chở cấp cho người gửi hàng (người bán, nhà XK, người giao nhận).",
+      "whyCorrect": "Slide định nghĩa vận đơn (Bill of Lading) là chứng từ vận tải do người chuyên chở (carrier) phát hành cho người gửi hàng (shipper) – có thể là người bán, nhà xuất khẩu hoặc người giao nhận – xác nhận đã nhận hàng và nêu các điều kiện vận chuyển.",
+      "whyWrong": {
+        "a": "Chứng từ do người bán phát hành cho người mua là hóa đơn thương mại, không phải vận đơn.",
+        "b": "Ngân hàng phát hành mở L/C theo yêu cầu của người mua; ngân hàng không phát hành vận đơn.",
+        "c": "Công ty bảo hiểm phát hành giấy chứng nhận hoặc đơn bảo hiểm, không phải chứng từ vận tải."
+      },
+      "source": "KB §7.5 – Bill of Lading"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-functions-002",
+    "chapter": "C7",
+    "topic": "bl-functions",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which list gives the three functions of a bill of lading?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Receipt for shipment; evidence of the contract of carriage; document of title"
+      },
+      {
+        "id": "b",
+        "text": "Customs valuation; proof of origin; payment instrument"
+      },
+      {
+        "id": "c",
+        "text": "Insurance cover; receipt for payment; quality certificate"
+      },
+      {
+        "id": "d",
+        "text": "Sales contract; packing list; inspection report"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "3 chức năng của B/L: biên lai nhận hàng, bằng chứng của hợp đồng vận tải, chứng từ sở hữu hàng hóa.",
+      "whyCorrect": "Slide nêu ba chức năng của vận đơn: (1) biên lai nhận hàng để chở (receipt for shipment); (2) bằng chứng của hợp đồng vận tải (evidence of the contract of carriage); (3) chứng từ sở hữu hàng hóa (document of title) – vận đơn có thể chuyển nhượng cho phép người nắm giữ đòi hoặc kiểm soát hàng.",
+      "whyWrong": {
+        "b": "Trị giá hải quan gắn với hóa đơn thương mại, chứng minh xuất xứ gắn với C/O; đây không phải chức năng của B/L.",
+        "c": "Bảo hiểm thuộc chứng từ bảo hiểm và chất lượng thuộc giấy chứng nhận chất lượng, không phải vận đơn.",
+        "d": "Đây là tên các chứng từ khác, không phải ba chức năng của vận đơn được nêu trên slide."
+      },
+      "source": "KB §7.5 – 3 functions"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-functions-003",
+    "chapter": "C7",
+    "topic": "bl-functions",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which function of the bill of lading allows the holder of a negotiable B/L to claim and control the goods?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Receipt for shipment"
+      },
+      {
+        "id": "b",
+        "text": "Evidence of the contract of carriage"
+      },
+      {
+        "id": "c",
+        "text": "Document of title"
+      },
+      {
+        "id": "d",
+        "text": "Certificate of origin"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Chức năng chứng từ sở hữu (document of title): người nắm giữ B/L có thể chuyển nhượng được đòi/kiểm soát hàng.",
+      "whyCorrect": "Theo slide, chức năng thứ ba của vận đơn – chứng từ sở hữu hàng hóa (document of title) – có nghĩa là một vận đơn có thể chuyển nhượng (negotiable B/L) cho phép người nắm giữ đòi hoặc kiểm soát hàng hóa, tùy theo luật áp dụng và điều khoản của vận đơn.",
+      "whyWrong": {
+        "a": "Chức năng biên lai chỉ xác nhận người chuyên chở đã nhận hàng, không trao quyền kiểm soát hàng cho người nắm giữ.",
+        "b": "Chức năng bằng chứng hợp đồng vận tải thể hiện điều kiện chuyên chở, không phải quyền đòi hàng.",
+        "d": "Chứng nhận xuất xứ không phải chức năng của vận đơn; đó là một chứng từ riêng (C/O)."
+      },
+      "source": "KB §7.5 – Document of title"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-functions-004",
+    "chapter": "C7",
+    "topic": "bl-functions",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "The slide's contract example requires a full set of original clean on-board B/Ls “made out to order of the L/C opening bank”. Which B/L function best explains why this protects the issuing bank?",
+    "options": [
+      {
+        "id": "a",
+        "text": "As a receipt, it proves the bank has paid the seller"
+      },
+      {
+        "id": "b",
+        "text": "As a document of title, the B/L made out to the bank's order lets the bank control the goods through the documents"
+      },
+      {
+        "id": "c",
+        "text": "As evidence of the contract of carriage, it makes the bank the carrier"
+      },
+      {
+        "id": "d",
+        "text": "It has no effect; the consignee is always the buyer"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "B/L theo lệnh ngân hàng mở L/C + chức năng chứng từ sở hữu → ngân hàng kiểm soát hàng qua bộ chứng từ.",
+      "whyCorrect": "Câu hỏi kết hợp C6 và C7. Vận đơn theo lệnh (B/L to order) là vận đơn có thể chuyển nhượng; slide nêu có thể lập theo lệnh ngân hàng phát hành. Với chức năng chứng từ sở hữu, người nắm giữ vận đơn có thể đòi và kiểm soát hàng. Lập vận đơn theo lệnh ngân hàng mở L/C giúp ngân hàng kiểm soát hàng thông qua bộ chứng từ.",
+      "whyWrong": {
+        "a": "Chức năng biên lai xác nhận người chuyên chở đã nhận hàng, không chứng minh việc ngân hàng đã thanh toán.",
+        "c": "Ngân hàng không trở thành người chuyên chở; hợp đồng vận tải vẫn là giữa người gửi hàng và người chuyên chở.",
+        "d": "Vận đơn theo lệnh ngân hàng có tác dụng rõ ràng; người nhận hàng không mặc nhiên luôn là người mua."
+      },
+      "source": "KB §7.5 – Functions & B/L to order; §6.10 – Example"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-bl-types-001",
+    "chapter": "C7",
+    "topic": "bl-types",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "A clean bill of lading is one that:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bears no clause or notation indicating defective goods or packaging"
+      },
+      {
+        "id": "b",
+        "text": "is consigned to a specifically named consignee"
+      },
+      {
+        "id": "c",
+        "text": "confirms that the carrier has received the goods but not yet loaded them"
+      },
+      {
+        "id": "d",
+        "text": "is deliverable to whoever holds it"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Vận đơn sạch (clean B/L): không có ghi chú/điều khoản cho thấy hàng hóa hoặc bao bì bị khuyết tật.",
+      "whyCorrect": "Slide định nghĩa vận đơn sạch (clean B/L) là vận đơn không có điều khoản hoặc ghi chú nào cho thấy hàng hóa hay bao bì bị khuyết tật. Ngược lại, vận đơn không sạch (unclean/claused/dirty B/L) có những ghi chú như mùi lạ, bao bì hư hỏng.",
+      "whyWrong": {
+        "b": "Vận đơn giao cho một người nhận hàng có tên cụ thể là vận đơn đích danh (straight B/L).",
+        "c": "Vận đơn xác nhận đã nhận hàng nhưng chưa xếp lên tàu là vận đơn nhận hàng để chở (received for shipment).",
+        "d": "Vận đơn giao cho người cầm giữ là vận đơn vô danh (bearer B/L), không phải định nghĩa vận đơn sạch."
+      },
+      "source": "KB §7.5 – 7 types (1)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-types-002",
+    "chapter": "C7",
+    "topic": "bl-types",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "A straight bill of lading is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "transferable by endorsement and delivery"
+      },
+      {
+        "id": "b",
+        "text": "deliverable to the holder/bearer"
+      },
+      {
+        "id": "c",
+        "text": "issued only after the goods have been inspected by customs"
+      },
+      {
+        "id": "d",
+        "text": "consigned to a specifically named consignee"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Vận đơn đích danh (straight B/L): ghi giao cho một người nhận hàng có tên cụ thể.",
+      "whyCorrect": "Theo slide, vận đơn đích danh (straight B/L) là vận đơn ghi giao hàng cho một người nhận hàng có tên cụ thể (specifically named consignee). Khác với vận đơn theo lệnh, nó không được mô tả là chuyển nhượng bằng ký hậu.",
+      "whyWrong": {
+        "a": "Chuyển nhượng bằng ký hậu và trao tay là đặc điểm của vận đơn theo lệnh (B/L to order).",
+        "b": "Giao hàng cho người cầm vận đơn là đặc điểm của vận đơn vô danh (bearer B/L).",
+        "c": "Slide không định nghĩa loại vận đơn nào theo việc hải quan đã kiểm tra hàng; định nghĩa này sai."
+      },
+      "source": "KB §7.5 – 7 types (6)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-types-003",
+    "chapter": "C7",
+    "topic": "bl-types",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "When the goods are loaded, the ship's officer notes on the B/L: “20 cartons torn, contents exposed.” What type of B/L is this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Clean B/L"
+      },
+      {
+        "id": "b",
+        "text": "Unclean (claused/dirty) B/L"
+      },
+      {
+        "id": "c",
+        "text": "Straight B/L"
+      },
+      {
+        "id": "d",
+        "text": "Received for shipment B/L"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Ghi chú bao bì hư hỏng trên B/L → vận đơn không sạch (unclean/claused/dirty B/L).",
+      "whyCorrect": "Slide định nghĩa vận đơn không sạch (unclean, claused hoặc dirty B/L) là vận đơn có ghi chú cho thấy hàng hóa hoặc bao bì bị khuyết tật, ví dụ mùi lạ hay bao bì hư hỏng. Ghi chú “20 cartons torn” cho thấy bao bì hư hỏng, nên đây là vận đơn không sạch.",
+      "whyWrong": {
+        "a": "Vận đơn sạch không có ghi chú nào về khuyết tật; ở đây có ghi chú thùng hàng bị rách.",
+        "c": "Vận đơn đích danh phân loại theo người nhận hàng, không theo tình trạng hàng hóa hay bao bì.",
+        "d": "Đề bài nói hàng đã được xếp lên tàu; ghi chú phản ánh tình trạng hàng, không phải việc chưa xếp hàng."
+      },
+      "source": "KB §7.5 – 7 types (2)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-bl-types-004",
+    "chapter": "C7",
+    "topic": "bl-types",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "The carrier takes the goods into its container yard and issues a B/L before the vessel arrives for loading. Which type of B/L has been issued?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Shipped on board B/L"
+      },
+      {
+        "id": "b",
+        "text": "Bearer B/L"
+      },
+      {
+        "id": "c",
+        "text": "Received for shipment B/L"
+      },
+      {
+        "id": "d",
+        "text": "Clean on board B/L"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Người chuyên chở đã nhận hàng nhưng chưa xếp lên tàu → vận đơn nhận hàng để chở (received for shipment).",
+      "whyCorrect": "Slide phân biệt vận đơn đã xếp hàng (shipped on board B/L) – xác nhận hàng đã được xếp lên tàu – với vận đơn nhận hàng để chở (received for shipment B/L) – người chuyên chở đã nhận hàng nhưng chưa xếp lên tàu. Hàng mới ở bãi container và tàu chưa đến, nên đây là vận đơn nhận hàng để chở.",
+      "whyWrong": {
+        "a": "Vận đơn đã xếp hàng chỉ phát hành khi hàng đã lên tàu, trong khi tàu ở đây chưa đến cảng.",
+        "b": "Vận đơn vô danh phân loại theo cách giao hàng cho người cầm giữ, không theo thời điểm xếp hàng.",
+        "d": "“Clean on board” đòi hỏi hàng đã được xếp lên tàu; tình huống chỉ mới nhận hàng tại bãi."
+      },
+      "source": "KB §7.5 – 7 types (3), (4)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-bl-types-005",
+    "chapter": "C7",
+    "topic": "bl-types",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "How is a B/L to order transferred, according to the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "By endorsement and delivery"
+      },
+      {
+        "id": "b",
+        "text": "Only by a new contract between seller and buyer"
+      },
+      {
+        "id": "c",
+        "text": "It cannot be transferred"
+      },
+      {
+        "id": "d",
+        "text": "By registration with the customs authority"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Vận đơn theo lệnh có thể chuyển nhượng (negotiable) bằng ký hậu và trao tay.",
+      "whyCorrect": "Theo slide, vận đơn theo lệnh (B/L to order) là vận đơn có thể chuyển nhượng (negotiable), được chuyển giao bằng ký hậu và trao tay (endorsement and delivery). Nó có thể được lập theo lệnh của ngân hàng phát hành, người yêu cầu mở L/C, người gửi hàng, hoặc chỉ ghi “to order”.",
+      "whyWrong": {
+        "b": "Slide không yêu cầu hợp đồng mới; vận đơn theo lệnh được chuyển giao bằng ký hậu và trao tay.",
+        "c": "Vận đơn theo lệnh chính là loại vận đơn có thể chuyển nhượng, nên phát biểu không chuyển được là sai.",
+        "d": "Slide không nêu thủ tục đăng ký với hải quan; cơ chế chuyển giao là ký hậu và trao tay."
+      },
+      "source": "KB §7.5 – 7 types (5)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-bl-types-006",
+    "chapter": "C7",
+    "topic": "bl-types",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An L/C requires a “clean on board B/L made out to order of the issuing bank”. The seller presents a received-for-shipment B/L, consigned to “XYZ Trading Co., Osaka”, with the notation “some bags wet”. Which deficiencies does it have?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only that it is not an on-board B/L"
+      },
+      {
+        "id": "b",
+        "text": "Only that it bears a notation about wet bags"
+      },
+      {
+        "id": "c",
+        "text": "Only that the consignee is wrong"
+      },
+      {
+        "id": "d",
+        "text": "It is not on board, it is a straight B/L rather than to order, and it is unclean"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Ba lỗi: vận đơn nhận hàng (chưa on board), đích danh (không theo lệnh), có ghi chú hàng ướt (không sạch).",
+      "whyCorrect": "Phân tích theo 7 loại vận đơn trên slide. (1) “Received for shipment” – hàng chưa được xếp lên tàu, trong khi L/C đòi on board. (2) Giao cho một người nhận hàng có tên cụ thể là vận đơn đích danh, không phải vận đơn theo lệnh ngân hàng phát hành. (3) Ghi chú “some bags wet” khiến vận đơn không sạch. Cả ba điểm đều không phù hợp.",
+      "whyWrong": {
+        "a": "Lỗi chưa xếp hàng là đúng, nhưng vận đơn còn sai người nhận hàng và có ghi chú khuyết tật.",
+        "b": "Ghi chú hàng ướt là một lỗi, nhưng vận đơn còn chưa on board và là vận đơn đích danh.",
+        "c": "Sai người nhận hàng là một lỗi, nhưng vận đơn còn không sạch và chưa được xếp lên tàu."
+      },
+      "source": "KB §7.5 – 7 types; B/L checklist (8)"
+    },
+    "tags": [
+      "error-spotting",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-certificate-of-origin-001",
+    "chapter": "C7",
+    "topic": "certificate-of-origin",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "What does a Certificate of Origin (C/O) certify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The quality of the goods"
+      },
+      {
+        "id": "b",
+        "text": "The insured value of the goods"
+      },
+      {
+        "id": "c",
+        "text": "The ownership of the goods in transit"
+      },
+      {
+        "id": "d",
+        "text": "The country of origin of the exported goods"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "C/O chứng nhận nước xuất xứ của hàng xuất khẩu; tùy hiệp định, dùng để xét ưu đãi thuế quan.",
+      "whyCorrect": "Slide nêu giấy chứng nhận xuất xứ (Certificate of Origin – C/O) chứng nhận nước xuất xứ (country of origin) của hàng hóa xuất khẩu. Tùy theo hiệp định thương mại, C/O được dùng để xác định hàng có đủ điều kiện hưởng ưu đãi thuế quan (preferential tariff treatment) hay không.",
+      "whyWrong": {
+        "a": "Chất lượng hàng hóa được xác nhận bằng giấy chứng nhận chất lượng (Certificate of Quality).",
+        "b": "Giá trị bảo hiểm được thể hiện trên chứng từ bảo hiểm, không phải trên giấy chứng nhận xuất xứ.",
+        "c": "Quyền kiểm soát hàng trong vận chuyển gắn với vận đơn – chứng từ sở hữu hàng hóa."
+      },
+      "source": "KB §7.8 – Certificate of Origin"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-certificate-of-origin-002",
+    "chapter": "C7",
+    "topic": "certificate-of-origin",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Depending on the trade agreement, a Certificate of Origin is used to determine:",
+    "options": [
+      {
+        "id": "a",
+        "text": "eligibility for preferential tariff treatment"
+      },
+      {
+        "id": "b",
+        "text": "the customs value of the goods"
+      },
+      {
+        "id": "c",
+        "text": "the freight payable at destination"
+      },
+      {
+        "id": "d",
+        "text": "the date of shipment"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Tùy hiệp định thương mại, C/O dùng để xác định hàng có được hưởng ưu đãi thuế quan hay không.",
+      "whyCorrect": "Theo slide, ngoài việc chứng nhận nước xuất xứ, C/O – tùy theo hiệp định thương mại – được dùng để xác định hàng hóa có đủ điều kiện hưởng ưu đãi thuế quan (preferential tariff treatment) hay không. Vì thế có nhiều mẫu C/O tương ứng với từng hiệp định như ATIGA, ACFTA, EVFTA, RCEP, CPTPP.",
+      "whyWrong": {
+        "b": "Trị giá hải quan được xác định chủ yếu dựa trên hóa đơn thương mại cùng các chứng từ khác.",
+        "c": "Cước trả tại nơi đến được thể hiện bằng ghi chú “Freight Collect” trên vận đơn, không phải C/O.",
+        "d": "Ngày giao hàng được thể hiện trên vận đơn (ngày xếp hàng lên tàu), không phải trên C/O."
+      },
+      "source": "KB §7.8 – Certificate of Origin"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-certificate-of-origin-003",
+    "chapter": "C7",
+    "topic": "certificate-of-origin",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter needs a C/O only to prove the origin of its goods, with no tariff preference being claimed. According to the slide's list of C/O forms, which form fits?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form A"
+      },
+      {
+        "id": "b",
+        "text": "Form D"
+      },
+      {
+        "id": "c",
+        "text": "Form B"
+      },
+      {
+        "id": "d",
+        "text": "Form EUR.1"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Form B là C/O không ưu đãi (non-preferential) – chỉ chứng nhận xuất xứ, không xin ưu đãi thuế.",
+      "whyCorrect": "Trong danh sách mẫu C/O trên slide, Form B là mẫu không ưu đãi (non-preferential). Các mẫu khác gắn với chương trình hoặc hiệp định ưu đãi: Form A – GSP, Form D – ATIGA, Form EUR.1 – EVFTA… Khi nhà xuất khẩu chỉ cần chứng minh xuất xứ mà không đề nghị ưu đãi thuế quan, Form B là phù hợp.",
+      "whyWrong": {
+        "a": "Form A gắn với Hệ thống ưu đãi thuế quan phổ cập (GSP), tức là mẫu C/O ưu đãi.",
+        "b": "Form D gắn với Hiệp định ATIGA của ASEAN, dùng để hưởng ưu đãi thuế quan trong khối.",
+        "d": "Form EUR.1 gắn với EVFTA, dùng để hưởng ưu đãi thuế quan khi xuất khẩu sang EU."
+      },
+      "source": "KB §7.8 – Main forms (Form B)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-certificate-of-origin-004",
+    "chapter": "C7",
+    "topic": "certificate-of-origin",
+    "difficulty": 3,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter ships coffee to Germany and the importer wants the preferential tariff under the EU–Vietnam Free Trade Agreement (EVFTA). Which C/O form should be issued?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form B"
+      },
+      {
+        "id": "b",
+        "text": "Form EUR.1"
+      },
+      {
+        "id": "c",
+        "text": "Form D"
+      },
+      {
+        "id": "d",
+        "text": "Form EUR.1 UK"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Ưu đãi theo EVFTA (Việt Nam – EU) → C/O Form EUR.1.",
+      "whyCorrect": "Câu hỏi đòi hỏi kết nối mục đích của C/O với hiệp định cụ thể. C/O được dùng để xét ưu đãi thuế quan theo hiệp định; slide liệt kê Form EUR.1 tương ứng với EVFTA. Đức là thành viên EU, người nhập khẩu muốn hưởng ưu đãi EVFTA, nên cần C/O Form EUR.1.",
+      "whyWrong": {
+        "a": "Form B là mẫu không ưu đãi, không giúp người nhập khẩu hưởng thuế suất ưu đãi theo EVFTA.",
+        "c": "Form D dùng cho ATIGA giữa các nước ASEAN; Đức là thành viên EU, không thuộc ASEAN.",
+        "d": "Form EUR.1 UK dùng cho UKVFTA với Vương quốc Anh, không áp dụng cho hàng xuất sang Đức theo EVFTA."
+      },
+      "source": "KB §7.8 – Main forms"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-co-forms-fta-001",
+    "chapter": "C7",
+    "topic": "co-forms-fta",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which C/O form is used under ATIGA (the ASEAN Trade in Goods Agreement)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form E"
+      },
+      {
+        "id": "b",
+        "text": "Form AK"
+      },
+      {
+        "id": "c",
+        "text": "Form AANZ"
+      },
+      {
+        "id": "d",
+        "text": "Form D"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Form D – ATIGA (ASEAN); Form E – ACFTA; Form AK – ASEAN–Hàn Quốc; Form AANZ – ASEAN–Úc–New Zealand.",
+      "whyCorrect": "Theo danh sách mẫu C/O trên slide, Form D tương ứng với ATIGA – hiệp định thương mại hàng hóa giữa các nước ASEAN. Các mẫu khác gắn với hiệp định giữa ASEAN và đối tác: Form E (ASEAN–Trung Quốc), Form AK (ASEAN–Hàn Quốc), Form AANZ (ASEAN–Úc–New Zealand).",
+      "whyWrong": {
+        "a": "Form E dùng cho ACFTA, hiệp định thương mại tự do giữa ASEAN và Trung Quốc.",
+        "b": "Form AK dùng cho hiệp định thương mại tự do giữa ASEAN và Hàn Quốc.",
+        "c": "Form AANZ dùng cho hiệp định giữa ASEAN với Úc và New Zealand, không phải ATIGA."
+      },
+      "source": "KB §7.8 – Main forms"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-co-forms-fta-002",
+    "chapter": "C7",
+    "topic": "co-forms-fta",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Form E is the C/O used under which agreement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ACFTA (ASEAN–China)"
+      },
+      {
+        "id": "b",
+        "text": "EVFTA (EU–Vietnam)"
+      },
+      {
+        "id": "c",
+        "text": "ASEAN–Japan"
+      },
+      {
+        "id": "d",
+        "text": "ASEAN–India"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Form E – ACFTA (ASEAN–Trung Quốc).",
+      "whyCorrect": "Danh sách mẫu C/O trên slide ghi Form E tương ứng với ACFTA – Hiệp định thương mại tự do ASEAN–Trung Quốc. Hàng hóa Việt Nam xuất sang Trung Quốc muốn hưởng ưu đãi theo ACFTA cần C/O Form E.",
+      "whyWrong": {
+        "b": "EVFTA giữa EU và Việt Nam sử dụng mẫu Form EUR.1, không phải Form E.",
+        "c": "Hiệp định ASEAN–Nhật Bản sử dụng mẫu Form AJ theo danh sách mẫu C/O trên slide, không phải Form E.",
+        "d": "Hiệp định ASEAN–Ấn Độ sử dụng mẫu Form AI theo danh sách mẫu C/O trên slide, không phải Form E."
+      },
+      "source": "KB §7.8 – Main forms"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-co-forms-fta-003",
+    "chapter": "C7",
+    "topic": "co-forms-fta",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter ships to Korea and chooses to claim preference under the bilateral Vietnam–Korea FTA (VKFTA). Which C/O form is used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form AK"
+      },
+      {
+        "id": "b",
+        "text": "Form AJ"
+      },
+      {
+        "id": "c",
+        "text": "Form VK"
+      },
+      {
+        "id": "d",
+        "text": "Form E"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "VKFTA (song phương Việt Nam–Hàn Quốc) → Form VK; Form AK dành cho ASEAN–Hàn Quốc.",
+      "whyCorrect": "Slide liệt kê hai mẫu C/O liên quan đến Hàn Quốc: Form AK (Hiệp định ASEAN–Hàn Quốc) và Form VK (Hiệp định thương mại tự do song phương Việt Nam–Hàn Quốc). Vì nhà xuất khẩu chọn hưởng ưu đãi theo VKFTA, mẫu cần dùng là Form VK.",
+      "whyWrong": {
+        "a": "Form AK dùng cho hiệp định ASEAN–Hàn Quốc, không phải hiệp định song phương VKFTA mà đề bài chọn.",
+        "b": "Form AJ dùng cho hiệp định ASEAN–Nhật Bản, không liên quan đến hàng xuất sang Hàn Quốc.",
+        "d": "Form E dùng cho ACFTA giữa ASEAN và Trung Quốc, không áp dụng cho Hàn Quốc."
+      },
+      "source": "KB §7.8 – Main forms"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-co-forms-fta-004",
+    "chapter": "C7",
+    "topic": "co-forms-fta",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "According to the slides, RCEP has 15 members. Which country is an RCEP member outside ASEAN?",
+    "options": [
+      {
+        "id": "a",
+        "text": "India"
+      },
+      {
+        "id": "b",
+        "text": "New Zealand"
+      },
+      {
+        "id": "c",
+        "text": "Canada"
+      },
+      {
+        "id": "d",
+        "text": "United States"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "RCEP 15 thành viên = 10 nước ASEAN + Trung Quốc, Nhật Bản, Hàn Quốc, Úc, New Zealand.",
+      "whyCorrect": "Slide nêu RCEP có 15 thành viên gồm 10 nước ASEAN cộng với 5 đối tác: Trung Quốc, Nhật Bản, Hàn Quốc, Úc và New Zealand. Trong các phương án, chỉ New Zealand thuộc nhóm 5 đối tác ngoài ASEAN này.",
+      "whyWrong": {
+        "a": "Ấn Độ không nằm trong danh sách 15 thành viên RCEP trên slide; ASEAN–Ấn Độ có mẫu Form AI riêng.",
+        "c": "Canada không thuộc danh sách thành viên RCEP; trên slide Canada xuất hiện trong danh sách CPTPP.",
+        "d": "Hoa Kỳ không có trong danh sách 15 thành viên RCEP gồm ASEAN và 5 đối tác được nêu trên slide."
+      },
+      "source": "KB §7.8 – RCEP"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-co-forms-fta-005",
+    "chapter": "C7",
+    "topic": "co-forms-fta",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A Vietnamese exporter ships goods to Japan. Based on the slide's list of C/O forms and agreement members, which forms could be relevant for claiming preferential treatment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only Form AJ"
+      },
+      {
+        "id": "b",
+        "text": "Form E and Form AK"
+      },
+      {
+        "id": "c",
+        "text": "Form B only"
+      },
+      {
+        "id": "d",
+        "text": "Form AJ, Form VJ, Form RCEP and Form CPTPP"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Nhật Bản có trong ASEAN–Nhật (AJ), VJEPA (VJ), RCEP và CPTPP → có thể cân nhắc cả 4 mẫu.",
+      "whyCorrect": "Phân tích danh sách trên slide: Form AJ – ASEAN–Nhật Bản; Form VJ – Hiệp định đối tác kinh tế Việt Nam–Nhật Bản; RCEP gồm Nhật Bản trong 5 đối tác ngoài ASEAN; danh sách thành viên CPTPP cũng có Nhật Bản. Vì vậy cả bốn mẫu C/O đều có thể liên quan; nhà xuất khẩu chọn mẫu phù hợp với hiệp định được áp dụng.",
+      "whyWrong": {
+        "a": "Form AJ chỉ là một lựa chọn; Nhật Bản còn tham gia VJEPA, RCEP và CPTPP theo slide.",
+        "b": "Form E dành cho ASEAN–Trung Quốc và Form AK dành cho ASEAN–Hàn Quốc, không áp dụng cho Nhật Bản.",
+        "c": "Form B là mẫu không ưu đãi, không dùng để xin ưu đãi thuế quan khi xuất sang Nhật Bản."
+      },
+      "source": "KB §7.8 – Main forms; RCEP; CPTPP"
+    },
+    "tags": [
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-commercial-invoice-001",
+    "chapter": "C7",
+    "topic": "commercial-invoice",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, a commercial invoice is issued by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the carrier to the shipper"
+      },
+      {
+        "id": "b",
+        "text": "the customs authority to the importer"
+      },
+      {
+        "id": "c",
+        "text": "the seller to the buyer"
+      },
+      {
+        "id": "d",
+        "text": "the issuing bank to the beneficiary"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Hóa đơn thương mại do người bán lập gửi người mua, nêu chi tiết hàng hóa và giao dịch.",
+      "whyCorrect": "Slide định nghĩa hóa đơn thương mại (commercial invoice) là chứng từ do người bán phát hành cho người mua, nêu chi tiết hàng hóa đã bán và giao dịch: mô tả hàng, số lượng và đơn vị, giá, điều kiện giao hàng, điều kiện thanh toán, ngày và số đơn hàng, người gửi/người bán, người nhận/người mua…",
+      "whyWrong": {
+        "a": "Chứng từ do người chuyên chở cấp cho người gửi hàng là vận đơn (B/L), không phải hóa đơn thương mại.",
+        "b": "Cơ quan hải quan sử dụng hóa đơn để xác định trị giá hải quan, chứ không phát hành hóa đơn thương mại.",
+        "d": "Ngân hàng phát hành mở L/C cho người thụ hưởng; ngân hàng không lập hóa đơn thương mại cho giao dịch."
+      },
+      "source": "KB §7.3 – Commercial invoice"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-commercial-invoice-002",
+    "chapter": "C7",
+    "topic": "commercial-invoice",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which set of information belongs to the main contents of a commercial invoice?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Name of the insurer, insured amount and premium"
+      },
+      {
+        "id": "b",
+        "text": "Description, quantity and unit, price, delivery and payment terms, order date and number"
+      },
+      {
+        "id": "c",
+        "text": "Harmful pests and plant diseases inspected"
+      },
+      {
+        "id": "d",
+        "text": "Signature of the master and the shipped-on-board date"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Nội dung chính của hóa đơn thương mại: mô tả, số lượng & đơn vị, giá, giao hàng, thanh toán, ngày & số đơn hàng, các bên.",
+      "whyCorrect": "Theo slide, nội dung chính của hóa đơn thương mại gồm mô tả hàng hóa, số lượng và đơn vị, giá, điều kiện giao hàng, điều kiện thanh toán, ngày và số đơn hàng, người gửi hàng/người bán, người nhận hàng/người mua và các thông tin khác. Phương án B khớp với danh sách này.",
+      "whyWrong": {
+        "a": "Tên người bảo hiểm, số tiền và phí bảo hiểm là nội dung của chứng từ bảo hiểm, không phải hóa đơn thương mại.",
+        "c": "Thông tin về sâu bệnh hại là nội dung của giấy chứng nhận kiểm dịch thực vật do cơ quan nhà nước cấp.",
+        "d": "Chữ ký thuyền trưởng và ngày xếp hàng lên tàu là các mục trong checklist kiểm tra vận đơn."
+      },
+      "source": "KB §7.3 – Main contents"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-commercial-invoice-003",
+    "chapter": "C7",
+    "topic": "commercial-invoice",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "How does the customs authority use the commercial invoice, according to the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To confirm that the goods are free from harmful pests"
+      },
+      {
+        "id": "b",
+        "text": "To transfer ownership of the goods by endorsement"
+      },
+      {
+        "id": "c",
+        "text": "To certify the country of origin for preferential tariffs"
+      },
+      {
+        "id": "d",
+        "text": "Together with other documents, to determine the customs value and assess duties and taxes"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Hải quan dùng hóa đơn thương mại (cùng chứng từ khác) để xác định trị giá hải quan và tính thuế.",
+      "whyCorrect": "Slide nêu công dụng của hóa đơn thương mại: người mua cần nó để thông quan, chứng minh quyền sở hữu và thu xếp thanh toán; còn cơ quan hải quan sử dụng hóa đơn, cùng với các chứng từ khác, để xác định trị giá hải quan (customs value) và tính các loại thuế, phí phải nộp.",
+      "whyWrong": {
+        "a": "Xác nhận hàng không có sâu bệnh hại là chức năng của giấy chứng nhận kiểm dịch thực vật.",
+        "b": "Chuyển giao quyền kiểm soát hàng bằng ký hậu là đặc điểm của vận đơn theo lệnh, không phải hóa đơn.",
+        "c": "Chứng nhận xuất xứ để hưởng ưu đãi thuế quan là chức năng của giấy chứng nhận xuất xứ (C/O)."
+      },
+      "source": "KB §7.3 – Uses"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-commercial-invoice-004",
+    "chapter": "C7",
+    "topic": "commercial-invoice",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese importer has just received a commercial invoice from its foreign supplier. For which purposes does the importer need it, according to the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "To clear customs, prove ownership and arrange payment"
+      },
+      {
+        "id": "b",
+        "text": "To claim the goods from the carrier as a document of title"
+      },
+      {
+        "id": "c",
+        "text": "To obtain a preferential tariff under an FTA"
+      },
+      {
+        "id": "d",
+        "text": "To prove that the goods were loaded on board"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Người mua cần hóa đơn thương mại để thông quan, chứng minh quyền sở hữu và thu xếp thanh toán.",
+      "whyCorrect": "Slide nêu người mua cần hóa đơn thương mại để làm thủ tục thông quan (clear customs), chứng minh quyền sở hữu (prove ownership) và thu xếp thanh toán (arrange payment). Người nhập khẩu Việt Nam vì vậy dùng hóa đơn cho ba mục đích này, còn hải quan dùng nó để xác định trị giá tính thuế.",
+      "whyWrong": {
+        "b": "Nhận hàng từ người chuyên chở dựa trên vận đơn – chứng từ sở hữu hàng hóa, không dựa trên hóa đơn.",
+        "c": "Để hưởng thuế ưu đãi theo FTA, người nhập khẩu cần giấy chứng nhận xuất xứ (C/O) theo mẫu phù hợp.",
+        "d": "Việc hàng đã được xếp lên tàu được chứng minh bằng vận đơn đã xếp hàng (shipped on board B/L)."
+      },
+      "source": "KB §7.3 – Uses"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-commercial-invoice-005",
+    "chapter": "C7",
+    "topic": "commercial-invoice",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "At the port of destination, the customs officer asks for the document used to determine the customs value, while the buyer needs the document that lets it claim the goods from the carrier. Which pair of documents is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pro forma invoice; Packing list"
+      },
+      {
+        "id": "b",
+        "text": "Commercial invoice; Certificate of Origin"
+      },
+      {
+        "id": "c",
+        "text": "Commercial invoice; negotiable Bill of Lading"
+      },
+      {
+        "id": "d",
+        "text": "Insurance policy; Commercial invoice"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Trị giá hải quan → hóa đơn thương mại; nhận hàng từ người chuyên chở → vận đơn có thể chuyển nhượng (chứng từ sở hữu).",
+      "whyCorrect": "Câu hỏi kết hợp công dụng của hai chứng từ. Hải quan dùng hóa đơn thương mại (cùng các chứng từ khác) để xác định trị giá hải quan và tính thuế. Vận đơn có chức năng chứng từ sở hữu (document of title): vận đơn có thể chuyển nhượng cho phép người nắm giữ đòi và kiểm soát hàng hóa. Vì vậy cặp đúng là hóa đơn thương mại và vận đơn có thể chuyển nhượng.",
+      "whyWrong": {
+        "a": "Hóa đơn chiếu lệ chỉ dùng cho hàng phi mậu dịch; phiếu đóng gói giúp kiểm hàng, không giúp đòi hàng.",
+        "b": "Hóa đơn thương mại đúng cho hải quan, nhưng C/O chứng nhận xuất xứ chứ không phải chứng từ sở hữu hàng hóa.",
+        "d": "Đơn bảo hiểm không dùng để xác định trị giá hải quan, và hóa đơn không phải chứng từ sở hữu để nhận hàng."
+      },
+      "source": "KB §7.3 – Uses; §7.5 – B/L functions"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-document-lists-001",
+    "chapter": "C7",
+    "topic": "document-lists",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "How many shipping documents are listed on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "5"
+      },
+      {
+        "id": "b",
+        "text": "8"
+      },
+      {
+        "id": "c",
+        "text": "11"
+      },
+      {
+        "id": "d",
+        "text": "19"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "8 chứng từ giao hàng: Invoice, B/L, C. of Quantity, C. of Quality, Packing List, Insurance, C/O, Inspection Certificate.",
+      "whyCorrect": "Slide liệt kê 8 chứng từ giao hàng (shipping documents): hóa đơn (Invoice), vận đơn (Bill of Lading), giấy chứng nhận số lượng, giấy chứng nhận chất lượng, phiếu đóng gói (Packing List), giấy chứng nhận/đơn bảo hiểm, giấy chứng nhận xuất xứ (C/O) và giấy chứng nhận giám định (Inspection Certificate).",
+      "whyWrong": {
+        "a": "Con số 5 không khớp với danh sách nào trên slide; danh sách chứng từ giao hàng có 8 loại.",
+        "c": "11 là số chứng từ thường dùng (documents frequently used), một danh sách khác với chứng từ giao hàng.",
+        "d": "19 là số mục trong checklist kiểm tra vận đơn (B/L checklist), không phải số chứng từ giao hàng."
+      },
+      "source": "KB §7.1 – Shipping documents (8)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-document-lists-002",
+    "chapter": "C7",
+    "topic": "document-lists",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which document appears in the slide's list of 11 documents frequently used in export–import transactions?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Letter of Claim"
+      },
+      {
+        "id": "b",
+        "text": "Sales contract"
+      },
+      {
+        "id": "c",
+        "text": "Destination control statement"
+      },
+      {
+        "id": "d",
+        "text": "L/C application form"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "11 chứng từ thường dùng gồm cả Destination control statement, Shipper's export declaration, Manifest…",
+      "whyCorrect": "Slide liệt kê 11 chứng từ thường dùng: hóa đơn thương mại, hóa đơn chiếu lệ, vận đơn, vận đơn hàng không (air waybill), C/O, giấy chứng nhận giám định, giấy chứng nhận bảo hiểm, tuyên bố kiểm soát điểm đến (destination control statement), tờ khai xuất khẩu của người gửi hàng, phiếu đóng gói xuất khẩu và bản lược khai hàng (manifest).",
+      "whyWrong": {
+        "a": "Thư khiếu nại thuộc hồ sơ khiếu nại ở Điều 10 của hợp đồng (C6), không nằm trong danh sách 11 chứng từ.",
+        "b": "Hợp đồng mua bán là cơ sở của giao dịch nhưng không được liệt kê trong 11 chứng từ thường dùng.",
+        "d": "Đơn xin mở L/C là giấy tờ người mua nộp cho ngân hàng, không thuộc danh sách 11 chứng từ trên slide."
+      },
+      "source": "KB §7.2 – Documents frequently used (11)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-document-lists-003",
+    "chapter": "C7",
+    "topic": "document-lists",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which list contains only documents from the slide's list of 11 documents frequently used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Air waybill; Letter of credit; Manifest"
+      },
+      {
+        "id": "b",
+        "text": "Air waybill; Manifest; Shipper's export declaration"
+      },
+      {
+        "id": "c",
+        "text": "Sales contract; Bill of lading; Export packing list"
+      },
+      {
+        "id": "d",
+        "text": "Survey report; Certificate of origin; Insurance certificate"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Air waybill (4), Shipper's export declaration (9), Manifest (11) đều thuộc 11 chứng từ thường dùng.",
+      "whyCorrect": "Trong danh sách 11 chứng từ thường dùng trên slide, vận đơn hàng không (air waybill) là mục 4, tờ khai xuất khẩu của người gửi hàng (shipper's export declaration) là mục 9 và bản lược khai hàng (manifest) là mục 11. Cả ba đều thuộc danh sách, nên phương án B chỉ gồm các chứng từ trong danh sách.",
+      "whyWrong": {
+        "a": "Thư tín dụng là phương thức thanh toán (C5), không phải một trong 11 chứng từ thường dùng trên slide.",
+        "c": "Hợp đồng mua bán không thuộc danh sách 11 chứng từ, dù vận đơn và phiếu đóng gói xuất khẩu có trong danh sách.",
+        "d": "Biên bản giám định (survey report) thuộc hồ sơ khiếu nại ở C6, không nằm trong danh sách 11 chứng từ."
+      },
+      "source": "KB §7.2 – Documents frequently used (11)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-document-lists-004",
+    "chapter": "C7",
+    "topic": "document-lists",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "Which document is in the list of 8 shipping documents but is NOT among the 11 documents frequently used?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Commercial invoice"
+      },
+      {
+        "id": "b",
+        "text": "Certificate of Origin"
+      },
+      {
+        "id": "c",
+        "text": "Inspection certificate"
+      },
+      {
+        "id": "d",
+        "text": "Certificate of Quality"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Certificate of Quality (và Certificate of Quantity) có trong 8 chứng từ giao hàng nhưng không có trong 11 chứng từ thường dùng.",
+      "whyCorrect": "So sánh hai danh sách trên slide: 8 chứng từ giao hàng gồm cả giấy chứng nhận số lượng và giấy chứng nhận chất lượng (Certificate of Quality). Danh sách 11 chứng từ thường dùng không có hai giấy chứng nhận này, mà thay vào đó có hóa đơn chiếu lệ, vận đơn hàng không, destination control statement, tờ khai xuất khẩu và manifest.",
+      "whyWrong": {
+        "a": "Hóa đơn có trong cả hai danh sách: “Invoice” trong 8 chứng từ giao hàng và “Commercial invoice” trong 11 chứng từ.",
+        "b": "Giấy chứng nhận xuất xứ có mặt ở cả danh sách chứng từ giao hàng và danh sách chứng từ thường dùng.",
+        "c": "Giấy chứng nhận giám định là mục cuối của 8 chứng từ giao hàng và là mục 6 của 11 chứng từ thường dùng."
+      },
+      "source": "KB §7.1 – Shipping documents; §7.2 – Documents frequently used"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-document-lists-005",
+    "chapter": "C7",
+    "topic": "document-lists",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Rice is sold “CIF Manila, Philippines – Incoterms® 2020” by sea, and the contract requires certification of quantity and quality. Which set of documents is drawn entirely from the slide's list of shipping documents and fits this contract?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Invoice; Bill of Lading; Certificate of Quantity; Certificate of Quality; Packing List; Insurance Certificate; Certificate of Origin"
+      },
+      {
+        "id": "b",
+        "text": "Invoice; Air waybill; Certificate of Quantity; Packing List; Insurance Certificate"
+      },
+      {
+        "id": "c",
+        "text": "Pro forma invoice; Bill of Lading; Insurance Certificate; Certificate of Origin"
+      },
+      {
+        "id": "d",
+        "text": "Invoice; Bill of Lading; Packing List; Letter of Claim; Survey Report"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Đường biển + CIF + yêu cầu số lượng, chất lượng → hóa đơn, B/L, C. of Quantity, C. of Quality, P/L, chứng từ bảo hiểm, C/O.",
+      "whyCorrect": "Câu hỏi kết hợp C7 với Incoterms (C3) và hợp đồng (C6). Hàng đi đường biển nên cần vận đơn đường biển (B/L); theo CIF người bán mua bảo hiểm nên cần chứng từ bảo hiểm; hợp đồng yêu cầu chứng nhận số lượng và chất lượng. Phương án A gồm toàn các chứng từ trong danh sách 8 chứng từ giao hàng và đáp ứng các yêu cầu này.",
+      "whyWrong": {
+        "b": "Vận đơn hàng không không phù hợp với hàng đi đường biển, và bộ chứng từ thiếu giấy chứng nhận chất lượng.",
+        "c": "Hóa đơn chiếu lệ không dùng để thanh toán, và bộ chứng từ thiếu giấy chứng nhận số lượng và chất lượng.",
+        "d": "Thư khiếu nại và biên bản giám định thuộc hồ sơ khiếu nại sau khi nhận hàng, không phải chứng từ giao hàng."
+      },
+      "source": "KB §7.1; §7.4; §6.11; §3.8 – CIF"
+    },
+    "tags": [
+      "integrated",
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-gsp-001",
+    "chapter": "C7",
+    "topic": "gsp",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "The Generalized System of Preferences (GSP) is a multilateral policy under:",
+    "options": [
+      {
+        "id": "a",
+        "text": "UNCTAD"
+      },
+      {
+        "id": "b",
+        "text": "the ICC"
+      },
+      {
+        "id": "c",
+        "text": "ASEAN"
+      },
+      {
+        "id": "d",
+        "text": "the CISG"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "GSP: chính sách đa phương thuộc UNCTAD, nước phát triển dành ưu đãi thuế cho nước đang phát triển và kém phát triển.",
+      "whyCorrect": "Slide định nghĩa Hệ thống ưu đãi thuế quan phổ cập (GSP) là một chính sách đa phương thuộc UNCTAD (Hội nghị Liên Hợp Quốc về Thương mại và Phát triển), theo đó các nước phát triển dành ưu đãi thuế quan cho hàng hóa từ các nước đang phát triển và kém phát triển.",
+      "whyWrong": {
+        "b": "ICC ban hành các bộ quy tắc như Incoterms và UCP 600, không quản lý chính sách GSP.",
+        "c": "ASEAN là khối khu vực có hiệp định ATIGA (Form D), không phải tổ chức quản lý GSP.",
+        "d": "CISG là công ước về hợp đồng mua bán hàng hóa quốc tế, không phải tổ chức quản lý GSP."
+      },
+      "source": "KB §7.8 – GSP"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-gsp-002",
+    "chapter": "C7",
+    "topic": "gsp",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Under the GSP, which countries grant preferential tariffs, and to goods from which countries?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Developing countries grant them to goods from developed countries"
+      },
+      {
+        "id": "b",
+        "text": "ASEAN countries grant them to each other"
+      },
+      {
+        "id": "c",
+        "text": "Developed countries grant them to goods from developing and least-developed countries"
+      },
+      {
+        "id": "d",
+        "text": "All WTO members grant them to each other equally"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "GSP: nước phát triển dành ưu đãi (miễn/giảm thuế) cho hàng từ nước đang phát triển và kém phát triển.",
+      "whyCorrect": "Slide nêu theo GSP, các nước phát triển (developed countries) dành ưu đãi thuế quan – miễn hoặc giảm thuế – cho hàng hóa từ các nước đang phát triển và kém phát triển. Mục đích là giảm thuế xuống mức MFN hoặc miễn thuế cho một số sản phẩm từ nước được hưởng ưu đãi.",
+      "whyWrong": {
+        "a": "Phương án đảo chiều ưu đãi: chính nước phát triển là bên dành ưu đãi cho nước đang phát triển.",
+        "b": "Ưu đãi giữa các nước ASEAN thuộc ATIGA (Form D), không phải cơ chế GSP.",
+        "d": "GSP là ưu đãi một chiều cho nước đang phát triển và kém phát triển, không phải ưu đãi ngang nhau giữa mọi thành viên."
+      },
+      "source": "KB §7.8 – GSP"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-gsp-003",
+    "chapter": "C7",
+    "topic": "gsp",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An exporter from a developing country claims a tariff reduction granted by a developed importing country under the GSP. Which C/O form corresponds to the GSP on the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Form B"
+      },
+      {
+        "id": "b",
+        "text": "Form A"
+      },
+      {
+        "id": "c",
+        "text": "Form RCEP"
+      },
+      {
+        "id": "d",
+        "text": "Form CPTPP"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Ưu đãi theo GSP → C/O Form A.",
+      "whyCorrect": "Danh sách mẫu C/O trên slide ghi Form A tương ứng với GSP. Theo GSP, nước phát triển dành ưu đãi thuế quan cho hàng từ nước đang phát triển và kém phát triển; để chứng minh hàng đủ điều kiện, nhà xuất khẩu sử dụng C/O Form A.",
+      "whyWrong": {
+        "a": "Form B là mẫu không ưu đãi, không dùng để xin ưu đãi thuế theo GSP.",
+        "c": "Form RCEP dùng cho Hiệp định RCEP giữa 15 thành viên, không phải cơ chế GSP thuộc UNCTAD.",
+        "d": "Form CPTPP dùng cho Hiệp định CPTPP giữa các thành viên, không phải chương trình ưu đãi GSP thuộc UNCTAD."
+      },
+      "source": "KB §7.8 – Main forms (Form A); GSP"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-insurance-docs-001",
+    "chapter": "C7",
+    "topic": "insurance-docs",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, an insurance certificate is issued by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the carrier or the master"
+      },
+      {
+        "id": "b",
+        "text": "the seller's bank"
+      },
+      {
+        "id": "c",
+        "text": "an insurance broker, as a cover note"
+      },
+      {
+        "id": "d",
+        "text": "an insurance company or its authorized agent"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Giấy chứng nhận bảo hiểm do công ty bảo hiểm hoặc đại lý được ủy quyền phát hành, nêu loại và số tiền bảo hiểm.",
+      "whyCorrect": "Slide định nghĩa giấy chứng nhận bảo hiểm (insurance certificate) là chứng từ do công ty bảo hiểm hoặc đại lý được ủy quyền của công ty phát hành, nêu loại bảo hiểm, số tiền bảo hiểm và các chi tiết khác. Checklist cũng yêu cầu chứng từ được phát hành bởi người bảo hiểm hoặc đại lý được chấp nhận.",
+      "whyWrong": {
+        "a": "Người chuyên chở hoặc thuyền trưởng phát hành vận đơn, không phát hành chứng từ bảo hiểm.",
+        "b": "Ngân hàng của người bán không phải người bảo hiểm và không phát hành giấy chứng nhận bảo hiểm.",
+        "c": "Slide nêu phiếu bảo hiểm tạm thời (cover note) do môi giới phát hành không được chấp nhận theo UCP 600."
+      },
+      "source": "KB §7.6 – Insurance documents"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-insurance-docs-002",
+    "chapter": "C7",
+    "topic": "insurance-docs",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which document sets out the terms of the insurance contract, such as general conditions, the insurer's liabilities, the type and amount of cover, the scope and the premium?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insurance policy"
+      },
+      {
+        "id": "b",
+        "text": "Commercial invoice"
+      },
+      {
+        "id": "c",
+        "text": "Bill of lading"
+      },
+      {
+        "id": "d",
+        "text": "Inspection certificate"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Đơn bảo hiểm (insurance policy) nêu các điều khoản của hợp đồng bảo hiểm: điều kiện chung, trách nhiệm, loại & số tiền, phạm vi, phí.",
+      "whyCorrect": "Slide nêu đơn bảo hiểm (insurance policy) trình bày các điều khoản của hợp đồng bảo hiểm: điều kiện chung, trách nhiệm của người bảo hiểm, loại và số tiền bảo hiểm, phạm vi bảo hiểm và phí bảo hiểm. Giấy chứng nhận bảo hiểm thì chủ yếu nêu loại, số tiền bảo hiểm và các chi tiết khác.",
+      "whyWrong": {
+        "b": "Hóa đơn thương mại nêu chi tiết hàng hóa và giao dịch mua bán, không nêu điều khoản bảo hiểm.",
+        "c": "Vận đơn là bằng chứng của hợp đồng vận tải, không phải văn bản điều khoản của hợp đồng bảo hiểm.",
+        "d": "Giấy chứng nhận giám định xác nhận hàng đáp ứng quy cách, không chứa điều khoản bảo hiểm."
+      },
+      "source": "KB §7.6 – Insurance policy"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-insurance-docs-003",
+    "chapter": "C7",
+    "topic": "insurance-docs",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "Under an L/C subject to UCP 600, the beneficiary presents a cover note issued by an insurance broker as the insurance document. Which assessment follows the slide's insurance checklist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Acceptable, because brokers arrange insurance for the seller"
+      },
+      {
+        "id": "b",
+        "text": "Not acceptable, because cover notes issued by brokers are not acceptable under UCP 600"
+      },
+      {
+        "id": "c",
+        "text": "Acceptable, provided the cover note is dated after shipment"
+      },
+      {
+        "id": "d",
+        "text": "Not acceptable, because only the carrier can issue insurance documents"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Phiếu bảo hiểm tạm thời (cover note) do môi giới phát hành không được chấp nhận theo UCP 600.",
+      "whyCorrect": "Mục (2) của checklist chứng từ bảo hiểm hỏi: chứng từ có được phát hành bởi người bảo hiểm hoặc đại lý được ủy quyền được chấp nhận không? Slide nhấn mạnh rằng phiếu bảo hiểm tạm thời (cover notes) do môi giới (brokers) phát hành không được chấp nhận theo UCP 600. Vì vậy chứng từ trong tình huống không hợp lệ.",
+      "whyWrong": {
+        "a": "Môi giới có thể thu xếp bảo hiểm, nhưng cover note của môi giới không được chấp nhận là chứng từ bảo hiểm.",
+        "c": "Chứng từ bảo hiểm phải ghi ngày không muộn hơn ngày giao hàng; ngày sau giao hàng còn là một lỗi khác.",
+        "d": "Người chuyên chở không phát hành chứng từ bảo hiểm; chứng từ hợp lệ do người bảo hiểm hoặc đại lý phát hành."
+      },
+      "source": "KB §7.6 – Insurance documents checklist (2)",
+      "extNote": "[EXT] UCP 600 Art. 28(c): phiếu bảo hiểm tạm thời (cover notes) không được chấp nhận."
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-insurance-docs-004",
+    "chapter": "C7",
+    "topic": "insurance-docs",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "The goods were loaded on board on 10 August. The insurance certificate presented is dated 12 August and gives no other indication of when cover started. Which checklist point does this fail?",
+    "options": [
+      {
+        "id": "a",
+        "text": "All required originals presented"
+      },
+      {
+        "id": "b",
+        "text": "Issued by an acceptable insurer"
+      },
+      {
+        "id": "c",
+        "text": "Dated no later than the shipment date"
+      },
+      {
+        "id": "d",
+        "text": "Signed by the beneficiary"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Chứng từ bảo hiểm phải ghi ngày không muộn hơn ngày giao hàng; ngày 12/8 sau ngày xếp hàng 10/8 → không đạt.",
+      "whyCorrect": "Mục (4) của checklist chứng từ bảo hiểm yêu cầu chứng từ được ghi ngày không muộn hơn ngày giao hàng (ngày xếp hàng lên tàu, gửi hàng hoặc nhận hàng để chở). Hàng được xếp lên tàu ngày 10/8 nhưng giấy chứng nhận ghi ngày 12/8, và không có dấu hiệu nào cho thấy bảo hiểm có hiệu lực từ trước đó, nên không đạt mục này.",
+      "whyWrong": {
+        "a": "Đề bài không nêu thiếu bản gốc nào; vấn đề nằm ở ngày ghi trên chứng từ bảo hiểm.",
+        "b": "Không có dữ kiện cho thấy người phát hành không được chấp nhận; lỗi là ngày phát hành muộn.",
+        "d": "Chứng từ bảo hiểm do người bảo hiểm ký, không phải người thụ hưởng; mục này không có trong checklist."
+      },
+      "source": "KB §7.6 – Insurance documents checklist (4)",
+      "extNote": "[EXT] UCP 600 Art. 28(e): ngày chứng từ bảo hiểm không được muộn hơn ngày giao hàng, trừ khi chứng từ thể hiện bảo hiểm có hiệu lực không muộn hơn ngày giao hàng."
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-insurance-docs-005",
+    "chapter": "C7",
+    "topic": "insurance-docs",
+    "difficulty": 3,
+    "cognitive": "apply",
+    "stem": "An L/C for a CIF shipment is silent on the insured amount. The CIF value is USD 80,000. Under the UCP 600 rule cited as an extension in the course material, what is the minimum insured amount?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USD 80,000"
+      },
+      {
+        "id": "b",
+        "text": "USD 84,000"
+      },
+      {
+        "id": "c",
+        "text": "USD 96,000"
+      },
+      {
+        "id": "d",
+        "text": "USD 88,000"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "L/C im lặng → tối thiểu 110% giá CIF: 80,000 × 110% = USD 88,000.",
+      "whyCorrect": "Theo nội dung mở rộng về UCP 600 Art. 28(f)(ii) được nêu kèm chứng từ bảo hiểm, nếu L/C không quy định số tiền bảo hiểm thì mức tối thiểu là 110% giá trị CIF/CIP. Với giá CIF USD 80,000, số tiền bảo hiểm tối thiểu là 80,000 × 110% = USD 88,000. Điều này cũng phù hợp ví dụ 110% ở Điều 9 hợp đồng.",
+      "whyWrong": {
+        "a": "USD 80,000 chỉ bằng 100% giá CIF, thấp hơn mức tối thiểu 110% khi L/C không quy định.",
+        "b": "USD 84,000 chỉ tương ứng 105% giá CIF, vẫn thấp hơn mức tối thiểu 110% theo quy tắc được dẫn.",
+        "c": "USD 96,000 tương ứng 120% giá CIF; đây không phải mức tối thiểu theo quy tắc được dẫn."
+      },
+      "source": "KB §7.6 – [EXT] UCP 600 Art. 28(f)(ii); §6.11",
+      "extNote": "[EXT] UCP 600 Art. 28(f)(ii): nếu L/C không quy định, số tiền bảo hiểm tối thiểu là 110% giá CIF hoặc CIP."
+    },
+    "tags": [
+      "calculation",
+      "ext",
+      "integrated"
+    ],
+    "calc": {
+      "kind": "insured-amount",
+      "inputs": {
+        "value": 80000,
+        "percent": 110
+      },
+      "expected": 88000
+    }
+  },
+  {
+    "id": "C7-invoice-vs-lc-001",
+    "chapter": "C7",
+    "topic": "invoice-vs-lc",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "When checking a commercial invoice against the L/C, the first question on the slide's checklist is whether the invoice is issued by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the beneficiary named in the L/C"
+      },
+      {
+        "id": "b",
+        "text": "the applicant of the L/C"
+      },
+      {
+        "id": "c",
+        "text": "the issuing bank"
+      },
+      {
+        "id": "d",
+        "text": "the carrier or its agent"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Mục (1) checklist: hóa đơn có do người thụ hưởng (beneficiary) ghi trong L/C phát hành không?",
+      "whyCorrect": "Checklist 7 mục kiểm tra hóa đơn thương mại so với L/C bắt đầu bằng câu hỏi: hóa đơn có được phát hành bởi người thụ hưởng (beneficiary) có tên trong L/C không? Người thụ hưởng là người bán/nhà xuất khẩu – đúng với định nghĩa hóa đơn do người bán lập cho người mua.",
+      "whyWrong": {
+        "b": "Người yêu cầu mở L/C (applicant) là người mua – bên nhận hóa đơn, không phải bên phát hành hóa đơn.",
+        "c": "Ngân hàng phát hành mở L/C và kiểm tra chứng từ; ngân hàng không lập hóa đơn thương mại.",
+        "d": "Người chuyên chở hoặc đại lý phát hành vận đơn; mục (1) của checklist hỏi về người phát hành hóa đơn."
+      },
+      "source": "KB §7.3 – Checking the invoice against the L/C (1)"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-invoice-vs-lc-002",
+    "chapter": "C7",
+    "topic": "invoice-vs-lc",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An L/C is issued for USD 250,000. The beneficiary presents a commercial invoice stating “EUR 230,000”. Which checklist item reveals the problem?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Issued by the beneficiary named in the L/C"
+      },
+      {
+        "id": "b",
+        "text": "Same currency as the L/C"
+      },
+      {
+        "id": "c",
+        "text": "Marks and numbers consistent with other documents"
+      },
+      {
+        "id": "d",
+        "text": "Quantity complies, including tolerance"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Hóa đơn ghi EUR trong khi L/C bằng USD → vi phạm mục (2): cùng đồng tiền với L/C.",
+      "whyCorrect": "Mục (2) của checklist kiểm tra hóa đơn so với L/C hỏi: hóa đơn có được lập bằng cùng đồng tiền với L/C không? L/C mở bằng USD nhưng hóa đơn ghi EUR, nên hóa đơn không phù hợp ở mục này, dù giá trị quy đổi có thể tương đương.",
+      "whyWrong": {
+        "a": "Đề bài cho biết người thụ hưởng là bên xuất trình hóa đơn, nên mục người phát hành không bị vi phạm.",
+        "c": "Đề bài không nêu sai lệch nào về ký mã hiệu; vấn đề nằm ở đồng tiền ghi trên hóa đơn.",
+        "d": "Đề bài không đề cập số lượng hàng; sai lệch rõ ràng là EUR so với USD của L/C."
+      },
+      "source": "KB §7.3 – Checking the invoice against the L/C (2)"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-invoice-vs-lc-003",
+    "chapter": "C7",
+    "topic": "invoice-vs-lc",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An L/C covers “1,000 MT of rice, 5% more or less allowed”. The invoice shows 1,060 MT. What is the maximum quantity permitted, and does the invoice comply?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1,000 MT – no tolerance is allowed, so the invoice does not comply"
+      },
+      {
+        "id": "b",
+        "text": "1,100 MT – the invoice complies"
+      },
+      {
+        "id": "c",
+        "text": "1,060 MT – the invoice complies exactly"
+      },
+      {
+        "id": "d",
+        "text": "1,050 MT – the invoice exceeds the tolerance and does not comply"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Giới hạn trên = 1,000 × 105% = 1,050 MT; hóa đơn 1,060 MT vượt dung sai → không phù hợp mục (4).",
+      "whyCorrect": "Mục (4) của checklist hỏi số lượng có phù hợp L/C, kể cả dung sai (tolerance) không. Với dung sai 5%, giới hạn trên là 1,000 × (1 + 0.05) = 1,050 MT. Hóa đơn ghi 1,060 MT, vượt giới hạn này, nên hóa đơn không phù hợp với L/C về số lượng.",
+      "whyWrong": {
+        "a": "L/C cho phép dung sai 5%, nên số lượng có thể dao động quanh 1,000 MT, không cố định đúng 1,000 MT.",
+        "b": "1,100 MT ứng với dung sai 10%, gấp đôi mức 5% mà L/C cho phép.",
+        "c": "1,060 MT là số lượng trên hóa đơn, không phải giới hạn cho phép; nó vượt mức tối đa 1,050 MT."
+      },
+      "source": "KB §7.3 – Checking the invoice against the L/C (4); §6.5 – Tolerance"
+    },
+    "tags": [
+      "calculation",
+      "scenario"
+    ],
+    "calc": {
+      "kind": "tolerance-max",
+      "inputs": {
+        "quantity": 1000,
+        "percent": 5
+      },
+      "expected": 1050
+    }
+  },
+  {
+    "id": "C7-invoice-vs-lc-004",
+    "chapter": "C7",
+    "topic": "invoice-vs-lc",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An L/C requires “CIF Busan, Korea – Incoterms® 2020”. The invoice states “FOB Haiphong, Vietnam – Incoterms® 2020”. Which checklist item reveals the discrepancy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Delivery terms/Incoterms consistent with the L/C"
+      },
+      {
+        "id": "b",
+        "text": "Same currency as the L/C"
+      },
+      {
+        "id": "c",
+        "text": "Description of goods corresponds with the L/C"
+      },
+      {
+        "id": "d",
+        "text": "Issued by the beneficiary named in the L/C"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Hóa đơn ghi FOB trong khi L/C yêu cầu CIF → không thỏa mục (6): điều kiện giao hàng/Incoterms nhất quán với L/C.",
+      "whyCorrect": "Mục (6) của checklist hỏi: điều kiện giao hàng/Incoterms trên hóa đơn có nhất quán với L/C không (nếu L/C yêu cầu)? L/C yêu cầu CIF Busan nhưng hóa đơn ghi FOB Haiphong – hai điều kiện khác nhau về chi phí và nơi chỉ định. Vì vậy hóa đơn không phù hợp ở mục này.",
+      "whyWrong": {
+        "b": "Đề bài không nêu vấn đề về đồng tiền; sai lệch nằm ở điều kiện Incoterms ghi trên hóa đơn.",
+        "c": "Đề bài không cho thấy mô tả hàng hóa khác L/C; sai lệch là FOB so với CIF.",
+        "d": "Không có dữ kiện cho thấy hóa đơn do bên khác ngoài người thụ hưởng phát hành."
+      },
+      "source": "KB §7.3 – Checking the invoice against the L/C (6)"
+    },
+    "tags": [
+      "scenario",
+      "integrated"
+    ]
+  },
+  {
+    "id": "C7-invoice-vs-lc-005",
+    "chapter": "C7",
+    "topic": "invoice-vs-lc",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "An L/C covers 500 MT at USD 500/MT, total USD 250,000, CIF Hamburg – Incoterms® 2020, beneficiary ABC Co. The invoice issued by ABC Co. shows: USD, 500 MT, USD 500/MT, total USD 255,000, CIF Hamburg – Incoterms® 2020. Which checklist item fails?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Item (1): issued by the beneficiary"
+      },
+      {
+        "id": "b",
+        "text": "Item (4): quantity complies, including tolerance"
+      },
+      {
+        "id": "c",
+        "text": "Item (5): unit price and total amount comply"
+      },
+      {
+        "id": "d",
+        "text": "Item (6): delivery terms consistent with the L/C"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "500 × 500 = 250,000 nhưng hóa đơn ghi tổng 255,000 → không thỏa mục (5): đơn giá và tổng tiền.",
+      "whyCorrect": "Đối chiếu từng mục: người phát hành (ABC Co.), đồng tiền (USD), số lượng (500 MT) và điều kiện CIF Hamburg đều khớp L/C. Tuy nhiên tổng tiền phải bằng 500 MT × USD 500 = USD 250,000, trong khi hóa đơn ghi USD 255,000 – vừa không khớp L/C vừa không khớp đơn giá × số lượng. Vì vậy mục (5) không đạt.",
+      "whyWrong": {
+        "a": "Hóa đơn do ABC Co. – người thụ hưởng ghi trong L/C – phát hành, nên mục (1) được đáp ứng.",
+        "b": "Số lượng 500 MT trên hóa đơn khớp đúng với L/C, nên mục (4) không có vấn đề.",
+        "d": "Hóa đơn ghi CIF Hamburg – Incoterms® 2020, đúng như L/C yêu cầu, nên mục (6) đạt."
+      },
+      "source": "KB §7.3 – Checking the invoice against the L/C (7 items)"
+    },
+    "tags": [
+      "error-spotting",
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-packing-list-001",
+    "chapter": "C7",
+    "topic": "packing-list",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, a packing list is prepared by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the carrier"
+      },
+      {
+        "id": "b",
+        "text": "the insurance company"
+      },
+      {
+        "id": "c",
+        "text": "a government authority"
+      },
+      {
+        "id": "d",
+        "text": "the shipper"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Phiếu đóng gói do người gửi hàng lập, liệt kê loại và số lượng hàng trong lô hàng.",
+      "whyCorrect": "Slide nêu phiếu đóng gói (packing list) do người gửi hàng (shipper) lập, liệt kê các loại và số lượng hàng hóa trong một lô hàng. Một bản sao được gửi cho người nhận hàng để giúp kiểm tra lô hàng khi hàng đến.",
+      "whyWrong": {
+        "a": "Người chuyên chở phát hành vận đơn, không lập phiếu đóng gói cho lô hàng của người gửi hàng.",
+        "b": "Công ty bảo hiểm phát hành chứng từ bảo hiểm, không lập phiếu đóng gói.",
+        "c": "Cơ quan nhà nước cấp giấy chứng nhận như kiểm dịch thực vật, không lập phiếu đóng gói."
+      },
+      "source": "KB §7.9 – Packing list"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-packing-list-002",
+    "chapter": "C7",
+    "topic": "packing-list",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "What does a packing list show?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The kinds and quantities of goods in a shipment"
+      },
+      {
+        "id": "b",
+        "text": "The insured risks and the premium"
+      },
+      {
+        "id": "c",
+        "text": "The country of origin for preferential tariffs"
+      },
+      {
+        "id": "d",
+        "text": "The terms of the contract of carriage"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Phiếu đóng gói liệt kê các loại và số lượng hàng hóa trong lô hàng.",
+      "whyCorrect": "Theo slide, phiếu đóng gói là chứng từ do người gửi hàng lập, liệt kê các loại hàng (kinds) và số lượng (quantities) hàng hóa trong một lô hàng. Người nhận hàng dùng bản sao phiếu đóng gói để kiểm tra lô hàng khi hàng đến.",
+      "whyWrong": {
+        "b": "Rủi ro được bảo hiểm và phí bảo hiểm được nêu trong đơn bảo hiểm (insurance policy).",
+        "c": "Nước xuất xứ để hưởng ưu đãi thuế quan được chứng nhận bởi giấy chứng nhận xuất xứ (C/O).",
+        "d": "Điều kiện của hợp đồng vận tải được thể hiện trên vận đơn – bằng chứng của hợp đồng vận tải."
+      },
+      "source": "KB §7.9 – Packing list"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-packing-list-003",
+    "chapter": "C7",
+    "topic": "packing-list",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "An importer receives 40 cartons of garments of different sizes and colours and wants to check quickly, carton by carton, whether the shipment is complete. Which document is primarily meant for this?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Certificate of Origin"
+      },
+      {
+        "id": "b",
+        "text": "Insurance certificate"
+      },
+      {
+        "id": "c",
+        "text": "Packing list"
+      },
+      {
+        "id": "d",
+        "text": "Pro forma invoice"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Bản sao phiếu đóng gói gửi người nhận để kiểm tra lô hàng khi hàng đến.",
+      "whyCorrect": "Slide nêu phiếu đóng gói liệt kê loại và số lượng hàng trong lô hàng, và một bản sao được gửi cho người nhận hàng để giúp kiểm tra lô hàng khi hàng đến. Người nhập khẩu muốn kiểm tra từng thùng theo kích cỡ và màu sắc, nên phiếu đóng gói là chứng từ phù hợp nhất.",
+      "whyWrong": {
+        "a": "C/O chứng nhận nước xuất xứ, không liệt kê nội dung từng thùng để kiểm hàng khi nhận.",
+        "b": "Giấy chứng nhận bảo hiểm nêu loại và số tiền bảo hiểm, không dùng để kiểm đếm từng thùng hàng.",
+        "d": "Hóa đơn chiếu lệ là chứng từ sơ bộ trước giao dịch, không mô tả lô hàng thực tế đã giao."
+      },
+      "source": "KB §7.9 – Packing list"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-phyto-inspection-001",
+    "chapter": "C7",
+    "topic": "phyto-inspection",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, a phytosanitary inspection certificate is issued by:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the seller's own quality department"
+      },
+      {
+        "id": "b",
+        "text": "a government authority"
+      },
+      {
+        "id": "c",
+        "text": "the shipping line"
+      },
+      {
+        "id": "d",
+        "text": "the buyer's bank"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Giấy chứng nhận kiểm dịch thực vật do cơ quan nhà nước cấp, xác nhận lô hàng không có sâu bệnh hại.",
+      "whyCorrect": "Slide nêu giấy chứng nhận kiểm dịch thực vật (phytosanitary inspection certificate) do cơ quan nhà nước (government authority) cấp nhằm đáp ứng quy định của nước nhập khẩu, xác nhận lô hàng đã được kiểm tra và không có sâu bệnh hại và dịch bệnh thực vật.",
+      "whyWrong": {
+        "a": "Bộ phận chất lượng của người bán có thể liên quan đến giấy giám định, nhưng không cấp giấy kiểm dịch thực vật.",
+        "c": "Hãng tàu phát hành vận đơn, không cấp giấy chứng nhận kiểm dịch thực vật.",
+        "d": "Ngân hàng của người mua phát hành L/C, không cấp giấy chứng nhận kiểm dịch thực vật."
+      },
+      "source": "KB §7.9 – Phytosanitary inspection certificate"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-phyto-inspection-002",
+    "chapter": "C7",
+    "topic": "phyto-inspection",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter ships fresh dragon fruit, and the importing country's regulations require proof that the shipment has been inspected and is free from harmful pests and plant diseases. Which document is required?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Certificate of Quantity"
+      },
+      {
+        "id": "b",
+        "text": "Certificate of Origin Form B"
+      },
+      {
+        "id": "c",
+        "text": "Packing list"
+      },
+      {
+        "id": "d",
+        "text": "Phytosanitary inspection certificate"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Chứng minh lô hàng không có sâu bệnh hại theo quy định nước nhập khẩu → giấy chứng nhận kiểm dịch thực vật.",
+      "whyCorrect": "Theo slide, giấy chứng nhận kiểm dịch thực vật do cơ quan nhà nước cấp để đáp ứng quy định của nước nhập khẩu, xác nhận lô hàng đã được kiểm tra và không có sâu bệnh hại và dịch bệnh thực vật. Thanh long tươi là nông sản thuộc diện này, nên cần giấy chứng nhận kiểm dịch thực vật.",
+      "whyWrong": {
+        "a": "Giấy chứng nhận số lượng xác nhận số lượng/trọng lượng theo hợp đồng, không xác nhận tình trạng sâu bệnh.",
+        "b": "C/O Form B chứng nhận xuất xứ không ưu đãi, không chứng minh hàng sạch sâu bệnh hại.",
+        "c": "Phiếu đóng gói liệt kê loại và số lượng hàng trong lô, không xác nhận kết quả kiểm dịch."
+      },
+      "source": "KB §7.9 – Phytosanitary inspection certificate"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-phyto-inspection-003",
+    "chapter": "C7",
+    "topic": "phyto-inspection",
+    "difficulty": 2,
+    "cognitive": "understand",
+    "stem": "How does an inspection certificate (giám định) differ from a phytosanitary certificate, according to the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Inspection certificate: seller/exporter or independent firm, confirms specifications; phytosanitary: government authority, confirms freedom from pests"
+      },
+      {
+        "id": "b",
+        "text": "Both are always issued by a government authority and both confirm freedom from harmful pests"
+      },
+      {
+        "id": "c",
+        "text": "Inspection certificate: issued by the carrier; phytosanitary certificate: issued by the buyer after arrival"
+      },
+      {
+        "id": "d",
+        "text": "They are the same document with different names, issued by any party chosen by the seller"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Giám định: người bán/nhà XK hoặc hãng giám định độc lập ký, xác nhận đúng quy cách; Kiểm dịch: cơ quan nhà nước cấp, xác nhận sạch sâu bệnh.",
+      "whyCorrect": "Slide phân biệt rõ hai chứng từ: giấy chứng nhận giám định (inspection certificate) do người bán/nhà xuất khẩu hoặc hãng giám định độc lập ký (theo yêu cầu của người mua), xác nhận hàng đáp ứng các quy cách nhất định; giấy kiểm dịch thực vật do cơ quan nhà nước cấp, xác nhận hàng không có sâu bệnh hại.",
+      "whyWrong": {
+        "b": "Giấy giám định có thể do người bán hoặc hãng giám định độc lập ký, không bắt buộc do cơ quan nhà nước cấp.",
+        "c": "Người chuyên chở không cấp giấy giám định, và người mua không cấp giấy kiểm dịch thực vật.",
+        "d": "Hai chứng từ có người cấp và mục đích khác nhau, nên không phải cùng một chứng từ."
+      },
+      "source": "KB §7.9 – Phytosanitary vs Inspection certificate"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-phyto-inspection-004",
+    "chapter": "C7",
+    "topic": "phyto-inspection",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A Vietnamese rice exporter sells to the Philippines. The buyer requires: (1) proof that the rice is free from harmful pests; (2) independent confirmation that the rice meets the agreed specifications; (3) a C/O to obtain the ATIGA preference. Which set of documents meets these requirements?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(1) Packing list; (2) Commercial invoice; (3) Form B"
+      },
+      {
+        "id": "b",
+        "text": "(1) Inspection certificate by the seller; (2) Phytosanitary certificate; (3) Form E"
+      },
+      {
+        "id": "c",
+        "text": "(1) Phytosanitary certificate from a government authority; (2) Inspection certificate from an independent inspection firm; (3) C/O Form D"
+      },
+      {
+        "id": "d",
+        "text": "(1) Insurance certificate; (2) Certificate of Quantity; (3) Form A"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "(1) Kiểm dịch thực vật – cơ quan nhà nước; (2) Giám định – hãng độc lập; (3) ATIGA → Form D.",
+      "whyCorrect": "Câu hỏi kết hợp nhiều chứng từ trong C7. (1) Xác nhận không có sâu bệnh hại là chức năng của giấy kiểm dịch thực vật do cơ quan nhà nước cấp. (2) Xác nhận độc lập rằng hàng đáp ứng quy cách là giấy chứng nhận giám định do hãng giám định độc lập ký. (3) Philippines là thành viên ASEAN, ưu đãi theo ATIGA cần C/O Form D.",
+      "whyWrong": {
+        "a": "Phiếu đóng gói và hóa đơn không xác nhận sâu bệnh hay quy cách; Form B là mẫu không ưu đãi.",
+        "b": "Phương án đảo chức năng của hai giấy chứng nhận, và Form E dùng cho ASEAN–Trung Quốc, không phải ATIGA.",
+        "d": "Chứng từ bảo hiểm và giấy chứng nhận số lượng không đáp ứng (1), (2); Form A dùng cho GSP."
+      },
+      "source": "KB §7.9; §7.8 – Main forms"
+    },
+    "tags": [
+      "integrated",
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-proforma-001",
+    "chapter": "C7",
+    "topic": "proforma",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "According to the slides, a pro forma invoice is:",
+    "options": [
+      {
+        "id": "a",
+        "text": "the final commercial document used for customs valuation and payment"
+      },
+      {
+        "id": "b",
+        "text": "a document issued by the carrier confirming receipt of the goods"
+      },
+      {
+        "id": "c",
+        "text": "a certificate issued by a government authority"
+      },
+      {
+        "id": "d",
+        "text": "a preliminary document issued by the seller to a prospective buyer, usually before the actual sale and shipment"
+      }
+    ],
+    "correct": "d",
+    "explanation": {
+      "summary": "Hóa đơn chiếu lệ: chứng từ sơ bộ, tạm thời do người bán gửi người mua tiềm năng, thường trước khi bán và giao hàng.",
+      "whyCorrect": "Slide định nghĩa hóa đơn chiếu lệ (pro forma invoice) là chứng từ sơ bộ/tạm thời do người bán phát hành cho người mua tiềm năng (prospective buyer), thường trước khi việc mua bán và giao hàng thực sự diễn ra. Nó ghi mô tả, số lượng, giá và đồng tiền, Incoterms, thời gian giao hàng dự kiến và điều kiện thanh toán.",
+      "whyWrong": {
+        "a": "Chứng từ thương mại cuối cùng dùng cho trị giá hải quan và thanh toán là hóa đơn thương mại, không phải chiếu lệ.",
+        "b": "Chứng từ do người chuyên chở cấp xác nhận đã nhận hàng là vận đơn (B/L).",
+        "c": "Chứng từ do cơ quan nhà nước cấp, ví dụ giấy kiểm dịch thực vật, không phải hóa đơn chiếu lệ."
+      },
+      "source": "KB §7.4 – Pro forma invoice"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-proforma-002",
+    "chapter": "C7",
+    "topic": "proforma",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "Which of the following is a use of a pro forma invoice according to the slides?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Claiming payment under a documentary credit"
+      },
+      {
+        "id": "b",
+        "text": "Supporting an application for an import permit or foreign exchange approval"
+      },
+      {
+        "id": "c",
+        "text": "Proving ownership of goods already shipped"
+      },
+      {
+        "id": "d",
+        "text": "Transferring the goods by endorsement and delivery"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Hóa đơn chiếu lệ dùng để hỗ trợ xin giấy phép nhập khẩu hoặc phê duyệt ngoại hối, kèm báo giá, hàng phi mậu dịch…",
+      "whyCorrect": "Slide liệt kê công dụng của hóa đơn chiếu lệ: làm hóa đơn sơ bộ kèm báo giá; dùng cho mục đích hải quan với hàng phi mậu dịch (hàng mẫu, tài liệu quảng cáo); hỗ trợ hồ sơ xin giấy phép nhập khẩu hoặc phê duyệt ngoại hối; và cung cấp thông tin để người mua chuẩn bị giao dịch trước khi giao hàng.",
+      "whyWrong": {
+        "a": "Bảng so sánh trên slide ghi rõ hóa đơn chiếu lệ không dùng để thanh toán (not used for payment).",
+        "c": "Chứng minh quyền sở hữu là công dụng của hóa đơn thương mại đối với người mua, không phải chiếu lệ.",
+        "d": "Chuyển giao bằng ký hậu và trao tay là đặc điểm của vận đơn theo lệnh (B/L to order)."
+      },
+      "source": "KB §7.4 – Uses"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-proforma-003",
+    "chapter": "C7",
+    "topic": "proforma",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A Vietnamese exporter sends free product samples and advertising brochures to a potential buyer abroad. For customs purposes, which invoice is suitable for this non-commercial shipment?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A pro forma invoice"
+      },
+      {
+        "id": "b",
+        "text": "A commercial invoice marked “Freight Prepaid”"
+      },
+      {
+        "id": "c",
+        "text": "An insurance certificate"
+      },
+      {
+        "id": "d",
+        "text": "A Certificate of Origin Form B"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Hàng mẫu, tài liệu quảng cáo (phi mậu dịch) → dùng hóa đơn chiếu lệ cho mục đích hải quan.",
+      "whyCorrect": "Slide nêu một công dụng của hóa đơn chiếu lệ là phục vụ mục đích hải quan đối với lô hàng phi mậu dịch (non-commercial shipments) như hàng mẫu và tài liệu quảng cáo. Hàng mẫu miễn phí gửi cho khách hàng tiềm năng chưa phải giao dịch mua bán thực sự, nên hóa đơn chiếu lệ là phù hợp.",
+      "whyWrong": {
+        "b": "Hóa đơn thương mại dùng cho giao dịch mua bán thực sự; “Freight Prepaid” là ghi chú trên vận đơn.",
+        "c": "Giấy chứng nhận bảo hiểm xác nhận việc bảo hiểm hàng hóa, không phải hóa đơn cho mục đích hải quan.",
+        "d": "C/O Form B chứng nhận xuất xứ không ưu đãi, không phải hóa đơn khai báo cho lô hàng mẫu."
+      },
+      "source": "KB §7.4 – Uses"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-proforma-004",
+    "chapter": "C7",
+    "topic": "proforma",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "Under an irrevocable L/C at sight, the beneficiary presents a pro forma invoice instead of a commercial invoice, together with the other required documents. Which assessment is correct?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Acceptable, because both invoices show the price and quantity"
+      },
+      {
+        "id": "b",
+        "text": "Acceptable, as long as the pro forma invoice was sent before shipment"
+      },
+      {
+        "id": "c",
+        "text": "Not acceptable, because the pro forma invoice is preliminary and not used for payment; the commercial invoice represents the actual transaction"
+      },
+      {
+        "id": "d",
+        "text": "Not acceptable, because pro forma invoices may only be issued by banks"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Hóa đơn chiếu lệ chỉ là chứng từ sơ bộ, không dùng để thanh toán; thanh toán L/C cần hóa đơn thương mại.",
+      "whyCorrect": "Câu hỏi kết hợp bảng so sánh hai loại hóa đơn với L/C. Theo slide, hóa đơn chiếu lệ là chứng từ sơ bộ/tạm thời, chủ yếu dùng cho báo giá và thủ tục sơ bộ, và không dùng để thanh toán. Hóa đơn thương mại mới là chứng từ cuối cùng thể hiện giao dịch thực tế và dùng cho thanh toán. Xuất trình hóa đơn chiếu lệ thay cho hóa đơn thương mại là không phù hợp.",
+      "whyWrong": {
+        "a": "Hai hóa đơn đều có giá và số lượng, nhưng chỉ hóa đơn thương mại thể hiện giao dịch thực tế để thanh toán.",
+        "b": "Thời điểm gửi trước khi giao hàng chính là đặc điểm của hóa đơn chiếu lệ, nhưng nó vẫn không dùng để thanh toán.",
+        "d": "Hóa đơn chiếu lệ do người bán phát hành, không phải ngân hàng; lý do này sai về người phát hành."
+      },
+      "source": "KB §7.4 – Pro forma vs Commercial invoice"
+    },
+    "tags": [
+      "integrated",
+      "error-spotting"
+    ]
+  },
+  {
+    "id": "C7-quantity-quality-cert-001",
+    "chapter": "C7",
+    "topic": "quantity-quality-cert",
+    "difficulty": 1,
+    "cognitive": "remember",
+    "stem": "What does a Certificate of Quality certify?",
+    "options": [
+      {
+        "id": "a",
+        "text": "That the quality and specifications of the goods comply with the contract"
+      },
+      {
+        "id": "b",
+        "text": "The country of origin of the goods"
+      },
+      {
+        "id": "c",
+        "text": "That the goods have been loaded on board"
+      },
+      {
+        "id": "d",
+        "text": "The insured amount and the type of cover"
+      }
+    ],
+    "correct": "a",
+    "explanation": {
+      "summary": "Giấy chứng nhận chất lượng xác nhận chất lượng và quy cách hàng hóa phù hợp với hợp đồng.",
+      "whyCorrect": "Slide nêu giấy chứng nhận chất lượng (Certificate of Quality) xác nhận chất lượng và quy cách (specifications) của hàng hóa phù hợp với hợp đồng; còn giấy chứng nhận số lượng/trọng lượng xác nhận số lượng/trọng lượng theo hợp đồng. Cả hai được cấp bởi nhà sản xuất/người bán hoặc tổ chức giám định độc lập.",
+      "whyWrong": {
+        "b": "Xác nhận nước xuất xứ của hàng hóa là chức năng của giấy chứng nhận xuất xứ (C/O).",
+        "c": "Việc hàng đã được xếp lên tàu được xác nhận bằng vận đơn đã xếp hàng (shipped on board B/L).",
+        "d": "Số tiền và loại bảo hiểm được nêu trên giấy chứng nhận hoặc đơn bảo hiểm, không phải chứng nhận chất lượng."
+      },
+      "source": "KB §7.7 – Certificates of Quantity/Quality"
+    },
+    "tags": []
+  },
+  {
+    "id": "C7-quantity-quality-cert-002",
+    "chapter": "C7",
+    "topic": "quantity-quality-cert",
+    "difficulty": 2,
+    "cognitive": "apply",
+    "stem": "A contract requires a Certificate of Quality “issued by an independent inspection organization”. The seller presents a certificate issued by its own factory. Is this compliant?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yes, because a seller may always issue its own quality certificate"
+      },
+      {
+        "id": "b",
+        "text": "Yes, because the buyer must accept any certificate of quality"
+      },
+      {
+        "id": "c",
+        "text": "No, because the issuer must be the one required by the contract – here an independent organization"
+      },
+      {
+        "id": "d",
+        "text": "No, because quality certificates can only be issued by customs"
+      }
+    ],
+    "correct": "c",
+    "explanation": {
+      "summary": "Người cấp chứng nhận chất lượng phải theo yêu cầu hợp đồng; HĐ đòi tổ chức độc lập → giấy của nhà máy không phù hợp.",
+      "whyCorrect": "Slide nêu giấy chứng nhận số lượng/chất lượng được cấp bởi nhà sản xuất/người bán hoặc một tổ chức giám định/kiểm định độc lập, theo yêu cầu của hợp đồng (as required by the contract). Hợp đồng ở đây đòi tổ chức giám định độc lập, nên giấy do chính nhà máy của người bán cấp không phù hợp.",
+      "whyWrong": {
+        "a": "Người bán chỉ được tự cấp khi hợp đồng cho phép; ở đây hợp đồng yêu cầu tổ chức độc lập.",
+        "b": "Người mua chỉ phải chấp nhận giấy chứng nhận đúng yêu cầu hợp đồng, không phải bất kỳ giấy nào.",
+        "d": "Slide không giao việc cấp giấy chứng nhận chất lượng cho hải quan; người cấp là người bán hoặc tổ chức độc lập."
+      },
+      "source": "KB §7.7 – Issued by"
+    },
+    "tags": [
+      "scenario"
+    ]
+  },
+  {
+    "id": "C7-quantity-quality-cert-003",
+    "chapter": "C7",
+    "topic": "quantity-quality-cert",
+    "difficulty": 3,
+    "cognitive": "analyze",
+    "stem": "A contract's quantity article states: “Quantity: 1,000 MT, based on net weight as per the weight certificate issued by an independent surveyor.” Which document, issued by whom, should the seller present to prove the quantity?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A packing list prepared by the shipper"
+      },
+      {
+        "id": "b",
+        "text": "A Certificate of Quantity/Weight issued by an independent surveyor"
+      },
+      {
+        "id": "c",
+        "text": "A commercial invoice showing 1,000 MT"
+      },
+      {
+        "id": "d",
+        "text": "A Certificate of Quality issued by the manufacturer"
+      }
+    ],
+    "correct": "b",
+    "explanation": {
+      "summary": "Điều 3 đòi trọng lượng tịnh theo chứng nhận của giám định viên độc lập → Certificate of Quantity/Weight do bên độc lập cấp.",
+      "whyCorrect": "Câu hỏi kết hợp C6 và C7. Điều 3 – Số lượng cho phép quy định phương pháp xác định số lượng theo giấy chứng nhận trọng lượng do giám định viên độc lập cấp. Chương chứng từ nêu giấy chứng nhận số lượng/trọng lượng xác nhận số lượng theo hợp đồng và được cấp bởi bên mà hợp đồng yêu cầu. Vì vậy người bán cần xuất trình giấy chứng nhận số lượng/trọng lượng do giám định viên độc lập cấp.",
+      "whyWrong": {
+        "a": "Phiếu đóng gói do người gửi hàng lập, không phải giấy chứng nhận của giám định viên độc lập như hợp đồng yêu cầu.",
+        "c": "Hóa đơn do người bán lập ghi số lượng bán, nhưng không chứng nhận trọng lượng theo yêu cầu của hợp đồng.",
+        "d": "Giấy chứng nhận chất lượng xác nhận quy cách, không phải số lượng, và người cấp không phải bên độc lập."
+      },
+      "source": "KB §6.5 – Method of determination; §7.7"
+    },
+    "tags": [
+      "integrated",
+      "scenario"
+    ]
+  }
+]
