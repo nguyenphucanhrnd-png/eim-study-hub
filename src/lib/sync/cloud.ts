@@ -9,8 +9,22 @@ import { useCases } from "@/store/caseStore";
 import type { SyncLocal, SyncMeta, SyncMetaStorage, SyncRemote } from "./engine";
 import { normalizeDoc, type SyncDoc } from "./merge";
 
-const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL;
-const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY;
+/**
+ * Accept the project URL with accidental extras copied from the dashboard (e.g. ".../rest/v1/", a trailing slash
+ * or spaces) — supabase-js needs the bare origin, otherwise auth calls fail with "Invalid path specified".
+ */
+export function normalizeSupabaseUrl(raw: string | undefined): string | undefined {
+  const value = raw?.trim().replace(/^["']|["']$/g, "");
+  if (!value) return undefined;
+  try {
+    return new URL(value).origin;
+  } catch {
+    return value;
+  }
+}
+
+const SUPABASE_URL = normalizeSupabaseUrl(import.meta.env.VITE_SUPABASE_URL);
+const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY?.trim();
 
 export const CLOUD_ENABLED = Boolean(SUPABASE_URL && SUPABASE_ANON_KEY);
 
