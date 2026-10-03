@@ -50,6 +50,61 @@
   }
 }
 
+/* Interactive diagrams: actor colours (seller blue, buyer amber, banks slate, carrier teal, customs violet,
+   insurer green) and flow-kind strokes. Used as CSS variables inside the SVG so dark mode needs no JS. */
+:root {
+  --dg-seller: #1d4ed8;
+  --dg-seller-fill: #eff6ff;
+  --dg-buyer: #b45309;
+  --dg-buyer-fill: #fffbeb;
+  --dg-bank: #475569;
+  --dg-bank-fill: #f1f5f9;
+  --dg-carrier: #0f766e;
+  --dg-carrier-fill: #f0fdfa;
+  --dg-customs: #6d28d9;
+  --dg-customs-fill: #f5f3ff;
+  --dg-insurer: #15803d;
+  --dg-insurer-fill: #f0fdf4;
+  --dg-other: #1e3a5f;
+  --dg-other-fill: #f1f5fa;
+  --dg-goods: #0f172a;
+  --dg-document: #6d28d9;
+  --dg-money: #15803d;
+  --dg-info: #475569;
+  --dg-text: #0f172a;
+  --dg-muted: #475569;
+  --dg-badge: #1e3a5f;
+  --dg-badge-text: #ffffff;
+  --dg-surface: #ffffff;
+  --dg-zone: #f8fafc;
+}
+.dark {
+  --dg-seller: #93c5fd;
+  --dg-seller-fill: #172554;
+  --dg-buyer: #fcd34d;
+  --dg-buyer-fill: #422006;
+  --dg-bank: #cbd5e1;
+  --dg-bank-fill: #1e293b;
+  --dg-carrier: #5eead4;
+  --dg-carrier-fill: #042f2e;
+  --dg-customs: #c4b5fd;
+  --dg-customs-fill: #2e1065;
+  --dg-insurer: #86efac;
+  --dg-insurer-fill: #052e16;
+  --dg-other: #93b0d2;
+  --dg-other-fill: #0f1c2e;
+  --dg-goods: #e2e8f0;
+  --dg-document: #c4b5fd;
+  --dg-money: #86efac;
+  --dg-info: #94a3b8;
+  --dg-text: #f1f5f9;
+  --dg-muted: #cbd5e1;
+  --dg-badge: #93b0d2;
+  --dg-badge-text: #0f1c2e;
+  --dg-surface: #0f172a;
+  --dg-zone: #111827;
+}
+
 /* Payment Flow Stepper: the active arrow "flows" towards its target. */
 @keyframes flow-dash {
   to {

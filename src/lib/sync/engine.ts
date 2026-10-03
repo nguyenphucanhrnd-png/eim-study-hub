@@ -32,7 +32,18 @@ export interface SyncStatus {
   error: string | null;
 }
 
-const same = (a: SyncDoc, b: SyncDoc) => JSON.stringify(a) === JSON.stringify(b);
+/** JSON with object keys sorted, so equal documents compare equal regardless of key order. */
+function stableStringify(v: unknown): string {
+  if (Array.isArray(v)) return `[${v.map(stableStringify).join(",")}]`;
+  if (v && typeof v === "object")
+    return `{${Object.keys(v)
+      .sort()
+      .map((k) => `${JSON.stringify(k)}:${stableStringify((v as Record<string, unknown>)[k])}`)
+      .join(",")}}`;
+  return JSON.stringify(v) ?? "null";
+}
+
+const same = (a: SyncDoc, b: SyncDoc) => stableStringify(a) === stableStringify(b);
 
 /**
  * Keeps the local stores and the user's server document in step.

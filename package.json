@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "npm run validate:bank",
+    "prebuild": "npm run validate:bank && npm run validate:diagrams",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -b --noEmit",
@@ -15,10 +15,14 @@
     "build:exams": "tsx --tsconfig tsconfig.node.json scripts/build-exams.ts",
     "report:bank": "tsx --tsconfig tsconfig.node.json scripts/bank-report.ts",
     "fixture:bank": "tsx --tsconfig tsconfig.node.json scripts/gen-fixture-bank.ts",
-    "review:bank": "tsx --tsconfig tsconfig.node.json scripts/export-review.ts"
+    "review:bank": "tsx --tsconfig tsconfig.node.json scripts/export-review.ts",
+    "validate:diagrams": "tsx --tsconfig tsconfig.node.json scripts/validate-diagrams.ts"
   },
   "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
     "@supabase/supabase-js": "^2.117.2",
+    "motion": "^14.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-markdown": "^9.0.1",

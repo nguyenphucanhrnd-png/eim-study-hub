@@ -10,6 +10,7 @@ import NotFoundPage from "@/features/NotFoundPage";
 import { parseTheory, type TheorySection } from "./parseTheory";
 import { TheoryBlocks } from "./TheoryBlocks";
 import { MiniCheck } from "./MiniCheck";
+import { DIAGRAMS } from "@/features/diagrams/catalog";
 
 /**
  * Long chapters render their sections lazily (when within ~800px of the viewport) to keep the main thread
@@ -128,6 +129,25 @@ function Toc({
             </a>
           </li>
         ))}
+        {DIAGRAMS.some((d) => d.chapter === chapterId) && (
+          <li className="pt-2">
+            <p className="px-2 pb-0.5 text-xs font-semibold uppercase tracking-wider text-slate-600 dark:text-slate-400">Sơ đồ</p>
+            <ul>
+              {DIAGRAMS.filter((d) => d.chapter === chapterId).map((d) => (
+                <li key={d.id}>
+                  <a
+                    href={`#diagram-${d.id}`}
+                    onClick={go(`diagram-${d.id}`)}
+                    className="flex items-start gap-2 rounded-md px-2 py-1.5 leading-snug text-slate-600 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800"
+                  >
+                    <span aria-hidden="true">◇</span>
+                    <span>{d.titleVi}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </li>
+        )}
         <li>
           <a href="#mini-check" onClick={go("mini-check")} className="block rounded-md px-2 py-1.5 pl-7 text-slate-600 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800">
             Mini-check

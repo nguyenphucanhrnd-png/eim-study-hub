@@ -2,6 +2,7 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { parseTheory } from "./parseTheory";
 import { EMBEDS } from "./embeds";
+import { DIAGRAM_BY_ID } from "@/features/diagrams/catalog";
 
 // Vitest runs from the project root (jsdom env has no file:// import.meta.url).
 const dir = join(process.cwd(), "src", "content", "theory");
@@ -115,7 +116,8 @@ describe.each([1, 2, 3, 4, 5, 6, 7, 8])("theory c0%i.md", (n) => {
   it("only references existing embeds and has no stray heading ids", () => {
     const blocks = [...theory.intro, ...theory.sections.flatMap((s) => s.blocks)];
     for (const b of blocks) {
-      if (b.type === "embed") expect(Object.keys(EMBEDS)).toContain(b.name);
+      if (b.type === "embed" && b.name.startsWith("diagram:")) expect(DIAGRAM_BY_ID.has(b.name.slice(8)), b.name).toBe(true);
+      else if (b.type === "embed") expect(Object.keys(EMBEDS)).toContain(b.name);
       if (b.type !== "embed") expect(b.text).not.toMatch(/\{#[a-z0-9-]+\}/);
     }
   });

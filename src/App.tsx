@@ -16,6 +16,8 @@ const ReviewPage = lazy(() => import("@/features/review/ReviewPage"));
 const FlashcardsPage = lazy(() => import("@/features/review/FlashcardsPage"));
 const GlossaryPage = lazy(() => import("@/features/review/GlossaryPage"));
 const ToolsPage = lazy(() => import("@/features/tools/ToolsPage"));
+const DiagramHub = lazy(() => import("@/features/diagrams/DiagramHub"));
+const DiagramPage = lazy(() => import("@/features/diagrams/DiagramPage"));
 const AccountPage = lazy(() => import("@/features/account/AccountPage"));
 const ToolPage = lazy(() => import("@/features/tools/ToolsPage").then((m) => ({ default: m.ToolPage })));
 
@@ -41,6 +43,8 @@ export const routes: RouteObject[] = [
       { path: "tools", element: page(<ToolsPage />) },
       { path: "tools/:toolId", element: page(<ToolPage />) },
       { path: "account", element: page(<AccountPage />) },
+      { path: "diagrams", element: page(<DiagramHub />) },
+      { path: "diagrams/:id", element: page(<DiagramPage />) },
       { path: "*", element: <NotFoundPage /> },
     ],
   },

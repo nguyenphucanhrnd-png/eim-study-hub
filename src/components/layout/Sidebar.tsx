@@ -12,7 +12,10 @@ interface NavItem {
   end?: boolean;
 }
 
-const MAIN: NavItem[] = [{ to: "/", label: "Tổng quan", icon: "home", end: true }];
+const MAIN: NavItem[] = [
+  { to: "/", label: "Tổng quan", icon: "home", end: true },
+  { to: "/diagrams", label: "Sơ đồ tương tác", icon: "grid" },
+];
 const PRACTICE: NavItem[] = [
   { to: "/practice", label: "Luyện trắc nghiệm", icon: "practice" },
   { to: "/exams", label: "Thi thử", icon: "exam" },

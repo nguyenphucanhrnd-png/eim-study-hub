@@ -208,3 +208,22 @@ describe("SyncEngine", () => {
     expect(server.saves).toBe(saves);
   });
 });
+
+describe("diagram progress sync", () => {
+  it("unions viewed steps and keeps the best quiz score in every mode", () => {
+    const local = doc((d) => {
+      d.progress.diagramViewed = { "c5-lc-basic": ["s1", "s2"] };
+      d.progress.diagramQuiz = { "c5-lc-basic": { order: 60 } };
+    });
+    const remote = doc((d) => {
+      d.progress.diagramViewed = { "c5-lc-basic": ["s2", "s3"], "c1-order-process": ["s1"] };
+      d.progress.diagramQuiz = { "c5-lc-basic": { order: 100, actor: 50 } };
+    });
+    for (const mode of ["union", "local", "remote"] as const) {
+      const m = mergeDocs(local, remote, mode);
+      expect([...m.progress.diagramViewed["c5-lc-basic"]!].sort()).toEqual(["s1", "s2", "s3"]);
+      expect(m.progress.diagramViewed["c1-order-process"]).toEqual(["s1"]);
+      expect(m.progress.diagramQuiz["c5-lc-basic"]).toEqual({ order: 100, actor: 50 });
+    }
+  });
+});

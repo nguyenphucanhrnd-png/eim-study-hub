@@ -45,6 +45,11 @@ function initialFilter(params: URLSearchParams): PracticeFilter {
     .filter((c): c is ChapterId => c in CHAPTER_BY_ID);
   const topic = params.get("topic");
   const mode = params.get("mode");
+  // ?topic= alone (deep links from diagrams): the chapter is derived from the topic.
+  if (chapters.length === 0 && topic) {
+    const owner = CHAPTERS.find((c) => c.topics.some((t) => t.id === topic));
+    if (owner) chapters.push(owner.id);
+  }
   return {
     chapters,
     topic: chapters.length === 1 && topic && CHAPTER_BY_ID[chapters[0]!].topics.some((t) => t.id === topic) ? topic : null,

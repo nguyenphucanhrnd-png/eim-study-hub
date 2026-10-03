@@ -20,6 +20,8 @@ export interface ProgressData {
   flagged: Record<string, number>;
   learned: Record<string, true>;
   cards: Record<string, CardStatus>;
+  diagramViewed: Record<string, string[]>;
+  diagramQuiz: Record<string, Record<string, number>>;
 }
 export interface ExamsData {
   sessions: Record<string, ExamSession>;
@@ -43,7 +45,7 @@ export const MAX_ATTEMPTS = 100;
 export const MAX_CASE_HISTORY = 200;
 
 export const emptyDoc = (): SyncDoc => ({
-  progress: { stats: {}, wrongBank: {}, flagged: {}, learned: {}, cards: {} },
+  progress: { stats: {}, wrongBank: {}, flagged: {}, learned: {}, cards: {}, diagramViewed: {}, diagramQuiz: {} },
   exams: { sessions: {}, attempts: [] },
   cases: { drafts: {}, revealed: {}, checks: {}, history: [] },
 });
@@ -80,6 +82,19 @@ function mergeStats(local: ProgressData, remote: ProgressData): Pick<ProgressDat
 /** Union of records; on key conflicts the `preferred` side wins. */
 const unionRecord = <T,>(preferred: Record<string, T>, other: Record<string, T>): Record<string, T> => ({ ...other, ...preferred });
 
+/** Diagram progress only grows: union of viewed ids, best score per quiz. */
+function mergeDiagrams(local: ProgressData, remote: ProgressData): Pick<ProgressData, "diagramViewed" | "diagramQuiz"> {
+  const diagramViewed: Record<string, string[]> = { ...remote.diagramViewed };
+  for (const [id, ids] of Object.entries(local.diagramViewed)) diagramViewed[id] = [...new Set([...(diagramViewed[id] ?? []), ...ids])];
+  const diagramQuiz: Record<string, Record<string, number>> = { ...remote.diagramQuiz };
+  for (const [id, scores] of Object.entries(local.diagramQuiz)) {
+    const merged = { ...(diagramQuiz[id] ?? {}) };
+    for (const [quiz, pct] of Object.entries(scores)) merged[quiz] = Math.max(merged[quiz] ?? 0, pct);
+    diagramQuiz[id] = merged;
+  }
+  return { diagramViewed, diagramQuiz };
+}
+
 const pick = <T,>(mode: MergeMode, local: T, remote: T, union: () => T): T => (mode === "local" ? local : mode === "remote" ? remote : union());
 
 export function mergeDocs(localRaw: SyncDoc, remoteRaw: SyncDoc, mode: MergeMode): SyncDoc {
@@ -105,6 +120,7 @@ export function mergeDocs(localRaw: SyncDoc, remoteRaw: SyncDoc, mode: MergeMode
   return {
     progress: {
       ...mergeStats(local.progress, remote.progress),
+      ...mergeDiagrams(local.progress, remote.progress),
       flagged: pick(mode, local.progress.flagged, remote.progress.flagged, () => unionRecord(local.progress.flagged, remote.progress.flagged)),
       learned: pick(mode, local.progress.learned, remote.progress.learned, () => unionRecord(local.progress.learned, remote.progress.learned)),
       cards: pick(mode, local.progress.cards, remote.progress.cards, () => unionRecord(local.progress.cards, remote.progress.cards)),
@@ -127,6 +143,7 @@ export function isEmptyDoc(d: SyncDoc): boolean {
       Object.keys(n.progress.flagged).length +
       Object.keys(n.progress.learned).length +
       Object.keys(n.progress.cards).length +
+      Object.keys(n.progress.diagramViewed).length +
       Object.keys(n.exams.sessions).length +
       n.exams.attempts.length +
       Object.keys(n.cases.drafts).length +

@@ -89,7 +89,15 @@ export const storesLocal: SyncLocal = {
     const e = useExams.getState();
     const c = useCases.getState();
     return {
-      progress: { stats: p.stats, wrongBank: p.wrongBank, flagged: p.flagged, learned: p.learned, cards: p.cards },
+      progress: {
+        stats: p.stats,
+        wrongBank: p.wrongBank,
+        flagged: p.flagged,
+        learned: p.learned,
+        cards: p.cards,
+        diagramViewed: p.diagramViewed,
+        diagramQuiz: p.diagramQuiz,
+      },
       exams: { sessions: e.sessions, attempts: e.attempts },
       cases: { drafts: c.drafts, revealed: c.revealed, checks: c.checks, history: c.history },
     };
