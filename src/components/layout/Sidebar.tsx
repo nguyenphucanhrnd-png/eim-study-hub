@@ -15,6 +15,7 @@ interface NavItem {
 const MAIN: NavItem[] = [
   { to: "/", label: "Tổng quan", icon: "home", end: true },
   { to: "/diagrams", label: "Sơ đồ tương tác", icon: "grid" },
+  { to: "/journey", label: "Hành trình XNK", icon: "route" },
 ];
 const PRACTICE: NavItem[] = [
   { to: "/practice", label: "Luyện trắc nghiệm", icon: "practice" },

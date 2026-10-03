@@ -1,4 +1,6 @@
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
+import { TOPIC_DIAGRAM, diagramHref } from "@/features/diagrams/topicMap";
 import { cx } from "@/components/ui";
 import { Icon } from "@/components/ui/Icon";
 import { OPTION_IDS } from "@/schemas/constants";
@@ -59,6 +61,14 @@ export function Explanation({ question, order }: { question: MCQ; order: OptionI
         </p>
       )}
       <p className="text-sm text-slate-600 dark:text-slate-400">📘 Nguồn: {ex.source}</p>
+      {TOPIC_DIAGRAM[question.topic] && (
+        <Link
+          to={diagramHref(TOPIC_DIAGRAM[question.topic]!)}
+          className="inline-flex items-center gap-1.5 rounded-lg border border-navy-300 px-3 py-1 text-sm font-medium text-navy-800 hover:bg-navy-50 dark:border-navy-700 dark:text-navy-200 dark:hover:bg-navy-900/50"
+        >
+          <Icon name="grid" className="h-4 w-4" /> Xem trên sơ đồ
+        </Link>
+      )}
       {ex.extNote && (
         <details className="rounded-lg border border-violet-200 p-2 text-sm dark:border-violet-900">
           <summary className="cursor-pointer font-semibold text-violet-800 dark:text-violet-300">➕ Lưu ý mở rộng</summary>

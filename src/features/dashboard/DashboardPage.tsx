@@ -8,6 +8,33 @@ import type { MCQ } from "@/schemas/mcq";
 import type { QuestionStat } from "@/lib/progress";
 import { weakTopics } from "@/lib/insights";
 import { useExams } from "@/store/examStore";
+import { DIAGRAMS } from "@/features/diagrams/catalog";
+import { useAllDiagramStatuses } from "@/features/diagrams/engine/useDiagramProgress";
+
+/** Diagram progress card (DIAGRAMS_PROMPT §3.5: progress on the dashboard). */
+function DiagramProgressCard() {
+  const statusOf = useAllDiagramStatuses();
+  const statuses = DIAGRAMS.map((d) => statusOf(d.id));
+  const explored = statuses.filter((s) => s === "explored" || s === "mastered").length;
+  const mastered = statuses.filter((s) => s === "mastered").length;
+  const started = statuses.filter((s) => s !== "new").length;
+  return (
+    <Card className="mb-8">
+      <div className="flex flex-wrap items-center justify-between gap-2">
+        <h2 className="font-semibold text-navy-900 dark:text-white">Sơ đồ tương tác</h2>
+        <Link to="/diagrams" className="text-sm text-navy-700 underline dark:text-navy-200">
+          Xem tất cả {DIAGRAMS.length} sơ đồ
+        </Link>
+      </div>
+      <div className="mt-3">
+        <ProgressBar value={(explored / DIAGRAMS.length) * 100} label={`Đã khám phá ${explored}/${DIAGRAMS.length} sơ đồ`} />
+      </div>
+      <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
+        Đã mở {started} · đã khám phá {explored} · đã thành thạo {mastered} (đạt 100% một bài quiz).
+      </p>
+    </Card>
+  );
+}
 
 function chapterProgress(questions: MCQ[], stats: Record<string, QuestionStat>) {
   const done = questions.filter((q) => stats[q.id]);
@@ -46,7 +73,12 @@ export default function DashboardPage() {
         <ButtonLink to="/review" variant="secondary">
           Ôn câu sai
         </ButtonLink>
+        <ButtonLink to="/journey" variant="secondary">
+          Hành trình xuất nhập khẩu
+        </ButtonLink>
       </div>
+
+      <DiagramProgressCard />
 
       <section aria-labelledby="chapters-h">
         <h2 id="chapters-h" className="mb-3 text-lg font-semibold text-navy-900 dark:text-white">

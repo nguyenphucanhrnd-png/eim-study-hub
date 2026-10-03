@@ -178,3 +178,21 @@ describe("quiz logic", () => {
     }
   });
 });
+
+describe("topic map (Xem trên sơ đồ)", () => {
+  it("every mapped diagram and step exists, and every topic is a real practice topic", async () => {
+    const { TOPIC_DIAGRAM } = await import("./topicMap");
+    const { DIAGRAM_BY_ID: byId } = await import("./catalog");
+    const { CHAPTERS } = await import("@/config/chapters");
+    const topics = new Set(CHAPTERS.flatMap((c) => c.topics.map((t) => t.id)));
+    for (const [topic, t] of Object.entries(TOPIC_DIAGRAM)) {
+      expect(topics.has(topic), topic).toBe(true);
+      const meta = byId.get(t.diagram);
+      expect(meta, t.diagram).toBeDefined();
+      if (t.step) {
+        const spec = await meta!.loadSpec!();
+        expect(spec.steps.some((s) => s.id === t.step), `${t.diagram}?step=${t.step}`).toBe(true);
+      }
+    }
+  });
+});
