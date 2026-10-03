@@ -11,7 +11,7 @@ export const EMBEDS: Record<string, Lazy> = {
   "payment-flow": TOOL_COMPONENTS["payment-flow"]!,
   "lc-date-checker": TOOL_COMPONENTS["lc-dates"]!,
   "fx-calculator": TOOL_COMPONENTS["fx-profit"]!,
-  "risk-ladder": lazy(() => import("@/features/tools/payment-flow/PaymentFlowStepper").then((m) => ({ default: m.RiskLadder }))),
+  "risk-ladder": lazy(() => import("@/features/tools/payment-flow/RiskLadder")),
   // Visual summaries (one per chapter)
   "two-flows": lazy(() => import("./visuals/TwoFlows")),
   "export-plan-map": lazy(() => import("./visuals/ExportPlanMap")),

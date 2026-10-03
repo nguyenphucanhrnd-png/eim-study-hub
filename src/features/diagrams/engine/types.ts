@@ -7,7 +7,7 @@ import { CHAPTER_IDS } from "@/config/chapters";
  */
 
 /** Flow kind drives edge style (line + dash pattern + token icon), never colour alone. */
-export const FLOW_KINDS = ["goods", "document", "money", "info"] as const;
+export const FLOW_KINDS = ["goods", "document", "money", "info", "sequence"] as const;
 export type FlowKind = (typeof FLOW_KINDS)[number];
 
 export const ACTOR_ROLES = ["seller", "buyer", "sellerBank", "buyerBank", "carrier", "customsExport", "customsImport", "insurer", "other"] as const;
@@ -85,6 +85,8 @@ export const StepSchema = z.object({
   practiceTopic: z.string().optional(),
   details: z.array(DetailSchema).optional(),
   links: z.array(LinkSchema).optional(),
+  /** Something an actor keeps while this step is active (e.g. the collecting bank holds the documents). */
+  holds: z.array(z.object({ node: z.string().min(1), kind: z.enum(["goods", "document", "money", "info"]), label: z.string().min(1) })).optional(),
 });
 export type DiagramStep = z.infer<typeof StepSchema>;
 

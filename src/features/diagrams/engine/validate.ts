@@ -33,6 +33,7 @@ function checkGraph(spec: DiagramSpec, where: string): DiagramIssue[] {
   for (const s of spec.steps) {
     for (const id of s.edgeIds) if (!edgeIds.has(id)) add(`step "${s.id}" references missing edge "${id}"`);
     for (const id of s.actors) if (!nodeIds.has(id)) add(`step "${s.id}" references missing actor "${id}"`);
+    for (const h of s.holds ?? []) if (!nodeIds.has(h.node)) add(`step "${s.id}" holds at missing node "${h.node}"`);
     if (s.practiceTopic && !TOPIC_IDS.has(s.practiceTopic)) add(`step "${s.id}" has unknown practiceTopic "${s.practiceTopic}"`);
     if (spec.lanes && !spec.lanes.some((l) => l.id === s.lane)) add(`step "${s.id}" is not in a declared lane`);
   }

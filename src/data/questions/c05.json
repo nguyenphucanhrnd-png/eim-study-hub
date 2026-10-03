@@ -4316,7 +4316,7 @@
         "b": "Trong cash-in-advance, việc giao hàng diễn ra sau khi tiền đã về tài khoản nhà xuất khẩu, không đồng thời.",
         "d": "Trả tiền sau khi bán lại hàng là đặc điểm của bán hàng ký gửi."
       },
-      "source": "KB §5.3 – Payment in advance (ERRATA E-09: chỉ hỏi logic, không hỏi số bước)"
+      "source": "KB §5.3 – Payment in advance (slide C5 p.7)"
     },
     "tags": []
   },
@@ -4592,7 +4592,7 @@
         "c": "Việc chuyển tiền giữa hai ngân hàng diễn ra sau khi người bán đã giao hàng.",
         "d": "Nhà xuất khẩu được ghi có ở cuối quy trình trả sau, sau khi tiền đã được chuyển."
       },
-      "source": "KB §5.3 – Deferred payment (ERRATA E-09: chỉ hỏi logic, không hỏi số bước)"
+      "source": "KB §5.3 – Deferred payment (slide C5 p.10)"
     },
     "tags": []
   },
@@ -4668,7 +4668,7 @@
         "b": "Xuất trình chứng từ qua ngân hàng chuyển và ngân hàng thu hộ là quy trình nhờ thu (D/P), không phải T/T.",
         "d": "Mở L/C và kiểm tra chứng từ là quy trình thư tín dụng, không phải chuyển tiền."
       },
-      "source": "KB §5.3 – Deferred payment (thứ tự logic; ERRATA E-09)"
+      "source": "KB §5.3 – Deferred payment (slide C5 p.10)"
     },
     "tags": [
       "sequencing"

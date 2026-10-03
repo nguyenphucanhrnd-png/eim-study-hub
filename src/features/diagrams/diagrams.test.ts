@@ -10,6 +10,12 @@ import { DIAGRAMS, loadAllSpecs, loadStepPool } from "./catalog";
 /** Expected step counts (DIAGRAMS_PROMPT §6). Diagrams are added here as they are built. */
 export const EXPECTED_STEPS: Record<string, number> = {
   "c5-lc-basic": 9,
+  "c5-tt-advance": 5,
+  "c5-tt-deferred": 5,
+  "c5-documentary-collection": 7,
+  "c5-lc-fig113": 11,
+  "c8-export-procedure": 10,
+  "c8-import-procedure": 9,
 };
 
 let specs: DiagramSpec[] = [];

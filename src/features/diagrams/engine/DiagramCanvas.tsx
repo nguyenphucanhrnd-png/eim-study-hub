@@ -1,6 +1,6 @@
 import { useId, type KeyboardEvent } from "react";
 import { DEFAULT_VIEWBOX, edgeGeometry, nodeBox } from "./geometry";
-import { KIND_STYLE, ROLE_STYLE } from "./style";
+import { KIND_STYLE, KindIcon, ROLE_STYLE } from "./style";
 import { FLOW_KINDS, stepLabel, type DiagramNode, type DiagramStep, type ResolvedSpec } from "./types";
 import { FlowToken, type TokenRun } from "./FlowToken";
 
@@ -313,7 +313,7 @@ export function DiagramCanvas({
                 <circle
                   cx={b.cx - b.hw + 4}
                   cy={b.cy - b.hh + 4}
-                  r={14}
+                  r={18}
                   style={{ fill: active ? "var(--dg-badge)" : "var(--dg-surface)", stroke: "var(--dg-badge)" }}
                   strokeWidth={2}
                 />
@@ -322,7 +322,7 @@ export function DiagramCanvas({
                   y={b.cy - b.hh + 4}
                   textAnchor="middle"
                   dominantBaseline="central"
-                  fontSize="13"
+                  fontSize="17"
                   fontWeight={700}
                   style={{ fill: active ? "var(--dg-badge-text)" : "var(--dg-badge)" }}
                   className="pointer-events-none"
@@ -330,7 +330,7 @@ export function DiagramCanvas({
                   {label}
                 </text>
                 {visited.has(s.id) && !active && (
-                  <g transform={`translate(${b.cx - b.hw + 16} ${b.cy - b.hh - 6})`} aria-hidden>
+                  <g transform={`translate(${b.cx - b.hw + 20} ${b.cy - b.hh - 10})`} aria-hidden>
                     <circle r={6} style={{ fill: "var(--color-correct)" }} />
                     <path d="M-2.8 0 L-0.7 2.1 L3 -2.1" fill="none" stroke="#fff" strokeWidth={1.6} strokeLinecap="round" />
                   </g>
@@ -338,6 +338,30 @@ export function DiagramCanvas({
               </g>
             );
           })}
+
+      {/* "Held" items (e.g. documents kept at the collecting bank until payment/acceptance). */}
+      {!quizMode &&
+        activeSteps.flatMap((s) =>
+          (s.holds ?? []).map((h, i) => {
+            const n = nodeById.get(h.node);
+            if (!n || hiddenNodeIds?.has(n.id)) return null;
+            const b = nodeBox(n);
+            const w = Math.max(150, h.label.length * 9.4 + 46);
+            const x = Math.min(Math.max(8, b.cx - w / 2), vb.w - w - 8);
+            const y = b.cy + b.hh + 10 + i * 40;
+            return (
+              <g key={`hold-${s.id}-${i}`} role="note" aria-label={h.label}>
+                <rect x={x} y={y} width={w} height={34} rx={17} style={{ fill: "var(--dg-surface)", stroke: KIND_STYLE[h.kind].stroke }} strokeWidth={2} />
+                <g transform={`translate(${x + 20} ${y + 17})`} style={{ color: KIND_STYLE[h.kind].stroke }}>
+                  <KindIcon kind={h.kind} size={17} />
+                </g>
+                <text x={x + 36} y={y + 18} dominantBaseline="middle" fontSize="15.5" fontWeight={600} style={{ fill: "var(--dg-text)" }}>
+                  {h.label}
+                </text>
+              </g>
+            );
+          }),
+        )}
 
       {!quizMode && tokens?.map((t) => <FlowToken key={`${t.edgeId}-${t.key}`} run={t} spec={spec} />)}
     </svg>

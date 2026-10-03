@@ -20,7 +20,12 @@ const specView = (load: () => Promise<DiagramSpec>) => () =>
   }));
 
 /** Diagrams with their own view component (wrappers around the engine or custom layouts). */
-const CUSTOM_VIEWS: Record<string, () => Promise<ViewModule>> = {};
+const CUSTOM_VIEWS: Record<string, () => Promise<ViewModule>> = {
+  "c5-lc-fig113": () => import("./custom/Fig113View"),
+  "c5-method-compare": () => import("./custom/MethodCompareView"),
+  "c8-export-procedure": () => import("./custom/ExportProcedureView"),
+  "c8-import-procedure": () => import("./custom/ImportProcedureView"),
+};
 
 /** Load the view of a diagram: a custom component, or the generic engine viewer of its spec. */
 export function loadDiagramView(meta: DiagramMeta): Promise<ViewModule> {

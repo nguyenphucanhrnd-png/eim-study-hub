@@ -19,6 +19,8 @@ export const KIND_STYLE: Record<FlowKind, { stroke: string; width: number; dash?
   document: { stroke: "var(--dg-document)", width: 2.2, dash: "9 6", vi: "Chứng từ", en: "documents" },
   money: { stroke: "var(--dg-money)", width: 2.2, vi: "Tiền", en: "money" },
   info: { stroke: "var(--dg-info)", width: 2, dash: "2 5", vi: "Thông tin / chỉ thị", en: "information" },
+  /** Plain "next step" arrows of procedure diagrams (not a flow; left out of the legend). */
+  sequence: { stroke: "var(--dg-muted)", width: 1.8, vi: "Trình tự", en: "sequence" },
 };
 
 /** Tiny 20×20 icons (centred on 0,0) drawn inside tokens and in the legend. */
@@ -45,6 +47,7 @@ export function KindIcon({ kind, size = 14 }: { kind: FlowKind; size?: number })
           <path d="M3 -4 C1 -6 -4 -6 -4 -3 C-4 0 4 0 4 3 C4 6 -1 6 -3 4 M0 -7 L0 7" {...common} />
         </>
       )}
+      {kind === "sequence" && <path d="M-7 0 L7 0 M2 -5 L7 0 L2 5" {...common} />}
       {kind === "info" && (
         <>
           <rect x="-9" y="-6" width="18" height="12" rx="1.5" {...common} />

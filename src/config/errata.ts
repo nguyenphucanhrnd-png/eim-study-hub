@@ -24,11 +24,13 @@ export const ERRATA: Erratum[] = [
   { id: "E06", mode: "T", extNoteRequired: true, summaryVi: "Câu chữ về ngày L/C bị lỗi – dùng bản diễn đạt lại (issue < shipment < expiry; xuất trình ≤ 21 ngày)." },
   { id: "E07", mode: "N", extNoteRequired: false, summaryVi: "Slide ghi 1 mile = 1,609 km – không ra câu hỏi về mile." },
   { id: "E08", mode: "N", extNoteRequired: false, summaryVi: "CPTPP thiếu Chile trong danh sách – không hỏi “nước nào KHÔNG là thành viên” quanh Chile." },
-  { id: "E09", mode: "N", extNoteRequired: false, summaryVi: "Số thứ tự bước trong sơ đồ T/T không rõ – không hỏi số bước cụ thể." },
+  { id: "E09", mode: "info", extNoteRequired: false, summaryVi: "Đã giải quyết: sơ đồ T/T trả trước (C5 tr.7) và trả sau (C5 tr.10) đọc rõ – thứ tự 5 mũi tên theo slide (KB §5.3)." },
   { id: "E10", mode: "T", extNoteRequired: false, summaryVi: "“Covey” = “Convey” trong sơ đồ chiến lược giá." },
   { id: "E11", mode: "N", extNoteRequired: false, summaryVi: "Ví dụ FOB và ví dụ B/L “Freight Prepaid” là hai ví dụ riêng – chỉ dùng làm case." },
   { id: "E12", mode: "T", extNoteRequired: false, summaryVi: "20 ngày (ví dụ HĐ) vs 21 ngày (quy tắc chung) không mâu thuẫn." },
   { id: "E13", mode: "T", extNoteRequired: true, summaryVi: "Định nghĩa hối phiếu có kỳ hạn “…and receives the goods” – giữ theo slide, kèm ghi chú." },
+  { id: "E14", mode: "T", extNoteRequired: true, summaryVi: "Bảng CFR/CIF/CPT/CIP ghi “seller pays costs until delivered”, nhưng sơ đồ cùng điều kiện vẽ mũi tên COSTS đến nơi đến – theo sơ đồ: hai điểm tới hạn." },
+  { id: "E15", mode: "T", extNoteRequired: true, summaryVi: "L/C bước 9 “Advising bank pays the seller” – giữ theo slide; UCP 600: chỉ ngân hàng được chỉ định/xác nhận mới trả tiền." },
 ];
 
 export const ERRATA_BY_ID: Record<string, Erratum> = Object.fromEntries(ERRATA.map((e) => [e.id, e]));

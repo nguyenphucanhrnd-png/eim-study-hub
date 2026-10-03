@@ -10,6 +10,8 @@ export type Selection = { type: "step"; id: string } | { type: "node"; id: strin
 export interface StepBadge {
   label: string;
   tone: "seller" | "buyer" | "muted" | "warn";
+  /** Longer explanation shown under the badge in the step panel. */
+  detail?: string;
 }
 
 /** Document name (KB §7 wording) → theory anchor. */
@@ -88,7 +90,12 @@ function StepDetail({
           </p>
         </div>
       </div>
-      {badge && <span className={cx("inline-block rounded-md px-2 py-0.5 text-xs font-semibold", BADGE_TONE[badge.tone])}>{badge.label}</span>}
+      {badge && (
+        <div>
+          <span className={cx("inline-block rounded-md px-2 py-0.5 text-xs font-semibold", BADGE_TONE[badge.tone])}>{badge.label}</span>
+          {badge.detail && <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">{badge.detail}</p>}
+        </div>
+      )}
       <div className="flex flex-wrap gap-1.5">
         {step.actors.map((id) => {
           const n = nodes.get(id);
