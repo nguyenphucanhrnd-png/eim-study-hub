@@ -16,6 +16,10 @@ export const EXPECTED_STEPS: Record<string, number> = {
   "c5-lc-fig113": 11,
   "c8-export-procedure": 10,
   "c8-import-procedure": 9,
+  "c1-export-process": 9,
+  "c1-two-flows": 14,
+  "c1-order-process": 4,
+  "c3-pricing-objectives": 2,
 };
 
 let specs: DiagramSpec[] = [];

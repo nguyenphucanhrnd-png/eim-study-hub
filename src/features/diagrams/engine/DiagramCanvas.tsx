@@ -55,16 +55,16 @@ function NodeShape({ node, mark }: { node: DiagramNode; mark?: NodeMark }) {
   );
 }
 
-function NodeLabel({ node }: { node: DiagramNode }) {
+function NodeLabel({ node, size = 21 }: { node: DiagramNode; size?: number }) {
   const lines = node.label.split("\n");
   const vi = node.labelVi?.split("\n") ?? [];
-  const lh = 25;
+  const lh = size * 1.2;
   const total = lines.length + vi.length;
   const y0 = node.y - ((total - 1) * lh) / 2;
   return (
     <text textAnchor="middle" style={{ fill: "var(--dg-text)" }} className="pointer-events-none select-none">
       {lines.map((l, i) => (
-        <tspan key={`en${i}`} x={node.x} y={y0 + i * lh} dominantBaseline="middle" fontSize="21" fontWeight={700}>
+        <tspan key={`en${i}`} x={node.x} y={y0 + i * lh} dominantBaseline="middle" fontSize={size} fontWeight={700}>
           {l}
         </tspan>
       ))}
@@ -74,7 +74,7 @@ function NodeLabel({ node }: { node: DiagramNode }) {
           x={node.x}
           y={y0 + (lines.length + i) * lh}
           dominantBaseline="middle"
-          fontSize="16.5"
+          fontSize={size * 0.79}
           style={{ fill: "var(--dg-muted)" }}
         >
           {l}
@@ -182,8 +182,8 @@ export function DiagramCanvas({
               style={{ stroke: k.stroke }}
               strokeWidth={isActive && !quizMode ? k.width + 1.4 : k.width}
               strokeDasharray={e.dashed ? "6 6" : k.dash}
-              markerEnd={`url(#${uid}-arrow-${e.kind})`}
-              markerStart={e.both ? `url(#${uid}-arrow-${e.kind})` : undefined}
+              markerEnd={e.plain ? undefined : `url(#${uid}-arrow-${e.kind})`}
+              markerStart={e.both && !e.plain ? `url(#${uid}-arrow-${e.kind})` : undefined}
             />
             {e.label && (
               <text
@@ -224,7 +224,7 @@ export function DiagramCanvas({
                 ?
               </text>
             ) : (
-              <NodeLabel node={n} />
+              <NodeLabel node={n} size={spec.nodeFont} />
             )}
           </g>
         );

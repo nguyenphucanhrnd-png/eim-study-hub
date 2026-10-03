@@ -1,7 +1,19 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Segmented } from "@/components/ui/form";
 import { cx } from "@/components/ui";
+import { EXPLORED_MARK, allViewed, useDiagramProgress } from "@/features/diagrams/engine/useDiagramProgress";
 import { FCA_AT_PREMISES, PARTY_VI, RULES, RULE_BY_CODE, STAGES, type IncotermRule, type Party, type RuleCode } from "./data";
+import { CarriageStrip, IncidentChallenge, IncidentSimulator } from "./CarriageStrip";
+import { INCIDENTS } from "./incident";
+
+/** Progress id of D3.3 (the Explorer is the diagram). */
+const DIAGRAM_ID = "c3-carriage-incoterms";
+
+const D_RULES: { code: RuleCode; vi: string }[] = [
+  { code: "DAP", vi: "sẵn sàng để dỡ" },
+  { code: "DPU", vi: "đã dỡ hàng" },
+  { code: "DDP", vi: "đã thông quan NK, sẵn sàng để dỡ" },
+];
 
 const CELL: Record<Party, string> = {
   S: "bg-blue-100 text-blue-900 dark:bg-blue-900/50 dark:text-blue-100",
@@ -208,7 +220,19 @@ function Legend() {
   );
 }
 
-function RuleView({ rule, fcaPremises, setFcaPremises }: { rule: IncotermRule; fcaPremises: boolean; setFcaPremises: (v: boolean) => void }) {
+function RuleView({
+  rule,
+  fcaPremises,
+  setFcaPremises,
+  incidentId,
+  onPickRule,
+}: {
+  rule: IncotermRule;
+  fcaPremises: boolean;
+  setFcaPremises: (v: boolean) => void;
+  incidentId?: string | null;
+  onPickRule?: (c: RuleCode) => void;
+}) {
   const resolved = resolve(rule, fcaPremises);
   return (
     <div className="space-y-3">
@@ -229,7 +253,31 @@ function RuleView({ rule, fcaPremises, setFcaPremises }: { rule: IncotermRule; f
           />
         )}
       </div>
-      <ChainTable rule={resolved} />
+      {rule.group === "D" && onPickRule && (
+        <div role="group" aria-label="So sánh nhóm D" className="flex flex-wrap gap-1.5 text-xs">
+          {D_RULES.map((d) => (
+            <button
+              key={d.code}
+              type="button"
+              aria-pressed={d.code === rule.code}
+              onClick={() => onPickRule(d.code)}
+              className={cx(
+                "rounded-full border px-2.5 py-1 font-medium",
+                d.code === rule.code ? "border-navy-700 bg-navy-50 dark:bg-navy-900/60" : "border-slate-300 dark:border-slate-600",
+              )}
+            >
+              {d.code} – {d.vi}
+            </button>
+          ))}
+        </div>
+      )}
+      <CarriageStrip rule={resolved} incident={INCIDENTS.find((i) => i.id === incidentId) ?? null} />
+      <details className="rounded-xl border border-slate-200 dark:border-slate-800">
+        <summary className="cursor-pointer px-3 py-2 text-sm font-semibold">Bảng chi phí – rủi ro – bảo hiểm theo 9 chặng</summary>
+        <div className="p-2">
+          <ChainTable rule={resolved} />
+        </div>
+      </details>
       <ul className="list-disc space-y-1 pl-5 text-sm text-slate-700 dark:text-slate-300">
         <li>
           <strong>Giao hàng / chuyển rủi ro:</strong> {rule.deliveryVi}.
@@ -247,6 +295,17 @@ export default function IncotermsExplorer() {
   const [a, setA] = useState<RuleCode>("CIF");
   const [b, setB] = useState<RuleCode>("FOB");
   const [fcaPremises, setFcaPremises] = useState(false);
+  const [incidentId, setIncidentId] = useState<string | null>(null);
+  const progress = useDiagramProgress(DIAGRAM_ID);
+  const { viewed, markViewed } = progress;
+
+  useEffect(() => {
+    const id = `n:${a}`;
+    if (viewed.includes(id)) return;
+    const required = RULES.map((r) => `n:${r.code}`);
+    markViewed(allViewed([...viewed, id], required) ? [id, EXPLORED_MARK] : [id]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- record each rule once
+  }, [a]);
 
   return (
     <div className="space-y-5">
@@ -266,8 +325,10 @@ export default function IncotermsExplorer() {
       {mode === "single" ? (
         <>
           <RulePicker label="Chọn điều kiện Incoterms" value={a} onChange={setA} />
-          <RuleView rule={RULE_BY_CODE[a]} fcaPremises={fcaPremises} setFcaPremises={setFcaPremises} />
+          <RuleView rule={RULE_BY_CODE[a]} fcaPremises={fcaPremises} setFcaPremises={setFcaPremises} incidentId={incidentId} onPickRule={setA} />
+          <IncidentSimulator rule={resolve(RULE_BY_CODE[a], fcaPremises)} incidentId={incidentId} onIncident={setIncidentId} />
           <ObligationTable rules={[resolve(RULE_BY_CODE[a], fcaPremises)]} />
+          <IncidentChallenge onScore={(pct) => progress.recordQuiz("incident", pct)} />
         </>
       ) : (
         <>

@@ -8,7 +8,7 @@ const sameRole = (r: ActorRole): ActorRole =>
 /** Flow kinds (line style + icon) and actor colours actually used by this diagram. */
 export function Legend({ spec }: { spec: ResolvedSpec }) {
   const kinds = FLOW_KINDS.filter((k) => k !== "sequence" && spec.edges.some((e) => e.kind === k));
-  const roles = ROLE_ORDER.filter((r) => spec.nodes.some((n) => sameRole(n.role) === r));
+  const roles = spec.legendRoles === false ? [] : ROLE_ORDER.filter((r) => spec.nodes.some((n) => sameRole(n.role) === r));
   return (
     <div className="flex flex-wrap gap-x-4 gap-y-1.5 text-xs text-slate-600 dark:text-slate-300" aria-label="Chú giải">
       {kinds.map((k) => (

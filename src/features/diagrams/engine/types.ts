@@ -46,6 +46,8 @@ export const EdgeSchema = z.object({
   curve: z.number().optional(),
   /** Arrowheads on both ends (e.g. Figure 11.3 arrows 1 and 6). */
   both: z.boolean().optional(),
+  /** A plain connector without arrowheads (e.g. the spokes of Figure 1-6). */
+  plain: z.boolean().optional(),
   /** Drawn dashed regardless of kind (used for optional/derived sub-steps such as D/A 5b). */
   dashed: z.boolean().optional(),
   /** Badge position along the edge, 0 = start … 1 = end (default 0.5), plus a nudge to match the slide. */
@@ -120,6 +122,10 @@ export const DiagramSpecSchema = z.object({
   /** Extra provenance remark (e.g. "order inferred from the arrows"). */
   note: z.string().optional(),
   viewBox: z.object({ w: z.number().positive(), h: z.number().positive() }).optional(),
+  /** EN node label size in viewBox px (default 21; the VI line is ~0.8×) — smaller for dense diagrams. */
+  nodeFont: z.number().positive().optional(),
+  /** false = hide actor colours in the legend (concept maps whose colours are only grouping). */
+  legendRoles: z.boolean().optional(),
   zones: z.array(ZoneSchema).optional(),
   lanes: z.array(LaneSchema).optional(),
   /** "parallel-lanes": play step n of every lane together (e.g. goods + money flows). */

@@ -21,6 +21,12 @@ const specView = (load: () => Promise<DiagramSpec>) => () =>
 
 /** Diagrams with their own view component (wrappers around the engine or custom layouts). */
 const CUSTOM_VIEWS: Record<string, () => Promise<ViewModule>> = {
+  "c1-export-process": () => import("./custom/C1C3Views").then((m) => ({ default: m.ExportProcessView })),
+  "c1-two-flows": () => import("./custom/C1C3Views").then((m) => ({ default: m.TwoFlowsView })),
+  "c1-stakeholder-hub": () => import("./custom/C1C3Views").then((m) => ({ default: m.HubView })),
+  "c3-pricing-objectives": () => import("./custom/C1C3Views").then((m) => ({ default: m.PricingView })),
+  "c3-incoterms-purpose-scope": () => import("./custom/C1C3Views").then((m) => ({ default: m.ScopeView })),
+  "c3-carriage-incoterms": () => import("./custom/C1C3Views").then((m) => ({ default: m.CarriageView })),
   "c5-lc-fig113": () => import("./custom/Fig113View"),
   "c5-method-compare": () => import("./custom/MethodCompareView"),
   "c8-export-procedure": () => import("./custom/ExportProcedureView"),
