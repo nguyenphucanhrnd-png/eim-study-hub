@@ -154,7 +154,7 @@ function SelectionQuiz({ onScore }: { onScore: (pct: number) => void }) {
                 </div>
               </fieldset>
               {checked && (
-                <p className={cx("mt-2 text-sm", ok ? "text-correct" : "text-wrong")}>
+                <p className={cx("mt-2 text-sm", ok ? "text-correct dark:text-green-400" : "text-wrong dark:text-red-400")}>
                   {ok ? "✓ Đúng. " : "✗ Chưa đúng. "}
                   <span className="text-slate-800 dark:text-slate-200">{s.whyVi}</span>
                 </p>

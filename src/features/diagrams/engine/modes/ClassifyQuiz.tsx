@@ -82,12 +82,12 @@ export function ClassifyQuiz({
                 ))}
               </div>
               {checked && !ok && (
-                <p className="mt-1 text-xs text-wrong">
+                <p className="mt-1 text-xs text-wrong dark:text-red-400">
                   Đáp án: {buckets.find((b) => b.id === it.bucket)?.label}
                   {it.whyVi ? ` – ${it.whyVi}` : ""}
                 </p>
               )}
-              {checked && ok && it.whyVi && <p className="mt-1 text-xs text-correct">✓ {it.whyVi}</p>}
+              {checked && ok && it.whyVi && <p className="mt-1 text-xs text-correct dark:text-green-400">✓ {it.whyVi}</p>}
             </li>
           );
         })}

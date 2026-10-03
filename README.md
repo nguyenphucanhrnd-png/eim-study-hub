@@ -13,7 +13,9 @@ All content is based on `KNOWLEDGE_BASE.md` (the single source of truth). Questi
 | 38 case studies with model answers and self-grading rubrics | `/cases` |
 | Wrong-answer bank (leaves after 2 correct in a row) and flagged questions | `/review` |
 | Flashcards and EN–VI glossary | `/flashcards`, `/glossary` |
-| Interactive tools: Incoterms® Explorer, ICC Coverage Checker, Payment Flow Stepper, L/C Date Checker, FX & Profit Calculator | `/tools` |
+| Interactive tools: Incoterms® Explorer (cost/risk strip + incident simulator), ICC Coverage Checker, Payment Flow Stepper, L/C Date Checker, FX & Profit Calculator | `/tools` |
+| 23 interactive diagrams (slide diagrams redrawn + derived diagrams), also embedded in the theory sections | `/diagrams`, `/diagrams/:id` |
+| Master trade journey: one transaction across 8 parties × 11 phases, for any Incoterms rule × payment method × transport mode | `/journey` |
 | Optional account (e-mail + password) that syncs study progress across devices | `/account` |
 
 Progress, exam sessions/history and case drafts are always stored **in the browser** (localStorage keys `eim-progress`, `eim-exams`, `eim-cases`, `eim-settings`), so the site works without an account.
@@ -38,7 +40,8 @@ npm run dev          # http://localhost:5173
 | Command | What it does |
 |---|---|
 | `npm run dev` | Start the Vite dev server. In dev, every data file is also validated with Zod when it loads. |
-| `npm run build` | Production build into `dist/`. Runs `validate:bank` first (prebuild) and **fails if the bank or the cases are invalid**. |
+| `npm run build` | Production build into `dist/`. Runs `validate:bank` and `validate:diagrams` first (prebuild) and **fails if the bank, the cases or a diagram are invalid**. |
+| `npm run validate:diagrams` | Validate every diagram spec (Zod schema, edges/steps pointing at missing nodes, step numbers 1…n per lane, unknown practice topics, slide diagrams without `slideRef`, catalog metadata vs spec). |
 | `npm run preview` | Serve the production build locally (http://localhost:4173). |
 | `npm test` | Unit and integration tests (Vitest + Testing Library). |
 | `npm run typecheck` | TypeScript strict check. |
@@ -153,6 +156,41 @@ Theory is in `src/content/theory/c01.md` … `c08.md`:
 
 `src/features/learn/theory.test.ts` checks that every list and table in the KB still appears in the theory.
 
+## Interactive diagrams
+
+Diagrams live in `src/features/diagrams/`:
+
+- `engine/` – the shared renderer: data model + Zod schema (`types.ts`), validator (`validate.ts`), SVG canvas, step panel, player, and the quiz modes (Sắp xếp các bước, Ai làm bước này?, Bước còn thiếu, plus a reusable classify quiz).
+- `specs/` – one file per diagram, plain data (nodes, edges, steps, variants, key takeaways). Each spec is its own lazy chunk.
+- `custom/` – wrappers for diagrams that need extra controls (scenario selectors, filters, flip cards, mirror view) and their pure, tested logic.
+- `catalog.ts` – metadata for the hub, chapter pages and validation; `registry.tsx` – which view renders each diagram.
+- `topicMap.ts` – question topic → diagram (step) for the “Xem trên sơ đồ” button in MCQ explanations.
+
+Every diagram shows its provenance: **“Sơ đồ từ slide – Chương X, trang Y”** (`provenance: "slide"` + `slideRef`) or **“Sơ đồ tổng hợp từ nội dung slide”** (`provenance: "derived"`). Progress (`diagramViewed`, `diagramQuiz`) is stored in the progress store and synced with the account.
+
+### Cách thêm một sơ đồ mới
+
+1. **Content first.** Every step must come from `KNOWLEDGE_BASE.md` (or the slide the KB cites). Extension material goes in the step's `ext` field, never in `what`/`why`.
+2. **Write the spec** in `src/features/diagrams/specs/<chapter>-<name>.ts` (id pattern `c[1-8]-…`), exporting a `DiagramSpec` as default:
+   ```ts
+   const spec: DiagramSpec = {
+     id: "c5-example", chapter: "C5", title: "…", titleVi: "…",
+     provenance: "slide", slideRef: "C5 p.20",          // or provenance: "derived" (no slideRef)
+     nodes: [{ id: "seller", label: "EXPORTER", role: "seller", x: 250, y: 480, shape: "ellipse" }, …],
+     edges: [{ id: "e1", from: "seller", to: "buyer", kind: "goods" }, …], // kind: goods | document | money | info | sequence
+     steps: [{ id: "s1", order: 1, title: "EN slide wording", titleVi: "…", edgeIds: ["e1"], actors: ["seller", "buyer"],
+               what: "…", why: "…", source: "KB §5.5 · Slide C5 p.20", practiceTopic: "lc-procedure" }, …],
+     keyTakeaways: ["…"],
+     quiz: { order: true, actor: true, gap: true },
+   };
+   ```
+   - Coordinates use a 1000 × 600 viewBox (override with `viewBox`); place nodes as on the slide. Parallel arrows get a `curve` offset; use `badgeAt` to move a step badge along its edge.
+   - The first entry of `actors` is “who does it” for the actor quiz. Step numbers must be 1…n (per lane); a sub-step uses `badge: "5b"`.
+   - Use `variants` for toggles such as D/P ⇄ D/A (each patch replaces `edges` / `steps` / `keyTakeaways` wholesale) and `lanes` + `playback: "parallel-lanes"` for flows that play side by side.
+3. **Register it** in `catalog.ts` (`id`, chapter, titles, provenance, `slideRef`, `stepCount`, `estMinutes`, theory `section`, quiz types, `loadSpec`). Add an entry to `CUSTOM_VIEWS` in `registry.tsx` only if it needs a custom wrapper.
+4. **Embed it** in the theory section with `::embed[diagram:<id>]`; the chapter TOC and the `/diagrams` hub pick it up automatically.
+5. **Check it:** `npm run validate:diagrams`, add the step count to `EXPECTED_STEPS` in `diagrams.test.ts`, run `npm test`, and compare the diagram side by side with the slide (numbering, arrow direction, node positions).
+
 ---
 
 ## Project structure
@@ -163,7 +201,7 @@ src/
   schemas/       Zod schemas (MCQ, exam, case, glossary)
   data/          questions/*.json, exams/exams.json, cases/cases.json, glossary, flashcards, lazy loaders
   content/       theory markdown (c01–c08)
-  features/      dashboard, learn, practice, exam, cases, review, tools
+  features/      dashboard, learn, practice, exam, cases, review, tools, diagrams (engine, specs, custom views), journey
   lib/           pure logic (exam scoring/random exam, progress, calc, bank validation/build) + tests
   lib/sync/      cloud sync: merge rules, sync engine, Supabase adapter
   store/         zustand stores (progress, exams, cases, settings, auth) persisted to localStorage

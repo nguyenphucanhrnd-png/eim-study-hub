@@ -23,7 +23,7 @@ export function DiagramEmbed({ id }: { id: string }) {
   useEffect(() => {
     if (hash === `#diagram-${id}`) setOpen(true);
   }, [hash, id]);
-  if (!meta) return <p className="text-wrong">Thiếu sơ đồ: {id}</p>;
+  if (!meta) return <p className="text-wrong dark:text-red-400">Thiếu sơ đồ: {id}</p>;
   const status = statusOf(id);
   return (
     <section

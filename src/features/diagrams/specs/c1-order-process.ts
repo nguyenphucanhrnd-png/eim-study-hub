@@ -71,7 +71,7 @@ const spec: DiagramSpec = {
     links: [s.link],
   })),
   keyTakeaways: ["Quotation → Order entry → Shipment → Collection.", "Mỗi giai đoạn ứng với một chương: báo giá (C3), hợp đồng (C6), giao hàng & chứng từ (C7, C8), thu tiền (C5)."],
-  quiz: { order: true },
+  quiz: { order: true, gap: true },
 };
 
 export default spec;

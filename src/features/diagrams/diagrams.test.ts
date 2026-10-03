@@ -20,6 +20,10 @@ export const EXPECTED_STEPS: Record<string, number> = {
   "c1-two-flows": 14,
   "c1-order-process": 4,
   "c3-pricing-objectives": 2,
+  "c4-subrogation": 4,
+  "c5-consignment-openaccount": 6,
+  "c7-document-lifecycle": 8,
+  "c7-proforma-vs-commercial": 4,
 };
 
 let specs: DiagramSpec[] = [];

@@ -126,7 +126,7 @@ export function CarriageStrip({ rule, incident }: { rule: IncotermRule; incident
       </div>
       <figcaption className="text-xs text-slate-600 dark:text-slate-400">
         {twoPoints && rule.group === "C" && (
-          <span className="mr-1 font-semibold text-wrong">Hai điểm tới hạn: “{rule.code} + cảng/nơi đến” ≠ rủi ro chuyển ở nơi đến.</span>
+          <span className="mr-1 font-semibold text-wrong dark:text-red-400">Hai điểm tới hạn: “{rule.code} + cảng/nơi đến” ≠ rủi ro chuyển ở nơi đến.</span>
         )}
         Vị trí mũi tên mô phỏng sơ đồ COSTS/RISKS của ICC trên slide C3; thủ tục XK/NK tô theo bên có nghĩa vụ (KB §3.8, ERRATA E-14).
       </figcaption>
@@ -267,7 +267,7 @@ export function IncidentChallenge({ onScore }: { onScore: (pct: number) => void 
                     {PARTY_SHORT[p]}
                   </button>
                 ))}
-                {a && <span className={a === truth ? "text-correct" : "text-wrong"}>{a === truth ? "✓ Đúng" : `✗ ${PARTY_SHORT[truth]} chịu rủi ro`}</span>}
+                {a && <span className={a === truth ? "text-correct dark:text-green-400" : "text-wrong dark:text-red-400"}>{a === truth ? "✓ Đúng" : `✗ ${PARTY_SHORT[truth]} chịu rủi ro`}</span>}
               </div>
             </li>
           );

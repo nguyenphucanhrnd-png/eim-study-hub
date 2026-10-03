@@ -1,12 +1,10 @@
-import { lazy, Suspense, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { cx } from "@/components/ui";
 import { Segmented } from "@/components/ui/form";
 import { DiagramViewer } from "../engine/DiagramViewer";
 import { ClassifyQuiz } from "../engine/modes/ClassifyQuiz";
 import { docLink } from "../engine/StepPanel";
-import { provenanceLabel } from "../engine/style";
-import { STATUS_CHIP, STATUS_VI, useDiagramProgress } from "../engine/useDiagramProgress";
 import type { DiagramViewProps } from "../registry";
 import exportProcess, { COUNTRY_ITEMS, EXPORT_DOCS, IMPORT_DOCS } from "../specs/c1-export-process";
 import twoFlows, { COURSE_CHIPS, MANAGED_THROUGH, RIGHT_CHAIN } from "../specs/c1-two-flows";
@@ -253,25 +251,5 @@ export function ScopeView() {
         },
       ]}
     />
-  );
-}
-
-const Explorer = lazy(() => import("@/features/tools/incoterms/IncotermsExplorer"));
-
-/** D3.3 — the upgraded Incoterms Explorer is the diagram. */
-export function CarriageView() {
-  const { status } = useDiagramProgress("c3-carriage-incoterms");
-  return (
-    <div className="space-y-3">
-      <div className="flex flex-wrap items-center gap-2 text-xs">
-        <span className="rounded-md bg-slate-100 px-2 py-0.5 font-semibold text-slate-700 dark:bg-slate-800 dark:text-slate-300">
-          {provenanceLabel("slide", "C3 p.11")} + sơ đồ ICC 11 điều kiện (tr.13–34)
-        </span>
-        <span className={cx("rounded-md px-2 py-0.5 font-semibold", STATUS_CHIP[status])}>{STATUS_VI[status]}</span>
-      </div>
-      <Suspense fallback={<p role="status">Đang tải…</p>}>
-        <Explorer />
-      </Suspense>
-    </div>
   );
 }
