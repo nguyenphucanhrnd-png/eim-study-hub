@@ -275,7 +275,7 @@ Who executes the plan: Export & Import Dept, Sales/Marketing, Production, Financ
 | **DPU** | Delivered at Place Unloaded | Any | Named place of destination | Seller | Buyer | Seller | None | **Once unloaded** from the arriving means of transport, at named place |
 | **DDP** | Delivered Duty Paid | Any | Named place of destination | **Seller** | **Seller** | Seller | None | At disposal of buyer, **cleared for import**, on arriving means **ready for unloading**, at named place |
 
-**General rule in every slide table:** the seller pays costs until the goods are delivered; the buyer pays costs from delivery. Risk passes from seller to buyer **at delivery**.
+**General rule in every slide table:** the seller pays costs until the goods are delivered; the buyer pays costs from delivery — **except main carriage (and insurance for CIF/CIP), which the seller pays to destination under C-rules** (as drawn on the ICC rule diagrams, see [ERRATA E-14]). Risk passes from seller to buyer **at delivery**.
 
 **Key insights to teach (derived directly from the table):**
 - **EXW** = minimum obligation for the seller (buyer handles even export clearance). **DDP** = maximum obligation for the seller (seller handles even import clearance).
@@ -380,7 +380,10 @@ Three forms: **payment in advance; payment at sight; deferred payment.**
   - Risks for **buyer**: loses use of funds until goods arrive; seller may not ship as ordered (quantity, product, quality, shipping method); seller may not ship when requested.
   - When to use cash-in-advance (4): the importer is a new customer and/or has a less-established operating history; the importer's creditworthiness is doubtful, unsatisfactory or unverifiable; the political and commercial risks of the importer's country are very high; the exporter's product is unique, not available elsewhere, or in heavy demand.
 - **Deferred payment** flow: (1) seller ships goods to buyer → (2) buyer instructs its bank → (3) importer's bank confirms/debits the buyer → (4) importer's bank remits to exporter's bank → (5) exporter's bank pays the exporter. → **Goods go first, money later → risk on the exporter.**
-- (Flow numbering is reconstructed from the diagrams; see ERRATA E-09.)
+- **Slide diagram arrow maps** (four ellipses: Exporter's bank top-left, Importer's bank top-right, Exporter/Seller bottom-left, Importer/Buyer bottom-right; ERRATA E-09 resolved):
+  - *T/T payment in advance (slide C5 p.7):* (1) Importer → Importer's bank: instructs the remittance · (2) Importer's bank → Exporter's bank: transfers the money · (3) Importer's bank → Importer: debit advice/confirmation · (4) Exporter's bank → Exporter: credits the money · (5) Exporter → Importer: ships the goods.
+  - *T/T deferred payment (slide C5 p.10, "Remittance deferred payment procedure"):* (1) Exporter → Importer: ships the goods · (2) Importer → Importer's bank: instructs the remittance · (3) Importer's bank → Importer: debit advice/confirmation · (4) Importer's bank → Exporter's bank: transfers the money · (5) Exporter's bank → Exporter: credits the money.
+  - Arrow directions and order are from the slides; the labels "instructs" (2/1) and "debit advice/confirmation" (3) are the standard meaning of those arrows → [EXT] in explanations.
 
 ### 5.4 Documentary Collection (DC)
 - A **service offered by banks** to sellers to facilitate payment. The exporter **draws a draft on the buyer after shipment**, requesting payment on presentation of documents (**D/P**) or acceptance of the draft to pay at a future determinable date (**D/A**).
@@ -418,7 +421,10 @@ Three forms: **payment in advance; payment at sight; deferred payment.**
   7. Issuing bank reviews, accepts and pays the seller's bank (advising bank)
   8. Issuing bank forwards the documents to the buyer; the buyer pays or the buyer's account is debited
   9. Advising bank pays the seller as specified in the L/C
+- **Slide diagram arrow map (slide C5 p.20, "Documentary credit procedures"):** Advising bank top-left, Issuing bank top-right, Exporter bottom-left, Importer bottom-right. (1) Importer → Issuing bank · (2) Issuing → Advising · (3) Advising → Exporter · (4) Exporter → Importer "Goods" · (5) Exporter → Advising · (6) Advising → Issuing · (7) Issuing → Advising · (8) Issuing → Importer · (9) Advising → Exporter. Matches the 9-step text above.
+- [EXT] Step 9 (see ERRATA E-15): under UCP 600 a bank pays/negotiates only if it is the nominated or confirming bank; an advising bank that only advises does not pay.
 - Figure 11.3 (US seller in New York – Canadian buyer in Montreal) also shows the **Carrier**: the seller delivers goods to the carrier; the buyer presents documents (B/L) to the carrier to receive the goods.
+- **Figure 11.3 arrow map (slide C5 p.21) — `derived-order`:** the figure has numbered arrows but no step text; the meaning is inferred from the arrow endpoints. 1 Seller ↔ Buyer: sales contract with L/C payment · 2 Buyer → Issuing bank: applies for L/C · 3 Issuing → Advising/confirming bank: sends L/C · 4 Advising/confirming → Seller: advises (confirms) L/C · 5 Seller → Carrier: ships goods, receives B/L · 6 Seller ↔ Advising/confirming bank: presents documents, gets paid · 7 Advising/confirming → Issuing: forwards documents · 8 Issuing → Advising/confirming: reimburses · 9 Issuing → Buyer: releases documents · 10 Buyer → Carrier: presents B/L, collects goods · 11 Buyer → Issuing: pays / account debited.
 - **Types of L/C (11):** 1 Revocable; 2 Irrevocable; 3 Irrevocable confirmed; 4 Irrevocable without recourse; 5 Back-to-back; 6 Transferable; 7 Revolving; 8 Standby; 9 Red clause; 10 Deferred payment; 11 Reciprocal.
   - (The slides only list the names. Definitions for explanations [EXT, general knowledge]: *confirmed* = a second bank (confirming bank) adds its own payment undertaking; *transferable* = the beneficiary may transfer all or part to a second beneficiary; *back-to-back* = a second L/C issued on the strength of the first; *revolving* = automatically reinstated for repeated shipments; *red clause* = allows an advance to the beneficiary before shipment; *standby* = a guarantee, paid only if the applicant defaults; *reciprocal* = used in counter-trade/processing, effective only when the counter-L/C is opened; *deferred payment* = payment at a future date without a draft.)
 - **Contents of an L/C (13):** 1 Issuing bank; 2 L/C number; 3 Place & date of issue; 4 Type of L/C; 5 Beneficiary; 6 Amount; 7 Expiry date; 8 Description of goods; 9 Required documents; 10 Terms of sale; 11 Terms and conditions of delivery; 12 Commitment of issuing bank; 13 Signature of issuing bank.
@@ -659,6 +665,8 @@ Invoice; Bill of Lading; Certificate of Quantity; Certificate of Quality; Packin
 
 ## 9. ERRATA & SENSITIVE POINTS (must handle correctly)
 
+> **Changelog (2026-10-03, DIAGRAMS_PROMPT §2, verified against the slide PDFs):** A1 – E-09 resolved, T/T arrow maps added to §5.3 (C5 p.7, p.10) · A2 – L/C arrow map added to §5.5 (C5 p.20) · A3 – Figure 11.3 arrow map added to §5.5, tagged `derived-order` (C5 p.21) · A4 – new E-14 (C-rules cost row) and §3.8 general-rule sentence corrected · A5 – new E-15 (L/C step 9).
+
 **General rule for question/explanation authors:**
 - **(T) Test-per-slide:** you may ask questions; the correct answer follows the slide; the explanation **must** include the extension note shown.
 - **(N) Do-not-test:** do not write MCQs whose correct answer depends on this point (it may still appear in theory, with a note).
@@ -673,11 +681,13 @@ Invoice; Bill of Lading; Certificate of Quantity; Certificate of Quality; Packin
 | E-06 | C5 – date remarks | Garbled wording: "not on and before expiry date", "Date of issue must be not on and before date of shipment" | Use the rephrased version in §5.5 (issue < shipment < expiry; presentation ≤ 21 days after shipment and within validity). (T) |
 | E-07 | C6 – units | "mile (mi) = 1,609 km" (should be ≈1.609 km = 1,609 m) | Display the corrected value with a note. (N) for questions on the mile. |
 | E-08 | C7 – CPTPP | Says 12 members but lists only 11 (missing **Chile**) | Display the 12 members incl. Chile, with a note. Do not ask "which country is NOT a member" around Chile. |
-| E-09 | C5 – T/T diagrams | Step numbering in the advance/deferred diagrams is not clearly legible | (N) for questions on specific step numbers; only ask about logic (goods first or money first; who bears the risk). |
+| E-09 | C5 – T/T diagrams | **Resolved** – the advance (p.7) and deferred (p.10) diagrams are legible; arrow maps are in §5.3. | No special handling. Arrow labels "instructs" / "debit advice" are [EXT] wording; direction and order are from the slides. |
 | E-10 | C3 – pricing diagram | "Covey" = "Convey"; strategy diagram links pricing **objectives** to strategies | Fix the spelling. (T) |
 | E-11 | C6 – contract example | Delivery example (FOB) and Payment & Documents example (B/L "Freight Prepaid") are two **separate** examples | Do not merge them into a "slide error" question; only use the FOB vs Freight Prepaid inconsistency as a **case question**, clearly flagged as an exercise. |
 | E-12 | C6 – 20 days vs C5 – 21 days | Contract example: present documents within 20 days; L/C remark: no later than 21 days | Not a contradiction: 21 days is the general rule/limit; the contract/L/C may set a shorter period. You may ask about this distinction. (T) |
 | E-13 | C5 – time draft definition | "…after the buyer accepts the draft **and receives the goods**" | Keep the slide wording for questions; [EXT] note: the maturity date is usually counted from acceptance/sight or from the B/L date. |
+| E-14 | C3 – C-rules cost row | The slide **tables** for CFR, CIF, CPT, CIP (pp.19, 21, 33, 35) say "Division of costs: seller pays costs until delivered", but the slide **diagrams** for the same rules (pp.18, 20, 32, 34) draw the seller's COSTS arrow to the destination (main carriage paid). The diagrams match ICC Incoterms® 2020. | Follow the **diagrams** in diagrams and explanations: two critical points – risk passes at origin (on board / first carrier), the seller pays main carriage (and insurance for CIF/CIP) to destination. (T) – explanations must mention the "two critical points". |
+| E-15 | C5 – L/C step 9 | Slide: "Advising bank pays the seller as specified in the L/C". | Keep the slide flow. [EXT] note in the step panel: under UCP 600 a bank pays/negotiates only if it is the nominated or confirming bank; the advising bank alone only advises. (T) |
 
 ---
 
