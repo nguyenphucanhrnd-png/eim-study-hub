@@ -61,9 +61,10 @@ export default function GlossaryPage() {
       <p className="mb-2 text-sm text-slate-600 dark:text-slate-400" aria-live="polite">
         {results.length} thuật ngữ
       </p>
-      <div className="overflow-hidden rounded-xl border border-slate-200 dark:border-slate-800">
+      {/* overflow-clip (not overflow-hidden) rounds the corners without creating a scroll box, so the header can stick below the app bar. */}
+      <div className="overflow-clip rounded-xl border border-slate-200 dark:border-slate-800">
         <table className="w-full border-collapse">
-          <thead className="sticky top-14 bg-slate-100 text-left text-sm dark:bg-slate-800">
+          <thead className="sticky top-14 z-10 bg-slate-100 text-left text-sm dark:bg-slate-800">
             <tr>
               <th scope="col" className="px-4 py-2 font-semibold">
                 English
