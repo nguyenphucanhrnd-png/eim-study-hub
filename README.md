@@ -1,6 +1,6 @@
 # EIM Study Hub
 
-A study website for the course **Export & Import Management (Quản trị Xuất Nhập khẩu)**, Assoc. Prof. Dr. Bùi Thanh Trang, UEH.
+A study website for the course **Export & Import Management (Quản trị Xuất Nhập khẩu)**, Assoc. Prof. Dr. Bùi Thanh Tráng, UEH.
 
 All content is based on `KNOWLEDGE_BASE.md` (the single source of truth). Questions and cases are in English; explanations and the UI are in Vietnamese, with English terms kept in parentheses.
 

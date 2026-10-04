@@ -52,7 +52,7 @@ export function AppLayout() {
           <span className="hidden sm:inline">Study Hub</span>
         </Link>
         <span className="hidden truncate text-sm text-slate-500 md:inline dark:text-slate-400">
-          · Quản trị Xuất Nhập khẩu — PGS.TS. Bùi Thanh Trang (UEH)
+          · Quản trị Xuất Nhập khẩu — PGS.TS. Bùi Thanh Tráng (UEH)
         </span>
         <div className="ml-auto flex items-center gap-1">
           <Link

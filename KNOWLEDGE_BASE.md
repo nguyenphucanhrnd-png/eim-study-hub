@@ -1,6 +1,6 @@
 # KNOWLEDGE BASE — Export & Import Management (EIM)
 
-> Course: Export & Import Management — Lecturer: Assoc. Prof. Dr. Bùi Thanh Trang
+> Course: Export & Import Management — Lecturer: Assoc. Prof. Dr. Bùi Thanh Tráng
 > Distilled from 8 lecture-slide PDFs (placed in `/source-pdfs`).
 
 ---
